@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 244
+|name = Banri
+|name_jp = 万里
+|attribute = Cute
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 498
+|hp_max = 899
+|hp_break = 1043
+|atk_base = 294
+|atk_max = 521
+|atk_break = 604
+|rp_base = 285
+|rp_max = 506
+|rp_break = 587
+|lskill_name = カンフースターの素顔
+|lskill_desc = Recover Skill Gauge every turn (A)
+|skill_name = 着ぐるみぱんだちゃん
+|skill_desc = Increase Yellow beads appearance rate for 10 chains (B)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 809
+|hp_max_s = 1052
+|hp_break_s = 1199
+|atk_base_s = 495
+|atk_max_s = 703
+|atk_break_s = 801
+|rp_base_s = 481
+|rp_max_s = 592
+|rp_break_s = 675
+|lskill_name_s = 緊張の舞台挨拶
+|lskill_desc_s = Recover Skill Gauge every turn (S)
+|skill_name_s = 着ぐるみぱんだちゃん
+|skill_desc_s = Increase Yellow beads appearance rate for 10 chains (B)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 809
+|hp_max_m = 1016
+|hp_break_m = 1158
+|atk_base_m = 495
+|atk_max_m = 666
+|atk_break_m = 759
+|rp_base_m = 481
+|rp_max_m = 647
+|rp_break_m = 738
+|lskill_name_m = 本物と映像の競演
+|lskill_desc_m = Recover Skill Gauge every turn (S)
+|skill_name_m = 着ぐるみぱんだちゃん
+|skill_desc_m = Increase Yellow beads appearance rate for 10 chains (B)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Film Park
+|original = [[Banri]]
+|desc = 映画の国・羅漢星の王子。カンフーアクションスターとして活躍しているが、実はパンダグッズが大好きなオトメン。ビートン・フィルムパークには彼が出演している映画のアトラクションがある。
+|bg = ビートン・フィルムパークに招待されたあなたは万里と再会する。出演する映画の３Dシアターと、ぱんだちゃんがコラボすると嬉しそうな彼だったものの…―
+}}
+
+== Story ==
+{{Choice|title2 = 奇跡のコラボレーション|choice21s = ファンも喜ぶと思う|points21s = 6|choice21m = ファンが増えるかも？|points21m = 6|title3 = かわいい」全開|choice31s = そ、そうですね|points31s = 3|choice31m = でも、ぱんだちゃんが……|points31m = 3|choice32s = これって万里くんが？|points32s = 6|choice32m = この刺繍の柄……|points32m = 6|title4 = マスコットに囲まれて|choice41s = 微笑ましくて笑う|points41s = 12|choice41m = ぬいぐるみに触れる|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_244s.jpg}}
+{{Still|text=Moon Still|img=Still_244m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = え、そんなに私、嬉しそうな顔をしていますか？…恥ずかしいですね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は盛りだくさんでしたね。ぱんだちゃんのぬいぐるみと一緒に寝ましょうか
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = お昼はどこで食べましょうか？あ、ウィルがレストランをやるって…
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはようございます。早く来すぎてしまいました。その…楽しみで…
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 日々の成果を見せるときが来ました…参ります！
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 大丈夫、全て私に任せておいてください
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日ですか。では、アナタだけの私を…見せてあげましょうか？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = ぱんだちゃんとのコラボがあるんです！
+|DECK_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 見事なステージでした
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ここで呼吸を整えましょう
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = このアトラクション、成功させますよ！楽しみにしててください
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ようこそいらっしゃいました。ドキドキして眠れなくて、少し寝不足です
+|CARD_TOP_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 大丈夫ですよ。トラブルには慣れてますから！ちゃんと皆さんを楽しませます
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = はい！ぱんだちゃん、本当に可愛いですよね！癒やされます。ああかわいい
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 大丈夫です。任せて下さい！私は役者ですから。舞台も立派にこなしますよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今日はアナタと一緒に自分の作品を見ることができて本当に楽しかったです
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = こんな、絵に描いたようなデートができるなんて…急に緊張してきました
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = アナタの行ってみたいアトラクションはありますか？聞かせて欲しいです
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ぱんだちゃんと生共演できちゃいました…私、嬉しくて嬉しくて…
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = カメラの前とは違う緊張感がありますね…舞台は。やりがいがあります
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 中身は…あ、危険なものはありませんでした
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 絶対に邪魔はさせません
+|BATTLE_START_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 余裕ですね
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ぱんだ拳！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = お揃いのキーホルダーですね！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = あ！ぱんだちゃんの絆創膏！
+|BATTLE_RECOVER_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 基本は大切ですからね
+|CHAIN_NICE_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 素晴らしい！アクションスターになれますね！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 呼吸を落ち着けて、お腹に力を入れて
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 記念写真…宝物です！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 劇場最新作！ドラゴンの咆哮！近日公開！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ぱんだちゃんと息を合わせて！
+|BATTLE_FEVER_TIME_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = どのキーホルダーにしよう……わあっ！すみません、誰もいないと思って……
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここなら人も少ないですし、ぱんだちゃんグッズを身につけても……あっ！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = プレオープンのセレモニーですか？あ、ぱんだちゃんがいますよ！
+|WELCOME_PARTY_clip = 
+}}

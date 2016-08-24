@@ -1,0 +1,97 @@
+== Status ==
+{{Infobox
+|no = 281
+|name = Kanoto
+|name_jp = カノト
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 436
+|hp_max = 779
+|hp_break = 1035
+|atk_base = 221
+|atk_max = 391
+|atk_break = 519
+|rp_base = 241
+|rp_max = 428
+|rp_break = 568
+|lskill_name = 爛漫童子
+|lskill_desc = Increase HP by 30% when party consists of all 5 colours
+|skill_name = 童心の輝き
+|skill_desc = Restore Paralyze and nullify it for 1 turn
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 701
+|hp_max_s = 912
+|hp_break_s = 1190
+|atk_base_s = 372
+|atk_max_s = 528
+|atk_break_s = 690
+|rp_base_s = 406
+|rp_max_s = 500
+|rp_break_s = 653
+|lskill_name_s = 優しき策士
+|lskill_desc_s = Increase HP by 35% when party consists of all 5 colours
+|skill_name_s = 童心の輝き
+|skill_desc_s = Restore Paralyze and nullify it for 1 turn
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 701
+|hp_max_m = 881
+|hp_break_m = 1149
+|atk_base_m = 372
+|atk_max_m = 501
+|atk_break_m = 653
+|rp_base_m = 406
+|rp_max_m = 548
+|rp_break_m = 715
+|lskill_name_m = 楽師の袖時雨
+|lskill_desc_m = Increase HP by 35% when party consists of all 5 colours
+|skill_name_m = 童心の輝き
+|skill_desc_m = Restore Paralyze and nullify it for 1 turn
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Tales of the Mononoke Night Parade
+|original = [[Kanoto]]
+|desc = こよみの国・九曜の王子。酉の一族。笛の演奏を得意とする。城の中で大事に育てられたため、世間知らずで純粋な性格。今回、国の習わしである『物の怪神楽』に出演することになり、本人はなんの仮装をしているかわかっていないが『座敷童』の格好をしている。最近新しい友達ができたらしく、嬉しそうに瞳を輝かせているものの、その友達の正体は…
+|bg = 『物の怪神楽』と呼ばれる神事を見に来て欲しいとカノトに誘われたあなた。彼の部屋に行くと、そこには何故か豪華な宝石や美しい着物などがたくさんあり…
+}}
+== Story ==
+{{Choice
+|title2 = 新しい友達
+|choice21s = 子どもが贈り物を？
+|points21s = 6
+|choice21m = 子どもがお城に入った？
+|points21m = 6
+|title3 = 鞠つき
+|choice31s = かわいい
+|points31s = 3
+|choice31m = 悪意はなさそう
+|points31m = 3
+|choice32s = 大切に使っているんだね
+|points32s = 6
+|choice32m = 片時も離さないでいたの？
+|points32m = 6
+|title4 = 幼子の涙
+|choice41s = 例外はありませんか？
+|points41s = 12
+|choice41m = いなくなるなんて…
+|points41m = 12
+}}
+{{Still|text=Sun Still|img=Still_281s.jpg}}
+{{Still|text=Moon Still|img=Still_281m.jpg}}
+
+== Quotes ==

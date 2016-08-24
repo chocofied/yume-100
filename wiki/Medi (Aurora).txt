@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 175
+|name = Medi
+|name_jp = メディ
+|attribute = Sexy
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 261
+|hp_max = 618
+|hp_break = 729
+|atk_base = 153
+|atk_max = 242
+|atk_break = 286
+|rp_base = 211
+|rp_max = 407
+|rp_break = 480
+|lskill_name = 芸術の象徴
+|lskill_desc = Increase all stats of Purple by 10%
+|skill_name = カラー・ブラッシュ
+|skill_desc = Insert gold bomb (1)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 556
+|hp_max_s = 834
+|hp_break_s = 967
+|atk_base_s = 230
+|atk_max_s = 283
+|atk_break_s = 328
+|rp_base_s = 387
+|rp_max_s = 549
+|rp_break_s = 637
+|lskill_name_s = オレンジ色の約束
+|lskill_desc_s = Increase all stats of Purple by 15%
+|skill_name_s = カラー・ブライト
+|skill_desc_s = Insert gold bomb (2)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 556
+|hp_max_m = 797
+|hp_break_m = 925
+|atk_base_m = 230
+|atk_max_m = 313
+|atk_break_m = 363
+|rp_base_m = 387
+|rp_max_m = 525
+|rp_break_m = 609
+|lskill_name_m = 希望の芸術
+|lskill_desc_m = Increase all stats of Purple by 15%
+|skill_name_m = カラー・オブジェ
+|skill_desc_m = Insert gold bomb (2)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Aurora Kingdom's Road
+|original = [[Medi]]
+|desc = 芸術の国・フレシアンの王子。芸術肌のナルシストで、美的センスが高いと本人は思っている。持っている絵筆には、ある思い入れが……。
+|bg = セイトスの街に滞在するある日の夜、外にいたあなたに「もうそろそろ眠る時間だよ」と声をかけるメディ。けれど彼は宿ではない方向に歩いていって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼を追いかけて
+|choice21s = ありがとうございます
+|points21s = 6
+|choice21m = 怒らないんですか？
+|points21m = 6
+|title3 = 筆に込めた想い
+|choice31m = 見つかってよかったです
+|points31m = 3
+|choice31s = 素敵ですね
+|points31s = 3
+|choice32m = お願いします
+|points32m = 6
+|choice32s = すみません
+|points32s = 6
+|title4 = 街に明るさを
+|choice41s = 驚きました
+|points41s = 12
+|choice41m = すごいです！
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_175s.jpg}}
+{{Still|text=Moon Still|img=Still_175m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = お昼だね！陽の光はどんなものでもキラキラ輝かせてくれるから好きさ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = オーロラが出ていない？…ならばこのボクが夜空にオーロラを描こう！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = う～ん、芸術的な朝だ！さあ、ボクと一緒に朝ご飯を食べよう！
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = たまにはルークには内緒で、こうしてキミと過ごすのもいいね！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = うん、ボクには見えるよ！この筆が描く未来が！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ハニーも絵を描いてみないかい？何事もチャレンジすることが大事だよ！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = この筆のことが知りたいのかい？そんなにボクを気にかけてくれていたなんて！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = ハニーの心に少しでもボクという存在がいたら…どんなに幸せだろうか
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ああ…！アイディアが溢れ出てとまらないよ！全て作品にしよう！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 全くキミは…ボクのために無茶をしてはいけないよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 今この瞬間をキャンバスに描こう！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 芸術的な何かが入っていることを期待するよ！
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ハニーにこのマークの入った洋服をプレゼントするよ！二人で一緒に着よう！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ……っ！ハニー！キミは本当に、罪な女性だよ！
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 想像を超えた素晴らしい芸術だよハニー！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 素敵な図形だね！次は色を塗ろう！
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = うん！見事な塗りだ！最終仕上げをしよう！
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ボクの華麗な筆さばきを見たまえ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ボクの芸術に腰を抜かしても知らないよ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = わお
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとうマイスウィート！
+|BATTLE_RECOVER_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = はっ！インスピレーションが…！
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = キミの芸術に惚れたよハニー！
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 美しいと思うこの気持ちがこそが芸術なんだ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 思いのままに描こう！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 自由に！
+|BATTLE_ATTACK_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = やあ、今ちょうどキミのことを考えていたところだよ！これは運命かな？
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう！マイスウィートハニーへ、愛をこめてボクの絵を贈るよ！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = キミが思っているよりもずっと、ボクはキミのことが大切なんだ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = ボク達二人の未来を一緒に描き出そう！
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = これ以上センスを磨いたら一体ボクはどうなってしまうのだろう…！
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = キミがボクに笑顔を向けるたびに、期待してしまうよ？…いいのかい？
+|CARD_EVOLUTION_s_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = おお！キミはマイスウィートハニーのお友達かい？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ボクのためにパーティを？ありがとう！お礼にボクの絵をプレゼントするよ！
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = なんて美しい場所なんだ！今すぐキャンバスにおさめよう！
+|GUILD_clip = 
+}}

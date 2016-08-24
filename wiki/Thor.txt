@@ -1,0 +1,190 @@
+== Status ==
+{{Infobox
+|no = 236
+|name = Thor
+|name_jp = トール
+|attribute = Cool
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 434
+|hp_max = 942
+|hp_break = 1093
+|atk_base = 284
+|atk_max = 504
+|atk_break = 584
+|rp_base = 306
+|rp_max = 446
+|rp_break = 518
+|lskill_name = 雷鳴の槌
+|lskill_desc = A certain chance to attack disregarding the enemy's defence
+|skill_name = バング・ハンマー
+|skill_desc = Erase beads in middle rows and recover time (1s)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 848
+|hp_max_s = 1206
+|hp_break_s = 1375
+|atk_base_s = 479
+|atk_max_s = 645
+|atk_break_s = 735
+|rp_base_s = 424
+|rp_max_s = 504
+|rp_break_s = 575
+|lskill_name_s = 迅雷の槌
+|lskill_desc_s = A certain chance to attack disregarding the enemy's defence
+|skill_name_s = ブロウ・ハンマー
+|skill_desc_s = Erase beads in middle rows and recover time (1s)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 848
+|hp_max_m = 1102
+|hp_break_m = 1256
+|atk_base_m = 479
+|atk_max_m = 680
+|atk_break_m = 775
+|rp_base_m = 424
+|rp_max_m = 522
+|rp_break_m = 595
+|lskill_name_m = 雷光の槌
+|lskill_desc_m = A certain chance to attack disregarding the enemy's defence
+|skill_name_m = グレア・ハンマー
+|skill_desc_m = Erase beads in middle rows and recover time (1s)
+|gold_m = 5000
+|ring_m = 40}}
+
+== Profile ==
+{{Profile
+|va = Murata Taishi
+|origin = Country of Weapon - Asgarz
+|age = 17
+|birth = 
+|likes = The books Amano lends me
+|dislikes = When people put carrot in hamburger steak
+|policy = Never take your eyes off your personal mission
+|desc = 武器の国・アースガルズの王子。冷静沈着な性格で、毒舌だが優しい一面もある。ミョルニルという名のハンマーを受け継いだ彼は、宿敵ヨルムンガンドを倒すという使命を持つ。
+|bg = あなたが目覚めさせた王子は、国を守るためモンスターの討伐をしているトールだった。宿敵ヨルムンガンドを倒す使命を背負う彼の背中はどこか寂しげで…―
+}}
+
+== Story ==
+{{Choice|title2 = 神の武器|choice21s = なんでも倒せそう|points21s = 8|choice21m = なんでも守れそう|points21m = 8|title3 = 寂しげな背中|choice31s = 頼りにされているから|points31s = 4|choice31m = 期待されているから|points31m = 4|choice32s = 大変そう|points32s = 8|choice32m = 辛そう|points32m = 8|title4 = 初めての微笑み|choice41s = 力をつけてもらいたくて|points41s = 12|choice41m = 疲れていると思って|points41m = 12|title5 = 懲りない理由|choice51s = 力になりたい|points51s = 16|choice51m = 傍にいたい|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_236s.jpg}}
+{{Still|text=Moon Still|img=Still_236m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_TOP_en =Oi, what are spacing out for? Let's go, hurry up. Because it's dangerous here 
+|CARD_TOP_jp = おい、何ぼさっとしてるんだよ。行くぞ、早く来い。ここは危ないんだから
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =I can beat them... I'm strong 
+|CARD_ENHANCE_jp = 俺がアイツを倒すんだ…俺は強い
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =You really are a changed person 
+|CARD_EVOLUTION_s_jp = 本当に変わった奴だな、アンタって
+|CARD_EVOLUTION_s_clip = 
+|SKILL_INVOKE_m_en =It's dangerous to not keep my eyes off you 
+|SKILL_INVOKE_m_jp = 危なくて目を離せないな
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en =Listen to the sound of thunder! 
+|BATTLE_FEVER_TIME_jp = 雷の音を聞け！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =It's not over yet 
+|BATTLE_TURN_END_jp = まだまだだ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en =Hey, don't slack off 
+|BATTLE_CLEAR_jp = ほら、ぼさっとしてるなよ
+|BATTLE_CLEAR_clip = 
+|BATTLE_RECOVER_en =I'm still fine 
+|BATTLE_RECOVER_jp = まだ大丈夫だ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =I, alone, is enough! 
+|SKILL_INVOKE_jp = 俺一人で充分だ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =What a troublesome woman! Leave her alone! 
+|SKILL_INVOKE_s_jp = 本当にどんくせー女！ほっとけねえよ！
+|SKILL_INVOKE_s_clip = 
+|MAIN_TOP_TOUCH_1_en =Don't do unnecessary things. It's not like I've got nothing better to do 
+|MAIN_TOP_TOUCH_1_jp = 余計なことをするな。俺がやらなきゃならないことなんだ
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en =There's no helping it. I ran out of patience. You really are naggy 
+|CARD_DETAIL_jp = 仕方ないな。根負けしたよ。アンタ、本当にしつこいな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =What, I told you that I'd protect you. Got any complaints? 
+|MAIN_TOP_TOUCH_s_1_jp = なんだよ、俺が守ってやるって言ってんだろ。文句あんのか？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =Haha... That stupid face of yours... It's cute, don't be mad 
+|MAIN_TOP_TOUCH_s_2_jp = ははっアンタのそのマヌケ面っ…かわいいって言ってんだよ、怒るな
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en =Hey, wake up. Since we have a long day today... It's too late to be embarrassed 
+|MAIN_TOP_MORNING_GREET_jp = おい、起きろ。とっくに朝だぞ…今更照れたって遅いだろ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =It's still early...for a break. What's that, you brought lunch? 
+|MAIN_TOP_AFTERNOON_GREET_jp = 休憩…まだだけど。なにそれ、弁当でも持ってきたって言うつもり？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =Since we need to wake up early, let's quickly head to bed. Say, you have pretty bad sleeping positions 
+|MAIN_TOP_EVENING_GREET_jp = 明日も早いから、さっさと寝るぞ。そういえばアンタ、けっこう寝相悪いのな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en =You, you're spacing out a lot, are you okay? 
+|MAIN_TOP_TOUCH_2_jp = アンタ、そんなにぼやっとしてて、大丈夫なのか？
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en =What do I like about you, that's an embarrassing question... Don't make that face! Ah, it's everything, everything! 
+|CARD_DETAIL_s_jp = どこが好きってそんな恥ずかしいこと…そんな顔すんな！あー全部だよ全部！
+|CARD_DETAIL_s_clip = 
+|CHAIN_GREAT_en =It's dangerous so stay behind me 
+|CHAIN_GREAT_jp = 危ないから後ろにいろよ
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en =You, you're pretty good 
+|CHAIN_EXCELLENT_jp = アンタ、結構やるんだな
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en =Taa! 
+|BATTLE_ATTACK_jp = タァっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Ku--! 
+|BATTLE_DAMAGE_jp = っく！
+|BATTLE_DAMAGE_clip = 
+|CARD_DETAIL_m_en =It's my first time having an important woman. Stay by my side. I won't let you go 
+|CARD_DETAIL_m_jp = 大事な女ができたのは初めてなんだよ。ずっと俺の傍にいろ。離れるなよ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =Hmm, of course this'll be easy 
+|BATTLE_START_jp = ふんっ、余裕に決まってるだろ
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =Don't space off like that, shouldn't we check it's contents? 
+|BATTLE_RESULT_jp = ぼんやりしてないで、中身確認したら？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en =You're useless like this, are you okay? 
+|CHAIN_NICE_jp = そんなにどんくさくて、大丈夫なのか？
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_m_1_en =When you're exposed to monsters, I'll pound them all with my hammer 
+|MAIN_TOP_TOUCH_m_1_jp = アンタを危険に晒すモンスターは、このハンマーで全て打ち砕いてやる
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =In order to protect you... I think it's better if you don't leave my side 
+|MAIN_TOP_TOUCH_m_2_jp = アンタを守るために…俺の傍には置いておかない方がいいかと思ったんだ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|WELCOME_PARTY_en =What's this? Huh? It's nice of you to make a party for me... No, thank you 
+|WELCOME_PARTY_jp = 何これ？は？俺のためのパーティって、そんなのいいよ……いや、ありがとう
+|WELCOME_PARTY_clip = 
+|GUILD_en =There isn't any monster here? Let's rest here for a while...... 
+|GUILD_jp = ここにはモンスターがいないのか？ここではゆっくり過せるのか……
+|GUILD_clip = 
+|FRIEND_DETAIL_en =......Can't you do anything about her uselessness? Whatever, I'll be the one to protect her anyways 
+|FRIEND_DETAIL_jp = ……アイツのどんくささはどうにかならないのか？ま、俺が守ればいい話だけど
+|FRIEND_DETAIL_clip = 
+|CARD_EVOLUTION_m_en =I got a mission to defeat that person 
+|CARD_EVOLUTION_m_jp = 俺にはアイツを倒すっていう使命があるんだ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =Hey, stop dawdling 
+|DECK_jp = ほら、もたもたすんなよ
+|DECK_clip = 
+|BIRTHDAY_en =Today's your birthday huh... There isn't anyone else besides me to celebrate with? You, I mean 
+|BIRTHDAY_jp = 誕生日なんだってな…俺ぐらいしか祝うやついないだろ？アンタには
+|BIRTHDAY_clip = 
+}}

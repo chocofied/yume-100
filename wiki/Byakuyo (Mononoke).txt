@@ -1,0 +1,101 @@
+== Status ==
+{{Infobox
+|no = 278
+|name = Byakuyo
+|name_jp = 白葉
+|attribute = Sexy
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 673
+|hp_max = 1138
+|hp_break = 1297
+|atk_base = 428
+|atk_max = 696
+|atk_break = 794
+|rp_base = 338
+|rp_max = 550
+|rp_break = 627
+|lskill_name = いざ、物の怪退治！
+|lskill_desc = Increase ATK by 10% for every 5 chain (Max is 90%)
+|skill_name = ふわり踊る羽根吹雪
+|skill_desc = Erase right & left side beads by consuming own HP
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1024
+|hp_max_s = 1218
+|hp_break_s = 1364
+|atk_base_s = 662
+|atk_max_s = 850
+|atk_break_s = 952
+|rp_base_s = 522
+|rp_max_s = 671
+|rp_break_s = 752
+|lskill_name_s = 完成された美の神楽
+|lskill_desc_s =Increase ATK by 10% for every 4 chain (Max is 90%)
+|skill_name_s = 舞い踊る羽根吹雪
+|skill_desc_s = Erase right & left side beads by consuming own HP
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1024
+|hp_max_m = 1332
+|hp_break_m = 1492
+|atk_base_m = 662
+|atk_max_m = 815
+|atk_break_m = 913
+|rp_base_m = 522
+|rp_max_m = 643
+|rp_break_m = 720
+|lskill_name_m = 物の怪と人の想い
+|lskill_desc_m = Increase ATK by 10% for every 5 chain (Max is 110%)
+|skill_name_m = 心攫う羽根吹雪
+|skill_desc_m = Erase right & left side beads by consuming own HP
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Tales of the Mononoke Night Parade
+|original = [[Byakuyo]]
+|desc = 紅梅国の王子。武芸全般に秀でている。美しいものを好み、普段は女言葉を使う頼れるオネエ王子様。やると決めたことには、とことん拘りを見せる性格。今回、こよみの国の習わしである『物の怪神楽』に来賓として参加することになり、『鴉天狗』の仮装をしている。
+|bg = 『物の怪神楽』と呼ばれる神事を見に九曜を訪れたあなたは『鴉天狗』の仮装をした白葉と再会する。彼の演舞の練習の最中に、演者の様子がおかしくなり…―
+}}
+== Story ==
+{{Choice
+|title2 = 白葉の舞
+|choice21m = 照れる
+|points21m = 8
+|choice21s = ありがとうございます
+|points21s = 8
+|title3 = トラブル発生
+|choice31s = どうしたんですか？
+|points31s = 4
+|choice31m = じっと見つめる
+|points31m = 4
+|choice32s = ありがとうございます
+|points32s = 8
+|choice32m = びっくりしました
+|points32m = 8
+|title4 = 伝説の武器
+|choice41m = 力持ちですね
+|points41m = 12？
+|choice41s = 驚いて言葉につまる
+|points41s = 12
+|title5 = 鴉天狗現る
+|choice51m = 大丈夫です
+|points51m = 18
+|choice51s = はい
+|points51s = 18
+}}
+{{Still|text=Sun Still|img=Still_278s.jpg}}
+{{Still|text=Moon Still|img=Still_278m.jpg}}
+== Quotes ==

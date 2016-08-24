@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 6
+|name = Lid
+|name_jp = リド
+|attribute = Cute
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 337
+|hp_max = 824
+|hp_break = 972
+|atk_base = 208
+|atk_max = 353
+|atk_break = 416
+|rp_base = 164
+|rp_max = 278
+|rp_break = 328
+|lskill_name = 姫を輝かせる者
+|lskill_desc = Increase Yellow ATK by 25%
+|skill_name = ルースヴェルデ
+|skill_desc = Turn beads into bombs (2)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 742
+|hp_max_s = 1162
+|hp_break_s = 1348
+|atk_base_s = 335
+|atk_max_s = 434
+|atk_break_s = 503
+|rp_base_s = 264
+|rp_max_s = 342
+|rp_break_s = 397
+|lskill_name_s = 姫に相応しい者
+|lskill_desc_s = Increase Yellow ATK by 35%
+|skill_name_s = エターリオヴェルデ
+|skill_desc_s = Turn beads into bombs (3)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 742
+|hp_max_m = 1014
+|hp_break_m = 1176
+|atk_base_m = 335
+|atk_max_m = 497
+|atk_break_m = 577
+|rp_base_m = 264
+|rp_max_m = 342
+|rp_break_m = 397
+|lskill_name_m = 姫を求めし者
+|lskill_desc_m = Increase Yellow ATK by 35%
+|skill_name_m = ラテルラヴェルデ
+|skill_desc_m = Turn beads into bombs (3)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Akabane Kenji
+|origin = Country of Jewel - Oliverite
+|age = 19
+|birth = August 06
+|likes = Fragrantly seasoned food
+|dislikes = Studying
+|policy = Your stress and worries will disappear if you just move around!
+|desc = 宝石の国・オリブレイトの王子。明るくポジティブで周りへの気配りも得意。周囲に愛されており兄とも仲が良い。兄を慕っているが、その一方少しコンプレックスを抱えている。
+|bg = リドに招待され国を訪れたあなた。屈託のないリドに惹かれていくけれど。リドの兄があなたのことが好きになってリドは…？そしてあなたは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 交錯する視線
+|choice21m = そうだよね
+|points21m = 6
+|choice21s = ひどい！
+|points21s = 6
+|title3 = 思い出すのは……
+|choice31s = リドとがいい
+|points31s = 5
+|choice31m = じゃあ、カランさんと
+|points31m = 5
+|choice32s = 顔を背ける
+|points32s = 4
+|choice32m = 目を見つめる
+|points32m = 4
+|title4 = こぼれた言葉
+|choice41m = なんで慌てるの？
+|points41m = 12
+|choice41s = ティーガさんって？
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_6s.jpg}}
+{{Still|text=Moon Still|img=Still_6m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en = Yo! Let's try our goshdarn best today, too!
+|MAIN_TOP_MORNING_GREET_jp = よう！今日も１日、元気よくがんばろうな！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = What's with you, can't sleep again? Well then... Come hang out with me? Yeah, right now!
+|MAIN_TOP_EVENING_GREET_jp = なんだよ、まだ寝ないのか？なら…遊びに行くか？そう、これから！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = I'm hungry, dude... I know a great place to eat, next time I'll take you!
+|MAIN_TOP_AFTERNOON_GREET_jp = 腹減ったな…美味い店知ってんだ、今度連れてってやるよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|CARD_DETAIL_s_en = No, I'm happy, it's just that having you do that.. It's making me embarrassed
+|CARD_DETAIL_s_jp = いや、嬉しいんだけどさ、あんたにそうされるの。ちょっと、照れくさいな…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = I want to cherish you. That's what I really think.
+|MAIN_TOP_TOUCH_s_1_jp = わかってるって！…そんなにつつかなくても、隣にいるよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = I know, I know! ... You don't have to poke me so much, I'll be right here
+|MAIN_TOP_TOUCH_s_2_jp = あんたのこと、大事にしたい。本当にそう思ってるよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = Aren't you.. like.. overdoing it? So you're that type, huh..
+|CARD_DETAIL_jp = や…やりすぎじゃねえか？あんた、そんなヤツだったっけ…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = Woah! What's up, are you hungry or something?
+|MAIN_TOP_TOUCH_1_jp = うわっ！びっくりさせんなよ！心臓が止まるかと思ったぜ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = Uwah! Don't scare me like that! I thought my heart would stop!
+|MAIN_TOP_TOUCH_2_jp = おう！どうしたんだよ、腹でも減ったのか？
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_START_en = Let's start!
+|BATTLE_START_jp = 始めるぞ！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = What's with you, saying you want to be with me... Weirdo
+|CARD_DETAIL_m_jp = なんだよ、オレといたいって…変なヤツ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = I.. really want to become your number one
+|MAIN_TOP_TOUCH_m_1_jp = まさか他のヤツにも、こんなことしてるのか？駄目だぞ！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = It can't be that other guys are also doing this kind of thing to you? That's not okay!
+|MAIN_TOP_TOUCH_m_2_jp = オレ…あんたの一番になりたいって、思ってる
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RECOVER_en = Thank you★
+|BATTLE_RECOVER_jp = サーンキュ★
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = Uwah!
+|BATTLE_DAMAGE_jp = うわあっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = Take that!
+|BATTLE_ATTACK_jp = そりゃっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = That's amazing! You're the best!
+|CHAIN_EXCELLENT_jp = すっげーじゃん！あんた、サイコーだぜ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = You're doing great! It's getting me pumped!
+|CHAIN_GREAT_jp = やるじゃん！ワクワクしてきた！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = Doesn't that feel great? Can you keep going!?
+|CHAIN_NICE_jp = いい感じじゃねえか！まだやれるか！？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = You worked hard! Great job!
+|BATTLE_RESULT_jp = よく頑張ったな！お疲れ！
+|BATTLE_RESULT_clip = 
+|SKILL_INVOKE_m_en = Are you watching!?
+|SKILL_INVOKE_m_jp = ちゃんとオレのこと、見てろよ！？
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = For your sake.. I'll do my utmost!
+|SKILL_INVOKE_s_jp = あんたのために…全力で頑張るよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = If you underestimate me, it won't turn out well!
+|SKILL_INVOKE_jp = あんまりなめてもらっちゃ、困るぜ？
+|SKILL_INVOKE_clip = 
+|DECK_en = You're choosing me? Thanks, dude!
+|DECK_jp = オレを選んでくれるのか？ありがとな！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = Don't look at anyone else... Just look at me
+|CARD_EVOLUTION_m_jp = 他のヤツを見るな…オレだけを見てろ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = I'll treat you as my number one
+|CARD_EVOLUTION_s_jp = あんたのこと、一番大事にするからな
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = It sure does feel great to move around!
+|CARD_ENHANCE_jp = 体動かすのは、やっぱ気持ちいいな！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = Yo, you're late! ... You're not ready yet? I'll help you out, so hurry up!
+|CARD_TOP_jp = よう、遅いぞ！…まだ準備できてない？手伝ってやるから、早くしろよ！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = Alright, guns up!
+|BATTLE_CLEAR_jp = よーし、一丁上がり！
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = Let's end this quickly!
+|BATTLE_TURN_END_jp = 早く終わらせようぜ！？
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = My full strength is coming out!
+|BATTLE_FEVER_TIME_jp = 全力出そうぜ！
+|BATTLE_FEVER_TIME_clip = 
+|BIRTHDAY_en = Happy birthday! ... Will you still stay with me from now on?
+|BIRTHDAY_jp = 誕生日おめでとう！…これからもオレと一緒に、いてくれよ？
+|BIRTHDAY_clip = 
+|FRIEND_DETAIL_en = Thanks for always taking care of her!
+|FRIEND_DETAIL_jp = アイツが世話になってるみたいで、ありがとな！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = There's so many different places~! Hey, where should we go first!?
+|GUILD_jp = いろんなところがあるな～！なっ、どれから行く！？
+|GUILD_clip = 
+|WELCOME_PARTY_en = A party for my sake? I said I was fine! ...Well, I'm happy anyway, though!
+|WELCOME_PARTY_jp = オレのためにパーティー？そんなのいいって！…けど、嬉しいもんだな！
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_NOMINATED_en = H, hold up! My heart is not prepared! Because.. you're the one choosing
+|AWARD_EVENT_NOMINATED_jp = ま、待て！まだ心の準備ができてねえ！だって、あんたが選ぶって…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = Eh? You chose me? ... Oh man, I'm soo happy... Thanks!
+|AWARD_EVENT_FAVORITES_jp = へ？オレを選んだ？…やばい、すっげー嬉しい…ありがとな！！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

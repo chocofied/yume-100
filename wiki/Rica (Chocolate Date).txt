@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 202
+|name = Rica
+|name_jp = リカ
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 601
+|hp_max = 1194
+|hp_break = 1361
+|atk_base = 393
+|atk_max = 638
+|atk_break = 728
+|rp_base = 412
+|rp_max = 565
+|rp_break = 645
+|lskill_name = 恋とショコラ
+|lskill_desc = Increase Blue ATK by 50%
+|skill_name = ラティスショコラ
+|skill_desc = Turn Green beads into Blue and erase Blue beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1074
+|hp_max_s = 1456
+|hp_break_s = 1631
+|atk_base_s = 606
+|atk_max_s = 779
+|atk_break_s = 872
+|rp_base_s = 537
+|rp_max_s = 605
+|rp_break_s = 678
+|lskill_name_s = とろけるビター味
+|lskill_desc_s = Increase Blue ATK by 50% and HP by 10%
+|skill_name_s = ラティスショコラ
+|skill_desc_s = Turn Green beads into Blue and erase Blue beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1074
+|hp_max_m = 1325
+|hp_break_m = 1484
+|atk_base_m = 606
+|atk_max_m = 824
+|atk_break_m = 923
+|rp_base_m = 537
+|rp_max_m = 628
+|rp_break_m = 703
+|lskill_name_m = とろける口付け
+|lskill_desc_m = Increase Blue ATK by 65%
+|skill_name_m = ジュエリーショコラ
+|skill_desc_m = Turn Purple beads into Blue and erase Blue beads
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Chocolate Date
+|original = [[Rica]]
+|desc = The prince of Shocolute of the country of Chocolate. Since he is so blunt with his words, there are times he accidentally offends people without meaning to, but it's really only because he's honest. He's kaopeh. He acts all high and mighty, but he also has a lonely side. This time, he invited you over to try his new chocolate creation.
+|bg = You who were invited to Shocolute by Rica to try his new chocolate creation. When you say you want his chocolate, without thinking, he accidentally spills his true thoughts..-
+}}
+
+== Story ==
+{{Choice
+|title2 = 恋するショコラ
+|choice21s = 変わった味
+|points21s = 8
+|choice21m = わりと好きな味
+|points21m = 8
+|title3 = 笑顔が見たいから
+|choice31s = 気になっていたことを問いかける
+|points31s = 4
+|choice31m = ほっと一息つく
+|points31m = 4
+|choice32m = ……すみません
+|points32m = 8
+|choice32s = 違うんです！
+|points32s = 8
+|title4 = ダークとリカ
+|choice41s = リカの手を取る
+|points41s = 12
+|choice41m = リカの服の裾を掴む
+|points41m = 12
+|title5 = 新作の中から
+|choice51m = リカさん！？
+|points51m = 16
+|choice51s = ……
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_202s.jpg}}
+{{Still|text=Moon Still|img=Still_202m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = You're late! Why didn't you come to see me sooner? You know I hate waiting
+|WELCOME_PARTY_jp = 遅い！なんで、もっと早く会いに来ないんだよ。待つの嫌いなんだってば
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = You made chocolate for the Day of Love? Really... Give it properly to the dude you like
+|FRIEND_DETAIL_jp = 愛の日のチョコ作ったの？　へえ……ちゃんと好きなヤツに渡せよ
+|FRIEND_DETAIL_clip = 
+|GUILD_en = It's kinda quiet here, huh. Well, as long as I'm with you it's alright. Even if it's quiet
+|GUILD_jp = ここさ、静かだな。お前が一緒にいてくれるならいいけど。静かでも
+|GUILD_clip = 
+|SKILL_INVOKE_en = Well, I am a prince after all
+|SKILL_INVOKE_jp = ま、俺だって王子様だからな
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = Ah, my head is spinning
+|BATTLE_RECOVER_jp = あー、頭が回ってきた
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = That hurts....
+|BATTLE_DAMAGE_jp = いてえ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = Don't get in the way
+|BATTLE_ATTACK_jp = 邪魔すんなよ
+|BATTLE_ATTACK_clip = 
+|BATTLE_TURN_END_en = I'm a bit peckish
+|BATTLE_TURN_END_jp = 小腹がすいたな
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en =If you're too slow, it'll melt 
+|BATTLE_FEVER_TIME_jp = もたもたしてると、溶けるだろ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en =Yup, being all matchy-matchy is definitely embarrassing 
+|SKILL_INVOKE_m_jp = お揃いは流石に恥ずかしいわ
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en =Handmade by me, huh... It sure is rare 
+|SKILL_INVOKE_s_jp = 俺の手作りか…レアだな
+|SKILL_INVOKE_s_clip = 
+|CARD_TOP_en =You got here really fast. Did you want to see me that bad? So cute 
+|CARD_TOP_jp = 結構早い到着じゃん。そんなに俺に会いたかった？可愛いじゃん
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en =Alright, shall we withdraw? 
+|BATTLE_CLEAR_jp = じゃ、撤収するか
+|BATTLE_CLEAR_clip = 
+|CARD_ENHANCE_en =I thought I was fairly strong, but I guess I haven't reached my peak 
+|CARD_ENHANCE_jp = 俺、そこそこ強いと思ってたんだけど、まだてっぺんじゃなかったのか
+|CARD_ENHANCE_clip = 
+|BIRTHDAY_en =Hey, which do you like better, me or chocolate? I'll give you the one you choose for your birthday 
+|BIRTHDAY_jp = なあ、俺とショコラどっちが好き？ん？好きな方をお前の誕生日にやるよ
+|BIRTHDAY_clip = 
+|DECK_en =Hey, I'll just leave you if you keep spacing out 
+|DECK_jp = おい、ぼんやりしてると置いてくぞ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en =You better look forward to the royal chocolate chosen by the prince of Shocolute 
+|CARD_EVOLUTION_m_jp = ショコルーテの王子様の選ぶロイヤルショコラ、楽しみにしてろよ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =I meant to have you accompany me to try some chocolates.. But I guess this is fine 
+|CARD_EVOLUTION_s_jp = ショコラの味見に付き合わせる予定だったんだけどな…まあ、いいか
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = Hey-... I'm lonely, so come to my room. Then tell me stories until I sleep....
+|MAIN_TOP_EVENING_GREET_jp = なー……寂しいから、俺の部屋に来いよ。で、俺が寝るまで何か話してて……
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = Hey, what do you wanna eat for lunch? I found a great place to eat the other day, wanna go?
+|MAIN_TOP_AFTERNOON_GREET_jp = お前さ、昼飯何食べたいの？この間、いい店見つけたんだけど行く？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Morning, huh-... Anyway, shall we go out? You're not just going to stay in your room all aone, right
+|MAIN_TOP_MORNING_GREET_jp = 朝か－……とりあえず、出かけるか。一人で部屋にいるとか、ないよな
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en =I've always thought you were pretty whimsical, but... Do you truly want to eat the chocolate I made? 
+|MAIN_TOP_TOUCH_s_1_jp = 物好きな奴だとは思ってたけど…俺の作ったショコラ、本気で食べたいの？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en =Chocolate that makes you fall in love... I guess it's alright. Don't laugh at me! It's a catch phrase! 
+|CARD_DETAIL_jp = 恋するショコラって……別にいいだろ。笑うな！キャッチフレーズだよ！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = お前にダークって呼ばれると……なんか、モヤモヤすんな
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = Why did I call you? What do you think? First of all, I want you to try this chocolate
+|MAIN_TOP_TOUCH_2_jp = お前を呼んだ理由？何だと思う？まずは、ここにあるショコラ味見してからな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = Wow-... So you like me that much? How adorable
+|MAIN_TOP_TOUCH_m_1_jp = いやー……お前ってそんなに俺のこと、好きだったっけ？可愛いな
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en =This way of eating, it's kind of tantalizing or something... I'm talking about you right now 
+|CARD_DETAIL_s_jp = 食べ物食べてる姿ってなんかこう、そそられるっつーか…今のお前のことだよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 火傷したかって？あのな、そういうのは気づかないふりするのがいい女なの！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_RESULT_en =The loot? You can have all of it 
+|BATTLE_RESULT_jp = 中身？お前に全部やるよ
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en =These guys that never learn their lesson are here 
+|BATTLE_START_jp = 懲りない方々がお見えだな
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en =Being all matchy-matchy is embarrassing, so just go with the one that suits you best. The shapes vary slightly 
+|CARD_DETAIL_m_jp = お揃いは恥ずかしいし、お前に一番似合うのがいいからな。ちょっと形が違う
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = I feel like it's a shame to open wrappers... If you open it carefully you can preserve it
+|MAIN_TOP_TOUCH_m_2_jp = ラッピング開くのがもったいないって…綺麗に開ければ元に戻せるじゃん
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_EXCELLENT_en = Alright, as a reward I'll give you a kiss
+|CHAIN_EXCELLENT_jp = じゃあ、ご褒美にキスしてやるよ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en =Hey hey, I told you not to steal my spotlight 
+|CHAIN_GREAT_jp = おいおい、俺の見せ場をとるなって
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =I don't mind your hasty side, either 
+|CHAIN_NICE_jp = あたふたしてるお前も、嫌いじゃねーけど
+|CHAIN_NICE_clip = 
+}}

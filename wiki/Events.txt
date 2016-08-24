@@ -1,0 +1,452 @@
+__FORCETOC__
+==Current Event==
+
+{|class="wikitable" style="; text-align:center;"
+| style="width:100px;" |'''Date'''
+| style="width:180px;" |'''Name'''
+| style="width:80px" |'''Type'''
+| style="width:120px" |'''Event Princes'''
+| style="width:120px" |'''Gacha Princes'''
+|-
+|2016/08/22 to 2016/08/29
+|The Ones Who Sleep in the Forest of Light
+|Point
+|[[Frites (Forest)]]
+|[[Riel]]<br />[[Azalee (Forest)]]
+|-
+|2016/08/20 to 2016/09/20
+|Limited Daily Drop Quest "Meeting with the Princes"
+|Drop
+|[[Graysia]]<br />[[Nepenthes]]<br />[[Perla]]<br />[[Dayang]]<br />[[Prytwen]]<br />[[Martin (Marine)]]<br />[[Kalt]]
+|NA
+|}
+'''The Ones Who Sleep in the Forest of Light'''
+* Having the gacha princes on your team will earn you more points.
+** [[Riel]]: 50%
+** [[Azalee (Forest)]]: 25%
+* This event introduces poison beads (normal beads marked at the bottom right).
+** When poison beads are erased, damage will be dealt at the end of the puzzle.
+** The damage to be dealt is shown on the HP gauge in red and can be offset by heart pieces.
+* 2x times: 12:00 to 13:59, 20:00 to 23:00 JST
+* Enemy colours:
+** Stage 1 - 4: Green
+** Stage 5 - 8: Purple & Green
+* There will be a sudden quest 2-3 times daily where more points can be obtained. 2x time bonuses will not apply.
+<br />
+'''Limited Daily Drop Quest'''
+* The drop prince runs from 0:00 to 23:59 JST according to the schedule:
+{|class="article-table" style="margin-left: 3em;"
+!Day
+!Prince
+!Enemy Colors
+|-
+|Mon
+|[[Graysia]]
+|Random
+|-
+|Tue
+|[[Nepenthes]]
+|Random
+|-
+|Wed
+|[[Perla]]
+|Green & Yellow
+|-
+|Thu
+|[[Dayang]]
+|Red & Yellow
+|-
+|Fri
+|[[Prytwen]]
+|
+|-
+|Sat
+|[[Martin (Marine)]]
+|Blue & Yellow
+|-
+|Sun
+|[[Kalt]]
+|Purple 
+|}
+* Higher difficulty quests will have a higher drop rate.
+* The boss drop rate increases with each time the quest is cleared, and resets to the original rate whenever the boss drop is obtained.
+* Graysia's and Nepenthes' quests will appear with fairy quests that are required for their awakenings.
+
+==Upcoming Events==
+
+{|class="wikitable" style="; text-align:center;"
+| style="width:100px;" | '''Date'''
+| style="width:180px;" | '''Event'''
+| style="width:80px" | '''Type'''
+|-
+|}
+
+==Past Events==
+
+{| class="article-table sortable" style="font-size:14px; line-height:1.4; text-align:center; sortable;"
+! scope="col" style="width:100px;text-align:center;" |Date
+! scope="col" style="width:180px;text-align:center;" |Name
+! scope="col" style="width:80px;text-align:center;" |Type
+! scope="col" style="width:120px;text-align:center;" |Event Princes
+! scope="col" style="width:120px;text-align:center;" |Gacha Princes
+|-
+|2016/08/12 to 2016/08/19
+|Summer-Coloured Resort
+|Awakening Coin
+|[[Volker (Resort)]]<br />[[Sorbge (Resort)]]
+|[[Haldine (Resort)]]<br />[[Prytwen (Resort)]]
+|-
+|2016/08/02 to 2016/08/09
+|Tales of the Mononoke Night Parade
+|Point
+|[[Kanoe (Mononoke)]]<br />[[Kanoto (Mononoke)]]
+|[[Hinoto (Mononoke)]]<br />[[Byakuyo (Mononoke)]]<br />[[Toya (Mononoke)]]
+|-
+|2016/07/21 to 2016/07/28
+|A Slight Fever That Melts the Ice<br />(returning event)
+|Awakening Coin
+|[[Lid (Ice)]]<br />[[Drei (Ice)]]
+|[[Lateria]]<br />[[Sorbge]]<br />[[Juri]]<br />[[Elfen]]
+|-
+|2016/07/19 to 2016/08/19
+|Limited Daily Drop Quest "Meeting with the Princes"
+|Drop
+|[[Azuma]]<br />[[Banri]]<br />[[Apollo]]<br />[[Juno]]<br />[[Hikage (Marine)]]<br />[[Las]]<br />[[Fujime]]
+|NA
+|-
+|2016/07/12 to 2016/07/19
+|Circo's Neverending Dream
+|Raid
+|[[Drole]]<br />[[Morta]]
+|[[Nero]]<br />[[Welger]]
+|-
+|2016/07/01 to 2016/07/08
+|In the Starlit Night
+|Point
+|[[Vega (Starlit)]]<br />[[Deneb (Starlit)]]
+|[[Mad Hatter (Starlit)]]<br />[[Hearts (Starlit)]]<br />[[Capita (Starlit)]]
+|-
+|2016/06/22 to 2016/06/29
+|Princes' Outings
+|Awakening Coin
+|[[Julius (Outings)]]<br />[[Akito (Outings)]]
+|[[Rica (Outings)]]<br />[[Saiga (Outings)]]<br />[[Joshua (Outings)]]
+|-
+|2016/06/14 to 2016/06/20
+|Invitation to Butterfly Evening Party<br />(returning event)
+|Point
+|[[Tormari (Butterfly)]]<br />[[Guido (Butterfly)]]<br />[[Azalee]]
+|[[Carlyle]]<br />[[Frites]]<br />[[Azalee]]
+|-
+|2016/06/10 to 2016/06/30
+|Limited Daily Drop Quest "Meeting with the Princes"
+|Drop
+|[[Rica]]<br />[[Castor]]<br />[[Ira]]<br />[[Kaede]]<br />[[Makoto]]<br />[[Will]]<br />[[Martin]]<br />
+|NA
+|-
+|2016/06/03 to 2016/06/10
+|The Bride Reflected in the Water Mirror
+|Awakening Coin
+|[[Fujime (Water Mirror)]]<br />[[Sky (Water Mirror)]]
+|[[Apollo (Water Mirror)]]<br />[[Ster (Water Mirror)]]<br />[[Juno (Water Mirror)]]<br />[[Avi (Bridal)]]<br />[[Crown (Bridal)]]<br />[[Flu (Bridal)]]
+|-
+|2016/05/24 to 2016/05/30
+|Guardians of the Spirits<br />(returning event)
+|Drop (key)
+|[[Zant]]<br />[[Kalt]]
+|[[Foia]]<br />[[Ritz]]<br />[[Fruys]]<br />[[Lullus]]
+|-
+|2016/05/23 to 2016/06/06
+|Collab Commemoration Quest
+|Drop (key)
+|[[Hibiki Wataru]]
+|NA
+|-
+|2016/05/16 to 2016/05/23
+|The Three Brothers and the Three Oddballs
+|Point
+|[[Graysia (Enstars)]]<br />[[Shinkai Kanata]]
+|[[Sakuma Rei]]<br />[[Frost (Enstars)]]<br />[[Synny (Enstars)]]
+|-
+|2016/05/09 to 2016/05/13
+|Prince Lesson
+|NA
+|NA
+|NA
+|-
+|2016/05/02 to 2016/05/09
+|Beaton Film Park
+|Awakening Coin
+|[[Tell (Park)]]<br />[[Jet (Park)]]
+|[[Will (Park)]]<br />[[Banri (Park)]]<br />[[Gerald (Park)]]
+|-
+|2016/04/28 to 2016/05/13
+|CM Commemoration Quest 2
+|Drop (key)
+|[[Vicky]]
+|NA
+|-
+|2016/04/20 to 2016/04/28
+|Older Brother and Younger Brother
+|Drop
+|[[Miya (Brothers)]]<br />[[Iria (Brothers)]]
+|[[Gary (Brothers)]]<br />[[Girbert (Brothers)]]
+|-
+|2016/04/12 to 2016/04/19
+|Feelings of Sword and Shield<br />(returning event)
+|Awakening Coin
+|[[Caliburn]]<br />[[Prytwen]]
+|[[Haldine (Weapon)]]<br />[[Sieg (Weapon)]]<br />[[Carlo (Weapon)]]<br />[[Amano]]<br />[[Thor]]
+|-
+|2016/03/30 to 2016/04/08
+|The Eggs that Construct a Rainbow
+|Point
+|[[Leonie (Easter)]]<br />[[Gauche (Easter)]]
+|[[Leeya (Easter)]]<br />[[Thinpla (Easter)]]<br />[[Droite (Easter)]]
+|-
+|2016/03/22 to 2016/03/29
+|Changing Seasons
+|Drop
+|[[Kaede (Seasons)]]<br />[[Hikage (Seasons)]]
+|[[Oka (Seasons)]]<br />[[Toya]]
+|-
+|2016/03/11 to 2016/03/18
+|Hospitality of the Princes
+|Awakening Coin
+|[[Almari (Hospitality)]]<br />[[Jay (Hospitality)]]
+|[[Douglas (Hospitality)]]<br />[[Ritz (Hospitality)]]
+|-
+|2016/03/02 to 2016/03/09
+|Prince Award
+|Point
+|[[Sieg (Award)]]<br />[[Kies (Award)]]
+|[[Lid (Award)]]<br />[[Sai (Award)]]<br />[[Tiga (Award)]]
+|-
+|2016/02/19 to 2016/02/26
+|Blooming Flower Requiem<br />(returning event)
+|Point
+|[[Lyon]]<br />[[Nepenthes]]
+|[[Julius]]<br />[[Raven]]<br />[[Gerber]]<br />[[Akito]]
+|-
+|2016/02/10 to 2016/02/17
+|Whom Does Your Chocolate Belong to?
+|Awakening Coin
+|[[Joshua (Your Chocolate)]]<br />[[Creto (Your Chocolate)]]
+|[[Saiga (Your Chocolate)]]<br />[[Makoto (Your Chocolate)]]
+|-
+|2016/02/02 to 2016/02/09
+|Chocolate Date
+|Point
+|[[Banri (Chocolate Date)]]<br />[[Antares (Chocolate Date)]]
+|[[Rica (Chocolate Date)]]<br />[[Toto (Chocolate Date)]]<br />[[Kaede (Chocolate Date)]]
+|-
+|2016/01/22 to 2016/01/29
+|Sin and Love
+|Drop (key)
+|[[Las]]<br />[[Ira]]
+|[[Vashti]]<br />[[Acedia]]
+|-
+|2016/01/14 to 2016/01/20
+|Rainy Day Song<br />(returning event)
+|Awakening Coin
+|[[Saiga]]<br />[[Dayang]]<br />
+|[[Sakia (Rainy Day)]]<br />[[Forma (Rainy Day)]]<br />[[Apis (Rainy Day)]]<br />[[Koga]]
+|-
+|2016/01/06 to 2016/01/13
+|New Year's First Play
+|Point
+|[[Edmond (New Year)]]<br />[[Lied (New Year)]]<br />[[Toni (New Year)]]
+|[[Frost (New Year)]]<br />[[Eins (New Year)]]<br />[[Toni (New Year)]]
+|-
+|2015/12/29 to 2016/01/06
+|End & Beginning of Year Commemoration Drop Quest
+|Drop
+|[[Castor]]<br />[[Makoto]]<br />[[Banri]]<br />[[Will]]<br />[[Azuma]]<br />[[Juno]]<br />[[Perla]]
+|NA
+|-
+|2015/12/26 to 2016/12/31
+|Festival of the Zodiac
+|Drop (key)
+|[[Kanoe]]
+|[[Hinoto]]<br />[[Kanoto]]
+|-
+|2015/12/14 to 2015/12/22
+|Christmas of Wonderland
+|Awakening Coin
+|[[Mad Hatter (Xmas)]]<br />[[Capita (Xmas)]]
+|[[Cheshire Cat (Xmas)]]<br />[[Hearts (Xmas)]]<br />[[Marchia (Xmas)]]
+|-
+|2015/12/02 to 2012/12/09
+|A Memorable Love with You
+|Point
+|[[Vio]]<br />[[Legrange]]
+|[[Roie]]<br />[[Volker]]<br />[[Theodor]]
+|-
+|2015/11/26 to 2015/12/09
+|CM Commemoration Quest
+|Drop (key)
+|[[Ster]]
+|NA
+|-
+|2015/11/19 to 2015/11/26
+|School Memory
+|Awakening Coin
+|[[Iria (School)]]<br />[[Sai (School)]]
+|[[Girbert (School)]]<br />[[Rufen (School)]]
+|-
+|2015/11/12 to 2015/11/18
+|Sweets Panic<br />(returning event)
+|Drop (key)
+|[[Rica]]<br />[[Martin]]
+|[[Byakuyo (Sweets Panic)]]<br />[[Hinata (Sweets Panic)]]<br />[[Synny (Sweets Panic)]]
+|-
+|2015/11/02 to 2015/11/11
+|Light Descending Upon You
+|Point
+|[[Micaela]]<br />[[Adiel]]<br />[[Dulfer]]
+|[[Lecien]]<br />[[Camilo]]<br />[[Dulfer]]
+|-
+|2015/10/22 to 2015/10/29
+|Briar's Magic Tool
+|Raid
+|[[Vedy]]<br />[[Grad]]
+|[[Dion (Briar)]]<br />[[Sirius (Briar)]]
+|-
+|2015/10/13 to 2015/10/20
+|Parade is a Love Gimmick?
+|Awakening Coin
+|[[Altair (Parade)]]<br />[[Deneb (Parade)]]
+|[[Tiga (Parade)]]<br />[[Haku (Parade)]]
+|-
+|2015/09/30 to 2015/10/09
+|Fear! Will's Harvest Festival
+|Point
+|[[Rolf (Harvest)]]<br />[[Nepenthes (Harvest)]]
+|[[Vim (Harvest)]]<br />[[Alfred (Harvest)]]<br />[[Procyon (Harvest)]]
+|-
+|2015/09/18 to 2015/09/28
+|Literary Love Story
+|Drop (key)
+|[[Graham]]<br />[[Fujime]]
+|[[Miya (Literary)]]<br />[[Kies (Literary)]]
+|-
+|2015/09/10 to 2015/09/17
+|Feelings of Sword and Shield
+|Awakening Coin
+|[[Caliburn]]<br />[[Prytwen]]
+|[[Haldine (Weapon)]]<br />[[Sieg (Weapon)]]<br />[[Carlo (Weapon)]]
+|-
+|2015/08/31 to 2015/09/09
+|Invitation to Butterfly Evening Party
+|Point
+|[[Tormari (Butterfly)]]<br />[[Guido (Butterfly)]]<br />[[Azalee]]
+|[[Carlyle]]<br />[[Frites]]<br />[[Azalee]]
+|-
+|2015/08/21 to 2015/08/28
+|Marine Sand Story
+|Drop
+|[[Martin (Marine)]]<br />[[Hikage (Marine)]]
+|[[Douglas]]<br />[[Sarasa]]<br />[[Corail]]
+|-
+|2015/08/13 to 2015/08/20
+|Present of Powder Snow<br />(returning event)
+|Point
+|[[Graysia]]
+|[[Frost]]<br />[[Synny]]
+|-
+|2015/08/03 to 2015/08/12
+|Over the Rainbow
+|Awakening Coin
+|[[Oswald]]<br />[[Droite]]
+|[[Thinpla]]<br />[[Leonie]]<br />[[Toto]]
+|-
+|2015/07/24 to 2014/07/31
+|Ancient Sakura Banquet<br />(returning event)
+|Drop
+|[[Azuma]]<br />[[Kaede]]
+|[[Oka]]<br />[[Hikage]]
+|-
+|2015/07/16 to 2015/07/23
+|A Slight Fever That Melts the Ice
+|Awakening Coin
+|[[Lid (Ice)]]<br />[[Drei (Ice)]]
+|[[Lateria]]<br />[[Sorbge]]<br />[[Juri]]
+|-
+|2015/07/01 to 2015/07/10
+|Wish Upon a Star
+|Point
+|[[Castor (Star)]]<br />[[Shigure (Star)]]
+|[[Vega]]<br />[[Altair]]<br />[[Deneb]]
+|-
+|2015/06/22 to 2015/06/29
+|Innocent Bridal
+|Drop (schedule)
+|[[Perla]]<br />[[Juno]]
+|[[Avi (Bridal)]]<br />[[Crown (Bridal)]]<br />[[Flu (Bridal)]]
+|-
+|2015/06/12 to 2015/06/19
+|Rainy Day Song
+|Awakening Coin
+|[[Saiga]]<br />[[Dayang]]<br />
+|[[Sakia (Rainy Day)]]<br />[[Forma (Rainy Day)]]<br />[[Apis (Rainy Day)]]
+|-
+|2015/06/01 to 2015/06/09
+|Blooming Flower Requiem
+|Point
+|[[Lyon]]<br />[[Nepenthes]]
+|[[Julius]]<br />[[Raven]]<br />[[Gerber]]
+|-
+|2015/05/28 to 2015/06/12
+|I Wanna Become a Princeeee
+|Drop
+|[[Nabbit]]
+|NA
+|-
+|2015/05/21 to 2015/05/28
+|Little Star Movie Festival
+|Drop (schedule)
+|[[Will]]<br />[[Banri]]
+|[[Gerald]]<br />[[Jet]]<br />[[Procyon]]
+|-
+|2015/05/11 to 2015/05/18
+|Guardians of the Spirits
+|Drop
+|[[Zant]]<br />[[Kalt]]
+|[[Foia]]<br />[[Ritz]]<br />[[Fruys]]
+|-
+|2015/04/30 to 2015/05/08
+|The Princes of Wonderland
+|Point
+|[[Hearts]]<br />[[Chrono]]
+|[[Cheshire Cat]]<br />[[Marchia]]<br />[[Dormouse]]
+|-
+|2015/04/21 to 2015/04/28
+|Sweets Panic
+|Drop (schedule)
+|[[Rica]]<br />[[Martin]]
+|[[Byakuyo (Sweets Panic)]]<br />[[Hinata (Sweets Panic)]]
+|-
+|2015/04/10 to 2015/04/17
+|Ancient Sakura Banquet
+|Drop
+|[[Azuma]]
+|[[Oka]]<br />[[Hikage]]
+|-
+|2015/03/31 to 2015/04/08
+|Present of Powder Snow
+|Point
+|[[Graysia]]
+|[[Frost]]<br />[[Synny]]
+|-
+|2015/03/17 to 2015/03/26
+|The Smile of an Angel?
+|Drop (schedule)
+|[[Makoto]]
+|NA
+|-
+|2015/03/09 to 2015/03/24
+|The Prince with Two Hearts
+|Drop
+|[[Castor]]
+|NA
+|}

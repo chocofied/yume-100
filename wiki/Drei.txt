@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 10
+|name = Drei
+|name_jp = ドライ
+|attribute = Cool
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 282
+|hp_max = 638
+|hp_break = 753
+|atk_base = 215
+|atk_max = 391
+|atk_break = 461
+|rp_base = 203
+|rp_max = 369
+|rp_break = 436
+|lskill_name = ゲーマー
+|lskill_desc = Reduce Blue damage by 10%
+|skill_name = ゲームを始めようか
+|skill_desc = Turn beads into bombs (2)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 574
+|hp_max_s = 823
+|hp_break_s = 955
+|atk_base_s = 371
+|atk_max_s = 504
+|atk_break_s = 585
+|rp_base_s = 351
+|rp_max_s = 476
+|rp_break_s = 552
+|lskill_name_s = ゲーマー
+|lskill_desc_s = Reduce Blue damage by 15%
+|skill_name_s = 裏技を使うか
+|skill_desc_s = Turn beads into bombs (3)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 574
+|hp_max_m = 747
+|hp_break_m = 867
+|atk_base_m = 371
+|atk_max_m = 528
+|atk_break_m = 612
+|rp_base_m = 351
+|rp_max_m = 498
+|rp_break_m = 578
+|lskill_name_m = ゲーマー
+|lskill_desc_m = Reduce Blue damage by 15%
+|skill_name_m = 僕の勝ちだ
+|skill_desc_m = Turn beads into bombs (3)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Sasaki Atsushi
+|origin = Country of Time - Crawford
+|age = 24
+|birth = February 28
+|likes = Flower garden
+|dislikes = This world
+|policy = Everyone is an enemy in this world
+|desc = 時の国・クロフォードの王子。頭脳明晰で、人生をゲームだと思っている。部屋に引きこもることが多く、不摂生。命を狙われてもそれを攻略することを楽しむ。
+|bg = ドライに呼ばれて彼に会いに行ったあなた。けれど彼はあくまでゲーム感覚であなたと接する。そんな中、事件に巻き込まれるあなたにドライは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼の場所で
+|choice21m = 確かに少し残念です
+|points21m = 6
+|choice21s = そんなことありません
+|points21s = 6
+|title3 = 花の香りに誘われて
+|choice31s = いつもここに？
+|points31s = 2
+|choice31m = お邪魔してすみません
+|points31m = 2
+|choice32s = まあまあ上がった
+|points32s = 7
+|choice32m = とっても上がった
+|points32m = 7
+|title4 = どれが本物？
+|choice41m = これは一体……
+|points41m = 12
+|choice41s = 助けて
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_10s.jpg}}
+{{Still|text=Moon Still|img=Still_10m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 票集めには興味がないがな…ただ、ランクと言われれば気になるだろ
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 僕を選んだだと…そうか、まあ、少しデレてやるのもいいぞ…少しな
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = こんな時間までフラグの回収？ご苦労様だな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = そんなに馴れ馴れしくされる覚えはないんだけど…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 僕がそんなに簡単に隙を見せると思うな
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = なんでそんなに構う？…理解できない
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = こんな時間から来るな…朝は苦手なんだ…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 食事をきちんととれ？…余計なお世話だ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ゲームスタートだ
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 報酬はそれなりか
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ゲームは苦手なのか？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 慣れてきたようだな…けど、まだまだ
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 僕と同じくらい速いな
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ちゃんと、僕のフラグを回収しに来いよ…！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 理解不能な行動をするな。ちゃんと日課をこなせ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = お前のその行為（アクション）は…裏技（チート）じゃないのか
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お前は僕のモノだからね。逆らうことは許さない
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 勝手なことしたら、どうなるか…わかってるのか？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 怖がらなくて大丈夫だ。僕が、ちゃんと見てるから…
+|CARD_DETAIL_m_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 発動タイミングは、ばっちりだ
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = チートじゃないのか？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = イージーだな
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 簡単すぎて、つまらない
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 一日一回来れば親密度が上がるとでも思ってる？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 効率良くやれよ？成功率アップも見逃すな
+|CARD_ENHANCE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = …邪魔
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …っち！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = …回復が、遅い。
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ここでスキル発動っと…
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 僕、雑魚にも手を抜かないタイプなんだ
+|SKILL_INVOKE_s_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = お前の行動は、全部僕が把握する
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = このゲームの勝者は、僕だ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 他人とは関わりたくない
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日…だろ。知ってる。1年に1回、特別な台詞を言う日だ…おめでとう
+|BIRTHDAY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = …なんだ、お前？あいつとどういう関係？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝い？…それってどんな下心があるの？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = なんか、こういうの面倒くさいよね。裏切り者もいるかもだし
+|GUILD_clip = 
+}}

@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 262
+|name = Saiga
+|name_jp = 砕牙
+|attribute = Gentle
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 596
+|hp_max = 1184
+|hp_break = 1350
+|atk_base = 401
+|atk_max = 652
+|atk_break = 743
+|rp_base = 396
+|rp_max = 543
+|rp_break = 619
+|lskill_name = 不思議の国の戯れ
+|lskill_desc = Increase ATK by 50% when HP is above 50%
+|skill_name = ふかふかの尻尾
+|skill_desc = Turn Red beads into Purple and Blue beads into Green
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1066
+|hp_max_s = 1445
+|hp_break_s = 1618
+|atk_base_s = 619
+|atk_max_s = 795
+|atk_break_s = 890
+|rp_base_s = 516
+|rp_max_s = 581
+|rp_break_s = 651
+|lskill_name_s = 恋色の本音
+|lskill_desc_s = Increase ATK by 60% when HP is above 50%
+|skill_name_s = ふかふかの尻尾
+|skill_desc_s = Turn Red beads into Purple and Blue beads into Green
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1066
+|hp_max_m = 1315
+|hp_break_m = 1473
+|atk_base_m = 619
+|atk_max_m = 840
+|atk_break_m = 941
+|rp_base_m = 516
+|rp_max_m = 603
+|rp_break_m = 675
+|lskill_name_m = 秘められぬ想い
+|lskill_desc_m = Increase ATK by 60% when HP is above 50%
+|skill_name_m = 祝福のソーダ水
+|skill_desc_m = Turn Purple beads into Red and Yellow beads into Green
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|desc = 天狐の国・伊呂具の王子。雨を操ることができる。千年の時を生きており、妖しげで美しい不思議な雰囲気をまとう。プリンスアワードで『ドリームクラウン』の称号を得た後、公務としてワンダーメアを訪れた。
+|bg = 『ドリームクラウン』の称号を贈られた砕牙と不思議の国を訪れたあなた。街で出会ったマッドハッターによるとこの国では不思議な病が流行っているらしく…
+|event = Princes' Outings
+|original = [[Saiga]]
+}}
+== Story ==
+{{Choice|title2 = 戸惑いの街|choice21s = 確かにふわふわだけど|points21s = 8|choice21m = 砕牙の顔を見る|points21m = 8|title3 = 帽子屋の謎かけ|choice31s = 嘘は良くない|points31s = 4|choice31m = どちらも違う|points31m = 4|choice32s = 許嫁って……|points32s = 8|choice32m = 違います|points32m = 8|title4 = 城の禁止事項|choice41s = ありがとうございます|points41s = 12|choice41m = 砕牙さんが雨を？|points41m = 12|title5 = 薬の手がかり|choice51s = 私の方こそ|points51s = 16|choice51m = 巻き込まれてもいい|points51m = 16}}{{Still|text=Sun Still|img=Still_262s.jpg}}
+{{Still|text=Moon Still|img=Still_262m.jpg}}

@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 138
+|name = Tormari
+|name_jp = トルマリ
+|attribute = Passion
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 331
+|hp_max = 726
+|hp_break = 947
+|atk_base = 365
+|atk_max = 532
+|atk_break = 695
+|rp_base = 375
+|rp_max = 547
+|rp_break = 714
+|lskill_name = ティアラへの憧れ
+|lskill_desc = Recover HP every turn (SS)
+|skill_name = グリッター・ティアラ
+|skill_desc = Erase top & bottom beads
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 653
+|hp_max_s = 936
+|hp_break_s = 1201
+|atk_base_s = 506
+|atk_max_s = 591
+|atk_break_s = 758
+|rp_base_s = 519
+|rp_max_s = 607
+|rp_break_s = 778
+|lskill_name_s = お花のアレンジ
+|lskill_desc_s = Recover HP every turn (SSS)
+|skill_name_s = フラワー・ティアラ
+|skill_desc_s = Erase top & bottom beads
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 653
+|hp_max_m = 936
+|hp_break_m = 1201
+|atk_base_m = 506
+|atk_max_m = 591
+|atk_break_m = 758
+|rp_base_m = 519
+|rp_max_m = 607
+|rp_break_m = 778
+|lskill_name_m = 貸し合いっこ
+|lskill_desc_m = Recover HP every turn (SSS)
+|skill_name_m = フレンド・ティアラ
+|skill_desc_m = Erase top & bottom beads
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Invitation to Butterfly Evening Party
+|original = [[Tormari]]
+|desc = 宝石の国・マリングラスの第一王子。見た目は誰が見ても可愛い女の子。無邪気に笑い、自由奔放に行動している。パーティでお披露目されるティアラに憧れを抱いている。
+|bg = パーティにトルマリと訪れたあなた。そこでお披露目されるティアラに目がくぎづけになる彼。果たしてそのティアラの所有者として選ばれるのは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = パーティへ、ようこそ！
+|choice21m = 照れる
+|points21m = 8
+|choice21s = やめて
+|points21s = 8
+|title3 = トルマリに恋して
+|choice31s = 教える
+|points31s = 4
+|choice31m = 教えない
+|points31m = 4
+|choice32s = 照れる
+|points32s = 8
+|choice32m = 否定する
+|points32m = 8
+|title4 = 彼の背中
+|choice41s = 戸惑う
+|points41s = 12
+|choice41m = 断る
+|points41m = 12
+|title5 = きみの魅力を…
+|choice51s = 何するの！？
+|points51s = 16
+|choice51m = やめて……！
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_138s.jpg}}
+{{Still|text=Moon Still|img=Still_138m.jpg}}
+
+== Quotes ==
+{{Quotes
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ふたりで可愛いのがいいよね？お揃いにしよ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = きみとダンスするなら、かっこいい方がいいかな
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = シャンデリアがキラキラしてるみたい
+|BATTLE_FEVER_TIME_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = だめだよ！ドレス汚れちゃうよ！
+|CHAIN_NICE_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すっごく可愛いよ！きみといると、楽しいな！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうそう、そうやってドレスの裾を持って！
+|CHAIN_GREAT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ドレスがよごれちゃう！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = きみはお断り！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = パーティーだから、一番可愛いドレスね！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 綺麗になったね
+|BATTLE_RECOVER_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = いなくなってよかった〜！
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = お化粧くずれちゃうね
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ねえねえ、ぼくのドレス、とっても可愛いと思わない！？
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あれ？パーティーの準備できてないの？ほら、早く着替えてこなきゃ！
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ティアラ欲しい…一番可愛いお洋服を着てる人なら、絶対ぼくなのになあ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = うん、やっぱりティアラが一番似合うのは……きみだと思うんだ
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう！　今日は二人でおっきなケーキを食べようね！楽しみだな
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 可愛いドレスだね！　さ、でかけよう！？
+|DECK_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 今日はパーティの日だね！ね、はやく準備しよう？すっごく楽しみ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ほら、出かけるよ！手袋持った？扇子は？うん、じゃあ、行こう！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = どうしよう！パーティにつけようと思ってたリボンが見つからないよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = いいなあ…ティアラ。え、きみは欲しくないの？可愛いよね、あれ
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = そんなにぼくのことばっかり可愛いって言わないの！きみだって可愛いの
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = いいね。半分こ！これからもずっと二人で半分こ、しようね
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ねえねえ、これにティアラ入ってるかな？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんなとこまでお邪魔虫ー！
+|BATTLE_START_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ぼくの後ろに隠れてどうしたの？恥ずかしがらないで、可愛くできたんだから
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = せっかくのお呼ばれだから、二人でうんとオシャレしようね！楽しみだね
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = きみはもっと、自信をもっていいんだよ！だって、ぼくの大切な人なんだから
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ダンスはぼくがちゃんとリードするからね！安心して！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ティアラ欲しいなあ…だってきっと、似合うと思うんだよ？ぼくにも、きみにも
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = きみはどんどん可愛くなるね…え、ぼくと一緒にいるから？…うれしいな
+|CARD_DETAIL_s_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = あ、こっちもパーティがあるの？　楽しいことがたくさんでいいな！
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びに来てくれたんだ！ありがとう……けど、そろそろ出かけなきゃいけなくて
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = あれ、パーティ会場はどこかな？ここじゃないよね？
+|GUILD_clip = 
+}}

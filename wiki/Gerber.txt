@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 94
+|name = Gerber
+|name_jp = ジェルバー
+|attribute = Passion
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 359
+|hp_max = 746
+|hp_break = 880
+|atk_base = 208
+|atk_max = 353
+|atk_break = 417
+|rp_base = 195
+|rp_max = 399
+|rp_break = 471
+|lskill_name = 花咲く笑顔
+|lskill_desc = Increase Red RP by 25%
+|skill_name = ピンクスマイル
+|skill_desc = Recover HP every turn (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 671
+|hp_max_s = 918
+|hp_break_s = 1065
+|atk_base_s = 336
+|atk_max_s = 435
+|atk_break_s = 505
+|rp_base_s = 379
+|rp_max_s = 563
+|rp_break_s = 653
+|lskill_name_s = あなたは僕の太陽
+|lskill_desc_s = Increase Red RP by 35%
+|skill_name_s = レッドハート
+|skill_desc_s = Recover HP every turn (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 671
+|hp_max_m = 1052
+|hp_break_m = 1220
+|atk_base_m = 336
+|atk_max_m = 435
+|atk_break_m = 505
+|rp_base_m = 379
+|rp_max_m = 491
+|rp_break_m = 570
+|lskill_name_m = 王子としての自信
+|lskill_desc_m = Increase Red RP by 35%
+|skill_name_m = オレンジシャイン
+|skill_desc_m = Recover HP every turn (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Enoki Junya
+|origin = Country of Flower Fairy - Virastin
+|age = 26
+|birth = January 21
+|likes = Being trusted by people
+|dislikes = Nothing really
+|policy = Be kind to others and strict on yourself
+|desc = 花の精の国・ヴィラスティンのガーベラの一族の王子。明るくてポジティブな性格。周囲の人達の世話を焼き、応援することに精を出す。
+|bg = ジェルバーを目覚めさせ、そのままヴィラスティンへ訪れたあなた。みんなに優しい彼だが、実は王子としてある悩みを抱いていて…―。
+}}
+
+== Story ==
+{{Choice
+|title2 = 戸惑いの色
+|choice21s = どうかしましたか？
+|points21s = 6
+|choice21m = じっと見つめる
+|points21m = 6
+|title3 = 彼の献身
+|choice31s = 放っておけない
+|points31s = 3
+|choice31m = 気にしないで
+|points31m = 3
+|choice32m = ごめんなさい……！
+|points32m = 6
+|choice32s = 大丈夫ですか！？
+|points32s = 6
+|title4 = あふれる不安
+|choice41m = 助けてくれてありがとう
+|points41m = 12
+|choice41s = 十分かっこいい
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_94s.jpg}}
+{{Still|text=Moon Still|img=Still_94m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ……慰めてくれるの？嬉しいな。立派な王子様になりたいなあ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ……！　かわいい人だね。僕を驚かせようとしたんでしょう？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = おっと！……びっくり。どうしましたか？僕になんでも相談してねっ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 少しでも皆の役に立ちたくて……！もちろんあなたのためにだって！
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ……僕の手を、ぎゅっとしてもらっていい？頑張るぞって思えるんだ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = いきなりすごいことをしようって思っても、失敗しちゃうよね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = どうしてもあなたと一緒にいたい…この気持ちを、大事にしたいんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あなたを抱きしめていると、どんな冷たい風も大丈夫！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = もうこんな時間ですか？あっと言う間ですね。少し休憩にしませんか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ……寒いっ！日が落ちると……冷えて……僕、寒がりなんだ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = いい朝ですね！……だって、こうやってあなたの笑顔が見られたんだから！
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = えええ！ぼ、僕もがんばらなきゃ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えい！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 大丈夫！花も僕も、あなたを応援してる
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = すごい　いい調子！花も喜んでるよ！
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = お水をあげましょうか？
+|SKILL_INVOKE_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ぐっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 温かいよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 僕、負けないから！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 心が暖かくなるよね！
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 急にどうしたの？……僕にもあなたのこと、応援させてくれないかな
+|CARD_DETAIL_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 綺麗なお花を咲かせるよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 溢れそうなこの思い……どうか受け取って！
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よかったあ……はぁ
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 僕にできることなら、なんでもやるからね！
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 僕が皆に綺麗なお花を届けるよ！
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕、あなたに笑っていて欲しいんだ
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 開花宣言！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あ、花びらがおちちゃう！
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 赤いガーベラは…燃える神秘の愛！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = オレンジのガーベラは…冒険心！
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう。黄色のガーベラの花言葉はね、「究極愛」なんだよ
+|BIRTHDAY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びにきてくれてありがとう！ガーベラの花、好き？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 僕のお祝いに……？嬉しいな、ありがとう！
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは素敵なところだね。ガーベラを植えてもいいかなあ……
+|GUILD_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 自信はないけど…一人でも応援してくれる人がいる限り、頑張るよ！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 僕、絶対に選ばれないと思ってた…だから、本当に嬉しいよ！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 89
+|name = Nabbit
+|name_jp = ナビット
+|attribute = Cute
+|rarity = 3
+|cost = 7
+|lvmax = 40
+|hp_base = 347
+|hp_max = 813
+|hp_break = 960
+|atk_base = 224
+|atk_max = 355
+|atk_break = 419
+|rp_base = 208
+|rp_max = 402
+|rp_break = 475
+|lskill_name = 王子様になりたーいっ！
+|lskill_desc = Increase all Yellow stats by 10%
+|skill_name = キャロットパンチ
+|skill_desc = Increase party ATK for 1 turn (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 732
+|hp_max_s = 1000
+|hp_break_s = 1160
+|atk_base_s = 337
+|atk_max_s = 436
+|atk_break_s = 506
+|rp_base_s = 382
+|rp_max_s = 567
+|rp_break_s = 658
+|lskill_name_s = 王子様になったよ！
+|lskill_desc_s = Increase all Yellow stats by 15%
+|skill_name_s = キャロットシャワー
+|skill_desc_s = Increase party ATK for 1 turn (A)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 732
+|hp_max_m = 1147
+|hp_break_m = 1331
+|atk_base_m = 337
+|atk_max_m = 436
+|atk_break_m = 506
+|rp_base_m = 382
+|rp_max_m = 495
+|rp_break_m = 574
+|lskill_name_m = ポケットランド大好き！
+|lskill_desc_m = Increase all Yellow stats by 15%
+|skill_name_m = キャロットタワー
+|skill_desc_m = Increase party ATK for 1 turn (A)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kimura Ryohei
+|origin = Collaboration with Nabbitland
+|age = 5
+|birth = 
+|likes = Carrots
+|dislikes = Nothing really
+|policy = Everyone is a friend
+|desc = 天真爛漫で物怖じしない性格。ポケットランドのみんなとお洋服が大好き。「一言しゃべった人はみんなお友達！」と思っている。
+|bg = あなた達の前に突然現れたナビット。「王子様になりたい！」という思いを抱いており、その教えをあなた達に乞う。果たして彼は王子様になれるのか…―？
+}}
+
+== Story ==
+{{Choice
+|title2 = メディは説く
+|choice21s = すごく素敵だよ
+|points21s = 6
+|choice21m = もう少し落ち着いて
+|points21m = 6
+|title3 = ルークの優しさ
+|choice31m = 優しさかな？
+|points31m = 3
+|choice31s = 自信かな？
+|points31s = 3
+|choice32s = 国を守ること
+|points32s = 6
+|choice32m = 自分に厳しくすること
+|points32m = 6
+|title4 = アヴィの気持ち
+|choice41m = 自分の夢を持つこと
+|points41m = 12
+|choice41s = かっこよさ
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_89s.jpg}}
+{{Still|text=Moon Still|img=Still_89m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = お外は真っ暗だね！僕、暗くてもこわくなんかないよ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう！ポケットランドでも、きっと素敵な1日が始まってるよね！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = おねーちゃんはにんじん好き？　おやつににんじん食べようよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ？！　そんな風に頭なでられると……嬉しいなあ……気持ちいいなあ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ポケットランドの素敵なお洋服、お姉ちゃんにも着て欲しいな♪　いつか着てね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 王子様になったから、僕、お姫様と仲良くなれるんだよね！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = えっ！！　僕と手つないでくれるの？……次は……えっと……その
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 僕は王子様じゃないけれど、お姉ちゃんはそれでもいい？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = わわわわわ！なんか出た！
+|BATTLE_START_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ポケットランドにはね、たーくさんのお洋服があるの！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ふふふっ！　ぼくがカッコイイからって見とれちゃうんでしょう？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……くすぐったいよう！やめてってば！耳と尻尾はダメダメ～
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 王子様ってかっこいいねえ♥　うっとりしちゃうね
+|MAIN_TOP_TOUCH_2_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = にんじんさん　いくよー！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 王子様の威厳を、見せてやる！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うわああ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ふう！よかった！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ポケットランドが大好きです！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = とっても素敵だったね！
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 待って！待って！おいつけないよー！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えーい！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = へええ！それどうやってやるの？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = すごいすごーい！　もっと見せて！
+|CHAIN_GREAT_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日なの？おめでとう！僕もはやく大人のかっこいい王子様になりたいなあ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 新しいお洋服が手にはいったよ！
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕とにんじんさんがついてるよ♪
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = フィーバー！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ちょっと疲れちゃった！
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = みてみて！　僕、かっこよくなってる？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 僕、王子様だからね！
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = わーい！やったあ！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ポケットランドへようこそ！　あ…まちがえちゃった！
+|CARD_TOP_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんにちはー！僕、ナビットだよ！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここににんじんを植えてもいいかな？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝い？……パーティー？すてき！
+|WELCOME_PARTY_clip = 
+}}

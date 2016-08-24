@@ -1,0 +1,218 @@
+== Status ==
+{{Infobox
+|no = 15
+|name = Rolf
+|name_jp = ロルフ
+|attribute = Cute
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 303
+|hp_max = 678
+|hp_break = 800
+|atk_base = 168
+|atk_max = 306
+|atk_break = 361
+|rp_base = 240
+|rp_max = 437
+|rp_break = 515
+|lskill_name = 上目づかい
+|lskill_desc = Reduce Yellow damage by 10%
+|skill_name = 黒ネコさんの算数
+|skill_desc = Turn Purple beads into Yellow
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 610
+|hp_max_s = 834
+|hp_break_s = 967
+|atk_base_s = 290
+|atk_max_s = 431
+|atk_break_s = 500
+|rp_base_s = 415
+|rp_max_s = 537
+|rp_break_s = 623
+|lskill_name_s = 上目づかい
+|lskill_desc_s = Reduce Yellow damage by 15%
+|skill_name_s = 黒ネコさんの算数
+|skill_desc_s = Turn Purple beads into Yellow
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 610
+|hp_max_m = 834
+|hp_break_m = 967
+|atk_base_m = 290
+|atk_max_m = 376
+|atk_break_m = 436
+|rp_base_m = 415
+|rp_max_m = 616
+|rp_break_m = 715
+|lskill_name_m = 上目づかい
+|lskill_desc_m = Reduce Yellow damage by 15%
+|skill_name_m = 黒ネコさんの算数
+|skill_desc_m = Turn Purple beads into Yellow
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kobayashi Yu
+|origin = Country of Glamour - Lotria
+|age = 10
+|birth = October 31
+|likes = Kind people, arithmetic
+|dislikes = People with loud voices and monsters
+|policy = Whatever it is, you can't excuse yourself based on your personality
+|desc = The prince of Lotria, the country of Glamour. He is very shy and easily frightened. His clothes seem to be his mother's hobby. 
+He hates ghosts and he is really skilled in arithmetic.
+|bg = After an unexpected turn of events, you have to undergo a trial together with Rolf, but what is waiting for you...? And will Rolf be able to overcome the trial...?!
+}}
+
+== Story ==
+{{Choice
+|title2 = 試練は朝食と共に
+|choice21m = 食べてあげる
+|points21m = 6
+|choice21s = 頑張ろうよ
+|points21s = 6
+|title3 = いざ、洞窟の中へ
+|choice31m = 頭を撫でる
+|points31m = 3
+|choice31s = そんなことない
+|points31s = 3
+|choice32m = ロルフの先を歩いてあげる
+|points32m = 6
+|choice32s = ぎゅっと手を握り返す
+|points32s = 6
+|title4 = ボクがあなたを守る
+|choice41s = 大丈夫だと言う
+|points41s = 12
+|choice41m = 泣きそうになる
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_15s.jpg}}
+{{Still|text=Moon Still|img=Still_15m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en =W-what should I do, I feel nervous... U~u... 
+|AWARD_EVENT_NOMINATED_jp = ど、どうしよう。ボク、緊張して…うぅ…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =T-thank you for... choosing me, I am really happy...! 
+|AWARD_EVENT_FAVORITES_jp = ボ、ボクを選んでくれるなんて…ありがとう、すごく嬉しいです…！
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_1_en =Will you...come with me? ...I am scared of going... alone. 
+|MAIN_TOP_TOUCH_1_jp = ボクと…ついてきてくれますか？…一人だと…怖くて
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =Ah, what a cute outfit! ...it goes  well with the color of my outfit. 
+|MAIN_TOP_TOUCH_2_jp = あ、かわいいお洋服ですね！…ボクのお洋服と色が一緒です
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en =Let's talk a lot together... when you finish your studies. 
+|CARD_DETAIL_jp = これから、お勉強があって…終わったら…いっぱいお話してください
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =Ah...! I was a little surprised. I want to act cooler... 
+|MAIN_TOP_TOUCH_s_1_jp = あ…！ちょっとビックリしちゃいました。かっこよく、振る舞いたいのに…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =Why are you in such a hurry? ...Eh, you wanted to talk to me? ...I am happy. 
+|MAIN_TOP_TOUCH_s_2_jp = そんなに慌ててどうしたんです？…え、ボクとお話したくて？…うれしい
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en =Aa! ...Good morning, what shall we do today... 
+|MAIN_TOP_MORNING_GREET_jp = っ！…おはようございます今日は、何をして過ごしましょうか…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =I want to eat some strawberries... Hey, don't you want to eat some? 
+|MAIN_TOP_AFTERNOON_GREET_jp = あまいイチゴが食べたいな…ね、食べたくないですか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =I am already sleepy... but, I won't go to sleep yet... ogether... together... 
+|MAIN_TOP_EVENING_GREET_jp = …もう、ボク眠いです…でも、まだ寝ません。一緒に…一緒に…
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_s_en =More, I want to be more of a great prince that you can... rely on... 
+|CARD_DETAIL_s_jp = もっと、アナタに頼ってもらえる立派な王子に…なりたいです…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =Please look... today's outfit... it is cute, isn't?... it's my favorite. 
+|MAIN_TOP_TOUCH_m_1_jp = 見てください…今日のお洋服…カワイイですよね…お気に入りなんです
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =Waa...! I was surprised... I thought it was a ghost... 
+|MAIN_TOP_TOUCH_m_2_jp = わぁ…！　びっくりしました……オバケかと、思っちゃいました……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =Your hand, is it okay if I squeezed it... it is okay? I am glad, it's warm. 
+|CARD_DETAIL_m_jp = 手、ぎゅってしていいですか。…いいの？うれしい。あったかいです
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =S-...scary! 
+|BATTLE_START_jp = こ…こわい！
+|BATTLE_START_clip = 
+|CHAIN_NICE_en =Me too... I won't lose... I will do my best! 
+|CHAIN_NICE_jp = ボクも…負けないで…頑張る！
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en =Ee! 
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Hyaa! 
+|BATTLE_DAMAGE_jp = ヒャア！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =...I was scared. 
+|BATTLE_RECOVER_jp = …怖かったよう。
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =... I am scared, don't come over here...! 
+|SKILL_INVOKE_jp = …こわいよ、こっちに来ないで…！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =I want to protect you properly...! 
+|SKILL_INVOKE_s_jp = ボク、アナタをちゃんと、守りたいです…！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en =I am scared... but if you are here... I will do my best. 
+|SKILL_INVOKE_m_jp = 怖いよ…でもアナタがいるから…頑張ります
+|SKILL_INVOKE_m_clip = 
+|BATTLE_RESULT_en =Did you get... some cute things? 
+|BATTLE_RESULT_jp = カワイイもの…もらえましたか…？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en =Amazing... I... that... 
+|CHAIN_EXCELLENT_jp = すごい…ボク…あの…
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en =Don't you... leave me... behind! 
+|CHAIN_GREAT_jp = ボクのこと…おいて…いかないで！
+|CHAIN_GREAT_clip = 
+|CARD_ENHANCE_en =I... somehow my heart... feels warm. 
+|CARD_ENHANCE_jp = ボク…なんだか心が……ぽかぽかしています
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =Even more, I wish to become a prince worthy of you. 
+|CARD_EVOLUTION_s_jp = もっと、アナタにふさわしい王子になりたいです
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =Please look, isn't it sparkling, my surroundings? 
+|CARD_EVOLUTION_m_jp = 見て下さい…ボクのまわり、キラキラしてませんか？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =I... will be house-sitting... 
+|DECK_jp = ボク……お留守番してます……
+|DECK_clip = 
+|BIRTHDAY_en =Happy birthday... the strawberry cake... shall we eat it together? 
+|BIRTHDAY_jp = お誕生日おめでとうございます…いちごのケーキ…いっしょに食べましょう？
+|BIRTHDAY_clip = 
+|BATTLE_FEVER_TIME_en =Waah!... What should I do?! 
+|BATTLE_FEVER_TIME_jp = うわあ！…どうしよう？！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =...Somehow we made it... but the next one... 
+|BATTLE_TURN_END_jp = …どうにか、なりました…でも次は…
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en =...It is over... I am glad. *sob* ... 
+|BATTLE_CLEAR_jp = …終わりました…よかったあ。グスッ…
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en =When I am together with you, I feel... really happy... this is...? 
+|CARD_TOP_jp = アナタと一緒にいると、すごく…うれしい気持ち…これって…？
+|CARD_TOP_clip = 
+|WELCOME_PARTY_en =...Are you going to celebrate?... I am... happy. 
+|WELCOME_PARTY_jp = …お祝いしてくれるの？…うれしい…です
+|WELCOME_PARTY_clip = 
+|GUILD_en =U~u... This place, what is it? it's scary... scary... 
+|GUILD_jp = うぅ……ここは、どこですか？　怖い……怖い……
+|GUILD_clip = 
+|FRIEND_DETAIL_en =Your friend... will she... get along... with me too? 
+|FRIEND_DETAIL_jp = おともだち……ボクとも…仲良く……してくれますか？
+|FRIEND_DETAIL_clip = 
+}}

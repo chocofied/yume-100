@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 234
+|name = Gauche
+|name_jp = ゴーシュ
+|attribute = Sexy
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 373
+|hp_max = 807
+|hp_break = 1072
+|atk_base = 224
+|atk_max = 397
+|atk_break = 527
+|rp_base = 264
+|rp_max = 385
+|rp_break = 511
+|lskill_name = レースの作戦会議
+|lskill_desc = Increase Yellow & Purple ATK by 25%
+|skill_name = エッグボム
+|skill_desc = Insert gold bombs (1-2)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 726
+|hp_max_s = 1033
+|hp_break_s = 1347
+|atk_base_s = 377
+|atk_max_s = 508
+|atk_break_s = 662
+|rp_base_s = 365
+|rp_max_s = 435
+|rp_break_s = 568
+|lskill_name_s = 魔法は使わない！
+|lskill_desc_s = Increase Yellow & Purple ATK by 35%
+|skill_name_s = ホワイトヒートエッグ
+|skill_desc_s = Insert gold bombs (1-3)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 726
+|hp_max_m = 992
+|hp_break_m = 1295
+|atk_base_m = 377
+|atk_max_m = 488
+|atk_break_m = 637
+|rp_base_m = 365
+|rp_max_m = 473
+|rp_break_m = 618
+|lskill_name_m = 絶対に譲れない！
+|lskill_desc_m = Increase Yellow & Purple ATK by 35%
+|skill_name_m = テイルウインド
+|skill_desc_m = Insert gold bombs (1-3)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Gauche]]
+|desc = 虹の国・オズの王子。一流の魔法使い。よく魔法でいたずらをする。大人をからかって楽しむ生意気な性格だが、街の子ども達を魔法で喜ばせる優しい一面もある。オズワルド王子からエッグレースの開催を依頼され、最初は面倒だと思っていたがあなたの言葉でやる気を出す。
+|bg = ゴーシュと一緒に感謝祭を回る約束をしていたあなた。エッグレースの開催を頼まれていた彼は、街の子ども達に言われ自分もレースに参加することになり…―
+}}
+
+== Story ==
+{{Choice|title2 = 二人で作戦会議|choice21s = 教えてくれてありがとう|points21s = 6|choice21m = ゴーシュくん、かわいい|points21m = 6|title3 = 優勝賞品は……|choice31s = ゴーシュくんの好きなもの|points31s = 3|choice31m = 一緒に悩む|points31m = 3|choice32s = 恥ずかしい|points32s = 6|choice32m = 優勝出来なかったら……|points32m = 6|title4 = 賞品は誰のもの？|choice41s = ありがとう|points41s = 12|choice41m = 信じてるね|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_234s.jpg}}
+{{Still|text=Moon Still|img=Still_234m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = え、卵落とした？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ほら、一等賞だったでしょ？
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = エッグレース？　余裕だよ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 魔法がなくたって　おれは一番だよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 最後はおれが決めるから！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 突風にご用心！
+|BATTLE_FEVER_TIME_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いいね、そのご褒美！おれ、頑張る
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やあっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くうっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 膝、擦りむいた……
+|BATTLE_RECOVER_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = あんたの誕生日がきたー…おれ、あんたを追い越して大人になりたいのに
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 練習すれば、なんだってできないことはないんだからね
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 魔法がなくたって、エッグレースくらい余裕だって、言ってるでしょ！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 心配？ふーん…おれのこと、そういう目で見てるんだ。ま、みてなって
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = ほら、いっしょにレース会場行くよ！
+|DECK_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 相変わらず無防備なスカート…めくってって言ってるようなものだよ？
+|CARD_TOP_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 早く寝なさいって、子ども扱いかよ！…あんたみたいに寝坊はしないから大丈夫
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 別にお祭りなんてしなくてもいいと思うけど…え？楽しみ？そ、そう…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = おれが参加するからには、結果はわかりきってるよね！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = あんたもおれとキスしたかったら、一生懸命応援してくれよな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = あんたって意外に朝弱い感じ？　へえ…かわいいじゃん
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 何か言いたいことあるの？べつに野菜食べなくっても、大人にはなれるよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 何？ご褒美？それはあんたにあげるよ
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = えーご褒美、それだけ？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その程度じゃなあ…あとちょっと！
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = さ、ご褒美ちょうだい！なんで、焦らすの？そういうの、いらないでしょ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = すごい魔法だった？当然だよ！おれは偉大な魔法使いなんだからさ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あんた、こんなことで照れちゃうの？おれより大人なのに？かーわいい！
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 位置について！よーいドン！
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = おれが勝つって、最初から決まってたんだよ！あんたもわかってただろ？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = いや…ちょっと驚いた…なんか、あんたっていい匂いがする
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = そうやって子ども扱いする…あんただって、子どもっぽいくせに…！
+|CARD_DETAIL_s_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = なんでこんなところでパーティなんかしてるの？主役はおれ？そっか……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここ、箒で飛び回ったら楽しそうだな…あんたなら後ろに乗せてやってもいいよ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ぼーっとしてると、イタズラするけど？
+|FRIEND_DETAIL_clip = 
+}}

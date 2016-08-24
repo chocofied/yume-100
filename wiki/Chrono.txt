@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 77
+|name = Chrono
+|name_jp = クロノ
+|attribute = Gentle
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 340
+|hp_max = 626
+|hp_break = 832
+|atk_base = 236
+|atk_max = 419
+|atk_break = 557
+|rp_base = 243
+|rp_max = 431
+|rp_break = 572
+|lskill_name = 時を跳ねるウサギ
+|lskill_desc = Increase Green ATK by 35%
+|skill_name = タイムリープ
+|skill_desc = Recover time and HP
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 564
+|hp_max_s = 733
+|hp_break_s = 956
+|atk_base_s = 398
+|atk_max_s = 491
+|atk_break_s = 641
+|rp_base_s = 409
+|rp_max_s = 582
+|rp_break_s = 759
+|lskill_name_s = 鐘の音を聴くウサギ
+|lskill_desc_s = Increase Green ATK by 50%
+|skill_name_s = フォーチュンリープ
+|skill_desc_s = Recover time and HP
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 564
+|hp_max_m = 708
+|hp_break_m = 923
+|atk_base_m = 398
+|atk_max_m = 537
+|atk_break_m = 701
+|rp_base_m = 409
+|rp_max_m = 552
+|rp_break_m = 720
+|lskill_name_m = 懐中時計に微笑むウサギ
+|lskill_desc_m = Increase Green ATK by 50%
+|skill_name_m = ワンダーリープ
+|skill_desc_m = Recover time and HP
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Matsuoka Yoshitsugu
+|origin = Country of Marvel - Wondermare
+|age = 23
+|birth = March 12
+|likes = Cute things
+|dislikes = Monsters
+|policy = Those once-in-a-lifetime moments are priceless
+|desc = 不思議の国・ワンダーメアの王子。時を守る白ウサギの一族。不思議な人の多いワンダーメアの一番の常識人で良心。時の番人でありながら、おっちょこちょい。
+|bg = 眠りから目覚めたクロノは一族につたわる大事な時計をなくしてしまったと、大パニック。あなたはクロノを手伝って、ワンダーメア中を時計を探して冒険することに！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 探し物は何ですか？
+|choice21s = 一緒に探しましょう
+|points21s = 6
+|choice21m = 大変ですね……
+|points21m = 6
+|title3 = アリスって誰ですか？
+|choice31m = 目をつむる
+|points31m = 3
+|choice31s = しがみつく
+|points31s = 3
+|choice32s = きれいな時計ですね
+|points32s = 6
+|choice32m = 変わった時計ですね
+|points32m = 6
+|title4 = 笑顔が一番です
+|choice41s = 私もイチゴ大好き
+|points41s = 12
+|choice41m = クロノさんが食べて
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_77s.jpg}}
+{{Still|text=Moon Still|img=Still_77m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ちょっとだけ、ふかふかのベッドが恋しいです。あっちょっとだけですよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = とれたてキャベツとにんじんでサラダをつくるんですよー。シャキシャキです
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ふふっ！くすぐったいです！悪戯はいけませんよ。耳がぷるぷるします
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 大変です。こんな時間です！すっかり寝坊してしまいました……ごめんなさい
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = たくさんもらえましたか？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 悪いことはいけません！
+|BATTLE_START_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 私を見上げていると大変でしょう？ほら、こうすれば、見上げなくてすみます
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 普段はのんびりするのが好きですよ。焦ってもいいことはありません
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = え？抱っこしてほしいですか？違いましたか……お顔が真っ赤になってますよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 私の大事なものですか？お部屋の宝箱にしまってありますよ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = どうしましょう。困りました。チェシャ猫さんには本当に困りました
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 私はどうも、ぼんやりしすぎているようで。マーチアくんによく怒られます
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 笑わないでくださいね。自分のお城で迷子になってしまうことがあるんです
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 慰めてくれるんですね、嬉しいです。貴方の手、温かいですね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = おお！すごいです！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = じっくりいきましょう
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えーい！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 素晴らしいです！私もやりますよ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 痛かったですー
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ひゃ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 追いかけっこですか？
+|BATTLE_TURN_END_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あ、ようこそいらっしゃいました。探しものですか？
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 無事でなによりです
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = これで少しは、うっかりが減るといいんですけど……
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = なんか、ムズムズっとしました
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 私を一緒に連れて行ってくれるんですか？！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = これでチェシャ猫さんにいじわるされないようになりますかね
+|CARD_EVOLUTION_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = もっと、高く飛べますよー！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 大変！もっと急ぎましょう！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 楽しくなってきました！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = どんどん、進みますよー！
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日、ふわふわのクリームと大きなイチゴのケーキでお祝いしましょう
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = 不思議な場所です。時間の流れは、どうなっているのでしょう
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝いありがとうございます。皆さん、お優しいです……！
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそいらっしゃいましたー！
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = うわあ、たくさん人がいます～！緊張しますが、私も頑張りますからね！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 私を？ふふっ、とっても嬉しいです！嬉しくて、飛び跳ねちゃいそうです！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

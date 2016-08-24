@@ -1,0 +1,198 @@
+== Status ==
+{{Infobox
+|no = 232
+|name = Droite
+|name_jp = ドロワット
+|attribute = Cute
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 430
+|hp_max = 936
+|hp_break = 1086
+|atk_base = 312
+|atk_max = 455
+|atk_break = 528
+|rp_base = 298
+|rp_max = 528
+|rp_break = 613
+|lskill_name = 手作りのスイーツ屋台
+|lskill_desc = Increase whole party's ATK and RP by 10%
+|skill_name = 溢れる卵スイーツ
+|skill_desc = Turn Red beads to Yellow
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 842
+|hp_max_s = 1198
+|hp_break_s = 1366
+|atk_base_s = 432
+|atk_max_s = 514
+|atk_break_s = 586
+|rp_base_s = 502
+|rp_max_s = 676
+|rp_break_s = 771
+|lskill_name_s = 煌めくエッグタルト
+|lskill_desc_s = Increase whole party's ATK and RP by 15%
+|skill_name_s = シャイニーエッグズ
+|skill_desc_s = Turn Red beads to Yellow and recover HP
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 842
+|hp_max_m = 1095
+|hp_break_m = 1248
+|atk_base_m = 432
+|atk_max_m = 532
+|atk_break_m = 606
+|rp_base_m = 502
+|rp_max_m = 713
+|rp_break_m = 813
+|lskill_name_m = ゴーシュが喜ぶぞ！
+|lskill_desc_m = Increase whole party's ATK and RP by 15%
+|skill_name_m = エッグノックラビット
+|skill_desc_m = Turn Red beads to Yellow and recover HP
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Droite]]
+|desc = 虹の国・オズの王子。一流の魔法使い。少々強引な性格のため周囲から誤解を受けやすいが、実は優しい面もある。西側にいる弟を溺愛している。感謝祭で手作りのスイーツ屋台を出すようにとオズワルドから言われている。
+|bg = マンチキン領でドロワットと再会したあなた。彼はオズワルドから、魔法を使わずに手作りのスイーツ屋台を感謝祭で出すよう言われているようで…―
+}}
+
+== Story ==
+{{Choice|title2 = ゴーシュのために|choice21s = スイーツが嫌い？|points21s = 6|choice21m = オズワルドさんが嫌い？|points21m = 6|title3 = 卵モチーフのスイーツ|choice31s = 卵型のクッキー|points31s = 3|choice31m = ゆで卵に色づけ|points31m = 3|choice32s = 卵を使ったもの|points32s = 6|choice32m = 卵の形をしたもの|points32m = 6|title4 = スイーツの試食会|choice41s = 皆で食べましょう|points41s = 12|choice41m = 頑張りましょう|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_232s.jpg}}
+{{Still|text=Moon Still|img=Still_232m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = いって～…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 甘過ぎたか…？
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = なんだよ、スイーツって！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = エッグタルトって、太陽みたいだよな！
+|SKILL_INVOKE_s_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = なかなかうまくできねえもんだ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = おっ！いい感じだ。なかなか器用だな
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = よっしいっちょあがり！やるじゃねえか！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 頑張ってやるよ
+|BATTLE_ATTACK_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ゴーシュへのお土産になりそうか
+|BATTLE_RESULT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 開けてびっくりチョコレートエッグだ！
+|SKILL_INVOKE_m_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = どうせ作るなら、面白いスイーツだ！皆も…お前も、喜んでくれるだろ？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = さ、じゃあひとつ、やってみるかな
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日か…じゃあ、特別だお前の為にだけスペシャルスイーツを用意してやる
+|BIRTHDAY_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = さあ、皆を呼ぶぞ！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 感謝祭に呼ばれて来たのか？ちょうどいいところにきた。俺の話を聞いてくれ
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺の魔法はすごいぞ！なんだってできるからな…え？魔法なし？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 明るい気持ちになるな…俺らしくねえってか？
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 香ばしい匂いがしてきたな！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 隠し味は何にするかな…
+|BATTLE_TURN_END_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 早起き…うっ…つらい…お前も早く起きろ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = おい、腹が減ったな…何か…何、弁当を用意してきた？俺の分もか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 準備は万端だな！ゴーシュは喜ぶかな…不安になってきた。大丈夫だよな？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = エッグタルト、こいつを選んで正解だったな！いくらでも食べられるぞ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = なんだ意外そうな顔して…え？太陽が好きなのが意外？失礼だな…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = よし！完成だ！ゴーシュが喜ぶ顔が目に浮かぶようだ♪ふふふふ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ああもう！魔法使ったら簡単なのに…まあ、こういうのも悪くはねえけどさ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = なんで俺がスイーツ作らなきゃならないんだ？手作りっていいものなのか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = まあ、ゴーシュと…お前も喜ぶって言われたら、やらなきゃダメだろう
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = もう試食は無理だな…これ以上食べたら、俺の完璧な体型が崩れるだろ！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = お前って熱中すると周り見えなくなるのな。作るのに必死で食べてないだろ？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 別にゴーシュのことばっかりじゃないぞ、お前のことだってちゃんと…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = しょうがねえなあ、やってやるよ
+|BATTLE_START_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 待て！今忙しいんだ！話しかけないでくれ。慣れないスイーツ作りで…
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = スイーツ……スイーツ屋台って何をだせばいいんだ？あ？パーティ？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここはどこだ？ゴーシュを探してたんだけど……どこ行ったんだ？
+|GUILD_clip = 
+|RANKING_EVENT_POINT_REWARD_1_en = 
+|RANKING_EVENT_POINT_REWARD_1_jp = お前らよく頑張ったな！じゃあさっそくゴーシュに会いに行くぞ！俺の自慢の弟を見せてやる！
+|RANKING_EVENT_POINT_REWARD_1_clip = 
+|RANKING_EVENT_POINT_REWARD_2_en = 
+|RANKING_EVENT_POINT_REWARD_2_jp = ふーん、お前頑張ったんだな。じゃあ俺からも褒美をやるよ。この箒に乗せて……って、ああ！城に箒を忘れた……
+|RANKING_EVENT_POINT_REWARD_2_clip = 
+|RANKING_EVENT_POINT_REWARD_3_en = 
+|RANKING_EVENT_POINT_REWARD_3_jp = へえ……まあ、お前なら大丈夫なんじゃねーの？……なんだよ、ちゃんnと応援してやるって
+|RANKING_EVENT_POINT_REWARD_3_clip = 
+|RANKING_EVENT_POINT_REWARD_4_en = 
+|RANKING_EVENT_POINT_REWARD_4_jp = へえ、皆で協力すれば何かもらえるのか……そうだ！ゴーシュへのお土産にしよう！あいつきっと喜ぶぞ！
+|RANKING_EVENT_POINT_REWARD_4_clip = 
+}}

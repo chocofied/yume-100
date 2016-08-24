@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 154
+|name = Rolf
+|name_jp = ロルフ
+|attribute = Cute
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 504
+|hp_max = 954
+|hp_break = 1212
+|atk_base = 349
+|atk_max = 538
+|atk_break = 684
+|rp_base = 301
+|rp_max = 464
+|rp_break = 589
+|lskill_name = クライスプーク
+|lskill_desc = Increase Red & Yellow ATK by 25% and HP by 10%
+|skill_name = ロルフの悩み
+|skill_desc = Erase center beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 858
+|hp_max_s = 1163
+|hp_break_s = 1453
+|atk_base_s = 511
+|atk_max_s = 657
+|atk_break_s = 820
+|rp_base_s = 440
+|rp_max_s = 496
+|rp_break_s = 619
+|lskill_name_s = ウィッチスプーク
+|lskill_desc_s = Increase Red & Yellow ATK by 30% and HP by 15%
+|skill_name_s = 魔女のキス
+|skill_desc_s = Erase center beads and increase own ATK
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 858
+|hp_max_m = 1058
+|hp_break_m = 1322
+|atk_base_m = 511
+|atk_max_m = 694
+|atk_break_m = 867
+|rp_base_m = 440
+|rp_max_m = 515
+|rp_break_m = 643
+|lskill_name_m = デビルスプーク
+|lskill_desc_m = Increase Red & Yellow ATK by 30% and HP by 15%
+|skill_name_m = 小悪魔のいたずら
+|skill_desc_m = Erase center beads (SSS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Fear! Will’s Harvest Festival
+|original = [[Rolf]]
+|desc = 幻惑の国・ロトリアの王子。引っ込み思案で、ものすごく怖がり。服は彼の母の趣味。嫌いなものは、お化け。今回収穫祭で着る衣装を自分で決めなければならず、悩んでいる。
+|bg = ロトリアの収穫祭に招待されたあなたが城を訪れると、ロルフは当日着る衣装に悩んでいた。あなたはそんな彼の衣装探しを手伝うことになり…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 決まらない衣装
+|choice21s = お手伝いするよ
+|points21s = 8
+|choice21m = 泣かないで
+|points21m = 8
+|title3 = どっちがいいですか？
+|choice31m = 王様
+|points31m = 4
+|choice31s = 王妃様
+|points31s = 4
+|choice32s = いいアイデア
+|points32s = 8
+|choice32m = よく図書室に行くの？
+|points32m = 8
+|title4 = 男の子だから
+|choice41s = ありがとう
+|points41s = 12
+|choice41m = 照れちゃうな
+|points41m = 12
+|title5 = 仮装の候補
+|choice51m = 悪魔を選ぶの？
+|points51m = 16
+|choice51s = 魔女を選ぶの？
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_154s.jpg}}
+{{Still|text=Moon Still|img=Still_154m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = お菓子がいっぱいもらえそうです
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あっ……転んじゃう……！
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 魔女の大魔法をうけて……みよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ボクは怖い悪魔なんです！が、がおー！
+|SKILL_INVOKE_m_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = アナタを守りたいのに……
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = わかりました……二人で協力してですね
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = まだ、大丈夫…です
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = お菓子をくれないといたずら…しちゃいます
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = わあっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ふえっ！　あぶないです
+|BATTLE_DAMAGE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 収穫祭にきてくれて嬉しいです…一緒にお祭、楽しみです…まずは仮装…
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ボク、少しだけ背も伸びたんです…
+|CARD_ENHANCE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よかった……いなくなりました
+|BATTLE_CLEAR_clip = 
+|DECK_en = 
+|DECK_jp = では、収穫祭にいきましょう……
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 大きなかぼちゃのプリンを用意しました…仲良く食べましょうね…楽しみです
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ボクの仮装、楽しみにしててくださいね。きっと、喜んで…もらえると…
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 仮装衣装…きっと、驚いて…くれると思います……ドキドキします
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 本物のお化けは怖いです……
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = その箱の中にもお菓子は入っていますか？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 不思議です……お洋服一つで……こんな風に勇気がでるんですね
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = いたずらしちゃいます……どんなって？　ええっと……くすぐっちゃいます
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ボクが頼りないからでしょうか
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ボクは、アナタを守れるように……あ、なんでもないです。まだ、内緒です……
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 待っててください……必ず、立派な王子になって……アナタを迎えに……
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = かっこいいですか……嬉しいです。普段なかなか…言って貰えなくて…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = とっても綺麗な衣装になりました…あと、あの…アナタの衣装、とても素敵です
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 女の子みたいなんでしょうか…カワイイお洋服は好きですけれど……
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = もう朝です……収穫祭の準備が終わっていません……どうしましょうか……
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 仮装の衣装が、もうすぐ届く予定なんです……お昼ごろと聞いています
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 一緒に選んでくれますか？嬉しいです。きっと素敵な仮装衣装が…見つかります
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 収穫祭がはじまりますね……準備はできましたか……？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = どうしよう…仮装…お父様のようなかっこいい姿か、それともお母様のような…
+|MAIN_TOP_TOUCH_2_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは……なんという場所なのでしょう……だれかいませんか？
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = この仮装の衣装はいかがですか？　似合って……いるでしょうか
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ボク……またお会いできて……うれしいです
+|WELCOME_PARTY_clip = 
+}}

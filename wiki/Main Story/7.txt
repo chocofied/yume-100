@@ -1,0 +1,99 @@
+<div class="mw-collapsible mw-collapsed">7-1: Journey through the sand
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-2: Roco's small tree
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-3: The town of Noul
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-4: 
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-5: The trap hidden in the ruins
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-6: Why is Luke..?
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-7: The curse of the ruins
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-8: Before being cornered
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-9: From one danger to another...
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">7-10: Protect your hope!
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>

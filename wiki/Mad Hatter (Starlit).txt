@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 267
+|name = Mad Hatter
+|name_jp = マッドハッター
+|attribute = Sexy
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 585
+|hp_max = 1167
+|hp_break = 1330
+|atk_base = 373
+|atk_max = 512
+|atk_break = 584
+|rp_base = 439
+|rp_max = 714
+|rp_break = 813
+|lskill_name = 仄かな紅茶の香り
+|lskill_desc = Increase Purple HP by 35%
+|skill_name = ステラ・ルーメ
+|skill_desc = Recover HP in accordance to Party RP (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1050
+|hp_max_s = 1424
+|hp_break_s = 1595
+|atk_base_s = 487
+|atk_max_s = 548
+|atk_break_s = 614
+|rp_base_s = 678
+|rp_max_s = 871
+|rp_break_s = 976
+|lskill_name_s = 帽子屋特製ランタン
+|lskill_desc_s = Increase Purple HP by 40%
+|skill_name_s = ステラ・ランテルナ
+|skill_desc_s = Recover HP in accordance to Party RP (SS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1050
+|hp_max_m = 1295
+|hp_break_m = 1450
+|atk_base_m = 487
+|atk_max_m = 569
+|atk_break_m = 637
+|rp_base_m = 678
+|rp_max_m = 921
+|rp_break_m = 1032
+|lskill_name_m = 私の願いは君の願い
+|lskill_desc_m = Increase Purple HP by 35% and RP by 15%
+|skill_name_m = ステラ・ジュラーレ
+|skill_desc_m = Recover HP in accordance to Party RP and insert heart
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|desc = 不思議の国・ワンダーメアの王子。メゾンマッドネスという帽子屋を経営している。理屈っぽいことを言うが、言葉遊びを楽しんでいるだけで、基本的には紳士。星祭りの夜、地上に流れるという天の川を見るため、ガラッシアを訪れた。
+|bg = 星祭りに招待されたあなたは、ガラッシアでマッドハッターと再会する。いつもより少し上機嫌な彼と『地上に流れる天の川』を見に行くことになって…―
+|event = In the Starlit Night
+|original = [[Mad Hatter]]
+}}
+== Story ==
+{{Choice|title2 = 封筒の中身|choice21s = えっと…|points21s = 8|choice21m = いえ、まだです|points21m = 8|title3 = 上機嫌な彼|choice31s = 売れるでしょうか？|points31s = 4|choice31m = 帽子の飾りにしては？|points31m = 4|choice32s = すみません|points32s = 8|choice32m = なんでもないです|points32m = 8|title4 = 地上の天の川|choice41s = どういうことですか？|points41s = 12|choice41m = 帽子屋さんを見つめる|points41m = 12|title5 = 消えたランタン|choice51s = 驚く|points51s = 16|choice51m = どうしたんですか？|points51m = 16}}{{Still|text=Sun Still|img=Still_267s.jpg}}
+{{Still|text=Moon Still|img=Still_267m.jpg}}

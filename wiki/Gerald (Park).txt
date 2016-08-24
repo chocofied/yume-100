@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 243
+|name = Gerald
+|name_jp = ジェラルド
+|attribute = Gentle
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 423
+|hp_max = 827
+|hp_break = 959
+|atk_base = 269
+|atk_max = 420
+|atk_break = 487
+|rp_base = 324
+|rp_max = 608
+|rp_break = 705
+|lskill_name = 春風に誘われて
+|lskill_desc = Increase ATK & RP by 25% when HP above 50%
+|skill_name = 魅惑の白薔薇
+|skill_desc = Insert hearts (1-2)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 744
+|hp_max_s = 967
+|hp_break_s = 1102
+|atk_base_s = 399
+|atk_max_s = 491
+|atk_break_s = 560
+|rp_base_s = 578
+|rp_max_s = 821
+|rp_break_s = 936
+|lskill_name_s = 僕だけのヒロイン
+|lskill_desc_s = Increase ATK & RP by 30% when HP above 50%
+|skill_name_s = 白薔薇の囁き
+|skill_desc_s = Insert hearts (1-3)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 744
+|hp_max_m = 934
+|hp_break_m = 1065
+|atk_base_m = 399
+|atk_max_m = 537
+|atk_break_m = 612
+|rp_base_m = 578
+|rp_max_m = 778
+|rp_break_m = 887
+|lskill_name_m = 秘密のラストシーン
+|lskill_desc_m = Increase ATK & RP by 30% when HP above 50%
+|skill_name_m = 白薔薇の微笑み
+|skill_desc_m = Insert hearts (1-3)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Film Park
+|original = [[Gerald]]
+|desc = 映画の国・ロマンディアの王子。恋愛映画への出演が多い正統派人気俳優。その容姿と人柄で、たくさんの人々を魅了している。ラブロマンス以外にも挑戦したいと思っているが、その壁となるある悩みを持つ。ビートン・フィルムパークには、彼が出演する映画のアトラクションがある。
+|bg = ビートン・フィルムパークで、ジェラルドと再会するあなた。パークでデートを楽しんでいると、彼のアトラクションの周りにスタッフが集まっていて…―
+}}
+
+== Story ==
+{{Choice|title2 = 手加減お願いします|choice21s = すごく楽しみです|points21s = 6|choice21m = 知らなくて……|points21m = 6|title3 = ポップコーンを食べながら|choice31s = おすすめはありますか？|points31s = 3|choice31m = お腹がすいたかも|points31m = 3|choice32s = 私もわくわくする|points32s = 6|choice32m = 私はドキドキする|points32m = 6|title4 = 大それた提案|choice41s = お手伝いできれば|points41s = 12|choice41m = 頑張ってください|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_243s.jpg}}
+{{Still|text=Moon Still|img=Still_243m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お手をどうぞ…そんなに緊張しないで、リラックスしてください
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 皆でわいわい過ごすのも楽しいけれど、あなたと二人で過ごすのは格別です
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あなたと一緒にいると、仕事だってことを忘れちゃいそうです
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 仕事とはいえ、こんなに堂々とあなたとアトラクションを楽しめて大満足です
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 一日中立ちっぱなしで、明日は筋肉痛になっちゃいそうですね。大丈夫ですか？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = テーマパークって何を食べるか決めるのもワクワクしますよね
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = いろんな味のポップコーンがあるんですね。塩、キャラメル…メープルシロップ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = どのアトラクションから見て回りましょうか？　ショーも見たいですよね
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = あ、こっちです！　おはようございます。昨晩はゆっくり眠れましたか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = あなたに特別なアトラクションを用意しました。夜に二人きりで楽しみましょう
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 僕テーマパークでデートするの初めてなんです
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = せっかくだから、お客様も僕達も楽しめるようなことができないかな
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = わっ、転ぶ…！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = その顔…かわいすぎて、僕が緊張しちゃいます
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 転んだだけなので…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なにかお土産になりますかね？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = パスポートのないお客様は入場できませんよ
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうです、自然な表情…魅力的です
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 大丈夫、力を抜いて…
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 皆に楽しんでもらえるように頑張りますから、応援しててくださいね
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あなたにもかっこいいって思ってもらえたなら、やってよかったな…なんて
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 意外？僕、運動は苦手ですけど器用な方なんですよ。舞台で大道具作ったりとか
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = せっかくあなたがいるんだから…あなたと一緒に乗りたい
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 準備はばっちり。あとはお客様を迎えるだけです
+|CARD_ENHANCE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = きっちり止まるまで、待っててください
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = メリーゴーランドが回り始めますよ
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あなたと会うのを楽しみにしてたんです。アトラクションを一緒にって！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では、次のお客様をご案内しましょうか
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = メリーゴーランド、楽しんでくださいね
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 本当に大丈夫ですから
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ちゃんと僕につかまっててくださいね！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 僕だけのヒロインになってください
+|SKILL_INVOKE_s_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よかったら一緒にパークへ行きませんか？皆で楽しみましょう！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここも広くて素敵な場所ですね。あの泉にスワンボートとかどうですかね
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = もうすぐオープンですよ！僕自身もこの日を楽しみに待ってました
+|WELCOME_PARTY_clip = 
+}}

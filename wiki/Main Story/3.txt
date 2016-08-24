@@ -1,0 +1,1304 @@
+<tabber>
+|-| 3-1 =
+== Welcome to the country of toys ==
+<dl>
+<dt> </dt>
+<dd>"Crossing over the moonlight stretching far behind us, we walked on to the next country."</dd>
+<dt>Emil</dt>
+<dd>"Hey, sis.... Is it my fault?"</dd>
+<dt>MC</dt>
+<dd>"I want to save Emil quickly"</dd>
+<dt>Avi</dt>
+<dd>"Yeah"</dd>
+<dt>Medi</dt>
+<dd>"USER_NAME! I'll come along! We'll get on a ship!"</dd>
+<dt>Luke</dt>
+<dd>".... As long as you don't sink"</dd>
+<dt>Navi</dt>
+<dd>"There's going to be some time before the next Moon Road will appear"</dd>
+<dd>"While we're at it, maybe we should go scope out the conditions of the next country"</dd>
+<dt>Luke</dt>
+<dd>"I wonder what kind of person that country's prince is....?""</dd>
+<dt>Medi</dt>
+<dd>"I guess we'll find out when we meet him?"</dd>
+<dt> </dt>
+<dd>The gentle moonlight lit our way....-.</dd>
+<dt>MC</dt>
+<dd>"This is....?"</dd>
+<dt>Navi</dt>
+<dd>"This is the country of toys, Fairbelk"</dd>
+<dt> </dt>
+<dd>There were houses built out of colorful building block-like blocks</dd>
+<dd>Surrounding those houses were flowers of various colors made out of felt cloth.</dd>
+<dd>Balloons floated without pause out from the chimneys.</dd>
+<dd>And walking around the village were...-.</dd>
+<dt>MC</dt>
+<dd>"Stuffed animals!?"</dd>
+<dt> </dt>
+<dd>The town was full of fluffy stuffed animals.</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt>Navi</dt>
+<dd>"How mysterious..... That stuffed animals can walk"</dd>
+<dt>Medi and Luke</dt>
+<dd>"....."</dd>
+<dt>Navi</dt>
+<dd>"... What?"</dd>
+<dt>Avi</dt>
+<dd>".....Anyway. Is this how this country is supposed to be? No people?"</dd>
+<dt>Navi</dt>
+<dd>"It shouldn't be"</dd>
+<dd>"A long time ago, there was a doll maker who lived in this country who the children loved"</dd>
+<dd>"Those who sympathized with the dreams of that doll maker gathered together and founded this country"</dd>
+<dt>Medi</dt>
+<dd>"It sounds like a fairytale. What a great story!"</dd>
+<dt>Navi</dt>
+<dd>"So that's why this country is famous for making toys, but...."</dd>
+<dd>"I've never heard of walking stuffed animals here"</dd>
+<dt>Luke</dt>
+<dd>"When you're the one saying it...."</dd>
+<dt>Navi</dt>
+<dd>"Huh"</dd>
+<dt>MC</dt>
+<dd>"Is someone there~!"</dd>
+<dt> </dt>
+<dd>But my call just echoed emptily in the town.</dd>
+<dt>Avi</dt>
+<dd>"What's going on...?"</dd>
+<dt> </dt>
+<dd>At that moment, Navi's ears perked up.</dd>
+<dt>Navi</dt>
+<dd>"The Dream Eaters are upon us!"</dd>
+<dt>MC</dt>
+<dd>"Where?!"</dd>
+<dt>Navi</dt>
+<dd>"They're here! Right in front of us!"</dd>
+<dt> </dt>
+<dd>Following Navi's gaze, the Dream Eaters came up to attack us...-.</dd>
+<dt>Medi</dt>
+<dd>"USER_NAME, did you see!? My splendid gallantry"</dd>
+<dt>Luke</dt>
+<dd>"I'm sure she had no time to spare for watching you"</dd>
+<dt> </dt>
+<dd>Even with all the noise we were making...-.</dd>
+<dd>There wasn't a single resemblance of person to be found around us.</dd>
+<dt>MC</dt>
+<dd>"How come there's only stuffed animals walking around here?"</dd>
+<dt>Avi</dt>
+<dd>"Let's go look for someone and ask them."</dd>
+<dt>MC</dt>
+<dd>"Sounds good."</dd>
+<dt> </dt>
+<dd>When we got to roam around the village for a while, we happened upon a man.</dd>
+<dt>Avi</dt>
+<dd>"Hey, are you a human?"</dd>
+<dt>Medi</dt>
+<dd>"Too direct.."</dd>
+<dt>Villager</dt>
+<dd>"You can't tell from looking?"</dd>
+<dt>MC</dt>
+<dd>"How come this country is full of stuffed animals?"</dd>
+<dt>Villager</dt>
+<dd>"... You'll know if you go visit the sorcerer."</dd>
+<dt>Avi</dt>
+<dd>"Sorcerer?"</dd>
+<dt>Villager</dt>
+<dd>"Yeah. They're in that cavern. They're protecting Prince Hinata's ring."</dd>
+<dt>MC</dt>
+<dd>"Ring? Then, has the prince of this country also fallen to the Dream Eaters..?"</dd>
+<dt>Navi</dt>
+<dd>"Let's head toward that cavern, then!"</dd>
+<dt> </dt>
+<dd>Leaving the villager, we were about to head to the cavern, but..</dd>
+<dt>Villager</dt>
+<dd>"Ahh!"</dd>
+<dt> </dt>
+<dd>Suddenly, we heard a scream ring out behind us.</dd>
+<dd>When we turned to look, the Dream Eater we thought we defeated earlier was hunting the villagers</dd>
+<dt>MC</dt>
+<dd>"Look out!!"</dd>
+<dt>Avi</dt>
+<dd>"Damn, again?!"</dd>
+<dt>MC</dt>
+<dd>"Are you alright!?"</dd>
+<dt>Villager</dt>
+<dd>"... I guess we really will get hunted by the Dream Eaters as long as we live"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>A shiver ran through the villager's body, and then they ran away.</dd>
+<dt>Avi</dt>
+<dd>"H, hey!"</dd>
+<dt>Medi</dt>
+<dd>"There's nothing to run away from..."</dd>
+<dt>Luke</dt>
+<dd>"Is that person okay..."</dd>
+<dt>Navi</dt>
+<dd>"In any case, we better go awaken the prince!"</dd>
+<dt> </dt>
+<dd>(Being hunted by the Dream Eaters as long as we live... What could it mean?")</dd>
+<dd>We hurried toward the cavern where Prince Hinata was..-</dd>
+<dd>Section 1 End</dd>
+</dl>
+
+|-| 3-2 =
+== The sorcerer's ring ==
+<dl>
+<dt> </dt>
+<dd>The entrance to the cave was enveloped in pitch-black darkness.</dd>
+<dt>Avi</dt>
+<dd>"Are you alright?"</dd>
+<dt>MC</dt>
+<dd>"Y, yeah"</dd>
+<dt>Medi</dt>
+<dd>"If you get scared, just lean on me"</dd>
+<dt>MC</dt>
+<dd>"Thanks. But I'll be ok!"</dd>
+<dt>Medi</dt>
+<dd>"Really? That's unfortunate."</dd>
+<dt> </dt>
+<dd>(I'm actually kind of scared, though...)</dd>
+<dt>Navi</dt>
+<dd>"Well, let's go"</dd>
+<dt> </dt>
+<dd>As soon as we were going to set off...-</dd>
+<dt>Navi</dt>
+<dd>"...So they're here too"</dd>
+<dt> </dt>
+<dd>Dream Eaters appeared from the darkness of the cave..-</dd>
+<dt>Medi</dt>
+<dd>"It's dark, slimy, and there are Dream Eaters. There is really nothing good about caves"</dd>
+<dt>Luke</dt>
+<dd>"Medi, be quiet"</dd>
+<dt>Avi</dt>
+<dd>"... Shall we move on"</dd>
+<dt> </dt>
+<dd>When we had entered the cavve, a light radiated out from within the cave.</dd>
+<dt>MC</dt>
+<dd>"Could that be..."</dd>
+<dt> </dt>
+<dd>The thing giving off the light was a ring.</dd>
+<dd>The ring was placed on a soft looking carpet, and around it was drawn magical looking markings.</dd>
+<dt>MC</dt>
+<dd>"This is Prince Hinata's?"</dd>
+<dt>Avi</dt>
+<dd>"Yeah, probably"</dd>
+<dt>Luke</dt>
+<dd>"They've been taking good care of it"</dd>
+<dt> </dt>
+<dd>When I tried to take a hold of the ring...-.</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt> </dt>
+<dd>A strong light repelled me.</dd>
+<dt>??</dt>
+<dd>"You may not touch that!"</dd>
+<dt> </dt>
+<dd>A shrill voice rang out in the cave.</dd>
+<dd>(..... Who!?)</dd>
+<dd>When we turned to look at where the voice was coming from...</dd>
+<dd>A scrawny man donning an orchid-colored robe stood there.</dd>
+<dd>(Is this person the sorcerer?)</dd>
+<dd>He looked like he could be young, but also like he could be old, overall giving off a mysterious impression.</dd>
+<dd>His long light brown sideburns were sleekly stuck to his head.</dd>
+<dt>??</dt>
+<dd>"Please step away from the ring!"</dd>
+<dt>Medi</dt>
+<dd>"You don't have to make such a scary face"</dd>
+<dt>??</dt>
+<dd>"I am the sorcerer Pasca! Who are you people? Name yourselves!"</dd>
+<dt>Avi</dt>
+<dd>"I am Prince Avi of Alstoria"</dd>
+<dt>Medi</dt>
+<dd>"I am the 3rd Prince Medi of Fresian of the country of the arts! I live for the arts, and the arts live for me..-"</dd>
+<dt>Luke</dt>
+<dd>"I'm Luke. Prince of Muse of the country of Music"</dd>
+<dt>Navi</dt>
+<dd>"I am the butler Navi. And this is Princess USER_NAME of Träumere"</dd>
+<dt>Pasca</dt>
+<dd>".... Why are people of such high standing gathered here?"</dd>
+<dt> </dt>
+<dd>Pasca's eyes filled with doubt.</dd>
+<dt>Navi</dt>
+<dd>"We heard that the prince of this country has fallen asleep"</dd>
+<dt> </dt>
+<dd>At those words, Pasca hung his head.</dd>
+<dt>Pasca</dt>
+<dd>"Yes... It's true. At the last moment, Prince Hinata!!"</dd>
+<dd>"Why was I left living! How could I have let this happen to him! How could I!!!!"</dd>
+<dt> </dt>
+<dd>Pasca beat down on the ground with his slender arms as if to split it open.</dd>
+<dt>Medi</dt>
+<dd>"I'm kind of freaked out"</dd>
+<dt>Luke</dt>
+<dd>"So there are even things that freak you out"</dd>
+<dt>Avi</dt>
+<dd>"T.....Through USER_NAME's power, we are able to wake him up"</dd>
+<dt>Pasca</dt>
+<dd>"!!!"</dd>
+<dt>Medi</dt>
+<dd>"She is the princess of Träumere after all. She can even wake people from comas"</dd>
+<dt>Avi</dt>
+<dd>"Why are you acting all important"</dd>
+<dt> </dt>
+<dd>Pasca's eyes filled witih tears, and he kneeled in front of me and lifted up an imploring expression.</dd>
+<dt>Pasca</dt>
+<dd>"I'll do anything, please just save Prince Hinata!"</dd>
+<dd>"Ever since Prince Hinata was born, I have been serving him by his side. Even then..."</dd>
+<dd>"Prince Hinata was lovely and considerate and loved by everyone"</dd>
+<dd>"I wanted to protect him no matter what, but...."</dd>
+<dt> </dt>
+<dd>Saying this, he wiped away his tears.</dd>
+<dd>Pasca was agonizing over the fact that he couldn't protect Prince Hinata.</dd>
+<dd>"I'll give it a shot"</dd>
+<dd>I clasped my hands in front of my chest.</dd>
+<dd>And then...-.</dd>
+<dt>Hinata</dt>
+<dd>"Hnn... Huh... I....."</dd>
+<dt>Pasca</dt>
+<dd>"Prince Hinata....!"</dd>
+<dt>Hinata</dt>
+<dd>"I remember now... I was attacked by the Dream Eaters!"</dd>
+<dd>"Gosh! This all happened because Pasca didn't protect me right!"</dd>
+<dt> </dt>
+<dd>From the moment he woke up, Prince Hinata scolded Pasca without giving him a chance to explain.</dd>
+<dt>Pasca</dt>
+<dd>"I apologize deeply! It is all my fault....!!"</dd>
+<dt> </dt>
+<dd>Without caring if his beautiful robe got dirtied, he kneeled before Prince Hinata.</dd>
+<dd>"Next time protect me properly, or else!"</dd>
+<dd>(Even though he's that angry.....)</dd>
+<dt>Medi</dt>
+<dd>"I'm not compatible with this little midget"</dd>
+<dt>Avi</dt>
+<dd>"Did he say this kid was full of consideration?"</dd>
+<dt>Hinata</dt>
+<dd>"And you guys are?"</dd>
+<dt> </dt>
+<dd>Hinata's gaze fell upon us.</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME woke you up"</dd>
+<dt>Hinata</dt>
+<dd>"Sis did?"</dd>
+<dt>MC</dt>
+<dd>"Yup"</dd>
+<dt>Hinata</dt>
+<dd>"Thank you for waking me up!"</dd>
+<dd>"Call me Hinata"</dd>
+<dt> </dt>
+<dd>Hinata gave me a big smile.</dd>
+<dd>(What a cute smiling face)</dd>
+<dt>Navi</dt>
+<dd>"...!"</dd>
+<dt>MC</dt>
+<dd>"Navi? What's wrong?"</dd>
+<dt>Navi</dt>
+<dd>"Dream Eaters are approaching!"</dd>
+<dt>Medi</dt>
+<dd>"Ugh, again?"</dd>
+<dt>Luke</dt>
+<dd>"Isn't it because we woke a prince?"</dd>
+<dt>Hinata</dt>
+<dd>"I don't want to be put back to sleep when I was just awakened!"</dd>
+<dt>Avi</dt>
+<dd>"Then you help too! You're a prince, so you can fight, too right?"</dd>
+<dt>Hinata</dt>
+<dd>"Man! Coming to get me right when I woke up!"</dd>
+<dt>Medi</dt>
+<dd>"I guess even a shrimp like you can be acknowledged as a prince"</dd>
+<dt>Hinata</dt>
+<dd>"What's wrong with you! I'll turn you into a toy!"</dd>
+<dt> </dt>
+<dd>(...Into a toy?)</dd>
+<dt>Avi</dt>
+<dd>"Hey, it's no time for complaining! They're coming again!"</dd>
+<dt> </dt>
+<dd>After defeating the Dream Eaters......</dd>
+<dd>Avi took a breather, sheathing his sword.</dd>
+<dt>Avi</dt>
+<dd>"... Well then. Let's see if we can get them to tell us something"</dd>
+<dt>Navi</dt>
+<dd>"Prince Avi, you must be concerned about the state of the town"</dd>
+<dt> </dt>
+<dd>Navi spoke out to Avi in a small voice.</dd>
+<dt>Avi</dt>
+<dd>"Yea. No matter how you think about it, that's not normal"</dd>
+<dt> </dt>
+<dd>Hinata seemed as if he didn't notice the conversation going on between the two.</dd>
+<dt>Hinata</dt>
+<dd>"I want to give sis a bi-g thank you! Come to my castle, pretty please!? Hey, Pasca. She can, right!?"</dd>
+<dt>Pasca</dt>
+<dd>"Th-the castle....?"</dd>
+<dt> </dt>
+<dd>Pasca lifted up his hesitant voice as he arranged the ribbons on Hinata's Western-style clothing that had gone askew during the fight.</dd>
+<dt>Hinata</dt>
+<dd>"Yup! Any problem with that?"</dd>
+<dt> </dt>
+<dd>Pasca's shoulders slumped for a whilem but...-.</dd>
+<dt>Pasca</dt>
+<dd>".... If Prince Hinata says so"</dd>
+<dt>Hinata</dt>
+<dd>"Then it's decided!"</dd>
+<dt>MC</dt>
+<dd>"I guess we will be imposing on you for a short while, then"</dd>
+<dt>Hinata</dt>
+<dd>"Well, since it's sis, we warmly welcome you!"</dd>
+<dt> </dt>
+<dd>Hinata clung tightly to my arm.</dd>
+<dt>Everyone</dt>
+<dd>".......!!"</dd>
+<dt>Hinata</dt>
+<dd>"Fufun"</dd>
+<dt>Medi</dt>
+<dd>"Da-... That's inexcusable!"</dd>
+<dt>Luke</dt>
+<dd>"Medi, please grow up"</dd>
+<dt> </dt>
+<dd>Medi clutched his paintbrush as if trying to hold back something.</dd>
+<dd>Then, we came out of the cave.</dd>
+<dd>Without knowing the shocking truth waiting for us at Hinata's castle...-.</dd>
+<dd>Section 2 End</dd>
+</dl>
+
+|-| 3-3 =
+== At the town of toys ==
+<dl>
+<dt> </dt>
+<dd>While leaving the cavern to go to the castle, we crossed through the town.</dd>
+<dd>(I'm so glad we rescued Hinata safely)</dd>
+<dt>Villager 1</dt>
+<dd>"Could that be... Prince Hinata!?"</dd>
+<dt>Villager 2</dt>
+<dd>"Prince Hinata! You're safe!"</dd>
+<dt> </dt>
+<dd>One by one, people started to come see Hinata.</dd>
+<dd>(So there are actually a lot of people in this village)</dd>
+<dd>For some reason though, one could say the villagers' eyes had an element of confusion.</dd>
+<dd>At that moment..-</dd>
+<dd>From a small distance away, we heard a shriek.</dd>
+<dt>Luke</dt>
+<dd>"Dream Eaters again!?"</dd>
+<dt>Navi</dt>
+<dd>"What a huge number!"</dd>
+<dt>Avi</dt>
+<dd>"Let's hurry!"</dd>
+<dt>Hinata</dt>
+<dd>"...."</dd>
+<dt>MC</dt>
+<dd>"Hinata?"</dd>
+<dt>Hinata</dt>
+<dd>"...It's nothing! Let's go!"</dd>
+<dt> </dt>
+<dd>We hurried in the direction of the scream..-</dd>
+<dt>Avi</dt>
+<dd>"Are they still around... Stay alert!"</dd>
+<dt>Medi</dt>
+<dd>"USER_NAME, you can hide behind my back"</dd>
+<dt>MC</dt>
+<dd>"Um, I'm ok!"</dd>
+<dt>Luke</dt>
+<dd>"Medi! They're aiming for your back!!"</dd>
+<dt>Medi</dt>
+<dd>"Wh-what!"</dd>
+<dt> </dt>
+<dd>When we had safely defeated the Dream Eaters, we were surrounded by villagers.</dd>
+<dd>"To think such an adorable miss could win out against Dream Eaters"</dd>
+<dd>"Thank you! The country can be at peace again with you all here!"</dd>
+<dd>"So with this, we don't have to be hiding in secret anymore!"</dd>
+<dd>The villagers all were praising us.</dd>
+<dt>MC</dt>
+<dd>"Huh!? Umm..-"</dd>
+<dt>Hinata</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>Hinata stared at us with an upset expression.</dd>
+<dd>Next to him was Pasca, who got into a panic after seeing HInata's face.</dd>
+<dt>MC</dt>
+<dd>"Hinata?"</dd>
+<dt>Hinata</dt>
+<dd>"It would have been alright even if you didn't defeat them."</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>But Hinata's face soon turned to a smile.</dd>
+<dt>Hinata</dt>
+<dd>"But the ring sis has is amazing!"</dd>
+<dt>MC</dt>
+<dd>"Y, yeah"</dd>
+<dt> </dt>
+<dd>As I was talking with Hinata, Avi got free from the villager's reception and came over.</dd>
+<dt>Avi</dt>
+<dd>"Hinata, can I ask you one thing?"</dd>
+<dt>Hinata</dt>
+<dd>"Whaat?"</dd>
+<dt>Avi</dt>
+<dd>"Earlier in the other town, there were only toys, and no people at all."</dd>
+<dt>Hinata</dt>
+<dd>"Something wrong with that?"</dd>
+<dt>Medi</dt>
+<dd>"Wrong... I mean, isn't that unnatural!"</dd>
+<dt>Hinata</dt>
+<dd>"That town especially had lots of Dream Eater incidents"</dd>
+<dt>Luke</dt>
+<dd>"What do you mean by that...?"</dd>
+<dt>Hinata</dt>
+<dd>"What do I mean..-"</dd>
+<dt>Pasca</dt>
+<dd>"P-prince Hinata! Let's go back to the castle already"</dd>
+<dt> </dt>
+<dd>Pasca attempted to cover up what Hinata was about to say with his insistence.</dd>
+<dt>Pasca</dt>
+<dd>"Prince Hinata, since you just woke up, we must not tire your body"</dd>
+<dt> </dt>
+<dd>At those words, Hinata smiled widely.</dd>
+<dt>Hinata</dt>
+<dd>"That's right! USER_NAME, let's hurry and go to the castle!"</dd>
+<dt> </dt>
+<dd>On Pasca's urging, Hinata began to walk quickly to the castle.</dd>
+<dt>Medi</dt>
+<dd>"In any case, we'll be partaking of someone's hospitality in a castle once again"</dd>
+<dt>Luke</dt>
+<dd>"It's rare for you to be so up front"</dd>
+<dt>Medi</dt>
+<dd>"Rude. I'm always honest"</dd>
+<dt>Avi</dt>
+<dd>"There's no helping it. Let's just head towards the castle."</dd>
+<dt> </dt>
+<dd>We started off towards Fairbelk castle..-</dd>
+<dd>Section 3 End</dd>
+</dl>
+
+|-| 3-4 =
+== The shadow cast over the smile ==
+<dl>
+<dt>Hinata</dt>
+<dd>"Everyone-! I'm back-!"</dd>
+<dt> </dt>
+<dd>When we had been led by Hinata to the castle,</dd>
+<dd>Colorful blocks and cutesy balloons were scattered here and there, adorning the place.</dd>
+<dd>The thing approaching with a crashing sound was...-.</dd>
+<dt>??</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>(it's wearing a tailcoat, but it couldn't be... a butler...!?)</dd>
+<dd>The butler approaching us from within the castle was a tin doll.</dd>
+<dt>Medi</dt>
+<dd>"The waiter is a toy!?"</dd>
+<dt>Avi</dt>
+<dd>".... Not just the waiter"</dd>
+<dt> </dt>
+<dd>Looking back towards Avi's voice, what stood there bowing politely was...</dd>
+<dd>"...."</dd>
+<dd>There was an adorable Maid toy.</dd>
+<dt>Navi</dt>
+<dd>"There are no humans in this castle~!"</dd>
+<dt>Luke</dt>
+<dd>"It's harder to find humans in this country..."</dd>
+<dt>Pasca</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>Everyone was shocked speechless...</dd>
+<dt>Hinata</dt>
+<dd>"Everyone, what's wrong?"</dd>
+<dt> </dt>
+<dd>Hinata looked at us with a blank face.</dd>
+<dt>MC</dt>
+<dd>"Hey, Hinata. Are there no people in this castle?"</dd>
+<dt>Hinata</dt>
+<dd>"Everyone was originally a person"</dd>
+<dt>MC</dt>
+<dd>"Huh..."</dd>
+<dt>Hinata</dt>
+<dd>"The butler and maid here and everyone, I asked Pasca to turn into toys"</dd>
+<dd>"Right, Pasca?"</dd>
+<dt>Pasca</dt>
+<dd>"Y-yes.... as Prince Hinata commanded!"</dd>
+<dt> </dt>
+<dd>Pasca's gaze froze.</dd>
+<dt>Luke</dt>
+<dd>"....He straight up said it"</dd>
+<dt>Medi</dt>
+<dd>"This isn't really a chill story"</dd>
+<dt>Avi</dt>
+<dd>"Why did you do that?"</dd>
+<dt>Hinata</dt>
+<dd>"Huh? Why...-"</dd>
+<dt> </dt>
+<dd>As Hinata was about to say something...-</dd>
+<dt>Navi</dt>
+<dd>"Everyone! Dream Eaters!!"</dd>
+<dt> </dt>
+<dd>Dream Eaters appeared in front of our eyes.</dd>
+<dt>Avi</dt>
+<dd>"There are various things I want to ask you, but first we'll deal with these guys!"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt>Navi</dt>
+<dd>"Again! There are still more Dream Eaters left!"</dd>
+<dt> </dt>
+<dd>The Dream Eaters, not casting a single glance toward the human toys, came up toward us.</dd>
+<dt>Hinata</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>(This is....)</dd>
+<dt>Avi</dt>
+<dd>"Let's do this!"</dd>
+<dt> </dt>
+<dd>The Dream Eaters let out a groan and disappeared from before our eyes...-.</dd>
+<dd>(Thank goodness)</dd>
+<dt>Avi</dt>
+<dd>"There are a lot of Dream Eaters in this country"</dd>
+<dt>Hinata</dt>
+<dd>"... That's why"</dd>
+<dt>Avi</dt>
+<dd>"What do you mean that's why!?"</dd>
+<dt> </dt>
+<dd>As if censuring him, Avi pressed Hinata.</dd>
+<dt>Hinata</dt>
+<dd>"None of your business!"</dd>
+<dt>Avi</dt>
+<dd>"What did you say!?"</dd>
+<dt> </dt>
+<dd>Hinata turned on his heel and shut his mouth tightly.</dd>
+<dt>Pasca</dt>
+<dd>"P-prince Hinata...."</dd>
+<dt> </dt>
+<dd>Pasca nervously panicked.</dd>
+<dt>Luke</dt>
+<dd>"Let's all calm down. We all must be very tired"</dd>
+<dt> </dt>
+<dd>Luke chimed in in an attempt to intervene and rescue the situation</dd>
+<dt>Luke</dt>
+<dd>"Shall we just rest for now'</dd>
+<dt>Avi</dt>
+<dd>"....."</dd>
+<dt>Hinata</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>......</dd>
+<dd>That evening...-.</dd>
+<dt>??</dt>
+<dd>"....Are you ok?"</dd>
+<dt> </dt>
+<dd>My brother's smile appeared out of the light.</dd>
+<dd>(Brother!)</dd>
+<dt>??</dt>
+<dd>"How is this new country? Are you tired?"</dd>
+<dt> </dt>
+<dd>(Yeah, I'm fine. I have to try my best, for Emil's sake)</dd>
+<dt>??</dt>
+<dd>".... That's right"</dd>
+<dt> </dt>
+<dd>(I wonder if Emil is alright?)</dd>
+<dt>??</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>(Brother?)</dd>
+<dd>"Don't overdo it"</dd>
+<dd>(Yes, thank you)</dd>
+<dd>My brother's eyebrows knitted, and he smiled conflictedly as he was enveloped by light...-.</dd>
+<dd>When I awoke to the morning light streaming in through the window, I felt something touching my arm.</dd>
+<dd>"!!?"</dd>
+<dt>Hinata</dt>
+<dd>"Unghh..."</dd>
+<dt> </dt>
+<dd>By my side was a peacefully sleeping Hinata.</dd>
+<dd>(That scared me.... When did he get in here)</dd>
+<dt>Hinata</dt>
+<dd>"ZZZ....."</dd>
+<dt> </dt>
+<dd>I peered into Hinata's soundly sleeping face.</dd>
+<dd>(What a cute sleeping face)</dd>
+<dd>(Why did this child turn everyone into toys....?)</dd>
+<dd>At that time, a knock came on the door.</dd>
+<dt>Medi</dt>
+<dd>"My little baby! Are you awake?"</dd>
+<dt>MC</dt>
+<dd>"Uh, yes! Just a second"</dd>
+<dt> </dt>
+<dd>I frantically changed and opened the door to see everyone gathered there.</dd>
+<dd>Everyone's gazes were then concentrated on Hinata, on the bed.</dd>
+<dt>Everyone</dt>
+<dd>"!!!"</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME... What is the meaning of this situation"</dd>
+<dt>Avi</dt>
+<dd>"That guy! I was wondering where he was....!"</dd>
+<dt>Luke</dt>
+<dd>"USER_NAME, could you possibly have... That... together?"</dd>
+<dt>MC</dt>
+<dd>"N-no! He just kind of appeared!"</dd>
+<dt>Medi</dt>
+<dd>".... How dare he! This boy has no limits!"</dd>
+<dt>Avi</dt>
+<dd>"Hey, wake up!"</dd>
+<dt> </dt>
+<dd>Avi snatched the down blanket from Hinata.</dd>
+<dt>Hinata</dt>
+<dd>"N ~ Huh...? It's cold"</dd>
+<dt>Avi</dt>
+<dd>"Until when were you planning to sleep in!"</dd>
+<dt>Hinata</dt>
+<dd>"Jeez~ Don't get all mad.... I hate it when people yell"</dd>
+<dt> </dt>
+<dd>Hinata puffed up his cheeks and pouted deeply.</dd>
+<dd>With everyone watching, Hinata gave a yawn...-.</dd>
+<dt>Hinata</dt>
+<dd>".... I'm hungry"</dd>
+<dt> </dt>
+<dd>In that situation, I noticed everyone got even more pissed off.</dd>
+<dd>(Uh... What should I do)</dd>
+<dt>MC</dt>
+<dd>"Ah, I'm pretty hungry too!"</dd>
+<dt>Hinata</dt>
+<dd>"Yea sis, let's go!"</dd>
+<dt> </dt>
+<dd>Hinata gave a big smile, and hopped off the bed.</dd>
+<dd>(Thank goodness. His mood seems better)</dd>
+<dd>...</dd>
+<dd>......</dd>
+<dd>After eating breakfast with everyone...-.</dd>
+<dt>Avi</dt>
+<dd>"I'm going to swing my sword in the garden for a bit"</dd>
+<dt>Medi</dt>
+<dd>"Sword training already?"</dd>
+<dt>Luke</dt>
+<dd>"Avi is serious as usual"</dd>
+<dt>Avi</dt>
+<dd>"You guys should come too"</dd>
+<dt>Luke</dt>
+<dd>"I refuse.... I guess I can't say that"</dd>
+<dt>Medi</dt>
+<dd>"I am a person of culture!"</dd>
+<dt> </dt>
+<dd>Avi and the others started out towards the courtyard.</dd>
+<dt>Hinata</dt>
+<dd>"Sword training?"</dd>
+<dt>Avi</dt>
+<dd>"Yup, do you wanna do it too?"</dd>
+<dt>Hinata</dt>
+<dd>"No way, I'm not doing that. I'll get all tired"</dd>
+<dt>Avi</dt>
+<dd>"As a prince, aren't you supposed to protect your country? You'd do well to train those flimsy arms a bit more"</dd>
+<dt>Hinata</dt>
+<dd>"I can protect my country without using that smelly, sweaty power"</dd>
+<dt> </dt>
+<dd>Hinata retorted with all the confidence in the world.</dd>
+<dd>If he says something like that, Avi and the others will probably freak out...-.</dd>
+<dd>"...."</dd>
+<dd>When Avi and them had started sword training, Hinata was staring from the window.</dd>
+<dt>Hinata</dt>
+<dd>"I wonder how come they're trying so hard...."</dd>
+<dt>MC</dt>
+<dd>"It's probably because they want to protect their countries"</dd>
+<dt>Hinata</dt>
+<dd>"Protect.... Like to defeat Dream Eaters?"</dd>
+<dt>MC</dt>
+<dd>"Yeah, that"</dd>
+<dt>Hinata</dt>
+<dd>"With just you guys? That's totally impossible"</dd>
+<dd>"We don't even know why they're appearing, you know!?"</dd>
+<dd>"We dont have any weapons against them, right?"</dd>
+<dt>MC</dt>
+<dd>"W-Well...-"</dd>
+<dt> </dt>
+<dd>At Hinata's words, anxiety welled up within me</dd>
+<dt>Emil</dt>
+<dd>"Hey, sis.... Is it my fault?"</dd>
+<dd>"If I have dreams.... the Dream Eaters come?"</dd>
+<dt>MC</dt>
+<dd>".... There's a child I want to save"</dd>
+<dd>"If I go to Träumere, I might be able to save him"</dd>
+<dd>"We might even be able to solve the mystery of the Dream Eaters"</dd>
+<dt>Hinata</dt>
+<dd>"......"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>(But... he's right)</dd>
+<dd>(Believing whatever my brother says in my dreams.... Getting everyone involved)</dd>
+<dd>(.... If nothing comes out of going to Träumere)</dd>
+<dd>(I would have put everyone in danger for no reason)</dd>
+<dd>As anxiety rose in my chest, I balled my hands into fists...-.</dd>
+<dt>Hinata</dt>
+<dd>"But I don't think just standing up for something is a way of fighting-..."</dd>
+<dt>MC</dt>
+<dd>"Hinata?"</dd>
+<dt> </dt>
+<dd>When I began to figure out the meaning behing what Hinata was saying....-.</dd>
+<dt>Navi</dt>
+<dd>"Princess MC!"</dd>
+<dt> </dt>
+<dd>Warping the gentle morning air, a pitch black darkness was projected in front of our eyes...-.</dd>
+<dt>Navi</dt>
+<dd>"Dream Eaters! And there are a good amount of them!"</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME!"</dd>
+<dt>Pasca</dt>
+<dd>"P-prince Hinata!!"</dd>
+<dt> </dt>
+<dd>Avi and the others, noticing something abnormal, had dashed over.</dd>
+<dd>After defeating the last one, we breathed a sigh of relief.</dd>
+<dt>Avi</dt>
+<dd>"See, this is what happens"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>Hinata's muttered words were mingled with a sigh...-.</dd>
+<dt>MC</dt>
+<dd>"Hinata?"</dd>
+<dt>Hinata</dt>
+<dd>"Sis, are you hurt anywhere?"</dd>
+<dt>MC</dt>
+<dd>"Uh, no.... I'm fine"</dd>
+<dt>Hinata</dt>
+<dd>"Really? I'm glad"</dd>
+<dt> </dt>
+<dd>Hinata gave me a big smile.</dd>
+<dd>(Was that... just my imagination?)</dd>
+<dt>Hinata</dt>
+<dd>"Hey hey sis! Let's go out on the town!"</dd>
+<dt> </dt>
+<dd>Hinata grabbed my hand tightly, and looked up at me through his eyelashes.</dd>
+<dt>Medi</dt>
+<dd>"I am definitely coming along. I'm really fascinated by this town"</dd>
+<dt>Hinata</dt>
+<dd>"Awwww, I wanted to go just with sis!"</dd>
+<dt>Pasca</dt>
+<dd>"It's dangerous to go with only two people!"</dd>
+<dt>Hinata</dt>
+<dd>"Pasca, don't come with us!"</dd>
+<dt>Pasca</dt>
+<dd>"We cannot have even a 1 out of 10,000 chance something might happen to you. I'm coming!"</dd>
+<dt>Medi</dt>
+<dd>"Applying the notion of a child's place, a date with just the two of you is unacceptable"</dd>
+<dt>Luke</dt>
+<dd>"Avi, what are you gonna do?"</dd>
+<dt>Avi</dt>
+<dd>"Well, it is dangerous with only two people...."</dd>
+<dt> </dt>
+<dd>We noted Hinata's words but did not listen,</dd>
+<dd>In the end, we all ended up going to the village together.</dd>
+<dd>Section 4 end</dd>
+</dl>
+
+|-| 3-5 =
+== Hinata's thoughts ==
+<dl>
+<dt> </dt>
+<dd>In the next second, the Dream Eaters had appeared and surrounded us.</dd>
+<dt>MC</dt>
+<dd>"When did they get there!?"</dd>
+<dt>Avi</dt>
+<dd>"In any case, let's clean 'em all up!"</dd>
+<dt>Medi</dt>
+<dd>"Geez, they're so stubborn!"</dd>
+<dt>Avi</dt>
+<dd>"Don't let down your guard!"</dd>
+<dt> </dt>
+<dd>After somehow defeating all the Dream Eaters.....</dd>
+<dt>Hinata</dt>
+<dd>"Do you get it now? If you're alive, you'll get attacked"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>(Dream Eaters will only attack living humans....? Well, it does seem to be true)</dd>
+<dd>(Will people be happy this way?)</dd>
+<dd>As soon as I thought that....-.</dd>
+<dt>Avi</dt>
+<dd>"Look out!"</dd>
+<dt> </dt>
+<dd>Suddenly, a girl with a knife attempted to attack Hinata.</dd>
+<dt>Hinata</dt>
+<dd>".....!"</dd>
+<dt> </dt>
+<dd>Avi took the knife from the girl and restrained her.</dd>
+<dt>Girl</dt>
+<dd>"....h!"</dd>
+<dt>Medi</dt>
+<dd>"It's very unladylike for a lady to be wielding a knife"</dd>
+<dt>Avi</dt>
+<dd>"Who are you?"</dd>
+<dt>Pasca</dt>
+<dd>"You are....-"</dd>
+<dd>Pasca's face paled.</dd>
+<dt>Hinata</dt>
+<dd>"Aren't you Brea's wife?"</dd>
+<dt>Brea's wife</dt>
+<dd>"....."</dd>
+<dt>MC</dt>
+<dd>"Hinata, do you know this person?"</dd>
+<dt>Hinata</dt>
+<dd>"Yes, Brea was the leader of the forces against the Dream Eaters, and is pretty well-known in town"</dd>
+<dt>Brea's wife</dt>
+<dd>"........"</dd>
+<dt>Navi</dt>
+<dd>"But why are you attacking Prince Hinata?"</dd>
+<dt> </dt>
+<dd>Brea's wife's eyes filled with tears, and she glared at Hinata.</dd>
+<dt>Brea's wife</dt>
+<dd>"..... Return him!"</dd>
+<dt>Hinata</dt>
+<dd>"....Huh?"</dd>
+<dt>Brea's wife</dt>
+<dd>"My husband was working on a way to rid this country of Dream Eaters.... And he went to consult with Prince Hinata"</dd>
+<dd>"However, the husband that returned to me was... in the form of a doll......"</dd>
+<dt>Hinata</dt>
+<dd>"Well, that's because if he's a toy then he won't get attacked by Dream Eaters!?"</dd>
+<dd>"Brea was saying he didn't want to be attacked by Dream Eaters.. so.....-"</dd>
+<dt>Brea's wife</dt>
+<dd>"Since my husband is a doll, I can't even talk with him...."</dd>
+<dt> </dt>
+<dd>Brea's wife's body trembled as she dripped tears.</dd>
+<dt>Brea's wife</dt>
+<dd>"..... Everyone else is so afraid of the sorcerer, they won't say it"</dd>
+<dt>Hinata</dt>
+<dd>"Huh...."</dd>
+<dt> </dt>
+<dd>Everyone's gazes gathered on Pasca.</dd>
+<dt>Hinata</dt>
+<dd>"Pasca? What is the meaning of this!?"</dd>
+<dt>Pasca</dt>
+<dd>"I-I...."</dd>
+<dt>Brea's wife</dt>
+<dd>"Everyone who wanted to talk with Prince Hinata, he turned into toys...."</dd>
+<dt>Hinata</dt>
+<dd>".....!!"</dd>
+<dt>Brea's wife</dt>
+<dd>"But I don't care what happens to me! If my husband is gone, there's no reason for me to live!"</dd>
+<dd>"Turn my husband back! ..... I beg of you!"</dd>
+<dt>Hinata</dt>
+<dd>".....I...."</dd>
+<dt> </dt>
+<dd>Hinata's face paled, and his lip trembled slightly.</dd>
+<dd>(Hinata....)</dd>
+<dd>Brea's wife collapsed to the ground in tears.</dd>
+<dt>Luke</dt>
+<dd>"..... Are you alright!?"</dd>
+<dt>Medi</dt>
+<dd>"Ahh....! I can't look at a lady crying"</dd>
+<dt>Hinata</dt>
+<dd>".......'cus"</dd>
+<dt> </dt>
+<dd>Hinata whispered something in a small voice.</dd>
+<dt>MC</dt>
+<dd>"Hinata?"</dd>
+<dt>Hinata</dt>
+<dd>"It's not my fault!"</dd>
+<dt> </dt>
+<dd>Hinata yelled that, and then ran off.</dd>
+<dt>MC</dt>
+<dd>"Hinata!"</dd>
+<dt>Avi</dt>
+<dd>"Ah! Hey...-"</dd>
+<dt> </dt>
+<dd>Before I knew it, I was running after Hinata...-.</dd>
+<dd>...</dd>
+<dd>......</dd>
+<dt>MC</dt>
+<dd>"Hinata... Hinata, wait!"</dd>
+<dt> </dt>
+<dd>While chasing after Hinata, a doll suddenly appeared in front of him.</dd>
+<dt>Hinata</dt>
+<dd>".... Pasca"</dd>
+<dt>Pasca</dt>
+<dd>"... Prince Hinata, don't make such a sad face"</dd>
+<dt>Hinata</dt>
+<dd>"Pasca!"</dd>
+<dd>"Did.. Did I do something bad?"</dd>
+<dd>"I have to protect everyone, but the Dream Eaters kept coming out without limit....."</dd>
+<dd>"If they become toys, the Dream Eaters won't attack them. Isn't that right, Pasca?"</dd>
+<dd>"Right....?"</dd>
+<dt>Pasca</dt>
+<dd>"....Prince Hinata"</dd>
+<dt> </dt>
+<dd>It seemed like Pasca could do nothing but nod at Hinata's words.</dd>
+<dt>Hinata</dt>
+<dd>"I just wanted to protect everyone from the Dream Eaters...."</dd>
+<dt> </dt>
+<dd>After saying that, Hinata collapsed to the floor in tears.</dd>
+<dd>(Hinata was trying his best to protect everyone)</dd>
+<dt>MC</dt>
+<dd>"Hinata....."</dd>
+<dt> </dt>
+<dd>I went to dash up to Hinata....</dd>
+<dt>Pasca</dt>
+<dd>"Don't get near!"</dd>
+<dt> </dt>
+<dd>Pasca wrapped his arm around Hinata and send a pointed glare at me.</dd>
+<dt>MC</dt>
+<dd>".....!"</dd>
+<dt>Pasca</dt>
+<dd>"I won't let anyone make Hinata more sad... Even if it's the princess of Träumere!"</dd>
+<dt>MC</dt>
+<dd>"Pasca... Um!"</dd>
+<dt> </dt>
+<dd>Pasca muttered a spell under his breath and pointed his index finger at me.</dd>
+<dd>A light emitted from that finger...-.</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt>Hinata</dt>
+<dd>"!! Sis!"</dd>
+<dt> </dt>
+<dd>The light from Pasca's index finger enveloped me...-.</dd>
+<dd>(What is happening!?)</dd>
+<dt>Hinata</dt>
+<dd>"Sis turned into a doll....!"</dd>
+<dt> </dt>
+<dd>(Me, a doll....?)</dd>
+<dd>Section 5 end</dd>
+</dl>
+
+|-| 3-6 =
+== True justice ==
+<dl>
+<dt> </dt>
+<dd>I had been turned into a doll by Pasca.</dd>
+<dt>Navi</dt>
+<dd>"Princess! Where are you~!"</dd>
+<dt> </dt>
+<dd>Avi and the others came over looking for signs of Hinata and Pasca.</dd>
+<dt>Avi</dt>
+<dd>"Hinata, where's USER_NAME"</dd>
+<dt>Hinata</dt>
+<dd>"Ah......"</dd>
+<dt>Medi</dt>
+<dd>"I thought Honey was going after you"</dd>
+<dt>Navi</dt>
+<dd>"C-c-could this be......!"</dd>
+<dt> </dt>
+<dd>Navi's eyes were drawn to me, in doll form.</dd>
+<dd>(Navi! It's me!)</dd>
+<dd>As a doll, I couldn't move very well, but I attempted to call him silently.</dd>
+<dt>Luke</dt>
+<dd>"It does kind of look like USER_NAME......"</dd>
+<dt> </dt>
+<dd>Avi gathered me up with an expression of horror.</dd>
+<dt>Avi</dt>
+<dd>"What is the meaning of this!?"</dd>
+<dt>Hinata</dt>
+<dd>"I...."</dd>
+<dt> </dt>
+<dd>Avi shook him threateningly, but</dd>
+<dd>Pasca took a step forward in an attempt to protect Hinata.</dd>
+<dt>Luke</dt>
+<dd>"This is USER_NAME, then?"</dd>
+<dt>Hinata</dt>
+<dd>"......Yes"</dd>
+<dt>Avi</dt>
+<dd>"How dare you!!"</dd>
+<dt> </dt>
+<dd>(Avi.......)</dd>
+<dd>I could somewhat move my hand, but my consciousness was getting farther away from me.</dd>
+<dt>Pasca</dt>
+<dd>"P.... Prince Hinata wasn't in the wrong! It's all of your fault, who don't understand anything"</dd>
+<dt> </dt>
+<dd>Pasca's voice was trembling.</dd>
+<dt>Pasca</dt>
+<dd>"In order to protect the citizens from the Dream Eaters, Prince Hinata made them into toys"</dd>
+<dd>"Prince Hinata was only doing his duty as a prince, and so it is absurd to blame him!"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>I felt Avi grip me with greater strength.</dd>
+<dt>Avi</dt>
+<dd>"Hinata, do you really believe you're protecting your citizens?"</dd>
+<dd>"Did you listen to what they had to say? Is arbitrarily turning them into toys really protecting them?"</dd>
+<dt>Hinata</dt>
+<dd>"......"</dd>
+<dt>Avi</dt>
+<dd>"They wanted to stand up to the Dream Eaters..... It is a prince's duty to respond to that courage!"</dd>
+<dt>Hinata</dt>
+<dd>"I....."</dd>
+<dt> </dt>
+<dd>Hinata came out from behind Pasca's back and touched me in Avi's hand with a trembling hand.</dd>
+<dt>Hinata</dt>
+<dd>"Sis....."</dd>
+<dt> </dt>
+<dd>A single tear fell from Hinata's eyes, staining me with water.</dd>
+<dd>(Hinata, don't cry)</dd>
+<dd>I moved my hand to stroke Hinata's cheek.</dd>
+<dt>Hinata</dt>
+<dd>"Sis's hand is so cold... It was so warm before..."</dd>
+<dt> </dt>
+<dd>One by one, Hinata's tears oozed out.</dd>
+<dt>Hinata</dt>
+<dd>"When you're a doll, we can't talk......"</dd>
+<dd>"This must be how Brea's wife felt....."</dd>
+<dt>Avi</dt>
+<dd>"Yeah, probs"</dd>
+<dt>Medi</dt>
+<dd>"I also miss Honey so much I can't stand it. It's like the world has lost all of its color....!"</dd>
+<dt>Luke</dt>
+<dd>".... Me too. I want to hear USER_NAME's voice"</dd>
+<dt>Hinata</dt>
+<dd>"..... It's so lonely"</dd>
+<dt> </dt>
+<dd>(Hi....nata....)</dd>
+<dd>Slowly the world seemed to get farther away, and my consciousness fell into darkness...-.</dd>
+<dd>...</dd>
+<dd>Hinata turned back towards Pasca.</dd>
+<dt>Prince Hinata</dt>
+<dd>".....Pasca, please. Return sis and all the villagers back to their original bodies"</dd>
+<dt>Pasca</dt>
+<dd>".....Prince Hinata"</dd>
+<dt>Hinata</dt>
+<dd>"Please.. I was wrong"</dd>
+<dt> </dt>
+<dd>At Hinata's words, Pasca's face fell.</dd>
+<dt>Pasca</dt>
+<dd>"..... Understood"</dd>
+<dt>Hinata</dt>
+<dd>"Thank you, Pasca!"</dd>
+<dt> </dt>
+<dd>Hinata gave him a big smile, and Pasca returned a painful one.</dd>
+<dt>Pasca</dt>
+<dd>"Then...."</dd>
+<dt> </dt>
+<dd>Pasca faced USER_NAME and chanted a spell.</dd>
+<dd>At that...-.</dd>
+<dd>...</dd>
+<dd>Out of the pitch darkness, a light spilled forth.</dd>
+<dt>MC</dt>
+<dd>".....!"</dd>
+<dt> </dt>
+<dd>(I'm back!)</dd>
+<dd>I had gone from being held in Avi's hand to being held in his arms as my former self.</dd>
+<dt>Avi</dt>
+<dd>".....!"</dd>
+<dt> </dt>
+<dd>Avi released me from his arms, flustered.</dd>
+<dt>Luke</dt>
+<dd>"Thank goodness"</dd>
+<dt>Medi</dt>
+<dd>"Ah... Honey's smile is indeed lovely"</dd>
+<dt>Hinata</dt>
+<dd>"Sis....."</dd>
+<dt> </dt>
+<dd>Hinata gave me a bear hug.</dd>
+<dt>MC</dt>
+<dd>"Hinata...!"</dd>
+<dt>Hinata</dt>
+<dd>".....Sis, you're warm. You're way better like this. I'm sorry"</dd>
+<dt> </dt>
+<dd>I stroked his head and he buried his face in my chest.</dd>
+<dt>Everyone</dt>
+<dd>"!!!"</dd>
+<dt>Medi</dt>
+<dd>"I really can't handle this!"</dd>
+<dt>Luke</dt>
+<dd>"I'm so jeal-... uh"</dd>
+<dt>Avi</dt>
+<dd>"Hey, that's enough! Let's hurry back to the villagers"</dd>
+<dt>Hinata</dt>
+<dd>"I know that without you telling me!"</dd>
+<dt> </dt>
+<dd>Hinata, returned to his normal way of talking, separated from me and walked over to Pasca.</dd>
+<dt>Hinata</dt>
+<dd>"Pasca! Let's go!"</dd>
+<dt>Pasca</dt>
+<dd>".....Yes"</dd>
+<dt> </dt>
+<dd>Pasca answered Hinata in a mosquito-like voice.</dd>
+<dd>(Maybe Pasca has been conflicted this entire time)</dd>
+<dt>MC</dt>
+<dd>"Pasca, you..."</dd>
+<dt>Pasca</dt>
+<dd>"I'm the only one Hinata has"</dd>
+<dd>"I wanted to grant Hinata's wish of protecting the citizens with all my might"</dd>
+<dd>"However, the result was only to make Hinata sad"</dd>
+<dd>"I.. I was also wrong"</dd>
+<dt>Hinata</dt>
+<dd>"Pasca...."</dd>
+<dt>MC</dt>
+<dd>"I don't know what's right..."</dd>
+<dd>"The Dream Eaters may continue to attack them if they're returned back to their bodies"</dd>
+<dd>"I'm also.... apprehensive"</dd>
+<dd>"What if we go to Träumere and there's nothing there for us"</dd>
+<dd>"What should I do if all of this was for nothing, and just put everyone in danger"</dd>
+<dd>"I've been thinking about this, but"</dd>
+<dt> </dt>
+<dd>Thinking of Emil, I balled up my hands into fists.</dd>
+<dt>Luke</dt>
+<dd>"USER_NAME....."</dd>
+<dt>Avi</dt>
+<dd>"Idiot"</dd>
+<dt> </dt>
+<dd>Avi lightly tapped my head.</dd>
+<dt>Avi</dt>
+<dd>"It was our own will to come along with you"</dd>
+<dd>"Don't needlessly worry about that kinda stuff"</dd>
+<dt>Medi</dt>
+<dd>"That's right! We're the only ones who can protect you, after all!"</dd>
+<dt>Luke</dt>
+<dd>"I feel the same way. Whatever happens, I will not regret this"</dd>
+<dt> </dt>
+<dd>At everyone's words, my worries melted away.</dd>
+<dt>MC</dt>
+<dd>"Everyone... Thank you"</dd>
+<dt>Hinata</dt>
+<dd>"Sis...."</dd>
+<dd>"I also want to face everyone"</dd>
+<dd>"Figure out how we should go ahead with all the villagers"</dd>
+<dt>MC</dt>
+<dd>"Hinata...."</dd>
+<dt>Hinata</dt>
+<dd>"Pasca, let's go!"</dd>
+<dt> </dt>
+<dd>....</dd>
+<dd>.....</dd>
+<dd>Hinata and Pasca returned the villagers who had been toys back to humans.</dd>
+<dt>Villager 1</dt>
+<dd>"Huh.... What have I been doing up until now?"</dd>
+<dt>Villager 2</dt>
+<dd>"I feel like I've been dreaming a long dream or something"</dd>
+<dt> </dt>
+<dd>Then, we also went to Brea and released the magic on him...-.</dd>
+<dt>Brea</dt>
+<dd>"......Huh, I....."</dd>
+<dt>Brea's wife</dt>
+<dd>"Darling....!"</dd>
+<dt> </dt>
+<dd>Brea stared at Hinata with an expression that said he had no idea what had occurred.</dd>
+<dt>Hinata</dt>
+<dd>"Brea... I'm sorry"</dd>
+<dd>"I thought about it again. A way to stand up to the Dream Eaters"</dd>
+<dd>"....Will you work with me?"</dd>
+<dt>Brea</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>The hesitation reflected in Brea's eyes slowly narrowed.</dd>
+<dt>Brea</dt>
+<dd>"Yes! Of course, Prince Hinata!"</dd>
+<dt>Hinata</dt>
+<dd>"Brea! Thank you"</dd>
+<dt> </dt>
+<dd>As Hinata and Brea smiled at each other....-.</dd>
+<dt>Navi</dt>
+<dd>"!!"</dd>
+<dt>Medi</dt>
+<dd>"Every single time, they come out at the exact wrong timing!!"</dd>
+<dt>Hinata</dt>
+<dd>"I... won't lose!"</dd>
+<dt> </dt>
+<dd>Even after defeating the Dream Eaters..-</dd>
+<dd>Hinata and Pasca released the villagers from the magic together.</dd>
+<dd>…</dd>
+<dd>……</dd>
+<dd>The village was overflowing with people...-</dd>
+<dd>Voices of people filled the air, and the town returned to its bustling liveliness.</dd>
+<dd>(So this is what Fairbelk used to be like)</dd>
+<dt>Navi</dt>
+<dd>"Everyone. It's about time for Moon Road to open."</dd>
+<dt>Avi</dt>
+<dd>"Oh yeah"</dd>
+<dt>Hinata</dt>
+<dd>"... I want to go, too"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Hinata</dt>
+<dd>"Sis and everyone are going to Träumere, right?"</dd>
+<dt>Medi</dt>
+<dd>"Boy, don't take this expedition lightly."</dd>
+<dt>Luke</dt>
+<dd>"You may not be able to return?"</dd>
+<dt>Pasca</dt>
+<dd>"P-prince Hinata!"</dd>
+<dt>Hinata</dt>
+<dd>"I've been thinking.... I was just talking with Brea and all the other villagers"</dd>
+<dd>"I was wondering if there's a way to make the Dream Eaters go away. If we don't know the way, then we have nothing to fight them with"</dd>
+<dd>"But if I tag along with sis and everyone, maybe we'll figure something out!"</dd>
+<dt>Avi</dt>
+<dd>"What'll you do about this country?"</dd>
+<dt>Hinata</dt>
+<dd>"That..-"</dd>
+<dt>Brea</dt>
+<dd>"I think if they team up with Pasca, they can at least repulse them."</dd>
+<dt> </dt>
+<dd>Looking towards that voice, Brea gathered with the people of the village.</dd>
+<dt>Pasca</dt>
+<dd>"M-m-me!?"</dd>
+<dt> </dt>
+<dd>Being unexpectedly nominated, Pasca panicked noisily.</dd>
+<dt>Brea</dt>
+<dd>"Dream Eaters are weak to light. If we light up the whole town with light or something, as long as we have Pasca's magical light"</dd>
+<dt>Medi</dt>
+<dd>"Is that really ok?"</dd>
+<dt>Pasca</dt>
+<dd>"W-we indeed were able to repulse them with magical light when we were in the caverns...-"</dd>
+<dd>"But doing that for the entire village.... Furthermore, up until now I had all the villagers...-"</dd>
+<dt>Brea</dt>
+<dd>"Originally, Fairbelk was a country specialized in magic users"</dd>
+<dd>"Even among the people who were just returned to human form, there are magic users"</dd>
+<dd>"Sir Pasca. Up until now, we were indeed full of discord. However, now there is nothing to divide us"</dd>
+<dd>"Isn't this a time where it is necessary to have everyone's cooperation...-!"</dd>
+<dt>Pasca</dt>
+<dd>"B-but prince Hinata....!"</dd>
+<dt> </dt>
+<dd>Worry and loneliness filled Pasca's expression.</dd>
+<dd>(Pasca really treasures Hinata)</dd>
+<dt>Hinata</dt>
+<dd>"Since Pasca is a great sorcerer, we can leave everything to him!"</dd>
+<dt>Pasca</dt>
+<dd>"...."</dd>
+<dd>"... I understand. If that is your wish"</dd>
+<dt> </dt>
+<dd>Looking at Pasca bowing very deeply, Hinata smiled widely.</dd>
+<dt>Hinata</dt>
+<dd>"Thanks, Pasca"</dd>
+<dt> </dt>
+<dd>At that, Pasca turned his back and looked up at the sky.</dd>
+<dd>That gaze was so strong...-</dd>
+<dt>MC</dt>
+<dd>"Hinata, let's go together!"</dd>
+<dt>Hinata</dt>
+<dd>"Sis....."</dd>
+<dt>MC</dt>
+<dd>"Everyone's alright with that?"</dd>
+<dt>Medi</dt>
+<dd>"Well... If Honey says so, there's no helping it"</dd>
+<dt>Luke</dt>
+<dd>"Same here..."</dd>
+<dt>Avi</dt>
+<dd>"His eyes are serious. It should be fine"</dd>
+<dt>Hinata</dt>
+<dd>"...Thanks! Woohoo, I'll be able to be with Sis all the time now!"</dd>
+<dt> </dt>
+<dd>Hinata gave me a hug.</dd>
+<dt>Medi</dt>
+<dd>"Ah, you're doing it again! I can't let my guard down anymore! Get away from Honey"</dd>
+<dt>Hinata</dt>
+<dd>"Don't wanna~"</dd>
+<dt>Medi</dt>
+<dd>"Aren't you being a bother!"</dd>
+<dt>Hinata</dt>
+<dd>"Sis... am I a bother?"</dd>
+<dt>MC</dt>
+<dd>"N-no, not particularly"</dd>
+<dt> </dt>
+<dd>With that exchange of words, Avi grabbed the nape of Hinata's neck and separated him from me.</dd>
+<dt>Hinata</dt>
+<dd>"Tch, you all are such jelly bellies."</dd>
+<dt>Avi</dt>
+<dd>"Shut up"</dd>
+<dt>Navi</dt>
+<dd>"It's getting more and more lively, huh! Let's head off to the next country, then!"</dd>
+<dt>MC</dt>
+<dd>"True."</dd>
+<dt>Avi</dt>
+<dd>"..... Moon Road is being shown"</dd>
+<dt> </dt>
+<dd>At Avi's words, everyone looked up at the moon climbing into the sky.</dd>
+<dt>Navi</dt>
+<dd>"It's Koubai country!"</dd>
+<dt>Medi</dt>
+<dd>"How beautiful.. It has a nice ring to it"</dd>
+<dt> </dt>
+<dd>Adding Hinata to our comrades, we began to walk to the next country...-.</dd>
+<dd>Chapter 3 End</dd>
+</dl>
+
+</tabber>

@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 150
+|name = Will
+|name_jp = ウィル
+|attribute = Sexy
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 607
+|hp_max = 1085
+|hp_break = 1237
+|atk_base = 398
+|atk_max = 681
+|atk_break = 776
+|rp_base = 315
+|rp_max = 459
+|rp_break = 524
+|lskill_name = 恐怖のリハーサル
+|lskill_desc = Increase Yellow & Purple ATK by 35%
+|skill_name = ゴーストタイム
+|skill_desc = Erase random beads (10-25)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 977
+|hp_max_s = 1324
+|hp_break_s = 1483
+|atk_base_s = 647
+|atk_max_s = 830
+|atk_break_s = 930
+|rp_base_s = 436
+|rp_max_s = 492
+|rp_break_s = 551
+|lskill_name_s = 震慄のマンション
+|lskill_desc_s = Increase Yellow & Purple ATK by 50%
+|skill_name_s = ダークシャドウ
+|skill_desc_s = Erase random beads (10-30)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 977
+|hp_max_m = 1400
+|hp_break_m = 1568
+|atk_base_m = 647
+|atk_max_m = 755
+|atk_break_m = 846
+|rp_base_m = 436
+|rp_max_m = 510
+|rp_break_m = 571
+|lskill_name_m = 戦慄のサーカス
+|lskill_desc_m = Increase Yellow & Purple ATK by 35% and HP by 10%
+|skill_name_m = シザーファントム
+|skill_desc_m = Erase random beads (5-35)
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Fear! Will’s Harvest Festival
+|original = [[Will]]
+|desc = 映画の国・ケナルの王子。話題のホラー映画監督。人が恐怖におびえる顔が\\n好き。女の子が怖がる表情はもっと好き。今回、依頼を受けて収穫祭をプロデュースすることになった。
+|bg = ロトリアで収穫祭の総合プロデュースをするというウィルに出会ったあなた。彼が用意したホラーアトラクションのリハーサルをお願いされて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 楽しい仕事
+|choice21m = 他の人に頼むのは？
+|points21m = 8
+|choice21s = あまり怖いのは……
+|points21s = 8
+|title3 = 狂気の天才
+|choice31s = それは、良かった……
+|points31s = 4
+|choice31m = 本当に怖かったのに……
+|points31m = 4
+|choice32s = 嫌な予感しかしない
+|points32s = 8
+|choice32m = これ以上まだ……
+|points32m = 8
+|title4 = 真夜中の森
+|choice41m = 進みましょう
+|points41m = 12
+|choice41s = 戻りましょう
+|points41s = 12
+|title5 = 恐怖の相乗効果
+|choice51m = 演技って……
+|points51m = 16
+|choice51s = ひどいです
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_150s.jpg}}
+{{Still|text=Moon Still|img=Still_150m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = おお！いい悲鳴が聞こえるね……！ホラーパーティー？いいじゃないか
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = もうちょっと薄暗い雰囲気だったら、収穫祭の舞台にぴったりだったね
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = さあ、恐怖に震え、悲鳴をあげてごらん
+|FRIEND_DETAIL_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 来た来た！待ってたんだよ！君じゃないと出来ない案件があってね…いいかな？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = これは良いイベントになりそうだね……僕の全てを注ぎ込むよ
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = さ、めくるめく恐怖体験に出発進行～！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = とっておきの恐怖の夜を君と過ごしたいな。どう？ちょっぴり甘口でもいいよ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = さ！英気も養ったことだし、収穫祭は楽しもう！ククク…楽しみだなあ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = リハーサルや夜の森ごときの恐怖じゃ終わらないよ…どうなるかなあ
+|CARD_EVOLUTION_m_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 血色がいいね…頬が赤くなってるよ？知らなかったな、そういう顔もイイって…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = そんな困った顔じゃなくて、君の中で、一番イイ表情を僕にくれない……？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 収穫祭がこんな怖いと思わなかった？何言ってるんだ、僕の手にかかれば、当然
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = おっと、そうやって逃げようとしてもダメだよ。さあ、一緒に行こうか
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 恐怖の夜をお届けしようか
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 不用意にふれないほうがいい……ほらね！
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 誰にも見せたくないとは言ったけど、僕の段取りミスだから今回はお咎め無し
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 僕以外に怖い思いをさせられたら、すぐに教えて。それ、排除するから、いい？
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = うーん違うなあ。もっと血色悪そうな感じで！
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = お、良くなってきたね！照明落とそうか？
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いいよ！その表情！しかも震えてるのかい？！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 待って！本物の血はダメだよ！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 今宵、人々の笑い声が悲鳴に変わる！
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = もう本番だよ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ダメだよ！笑ったら！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 恐怖が重なるこの瞬間！！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さあ、ここで雷鳴の音、ドーンとお願い！
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 突如、狂ったように暴れだす巨大カボチャ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 夜を支配する恐怖のゴースト！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = いいね！クライマックスだよ！
+|BATTLE_CLEAR_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ん～…太陽が早く沈むといいんだけど…ま、夜に向けて準備を怠らないように
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さあさあ、日が沈んだよ～これからが本番！って気分だね。さ、手伝って！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = そんなお寝坊さんな顔をしている場合じゃないよ！今日は一日忙しいんだからね
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 国一つまるごと好きにしていいって言われたんだよ…ゾクゾクするよ！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = そんな嫌そうな顔をしないでよ。もっと血の気の失せた、恐怖に歪む顔がいいな
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 君も参加だよ。僕が作り上げるこのホラーショーを盛り上げる重要な役だ！
+|MAIN_TOP_TOUCH_2_clip = 
+}}

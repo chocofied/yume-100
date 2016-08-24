@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 255
+|name = Ster
+|name_jp = シュテル
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 669
+|hp_max = 1311
+|hp_break = 1495
+|atk_base = 403
+|atk_max = 655
+|atk_break = 746
+|rp_base = 146
+|rp_max = 200
+|rp_break = 228
+|lskill_name = 水鏡に寄せる思い
+|lskill_desc = Decrease Party RP, increase Party HP and ATK by 35%
+|skill_name = 君ありて幸福
+|skill_desc = Erase bottom beads (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1180
+|hp_max_s = 1600
+|hp_break_s = 1792
+|atk_base_s = 622
+|atk_max_s = 799
+|atk_break_s = 895
+|rp_base_s = 190
+|rp_max_s = 214
+|rp_break_s = 240
+|lskill_name_s = 星へ誓う言葉
+|lskill_desc_s = Decrease Party RP, increase Party HP and ATK by 40%
+|skill_name_s = 世界で君だけが持つ力
+|skill_desc_s = Erase bottom beads (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1180
+|hp_max_m = 1691
+|hp_break_m = 1894
+|atk_base_m = 622
+|atk_max_m = 727
+|atk_break_m = 814
+|rp_base_m = 190
+|rp_max_m = 222
+|rp_break_m = 249
+|lskill_name_m = 星屑の参列者
+|lskill_desc_m = Decrease Party RP, increase Party HP and ATK by 40%
+|skill_name_m = 一生に一度の僕の願い
+|skill_desc_m = Erase bottom beads and recover HP
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Bride Reflected on the Water Mirror
+|original = [[Ster]]
+|desc = 流星の国・メテオベールの王子。人の願いを叶える力を持つ。願いを叶えた分だけ、彼の持つ星屑時計の星屑は落ちていく。そっけない口調のため冷たく感じるが、実は優しい心の持ち主。アフロスには、この地から発せられた願いの声を聞きつけてやって来た。
+|bg = アフロスで行われる婚宴の儀に招待されたあなた。『二人で覗き込んだ時、運命の相手であれば顔が映る』という水鏡を、再会したシュテルと一緒に覗くと…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 運命の人
+|choice21s = 興味はある
+|points21s = 8
+|choice21m = 少し怖い
+|points21m = 8
+|title3 = 見えない運命
+|choice31m = まさか、そんな……
+|points31m = 4
+|choice31s = 違います
+|points31s = 4
+|choice32s = そんなこと言わないで！
+|points32s = 8
+|choice32m = やめてください……
+|points32m = 8
+|title4 = 二人の願い
+|choice41m = 困りましたね……
+|points41m = 12
+|choice41s = きっと直ります
+|points41s = 12
+|title5 = 命の時間
+|choice51m = 黙って首を振る
+|points51m = 16
+|choice51s = 私は嫌です……
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_255s.jpg}}
+{{Still|text=Moon Still|img=Still_255m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ああ、遊びに来たのか。よく来てくれた、星の加護が君にあるように
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = 静かで美しい。ここは幸せな場所だな。願いの声は、聞こえるか？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 君は僕のことを見る時、いつも少し寂しそうな顔をするな……だが、大丈夫だ
+|WELCOME_PARTY_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君が生まれてきてくれて嬉しい。僕と出会ってくれたこと、幸せだって思うよ
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 一緒に行こうか。ああ、どこへでも行けるよ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君のその願いは…僕は、本当に幸せだな
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 運命は変えられるんだ。そう願う人達の力になりたい
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 皆の願いが…君の願いが僕の力になる
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 願いが聞こえた気がして…もしかして、君の願いだったのかな
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 星達の加護に、感謝しよう
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = もう少し、頑張れるか？
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 強い願いが聞こえてくる
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = さあ、星に僕らの誓いを交わそう
+|SKILL_INVOKE_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君が僕の幸せを願ってくれるなら…今、告げたい言葉がある。好きだよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 君の願いを教えて…どうしてそんな顔をする？僕は、ただ君を幸せに…―
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 君に出会えた…それだけで僕の命は強く輝く。さあ、この手を取って…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 強いと思っていたけれど…繊細なんだな。大丈夫、僕がついているから
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 人がなぜ、願うか…それは運命を変えられると、信じているからだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 君の願いを叶えてあげる。それが僕の使命であり、幸せなんだ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 言っただろう？僕は、皆の笑顔が見たいんだ。だから、君も笑ってくれ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 切なる願いが聞こえてくる…これは、君のものか？僕に、触れたい…？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今夜も誰かの願いの元へ、星が導いてくれる…君も一緒に行くか？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 太陽の光に隠れていても、星達は息づいている。さあ、願いを聞いて…
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ゆっくり眠れたか？今日は何がしたい？なんでも言ってほしい
+|MAIN_TOP_MORNING_GREET_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 怖がらなくていい、僕はこの運命を信じている
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 願いの声が聞こえる…行こう
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 暖かな力だね
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 大丈夫だ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 星の光よ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 強い祈りだ…君の思いに答えてみせるよ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうか、君は意外に頑固なんだった
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 大丈夫だ、僕がついている
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = それは何だ？君に役立つものならいいな
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = すぐに片をつける
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 生まれて初めて願う。君の笑顔を見せてほしい…この命ある限り、傍にいてくれ
+|CARD_DETAIL_m_clip = 
+}}

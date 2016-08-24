@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 159
+|name = Haku
+|name_jp = ハク
+|attribute = Sexy
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 475
+|hp_max = 1023
+|hp_break = 1187
+|atk_base = 268
+|atk_max = 476
+|atk_break = 552
+|rp_base = 327
+|rp_max = 476
+|rp_break = 552
+|lskill_name = 布被りの死神
+|lskill_desc = Increase ATK by 25% when Party consists of all 5 colours
+|skill_name = ブランクネスリーパー
+|skill_desc = Erase right side beads (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 921
+|hp_max_s = 1310
+|hp_break_s = 1493
+|atk_base_s = 452
+|atk_max_s = 609
+|atk_break_s = 694
+|rp_base_s = 452
+|rp_max_s = 538
+|rp_break_s = 613
+|lskill_name_s = 死神の悪戯
+|lskill_desc_s = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name_s = トリックリーパー
+|skill_desc_s = Erase right side beads (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 921
+|hp_max_m = 1381
+|hp_break_m = 1574
+|atk_base_m = 452
+|atk_max_m = 557
+|atk_break_m = 635
+|rp_base_m = 452
+|rp_max_m = 557
+|rp_break_m = 635
+|lskill_name_m = 狂気の死神
+|lskill_desc_m = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name_m = マッドリーパー
+|skill_desc_m = Erase right side beads (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Parade is a Love Gimmick?
+|original = [[Haku]]
+|desc = 本の国・リヴァエルの王子。言葉数が少なく、感情を持っていないと言われている。森で本を読んでいることが多い。今回、招待されて収穫祭にやってきたが、街の人が楽しそうにしている理由が彼にはわからない。
+|bg = 収穫祭へ向かう途中にハクと出会ったあなた。「どうして街の人が楽しそうにしているのかわからない」という彼を、驚かせ楽しませようと必死になるが…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 感情の無い彼
+|choice21m = 首を傾げる
+|points21m = 6
+|choice21s = 軽く吹き出す
+|points21s = 6
+|title3 = 彼を楽しませたい
+|choice31s = どうして？
+|points31s = 3
+|choice31m = 黙る
+|points31m = 3
+|choice32s = 街の皆が楽しそうだから
+|points32s = 6
+|choice32m = このセリフ、知りませんか？
+|points32m = 6
+|title4 = 彼を驚かせたくて
+|choice41m = ハクのローブを引っ張る
+|points41m = 12
+|choice41s = ハクの背中を押す
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_159s.jpg}}
+{{Still|text=Moon Still|img=Still_159m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = どうにも、居心地が悪い……これも公務なのか……？
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = お前を困らせるつもりはないのだが……どうしたらいいのか……困っている
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちた。ゆっくり本を読みたいところだが、収穫祭はこれからなのだろう？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 本当に……皆、仮装しているのだな。不思議な行事だ
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 悪戯するぞ……といわれているのに、そのように笑うのはなぜだ？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 本質的に、この祭りの面白さを理解したわけではないが……悪くはない
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 一生懸命なお前の姿を見られたのは……『嬉しい』と思う
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 夜が明けてしまった……収穫祭とは、何を祭るのだろう……
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = このカボチャは食べられるカボチャなのか……随分、大きいのだな……
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = この仮装は「楽しい」……なのか？　そうか……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは静かでいい。あの図書館で静かに本を読むとしよう……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ……よく、きてくれた
+|FRIEND_DETAIL_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 『楽しい』……そうか、この感情こそが……
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 収穫祭か……困ったものだ……
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 祝ってくれないと、悪戯をする……？　悪くないが……そうだな、おめでとう
+|BIRTHDAY_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = どうしたんだ……？　少し、驚いた
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ああ、『楽しい』気分だ……ありがとう
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = その箱にもなにか仕掛けがあるのか？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = やはり俺には、わからない……
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 気は進まないが……
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 許さない
+|BATTLE_DAMAGE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = このような感情は初めて知った……楽しいものだな、収穫祭は
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 騒々しい……
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = いいな……お前のその表情。背筋を走り抜けるこの感触……楽しい
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = どうした？　怖がって……さっきまで散々人を驚かせていたじゃないか……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 収穫祭とは……こんなものなのか？どうしたらいいのか、困っている
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 仮装とは……これでいいのか？
+|CARD_ENHANCE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、お菓子はあるようだぞ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 散らかってしまったぞ……
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 悪戯とは、どういうことだ？　だが……何か、不思議な気分だ
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = キャンディ？
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ハハッ……これが、『楽しい』ということか
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ここにあるお菓子を配ればいいのか？
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 何が楽しいのか……理解に苦しむ
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ああ……楽しむことにしよう
+|SKILL_INVOKE_s_clip = 
+}}

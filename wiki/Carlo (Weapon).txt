@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 144
+|name = Carlo
+|name_jp = カルロ
+|attribute = Cool
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 323
+|hp_max = 801
+|hp_break = 945
+|atk_base = 221
+|atk_max = 375
+|atk_break = 443
+|rp_base = 201
+|rp_max = 341
+|rp_break = 403
+|lskill_name = 超絶ピッキング
+|lskill_desc = Increase Blue ATK by 25%
+|skill_name = ハンマリング・オン
+|skill_desc = Increase own ATK for 1 turn (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 721
+|hp_max_s = 1129
+|hp_break_s = 1310
+|atk_base_s = 356
+|atk_max_s = 462
+|atk_break_s = 536
+|rp_base_s = 324
+|rp_max_s = 420
+|rp_break_s = 487
+|lskill_name_s = 俺様の見せ場
+|lskill_desc_s = Increase Blue ATK by 35%
+|skill_name_s = ダブル・チョーキング
+|skill_desc_s = Increase own ATK for 1 turn (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 721
+|hp_max_m = 1081
+|hp_break_m = 1254
+|atk_base_m = 356
+|atk_max_m = 507
+|atk_break_m = 588
+|rp_base_m = 324
+|rp_max_m = 399
+|rp_break_m = 463
+|lskill_name_m = メタルVギター
+|lskill_desc_m = Increase Blue ATK by 35%
+|skill_name_m = プリング・オフ
+|skill_desc_m = Increase own ATK for 1 turn (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Feelings of the Sword and Shield ~I Want to Protect You~
+|original = [[Carlo]]
+|desc = 勉学の国・リトリアの王子。自信家で勝気な性格。ブルジョワな生活を抜け出してパンクに生きることを目指す。かっこいいと言われる事に弱い。訪れた武器の国・アヴァロンでは自身のギター型の武器を披露する。
+|bg = アヴァロンの町中でギターを披露しているカルロと再会し、彼と一緒に闘技場へ向かうあなた。観戦中に、彼は自分の新しい武器を披露すると言い始めて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = アナーキーな彼
+|choice21m = 行った方がいいと思う
+|points21m = 6
+|choice21s = 行きたくないの？
+|points21s = 6
+|title3 = パンク魂
+|choice31s = カルロの言うとおりかも
+|points31s = 3
+|choice31m = 大丈夫かな
+|points31m = 3
+|choice32m = そのときは観に行くね
+|points32m = 6
+|choice32s = 似合いそう
+|points32s = 6
+|title4 = 新しい武器
+|choice41s = ギターにしか見えない
+|points41s = 12
+|choice41m = 武器ってどういう意味？
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_144s.jpg}}
+{{Still|text=Moon Still|img=Still_144m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = いい調子だな！鳴らせば鳴らすほどいい音だぜ！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 俺のことスルーなんてどうかしてんだろ？　んなことしないよな？
+|CARD_TOP_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 余裕だっていってんだろ！
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 足りねえなあ！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 前突っ込んでこいよ！そんなもんか！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = もっと拳上げて煽れよ！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ギュインと　かき鳴らそうぜ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ぶっ壊すつもりできてんだろうな！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = もう終わりかよ？前座か？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだまだ～！
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = やっぱ、俺の見せ場はステージの上にしかないってことだ！
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = じゃあ、最高のラブソングをつくろうぜ！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = これ、タダのギターじゃあねえんだぜ？　気になるか？
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = オマエのために一曲唄うよ。こういう曲得意じゃねえんだけど聞いてくれるか？
+|BIRTHDAY_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = まあ、オマエは俺のバンドのメンバーだからな……特別だよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = モンスターなんてどうでもいい…って思ってたけど、でかいのはいいな！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = さっそく二人でセッションしようぜ！自由にうたえよ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = だって、新しいギター手に入れたらお披露目したくなるだろ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろ休憩すっか。練習は大事だけど、やりすぎるのはだせぇ気がするしよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よし、今日はいいギグができそうな気がするぜ！チューニングでもするか！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 闘技場なんかより、でっかいステージ作ったほうが面白いと思わねえか？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = いい演奏ができたし、オールナイトな気分だけど、今日はよく眠れそうだな！
+|MAIN_TOP_EVENING_GREET_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 最高じゃねえか！ドカンといこうぜ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = もっと、高く翔べよ！いけんだろ！
+|CHAIN_GREAT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = かかってこい！
+|BATTLE_ATTACK_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = やっぱ、オマエと一緒にセッションすると一体感が違うよな！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = もちろん演奏すれば　いい音が鳴るんだぜ！この重さが音にも出るんだって！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = これが、ただのギターに見えたって？　重いの一発くらわせるぜ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 一曲目から飛ばすぜ！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = かっこいい？　いいだろ、このギター！え……俺のこと！？
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 勘は鈍ってねーみたいだな！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = それギターにつけたらかっこいいかな
+|BATTLE_RESULT_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 元気にしてたか？俺はちょっと新しいギターを手に入れてさ……
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = お！見に来てくれたんだよな！熱くさせてやるぜ！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここにホール建てようぜ！いや、野外でも気持ちよさそうだな！
+|GUILD_clip = 
+}}

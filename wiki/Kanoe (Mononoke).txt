@@ -1,0 +1,102 @@
+== Status ==
+{{Infobox
+|no = 280
+|name = Kanoe
+|name_jp = カノエ
+|attribute = Cool
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 474
+|hp_max = 951
+|hp_break = 1209
+|atk_base = 357
+|atk_max = 490
+|atk_break = 623
+|rp_base = 339
+|rp_max = 551
+|rp_break = 701
+|lskill_name = 神楽演目『悪獣』
+|lskill_desc = Increase ATK by 25% and RP by 15% when party consists of all 5 colours
+|skill_name = 物の怪祓いの轟音
+|skill_desc = Recover HP and whole party ATK up for 2 turns
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 856
+|hp_max_s = 1055
+|hp_break_s = 1318
+|atk_base_s = 465
+|atk_max_s = 544
+|atk_break_s = 679
+|rp_base_s = 524
+|rp_max_s = 711
+|rp_break_s = 888
+|lskill_name_s = 異国の二丁拳銃
+|lskill_desc_s = Increase ATK by 40% and RP by 15% when party consists of all 5 colours
+|skill_name_s = 物の怪祓いの勇叫
+|skill_desc_s = Recover HP and whole party ATK up for 2 turns
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 856
+|hp_max_m = 1160
+|hp_break_m = 1448
+|atk_base_m = 465
+|atk_max_m = 524
+|atk_break_m = 655
+|rp_base_m = 524
+|rp_max_m = 672
+|rp_break_m = 840
+|lskill_name_m = 妖打ち消す心の強さ
+|lskill_desc_m = Increase ATK by 35% and RP by 20% when party consists of all 5 colours
+|skill_name_m = 物の怪祓いの咆哮
+|skill_desc_m = Recover HP and whole party ATK up for 2 turns
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Tales of the Mononoke Night Parade
+|original = [[Kanoe]]
+|desc = こよみの国・九曜の王子。申の一族。ぶっきらぼうなため怖がられてしまうことが多いが、実は優しい性格。なおかつ、責任感があり努力家な一面を持つ。今回、国の習わしである『物の怪神楽』に出演することになり、いろんな獣が合わさった伝説の物の怪『悪獣』の仮装をしている。
+|bg = 『物の怪神楽』と呼ばれる神事を見に九曜を訪れたあなたは『悪獣』の仮装をしたカノエと再会する。しかし、街で怪我をした彼は城に戻ると態度が変わり…―
+}}
+== Story ==
+{{Choice
+|title2 = こよみの国と物の怪
+|choice21s = 見たかったな
+|points21s = 8
+|choice21m = 見られないですよね？
+|points21m = 8
+|title3 = 動き出した悪獣
+|choice31m = なんでもない
+|points31m = 4
+|choice31s = 少し怖い
+|points31s = 4
+|choice32s = 目を逸らす
+|points32s = 8
+|choice32m = 目を逸らさない
+|points32m = 8
+|title4 = おかしくなったカノエ
+|choice41m = 声をかける
+|points41m = 12
+|choice41s = じっと見つめる
+|points41s = ＋12
+|title5 = 気まずくなる二人
+|choice51m = 声をかける
+|points51m = 16
+|choice51s = 駆け寄る
+|points51s = 16
+}}
+{{Still|text=Sun Still|img=Still_280s.jpg}}
+{{Still|text=Moon Still|img=Still_280m.jpg}}
+
+== Quotes ==

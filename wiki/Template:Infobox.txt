@@ -1,0 +1,215 @@
+<onlyinclude>
+<div class="hidden" style="width: 100%;">
+{{#tag:tabber| Before Awakening =
+	<table class="yinfobox" style="margin: auto;">
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}.png|200px]]</td></tr>
+	    <tr><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base|}}}</td><td>{{{hp_max|}}}</td><td>{{{hp_break|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base|}}}</td><td>{{{atk_max|}}}</td><td>{{{atk_break|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base|}}}</td><td>{{{rp_max|}}}</td><td>{{{rp_break|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring|}}}</td></tr>
+    </table>
+{{!}}-{{!}} Sun =
+	<table class="yinfobox" style="margin: auto;">
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}s.png|200px]]</td></tr>
+	    <tr><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity_s|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost_s|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base_s|}}}</td><td>{{{hp_max_s|}}}</td><td>{{{hp_break_s|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base_s|}}}</td><td>{{{atk_max_s|}}}</td><td>{{{atk_break_s|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base_s|}}}</td><td>{{{rp_max_s|}}}</td><td>{{{rp_break_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name_s|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name_s|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold_s|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring_s|}}}</td></tr>
+    </table>
+{{!}}-{{!}} Moon =
+	<table class="yinfobox" style="margin: auto;">
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}m.png|200px]]</td></tr>
+	    <tr><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity_m|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost_m|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base_m|}}}</td><td>{{{hp_max_m|}}}</td><td>{{{hp_break_m|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base_m|}}}</td><td>{{{atk_max_m|}}}</td><td>{{{atk_break_m|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base_m|}}}</td><td>{{{rp_max_m|}}}</td><td>{{{rp_break_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name_m|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name_m|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold_m|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring_m|}}}</td></tr>
+    </table>
+}}</div>
+
+<div style="display: none;">
+	<table class="article-table">
+	
+        <tr><td colspan="3">Before Awakening</td></tr>
+        
+	    <tr><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}.png|200px]]</td><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base|}}}</td><td>{{{hp_max|}}}</td><td>{{{hp_break|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base|}}}</td><td>{{{atk_max|}}}</td><td>{{{atk_break|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base|}}}</td><td>{{{rp_max|}}}</td><td>{{{rp_break|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring|}}}</td></tr>
+
+        <tr><td colspan="3">Sun</td></tr>
+    
+	    <tr><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}s.png|200px]]</td><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity_s|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost_s|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base_s|}}}</td><td>{{{hp_max_s|}}}</td><td>{{{hp_break_s|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base_s|}}}</td><td>{{{atk_max_s|}}}</td><td>{{{atk_break_s|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base_s|}}}</td><td>{{{rp_max_s|}}}</td><td>{{{rp_break_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name_s|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name_s|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc_s|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold_s|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring_s|}}}</td></tr>
+
+        <tr><td colspan="3">Moon</td></tr>
+
+	    <tr><td rowspan="20" style="width: 200px;">[[File:{{{no|}}}m.png|200px]]</td><td style="width: 15%;">No.</td><td colspan="3">{{{no}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>{{{name|}}}</b><br>{{{name_jp|}}}</td></tr>
+	    <tr><td>Rarity</td><td colspan="3">{{Rarity|{{{rarity_m|}}}}}</td></tr>
+	    <tr><td>Attribute</td><td colspan="3">{{{attribute|}}}</td></tr>
+	    <tr><td>Cost</td><td colspan="3">{{{cost_m|}}}</td></tr>
+	    <tr><td>Max Level</td><td colspan="3">{{{lvmax_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Statistics</b></td></tr>
+	    <tr><td> </td><td>Base</td><td>Max</td><td>Affection Breakthrough (max)</td></tr>
+	    <tr><td>HP</td><td>{{{hp_base_m|}}}</td><td>{{{hp_max_m|}}}</td><td>{{{hp_break_m|}}}</td></tr>
+	    <tr><td>Attack</td><td>{{{atk_base_m|}}}</td><td>{{{atk_max_m|}}}</td><td>{{{atk_break_m|}}}</td></tr>
+	    <tr><td>Recovery</td><td>{{{rp_base_m|}}}</td><td>{{{rp_max_m|}}}</td><td>{{{rp_break_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Leader Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{lskill_name_m|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{lskill_desc_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Skill</b></td></tr>
+	    <tr><td>Name</td><td colspan="3">{{{skill_name_m|}}}</td></tr>
+	    <tr><td>Effect</td><td colspan="3">{{{skill_desc_m|}}}</td></tr>
+	    <tr><td colspan="4" style="text-align: center;"><b>Farewell</b></td></tr>
+	    <tr><td>Gold</td><td colspan="3">{{{gold_m|}}}</td></tr>
+	    <tr><td>Ring Shards</td><td colspan="3">{{{ring_m|}}}</td></tr>
+	    
+	    <tr><td>__________________________</td><td colspan="4"></td></tr>
+	</table>
+</div>
+
+</onlyinclude><noinclude>
+
+<pre>{{Infobox
+|no = 
+|name = 
+|name_jp = 
+|rarity = 
+|attribute = 
+|cost = 
+|lvmax = 
+|hp_base = 
+|hp_max = 
+|hp_break = 
+|atk_base = 
+|atk_max = 
+|atk_break = 
+|rp_base = 
+|rp_max = 
+|rp_break = 
+|lskill_name = 
+|lskill_desc = 
+|skill_name = 
+|skill_desc = 
+|gold = 
+|ring = 
+<!-- Sun -->
+|rarity_s = 
+|cost_s = 
+|lvmax_s = 
+|hp_base_s = 
+|hp_max_s = 
+|hp_break_s = 
+|atk_base_s = 
+|atk_max_s = 
+|atk_break_s = 
+|rp_base_s = 
+|rp_max_s = 
+|rp_break_s = 
+|lskill_name_s = 
+|lskill_desc_s = 
+|skill_name_s = 
+|skill_desc_s = 
+|gold_s = 
+|ring_s = 
+<!-- Moon -->
+|rarity_m = 
+|cost_m = 
+|lvmax_m = 
+|hp_base_m = 
+|hp_max_m = 
+|hp_break_m = 
+|atk_base_m = 
+|atk_max_m = 
+|atk_break_m = 
+|rp_base_m = 
+|rp_max_m = 
+|rp_break_m = 
+|lskill_name_m = 
+|lskill_desc_m = 
+|skill_name_m = 
+|skill_desc_m = 
+|gold_m = 
+|ring_m = 
+}}</pre>
+
+</noinclude>

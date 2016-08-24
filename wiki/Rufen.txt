@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 9
+|name = Rufen
+|name_jp = ルーフェン
+|attribute = Passion
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 346
+|hp_max = 717
+|hp_break = 846
+|atk_base = 176
+|atk_max = 299
+|atk_break = 353
+|rp_base = 193
+|rp_max = 395
+|rp_break = 467
+|lskill_name = 応援団長
+|lskill_desc = Increase Red HP & RP by 15%
+|skill_name = ハッピー・ボイス
+|skill_desc = Recover HP every turn (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 645
+|hp_max_s = 882
+|hp_break_s = 1023
+|atk_base_s = 284
+|atk_max_s = 368
+|atk_break_s = 427
+|rp_base_s = 376
+|rp_max_s = 558
+|rp_break_s = 647
+|lskill_name_s = 応援団長
+|lskill_desc_s = Increase Red HP & RP by 20%
+|skill_name_s = ジョイフル・ボイス
+|skill_desc_s = Recover HP every turn (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 645
+|hp_max_m = 839
+|hp_break_m = 973
+|atk_base_m = 284
+|atk_max_m = 404
+|atk_break_m = 469
+|rp_base_m = 376
+|rp_max_m = 534
+|rp_break_m = 619
+|lskill_name_m = 応援団長
+|lskill_desc_m = Increase Red HP & RP by 20%
+|skill_name_m = チアフル・ボイス
+|skill_desc_m = Recover HP every turn (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yamaguchi Masahide
+|origin = Country of Voice - Vox
+|age = 17
+|birth = May 23
+|likes = Bustling places
+|dislikes = Places where you have to be quiet
+|policy = Say what you want to say, it feels great!
+|desc = 声の国・ヴォックスの第三王子。元気いっぱいで自由奔放。その大きな声が、周りの会話を掻き消すこともしばしば。周りがあまり見えず、思いやりが空回りすることもある。
+|bg = 一生懸命にあなたをもてなそうと頑張るルーフェン。しかし、あなたは疲労で体調を崩してしまう。そんなあなたを喜ばせようとして考えた事とは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 目まぐるしい宴
+|choice21m = こんなに食べられない
+|points21m = 6
+|choice21s = ありがとうと言う
+|points21s = 6
+|title3 = 看病はお手柔らかに
+|choice31s = 楽しそう
+|points31s = 3
+|choice31m = 無理かも…・・・
+|points31m = 3
+|choice32s = 明日、行くよ
+|points32s = 6
+|choice32m = ごめんね
+|points32m = 6
+|title4 = 優しさは、扉を隔てて
+|choice41s = 応える
+|points41s = 12
+|choice41m = 答えない
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_9s.jpg}}
+{{Still|text=Moon Still|img=Still_9m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en =Hey, you're done picking!? What, should I do!? 
+|AWARD_EVENT_NOMINATED_jp = なあ、オマエはもう選んだのか！？オレ、何したらいいんだ！？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =Thanks a bunch! I'm, going to work hard for you! Do you want me to sing, too!? 
+|AWARD_EVENT_FAVORITES_jp = ありがとな！オレ、オマエのために頑張るから！！歌でもうたうか！？
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_MORNING_GREET_en =Yo! It's a good morning! ...If I say it's a good morning, then it's a good morning! 
+|MAIN_TOP_MORNING_GREET_jp = よ！いい朝だな！…オレがいい朝って言ったらいい朝なんだぜ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Isn't your stomach getting empty!? Let's go eat something good! 
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろ、腹すかねえ！？うまい料理、食べにいこうぜ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =You're still not sleepy yet!? In that case, hang out with me a little more! 
+|MAIN_TOP_EVENING_GREET_jp = まだ、眠くないのか！？なら、オレともうちょっと遊ぼうぜ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en =I want to do more of it, more of the things that make you happy! 
+|MAIN_TOP_TOUCH_s_1_jp = オレ、オマエが喜ぶこと、もっとたくさんしてやりたい！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =Why don't we go out? Out into town, eat delicious food...and then, then...! 
+|MAIN_TOP_TOUCH_s_2_jp = 一緒に出かけないか？街にでて、美味しいもの食べて…あと、あと…！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en =...you scared me! Coming from you, my heart is pounding. 
+|CARD_DETAIL_s_jp = …びっくりした！オマエの方から来られると、すっげードキドキする。
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =I'm...well, not annoying, right? Sorry to ask something like that. 
+|MAIN_TOP_TOUCH_m_1_jp = オレ…なんていうか、ウザくないよな？ゴメン、こんなこと聴いて。
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =If you keep being so nice, I'm going to get carried away, you know? 
+|MAIN_TOP_TOUCH_m_2_jp = あんまり優しくされると、調子に乗っちゃうからな？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =Uu...my heart's pounding. Your hand...is really warm. 
+|CARD_DETAIL_m_jp = う…ドキドキする。オマエの手、あったかいな…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =All right! Who do we start with! 
+|BATTLE_START_jp = よーし！どいつからいこうか！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =You got something pretty good out of this, didn't you? 
+|BATTLE_RESULT_jp = 結構イイモノもらえたんじゃねえ？
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_en =I was framed by my brother! I'm always getting picked on by him... 
+|CARD_DETAIL_jp = 兄貴にハメられた！オレ、いつもなんかからかわれてて…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en =Hey, hey, where are we going next? I found this really great spot! 
+|MAIN_TOP_TOUCH_1_jp = なあなあ、次はどこに行く？オレ、すっげーいいところ見つけたんだ！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =Hey listen! Everyone's so busy, they won't come hang out with me! 
+|MAIN_TOP_TOUCH_2_jp = なあ聞いてくれよ。みんな忙しいって、オレのこと相手にしてくれないんだ！
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_ATTACK_en =Teyaa! 
+|BATTLE_ATTACK_jp = てやぁっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Guh! 
+|BATTLE_DAMAGE_jp = ぐっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =Thanks a bunch! 
+|BATTLE_RECOVER_jp = ありがとなっ！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =I will send you flying! 
+|SKILL_INVOKE_jp = オレがぶっとばす！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =I am in tip-top shape right now! 
+|SKILL_INVOKE_s_jp = オレ、最高に調子いいからな！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en =This is my time to shine! 
+|SKILL_INVOKE_m_jp = ここはオレの見せ場だ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en =Let's keep charging forward! 
+|BATTLE_FEVER_TIME_jp = ここでもっと、突っ込め！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =There's more to come! 
+|BATTLE_TURN_END_jp = まだまだだぜ！
+|BATTLE_TURN_END_clip = 
+|CHAIN_GREAT_en =Amazing! I won't lose either! 
+|CHAIN_GREAT_jp = すっげ！オレも負けてられねえ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en =Unbelievable--! You really are amazing! 
+|CHAIN_EXCELLENT_jp = さいっこー！やっぱすげーな、オマエ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_NICE_en =Not bad! You did great! 
+|CHAIN_NICE_jp = やるじゃん！がんばってんだな！
+|CHAIN_NICE_clip = 
+|CARD_EVOLUTION_s_en =I want to do it, the things you want to do. 
+|CARD_EVOLUTION_s_jp = オマエのしてほしいこと、してやりたいんだ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =I...I don't want to be hated by you. 
+|CARD_EVOLUTION_m_jp = オレ…オマエに嫌われたくないんだ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =Bring me with you to! Hey, it's fine right!? 
+|DECK_jp = オレを連れてってくれよ！な、いいだろ！？
+|DECK_clip = 
+|BIRTHDAY_en =I've thought about it...but I don't know what I should do...but, anyway, congratulations! 
+|BIRTHDAY_jp = 考えたんだけど…何したらいいかわかんなくて…でも、とにかくおめでとう！
+|BIRTHDAY_clip = 
+|BATTLE_CLEAR_en =That was more than enough, right! 
+|BATTLE_CLEAR_jp = 全然余裕だっただろ！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en =Yo! You came to see me? Well, come out with me! 
+|CARD_TOP_jp = よっ！会いに来てくれたんだな！？さ、オレとでかけようぜ！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =I, can still get even stronger! 
+|CARD_ENHANCE_jp = オレ、まだまだ強くなれっから！
+|CARD_ENHANCE_clip = 
+|WELCOME_PARTY_en =A party, huh! Thanks a bunch! Let's sing together! 
+|WELCOME_PARTY_jp = パーティーか！ありがとうな！一緒に歌おうぜ！！
+|WELCOME_PARTY_clip = 
+|GUILD_en =I like it when it's lively! H-hey, everyone listen to me~! 
+|GUILD_jp = 賑やかなのは好きだ！おっおい、皆オレの話聞けよ～！
+|GUILD_clip = 
+|FRIEND_DETAIL_en =Ah, you're their friend, yeah. Thanks for coming! Please take care of us from now on! 
+|FRIEND_DETAIL_jp = あ、アイツの友達だよな。きてくれてありがとう！これからもよろしくな！
+|FRIEND_DETAIL_clip = 
+}}

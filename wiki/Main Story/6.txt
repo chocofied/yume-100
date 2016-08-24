@@ -1,0 +1,79 @@
+<div class="mw-collapsible mw-collapsed">6-1: Receiving a guest
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-2: Search for Navi!
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-3: Wait for us, Navi
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-4: Impatiently waiting for Moon Road
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-5: Intersecting thoughts
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-6: For the sake of what's important
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-7: The sleeping prince
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">6-8: And one more person
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>

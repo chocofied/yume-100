@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 210
+|name = Joshua
+|name_jp = ジョシュア
+|attribute = Cool
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 496
+|hp_max = 981
+|hp_break = 1247
+|atk_base = 297
+|atk_max = 482
+|atk_break = 613
+|rp_base = 341
+|rp_max = 468
+|rp_break = 595
+|lskill_name = 愛の日のエスコート
+|lskill_desc = Increase Red & Blue ATK by 25% and HP by 10%
+|skill_name = ショコラティーパタン
+|skill_desc = Erase top & bottom beads
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 883
+|hp_max_s = 1197
+|hp_break_s = 1495
+|atk_base_s = 458
+|atk_max_s = 589
+|atk_break_s = 735
+|rp_base_s = 444
+|rp_max_s = 501
+|rp_break_s = 625
+|lskill_name_s = 完璧な愛の日の夜
+|lskill_desc_s = Increase Red & Blue ATK by 35% and HP by 10%
+|skill_name_s = マルブラージュパタン
+|skill_desc_s = Erase top & bottom beads
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 883
+|hp_max_m = 1266
+|hp_break_m = 1580
+|atk_base_m = 458
+|atk_max_m = 536
+|atk_break_m = 669
+|rp_base_m = 444
+|rp_max_m = 519
+|rp_break_m = 648
+|lskill_name_m = デートの続きは……
+|lskill_desc_m = Increase Blue & Yellow ATK by 35% and HP by 10%
+|skill_name_m = モンタージュパタン
+|skill_desc_m = Erase top & bottom beads
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Whom does your chocolate belong to
+|original = [[Joshua]]
+|desc = 紅茶の国・ベルガントの王子。振る舞いは洗練されており、マナーに関しては厳しく、そのことにプライドを持っている。今回、チョコレート試食会に呼ばれショコルーナにやってきた。ベルガントでも、愛の日に贈る紅茶のギフトを展開しようかと考えている。
+|bg = チョコレート試食会のため、ショコルーナを訪れたあなたはジョシュアと再会する。一緒に街を回ることになったあなたは、彼のエスコートに胸が高なって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 愛を伝えるギフト
+|choice21m = 私でいいんですか？
+|points21m = 8
+|choice21s = ぜひご一緒したいです
+|points21s = 8
+|title3 = 人混みを逃れて
+|choice31s = 道に迷いましたか？
+|points31s = 4
+|choice31m = 黙って待つ
+|points31m = 4
+|choice32m = 動かずにいる
+|points32m = 8
+|choice32s = 探しに行く
+|points32s = 8
+|title4 = 老舗のショコラ
+|choice41m = 王室御用達ですか？
+|points41m = 12
+|choice41s = どうしてこのお店へ？
+|points41s = 12
+|title5 = チョコレートに勇気をこめて
+|choice51s = ジョシュアさんを誘う
+|points51s = 16
+|choice51m = 言えずに口ごもる
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_210s.jpg}}
+{{Still|text=Moon Still|img=Still_210m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = 
+|GUILD_jp = 静かでいいところだけど……なんか、あっちの方が騒がしいね
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 久しぶりだね。元気そうでよかったよ。パーティのお礼に、紅茶でも入れようか
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそいらっしゃい。あの子はちょっと留守だけど？伝言ある？
+|FRIEND_DETAIL_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さ、少し急ごうか
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 甘みが一気に広がるね
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 君を世界一のプリンセスにしたいからね
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 君の気持ちは十分伝わったよ、ありがとう
+|SKILL_INVOKE_s_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 会わないうちに君はどんどん素敵な女性になっていくんだな
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレはいつだって、手を抜いたりはしないよ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君と会えて嬉しいよ。でも、はしゃぎ過ぎはよくないね。ほら君も姿勢を正して
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = これですっきりしたね
+|BATTLE_CLEAR_clip = 
+|DECK_en = 
+|DECK_jp = じゃ、レディの所作をオレに見せてみて？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 愛を伝える日は、やっぱり君と過ごしたい…
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 愛を贈り物で伝える日…じゃあ誕生日は、言葉で愛を伝えようかな？好きだよ
+|BIRTHDAY_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ほんの少しの勇気を込めて…さ、愛の日の夜はこれからだよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = こんなにたくさんのチョコレートに囲まれていると酔いそうだ。少し休憩しよう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 大人しくエスコートさせてくれないんだから…君には困ったものだよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 意外？オレだって子どもの頃は無邪気にお菓子を食べたよ。今だって…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 少し悔しい。君にそんな顔させるチョコがね。紅茶も贈り物としては最適だよ？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = すごくたくさんの人がいるね。ほら、手を取って。はぐれないようにね
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 驚いた。前に会った時よりずっと、素敵なレディになっているよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = オレのエスコートで、最高の一日にするよ。期待して欲しいな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 君からの素敵な贈り物、本当に嬉しい。まったく想像していなかったからね
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 本当に心配したんだからね。それと同時に自分の不甲斐なさも感じていたけれど
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = もしかしてチョコレートかな…なんてね
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = さて、一掃してしまおうか
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ね、君にぴったりだろう？オレの見立てなんだ、喜んでもらえるかな
+|CARD_DETAIL_m_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 美しい…オレにエスコートさせてほしいな
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その負けず嫌いな所、オレは好きだよ
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = そんな姿勢じゃ一国の姫として恥ずかしいよ
+|CHAIN_NICE_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 愛を伝える日、チョコもいいけど紅茶はどう？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = チョコには癒しの効果があるのかな？
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 油断したね
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 愛を伝える…か。オレらしくもなく朝まで考え込んでしまった…どうしようかな
+|MAIN_TOP_MORNING_GREET_clip = 
+}}

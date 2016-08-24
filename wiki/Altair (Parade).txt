@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 158
+|name = Altair
+|name_jp = アルタイル
+|attribute = Gentle
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 532
+|hp_max = 1046
+|hp_break = 1330
+|atk_base = 283
+|atk_max = 460
+|atk_break = 585
+|rp_base = 346
+|rp_max = 475
+|rp_break = 604
+|lskill_name = 優しい人造人間
+|lskill_desc = Increase Blue & Green HP by 30%
+|skill_name = ステッチスター
+|skill_desc = Erase Blue & Green beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 941
+|hp_max_s = 1349
+|hp_break_s = 1686
+|atk_base_s = 437
+|atk_max_s = 511
+|atk_break_s = 638
+|rp_base_s = 451
+|rp_max_s = 527
+|rp_break_s = 659
+|lskill_name_s = 愉快なパレード
+|lskill_desc_s = Increase Blue & Yellow HP by 35%
+|skill_name_s = フィアースター
+|skill_desc_s = Erase Green & Yellow beads (SSS)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 941
+|hp_max_m = 1276
+|hp_break_m = 1594
+|atk_base_m = 437
+|atk_max_m = 562
+|atk_break_m = 701
+|rp_base_m = 451
+|rp_max_m = 508
+|rp_break_m = 635
+|lskill_name_m = 恐怖の墓場
+|lskill_desc_m = Increase Blue & Green HP by 35%
+|skill_name_m = ホラーナイトスター
+|skill_desc_m = Erase Blue & Green beads (SSS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Parade is a Love Gimmick?
+|original = [[Altair]]
+|desc = 星の国・ガラッシアの東側の王子。聡明で勇ましく、民のことを第一に考える。口笛で鷲を操ることができる。今回、収穫祭に着てくる衣装については三日間かけて真面目に考えた。
+|bg = 収穫祭が行われるロトリアで偶然アルタイルと再会したあなた。特別怖い仮装を目指したつもりの彼だったが、子どもに怖くないと言われてしまい…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 収穫祭デート
+|choice21s = 偉いなって思います
+|points21s = 8
+|choice21m = 気にしてない
+|points21m = 8
+|title3 = 二人で作るランタン
+|choice31s = もちろんと二つ返事
+|points31s = 4
+|choice31m = 困ったように笑って頷く
+|points31m = 4
+|choice32s = はい、もちろんです
+|points32s = 8
+|choice32m = できるかな……？
+|points32m = 8
+|title4 = 人造人間の便利屋さん
+|choice41m = はい、怖くないです
+|points41m = 12
+|choice41s = どうしたんですか？
+|points41s = 12
+|title5 = もっと怖く？
+|choice51m = まだ時間はある
+|points51m = 16
+|choice51s = その姿も素敵
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_158s.jpg}}
+{{Still|text=Moon Still|img=Still_158m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 仮装とは難しいものだな…そんなに難しく考える必要はない？…だが
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = どうした？怖い？…大丈夫だ、俺がついているだろう？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 皆でこうやって羽目を外すのも悪くないな…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = え？…かわいい？この衣装が？参ったな、そんな風に言われるとは思わなかった
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = やはり…慣れないことをしているな…皆の視線が気になる
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 皆の笑顔も大事だが…お前の笑顔が見たいんだ…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = こんなことになるなんて思ってなかったんだ…そんな顔をしないでくれ…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 皆が楽しもうとしている時に…
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = どうだ？これはかなり本格的な出来だと思うんだが……何故、そんな遠くに？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = お前の怯える表情…はっ、いやなんでもない…聞かなかったことにしてくれ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = せっかくの衣装が…下がっていろ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 大丈夫か？　ほどほどにしておくんだぞ？
+|CHAIN_GREAT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = よし、回収しよう！役立つものが入っているといいな！
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 危ない……！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 衣装は無事だな
+|BATTLE_RECOVER_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = その姿…まるで魔法使いの弟子みたいだな
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = たあっ！！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 肉……でいいのか？肉をよこせえええ！　
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 人造人間に仮装したんだ！どうだ？
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = さあ、お前とのこの夜を心行くまで楽しむぞ！
+|SKILL_INVOKE_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日はすまなかった…その、いろいろ…早く休もうか
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = とうとう当日になってしまったな…本当にこれでいいのだろうか
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ちょっと息抜きをしたほうがいいな。いろいろ巻き込んですまない
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれたな……この格好はその、収穫祭の為のものであって……
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんな姿ですまない……えっ？この姿のがいい？困ったな……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは、静かだな……こんな姿で過ごしていいのだろうか
+|GUILD_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、準備に戻ろう
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = こんなところで会えるなんて奇遇だな。ぜひ、一緒に過ごさないか
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 皆の力のおかげだな
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あと少しだ、いくぞ
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 収穫祭か…どんな風にお前と過ごせるのだろう。楽しみだな
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 俺と一緒に行こう……いいだろ？
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺の仮装はおかしくはないか？もっと、何かこう…つけたほうがいいか？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 皆が楽しめる収穫祭がいいと思うんだ…そのためにがんばるよ
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = こんな姿でお祝いか……笑うなよ……おめでとう。二人で一緒に過ごそう
+|BIRTHDAY_clip = 
+}}

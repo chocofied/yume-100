@@ -1,0 +1,228 @@
+<div style="display: none;">
+<choose>
+<option>{{Quote|clip=Saiga_08830.ogg|en=To live alongside thee, is my happiness.|jp=うぬと生きることこそが我の幸せだ}}</option>
+<option>{{Quote|clip=Saiga_08777.ogg|en=The sun has set... I should be getting sleepy soon... Shall we sleep?|jp=日が落ちたの……そろそろ我は眠くなってきた……寝ぬのか？}}</option>
+</choose>
+</div>
+== Status ==
+{{Infobox
+|no = 102
+|name = Saiga
+|name_jp = 砕牙
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 532
+|hp_max = 952
+|hp_break = 1210
+|atk_base = 306
+|atk_max = 522
+|atk_break = 664
+|rp_base = 328
+|rp_max = 478
+|rp_break = 607
+|lskill_name = 歓迎の霧雨
+|lskill_desc = Increase Blue & Green ATK by 35%
+|skill_name = 狐神傘
+|skill_desc = Erase left & right side beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 857
+|hp_max_s = 1161
+|hp_break_s = 1450
+|atk_base_s = 496
+|atk_max_s = 637
+|atk_break_s = 796
+|rp_base_s = 454
+|rp_max_s = 511
+|rp_break_s = 638
+|lskill_name_s = 枯淡の氷雨
+|lskill_desc_s = Increase Red & Green ATK by 50%
+|skill_name_s = 雨破傘
+|skill_desc_s = Erase left & right side beads (SSS)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 857
+|hp_max_m = 1057
+|hp_break_m = 1319
+|atk_base_m = 496
+|atk_max_m = 674
+|atk_break_m = 841
+|rp_base_m = 454
+|rp_max_m = 530
+|rp_break_m = 662
+|lskill_name_m = 幽玄の白雨
+|lskill_desc_m = Increase Blue & Green ATK by 50%
+|skill_name_m = 神光傘
+|skill_desc_m = Erase left & right side beads (SSS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Ohkawa Toru
+|origin = Country of Great Fox Spirit - Irogu
+|age = ??
+|birth = January 15
+|likes = Rice wrapped in fried tofu
+|dislikes = Nothing really
+|policy = When it becomes tomorrow, there's nothing you can do about today's regrets. All you can do is put your full strength into today.
+|desc = 天狐の国・伊呂具の王子。雨を操ることができる。鳥居の結界で守られた場所に住んでいる。千年の時を生きており、妖しげで美しい不思議な雰囲気をまとっている。
+|bg = 伊呂具に招待されたあなた。国を歩き話をするうちに、千年を生きる王子・砕牙と心を通わせていく。2人が近づくことで村に起きた異変。彼の選ぶ道は…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 鳥居の先
+|choice21m = とても珍しいです
+|points21m = 8
+|choice21s = 別にそんなじゃ……
+|points21s = 8
+|title3 = 予兆
+|choice31s = 聞く
+|points31s = 4
+|choice31m = 聞かない
+|points31m = 4
+|choice32m = 平気です
+|points32m = 8
+|choice32s = 歩きづらいです
+|points32s = 8
+|title4 = 縮まる距離
+|choice41m = この国は素敵
+|points41m = 12
+|choice41s = この国は面白い
+|points41s = 12
+|title5 = 古井戸の真実
+|choice51s = 砕牙さんの服を掴む
+|points51s = 16
+|choice51m = そっとうつむく
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_102s.jpg}}
+{{Still|text=Moon Still|img=Still_102m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 雨は降っていないようだ。ふむ、愉快。うぬも存分に楽しむがよい
+|AWARD_EVENT_NOMINATED_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = I should be getting hungry soon.... I would like to eat some inarizushi made with red beans and rice.
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろ腹がすいたの……我はおこわのおいなりさんが食べたいぞ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = The sun has set... I should be getting sleepy soon... Shall we sleep?
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちたの……そろそろ我は眠くなってきた……寝ぬのか？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Hmm....such a good morning. Perhaps because the morning air is clean.
+|MAIN_TOP_MORNING_GREET_jp = ふむ……よい朝であるな。朝の空気は清浄なるかな
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_s_en = Unfortunately I no longer have a tail... How about I embrace thee with both hands instead.
+|CARD_DETAIL_s_jp = 残念ながらもう尻尾はないのだ……かわりに両手で抱きしめてやるぞ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = When I am in this form... it is unbearably stuffy. Except for when I am embracing thee.
+|MAIN_TOP_TOUCH_m_1_jp = ……こう、わさわさと人の顔を撫でるのはやめぬか……！恥ずかしい
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = To live alongside thee, to reach the end alongside thee... tis art a dream
+|MAIN_TOP_TOUCH_s_1_jp = 我の耳を……見ているわけがないか。ふむ……慣れぬのう
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = ....can thy hands stop caressing my face like that! Tis embarassing.
+|MAIN_TOP_TOUCH_s_2_jp = うぬと一緒に生きて、一緒に果てる……夢のようだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = Dare thee stand against me?
+|BATTLE_START_jp = 我に立てつくか？
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = Hath something good happened?
+|BATTLE_RESULT_jp = よきものはあったかな？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = この姿になると……暑苦しくてかなわん。うぬを抱きしめるときは別だ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = ...to be so taken by this form. Thou art a peculiar girl.
+|CARD_DETAIL_m_jp = ……この姿がそんなに気に入ったのか。変わった娘よのう
+|CARD_DETAIL_m_clip = 
+|CARD_DETAIL_en = Yes, that smile. Mmhm, truly magnificent.
+|CARD_DETAIL_jp = そう、その笑顔。うむ、実によい
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = ...to be stared at like that... touch me if thee desire, my tail that is.
+|MAIN_TOP_TOUCH_1_jp = ……かように見つめられると……触りたいならさわるといい…尻尾に
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = Thy clothes... Is it what they call "Western"? 
+|MAIN_TOP_TOUCH_2_jp = うぬのその衣装は……あれか、ハイカラというやつか？
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_RECOVER_en = To treat the elderly in such a horrible way
+|BATTLE_RECOVER_jp = 老骨に酷い仕打ちよ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = May the Heaven Fox's Protection be upon thee
+|SKILL_INVOKE_jp = 天狐の加護ここに！
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = Ha!
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = Gu-!
+|BATTLE_DAMAGE_jp = ぐっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_FEVER_TIME_en = Ho, tis splendid
+|BATTLE_FEVER_TIME_jp = ほう、それは重畳
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = Thou art quite the persistent fellow...
+|BATTLE_TURN_END_jp = しつこい輩だの……
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = May thee leave this world with this fear
+|SKILL_INVOKE_s_jp = 下郎、我を侮るか？　
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 畏れを抱いたまま往ね！
+|SKILL_INVOKE_m_clip = 
+|CHAIN_GREAT_en = Elegantly done.... here
+|CHAIN_GREAT_jp = 風情があるものだ……ほれ
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = Let us dance!
+|CHAIN_EXCELLENT_jp = 振る舞おうぞ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_NICE_en = Ho! Well done...
+|CHAIN_NICE_jp = ほう！うまいことやるもの……
+|CHAIN_NICE_clip = 
+|CARD_ENHANCE_en = To still be able to evolve.... tis a surprise
+|CARD_ENHANCE_jp = まだ　進化をするものか……驚きよの
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = For I am the epitome of power, I hereby declare!
+|CARD_EVOLUTION_s_jp = 人型となっても、うぬを守れないようでは困るからの
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = I crave for some juicy fried tofu
+|BATTLE_CLEAR_jp = 出汁のたっぷりしみた油揚げが欲しいぞ
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = Welcome! Come hither, and show me thy face
+|CARD_TOP_jp = よく来た！　近う寄って、我に顔を見せるのだ
+|CARD_TOP_clip = 
+|BIRTHDAY_en = I understand not of it, however tis an important day for thee? Well, a congratulation is in order then.
+|BIRTHDAY_jp = よくわからぬが、うぬにとっては特別な日であろう？どれ、祝おうではないか
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 我が力の神髄、ここに極めん！
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = Follow my lead
+|DECK_jp = 我とともに征くぞ
+|DECK_clip = 
+|FRIEND_DETAIL_en = Welcome. Thou may pet me! Fear not.
+|FRIEND_DETAIL_jp = よく来た。　我を撫でるがよい！　怖がらずに
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = A celebration? What, for me?! How wonderful!
+|WELCOME_PARTY_jp = 祝い事か？　何、我のか？！　よきこと！
+|WELCOME_PARTY_clip = 
+|GUILD_en = Tis my first time visiting a mysterious place such as this one.
+|GUILD_jp = 斯様に不思議な場所は初めてぞ……
+|GUILD_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ふむ。愛しいおなごに選ばれるというのは、中々に嬉しいものよのう
+|AWARD_EVENT_FAVORITES_clip = 
+}}

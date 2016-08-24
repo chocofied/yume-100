@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 237
+|name = Gary
+|name_jp = ゲイリー
+|attribute = Gentle
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 660
+|hp_max = 1297
+|hp_break = 1478
+|atk_base = 362
+|atk_max = 589
+|atk_break = 672
+|rp_base = 416
+|rp_max = 571
+|rp_break = 651
+|lskill_name = 一枚のハンカチ
+|lskill_desc = Increase all Green stats by 20%
+|skill_name = クラリテ・クリスタル
+|skill_desc = Erase beads in middle rows and insert Green beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1167
+|hp_max_s = 1673
+|hp_break_s = 1874
+|atk_base_s = 560
+|atk_max_s = 654
+|atk_break_s = 732
+|rp_base_s = 542
+|rp_max_s = 634
+|rp_break_s = 710
+|lskill_name_s = 七色は幸せの予兆
+|lskill_desc_s = Increase all Green stats by 25%
+|skill_name_s = ブリス・クリスタル
+|skill_desc_s = Erase beads in middle rows and insert Green beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1167
+|hp_max_m = 1582
+|hp_break_m = 1772
+|atk_base_m = 560
+|atk_max_m = 719
+|atk_break_m = 805
+|rp_base_m = 542
+|rp_max_m = 611
+|rp_break_m = 684
+|lskill_name_m = 想いを乗せた紙飛行機
+|lskill_desc_m = Increase all Green stats by 25%
+|skill_name_m = ブレッザ・クリスタル
+|skill_desc_m = Erase beads in middle rows and insert Green beads
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Big Brother and Little Brother
+|original = [[Gary]]
+|desc = 月影の国・クレアブールの王子。心優しい性格だが、その胸に秘める想いは熱い。呪いを解くために旅をしている途中、あなたから連絡をもらいソルシアナを訪れる。
+|bg = 旅を続けるゲイリーと、ソルシアナで再会したあなた。しかし、彼の弟であり影武者を務めるギルバートも公務で訪れていて…―
+}}
+
+== Story ==
+{{Choice|title2 = 会えない二人|choice21s = 少しだけでも……|points21s = 8|choice21m = 残念ですね|points21m = 8|title3 = 魔術道具屋|choice31s = 何も言えない|points31s = 4|choice31m = もう一度謝る|points31m = 4|choice32s = 姿を消したい|points32s = 8|choice32m = 声を変えたい|points32m = 8|title4 = 恋人の時間|choice41s = 頑張ろう|points41s = 12|choice41m = 諦めよう……|points41m = 12|title5 = 魔法の種|choice51s = いいですね！|points51s = 16|choice51m = 私でいいんですか？|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_237s.jpg}}
+{{Still|text=Moon Still|img=Still_237m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = たくさん人がいるんだな。ギルバートもいるし、早いところ退散しようか
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = …っ！いや、驚かせてすまなかった。人がいるとは思わなかったんだ
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = 空気が綺麗でいいところだな。あのコテージも過ごしやすそうだ
+|GUILD_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう。もっと華やかに祝ってやりたいんだが……もう少しだけ待ってくれ
+|BIRTHDAY_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = よし、俺が蹴散らそう
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 気を付けて開けるんだぞ？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = おまえは俺の後ろで大人しくしていろ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 手伝いたい…？仕方のないやつだ
+|CHAIN_GREAT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = とても楽しい時間を過ごせた。早く、目的を果たしておまえと共に帰りたい
+|CARD_DETAIL_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 魔術か…試しにやってみよう
+|SKILL_INVOKE_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 結構やるじゃないか。驚いた
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はぁっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = っく！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 薬草を使おう
+|BATTLE_RECOVER_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 魔術の才能があるのかもしれないな
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 深追いはするんじゃないぞ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 怪我はないか？　なら、よかった
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ちょうど、魔術大会が行われているんだな…懐かしい雰囲気だ
+|CARD_TOP_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 思い出は、日々増えていく…
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ちょっと驚かせてやるとするか
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = まだ俺は俺の目的を果たせていない…もっと、強くならなければ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = あいつが近くにいたとしても…会うわけにはいかないな。すまない…
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 残念だが、鉢合わせるわけにはいかないな……はやくこの場を去ろう
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 息抜き…おまえとか？ああ、行くとするか
+|DECK_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。ゆっくり休めたか？そうか…さっそく朝食をとろう
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そういえばおまえはパンケーキ好きか？いや、軽食に作ってやろうかと
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は一日楽しかった。おまえと一緒だったからかな…それじゃあ、おやすみ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = おまえの気持ちは嬉しいよ。俺とギルバートの為にと、思ってくれたんだろう？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 久しぶりにきたが、相変わらず面白い街だな。一緒に歩いて回ろう
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = せっかくだから、驚かせてやろうと思ってな…なんだか楽しくなってきた
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ギルバートはどんな顔をして受け取ると思う？おまえの予想を聞かせてくれ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 意外に不器用なんだな。貸してみろ。こうやってやるんだ…ほら、な？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = …ギルバートに嫉妬しているのか？冗談だ、そんな顔をするな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = そう拗ねた顔をしなくてもいいだろう。そんなおまえもかわいいと思うが…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = おまえのおかげで、久々に兄らしいことをしてやれた気がする。ありがとう
+|CARD_DETAIL_s_clip = 
+}}

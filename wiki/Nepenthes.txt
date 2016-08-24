@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 96
+|name = Nepenthes
+|name_jp = ネペンテス
+|attribute = Passion
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 421
+|hp_max = 798
+|hp_break = 1059
+|atk_base = 185
+|atk_max = 348
+|atk_break = 462
+|rp_base = 252
+|rp_max = 394
+|rp_break = 524
+|lskill_name = 御馳走の大発見
+|lskill_desc = Increase Red ATK & RP by 25%
+|skill_name = 美食家の舌
+|skill_desc = Erase middle row beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 718
+|hp_max_s = 901
+|hp_break_s = 1176
+|atk_base_s = 331
+|atk_max_s = 445
+|atk_break_s = 581
+|rp_base_s = 375
+|rp_max_s = 505
+|rp_break_s = 659
+|lskill_name_s = 甘美！あなた様の肌
+|lskill_desc_s = Increase Red ATK & RP by 30%
+|skill_name_s = 痺れる舌
+|skill_desc_s = Erase middle row beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 718
+|hp_max_m = 933
+|hp_break_m = 1219
+|atk_base_m = 331
+|atk_max_m = 470
+|atk_break_m = 613
+|rp_base_m = 375
+|rp_max_m = 461
+|rp_break_m = 602
+|lskill_name_m = 捕食！蝶を惑わす香り
+|lskill_desc_m = Increase Red ATK & RP by 30%
+|skill_name_m = 誘惑の舌
+|skill_desc_m = Erase middle row beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Takahashi Hiroki
+|origin = Country of Flower Fairy - Virastin
+|age = 22
+|birth = August 21
+|likes = Delicious things
+|dislikes = Things that taste bad
+|policy = Discovering new feasts is greater than discovering celestial bodies to mankind's happiness
+|desc = 花の精の国・ヴィラスティンのウツボカズラの一族の王子。美食家で、この世の全てのものを味わいたいと思っている。もちろんあなたのことも。舌で人となりを味わう力を持っている。
+|bg = ネペンテスを目覚めさせたあなた。突然「美味しそうだ」と言われ、戸惑ってしまう。後日、お城に招かれたあなたは彼は何でも口にする美食家だと知り…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 美食道
+|choice21s = この植物を？
+|points21s = 6
+|choice21m = この虫を？
+|points21m = 6
+|title3 = ウツボカズラの一族
+|choice31m = 人を呼ぶ
+|points31m = 3
+|choice31s = 手を振り払う
+|points31s = 3
+|choice32s = 大丈夫ですか？
+|points32s = 6
+|choice32m = 何も言えない
+|points32m = 6
+|title4 = 美食珍道中
+|choice41m = ……いただきます
+|points41m = 12
+|choice41s = ……お先にどうぞ
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_96s.jpg}}
+{{Still|text=Moon Still|img=Still_96m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちてからは食べ物を口にしないと決めています……胃腸を休めるのです
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……この舌触り。神か！　はっ……すみません。取り乱しまして
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはようございます。朝食はとりましたか？　食べてないのなら……
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ああ、豊潤な香りがします……ランチタイムですね。ご一緒にいかがです？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = まずいものを食べて生きるくらいなら、果ててしまいたいですね！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ……どうしてそのような顔するのです。見目よし、食べてよし……素晴らしい
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ……大胆ですね。それは、もう、心を決めてくださったと受け取っても？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = この滑らかな手触り…きっと、舌の上でも柔らかく溶けていくのでしょうね…
+|CARD_DETAIL_s_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ほう…これはドルチェですか？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まあ、食べれなくはないです
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 驚かせてしまいましたか？……過剰反応が過ぎますが……不問とします
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = では、いただきます！
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ……そんなに怯えた顔をしないでください。リラックスして……ね？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 生きるということは、食事をするということなのです。拘ってこそですよ
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = そのような触れ方ではなく、もっとしっかりと
+|CARD_DETAIL_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 私が、溶かしてさしあげましょう
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = あなた……なんて美味しそうなんだ！！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 胃薬いただけますか？
+|BATTLE_RECOVER_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、食べ足りないです
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ……ごちそうさまでした
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = さあ、私の口の中へいらっしゃい！！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = おかわりをください！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっと！
+|BATTLE_ATTACK_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = いいセンスをしています
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 素晴らしい……この食感…‥！
+|CHAIN_EXCELLENT_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 最上級のディナーをご用意をいたしますよ。デザートまで楽しんでくださいね。
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = この世のすべてを、食べ尽くしたい
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = では　テーブルにつきましょうか
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 次は……何をたべましょうか……
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ああ……あなた様を、今すぐ食べてしまいたい
+|CARD_EVOLUTION_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = いっしょにお食事でもいかがです？　とっておきのお店で
+|CARD_TOP_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あなた様もとても、美味しそうでいらっしゃる……
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 素敵なお食事が用意されているといいのですが……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 素敵なレストランはありますか？　もしくは変わった食材は？
+|GUILD_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = １位になった暁には、特別な美食にありつけるとか…とても楽しみですよ
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = あなた様の一票…なんと味わい深い！さあ、もっと！私に！ください！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

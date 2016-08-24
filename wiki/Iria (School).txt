@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 173
+|name = Iria
+|name_jp = イリア
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 487
+|hp_max = 883
+|hp_break = 1123
+|atk_base = 340
+|atk_max = 496
+|atk_break = 630
+|rp_base = 325
+|rp_max = 556
+|rp_break = 707
+|lskill_name = 魔術の展示準備
+|lskill_desc = Increase Green ATK & RP by 30%
+|skill_name = ミラー・クラフト
+|skill_desc = Recover HP every turn (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 795
+|hp_max_s = 945
+|hp_break_s = 1180
+|atk_base_s = 471
+|atk_max_s = 605
+|atk_break_s = 756
+|rp_base_s = 528
+|rp_max_s = 678
+|rp_break_s = 847
+|lskill_name_s = 文化祭の思い出
+|lskill_desc_s = Increase Green ATK & RP by 30% and HP by 5%
+|skill_name_s = カラー・クラフト
+|skill_desc_s = Recover HP instantly and every turn
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 795
+|hp_max_m = 980
+|hp_break_m = 1224
+|atk_base_m = 471
+|atk_max_m = 551
+|atk_break_m = 688
+|rp_base_m = 528
+|rp_max_m = 717
+|rp_break_m = 896
+|lskill_name_m = ヘディングシュート
+|lskill_desc_m = Increase Green ATK & RP by 35%
+|skill_name_m = ライト・クラフト
+|skill_desc_m = Recover HP every turn (SSS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = School Memory ~Cultural Festival with Him~
+|original = [[Iria]]
+|desc = 魔術の国・ソルシアナの双子の兄王子。物腰が柔らかく優秀で、次期国王として周囲の期待を一身に受けている。本人もそれに応えようとして、公務に励んでいる。今回、見聞を広げるために母親の反対を押し切って、メモワール学園にやってきた。
+|bg = 文化祭で、自分も何か発表をしたいというイリア。悩んだ末、魔術に関する展示をすることに。展示内容のヒントを得るべく、あなたと校内を回る彼だが…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 楽しみな文化祭
+|choice21s = そんなことないと言う
+|points21s = 8
+|choice21m = 何も言えない
+|points21m = 8
+|title3 = 新たな魔術
+|choice31m = じっと見てしまう
+|points31m = 4
+|choice31s = 何か良いことがあったんですか？
+|points31s = 4
+|choice32s = はい！
+|points32s = 8
+|choice32m = 驚きました
+|points32m = 8
+|title4 = 魔術のヒント
+|choice41s = とても美味しいですよ
+|points41s = 12
+|choice41m = 食べたことないですか？
+|points41m = 12
+|title5 = 外の世界
+|choice51m = 笑いかける
+|points51m = 16
+|choice51s = 手を握る
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_173s.jpg}}
+{{Still|text=Moon Still|img=Still_173m.jpg}}
+
+== Quotes ==
+{{Quotes
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 文化祭、楽しみなんです
+|SKILL_INVOKE_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 準備はできました…あとは当日です。トラブルがないといいのですが
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 飾り付けを壊さないように…
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さあ、次へ行きましょう
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 一緒に後夜祭にいきましょう
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 体を動かすのも良いですね
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 文化祭の準備は大変ですが、充実していますね
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 皆さんが楽しんでいただけるような展示…頑張りますね
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 良かったです。準備にもどりましょう
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 貴方もこの学び舎にいらしたのですね。クラスメイト…ですね
+|CARD_TOP_clip = 
+|DECK_en = 
+|DECK_jp = 一緒に見て回りましょうか
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 一年の中にこうした特別な日があること…幸せです。今日は、貴方のために
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ミヤと違ってスポーツはあまりしなかったもので…不安はありますが
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = さ、こちらで魔術を体験してみませんか。まずはこうして私と手をつないで…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 夜には後夜祭もあるんですね…貴方と二人で過ごせたら…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ランチに誘われたのですが、貴方も一緒にいかがでしょう？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 部屋に戻ったら課題と明日の予習…あと、今日の復習をしないとですね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはようございます。こうして制服に身を包んで皆で学ぶ…新鮮ですね
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = …貴方の制服姿、素敵です。えっ…私の制服姿もいいですか…嬉しいです
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 私が呼吸をするように扱う魔術も、他の人から見れば「特技」なのですね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = こうしてたくさんの人に囲まれて一緒に講義を受ける…とても刺激になります
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ミヤ以外で年の近い方と一緒に学ぶのは初めてで、緊張します
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ……っく
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = お気遣いありがとうございます
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 楽しい文化祭、守ってみせます
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ご褒美、でしょうか？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 貴方が応援してくれた…それだけでも、参加してよかったと思えます
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 本当はもっとかっこよくできたらと思ったんですが…難しいですね
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 最高の気分です…貴方はやはり素晴らしい
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 行きます！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 疲れていませんか？無理はしないで下さいね
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 私も精いっぱい、やってみせます
+|CHAIN_GREAT_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 学校というものに通うのは……とても新鮮です
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = どんな出し物だったら皆さんに喜んでいただけるのでしょうか
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここでこっそり、文化祭のために特訓をしましょう……
+|GUILD_clip = 
+}}

@@ -1,0 +1,78 @@
+== Status ==
+{{Infobox
+|no = 273
+|name = Welger
+|name_jp = ウェルガー
+|attribute = Passion
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 426
+|hp_max = 832
+|hp_break = 965
+|atk_base = 308
+|atk_max = 481
+|atk_break = 557
+|rp_base = 295
+|rp_max = 553
+|rp_break = 642
+|lskill_name = 嘘つき王子は猛獣使い
+|lskill_desc = Increase ATK by 20% when HP is above 50%, increase RP by 20% when HP is below 50%
+|skill_name = リューゲファルベ
+|skill_desc = Recover HP in accordance to RP (A)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 748
+|hp_max_s = 973
+|hp_break_s = 1109
+|atk_base_s = 457
+|atk_max_s = 562
+|atk_break_s = 641
+|rp_base_s = 526
+|rp_max_s = 747
+|rp_break_s = 852
+|lskill_name_s = 嘘つき王子の優しい嘘
+|lskill_desc_s = Increase ATK by 30% when HP is above 50%, increase RP by 30% when HP is below 50%
+|skill_name_s = リューゲヴァイス
+|skill_desc_s = Recover HP in accordance to RP (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 748
+|hp_max_m = 940
+|hp_break_m = 1072
+|atk_base_m = 457
+|atk_max_m = 615
+|atk_break_m = 701
+|rp_base_m = 526
+|rp_max_m = 708
+|rp_break_m = 807
+|lskill_name_m = 嘘つき王子の檻の中
+|lskill_desc_m = Increase ATK by 30% when HP is above 50%, increase RP by 30% when HP is below 50%
+|skill_name_m = リューゲシュヴァルツ
+|skill_desc_m = Recover HP in accordance to RP (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+== Profile ==
+{{Profile
+|va = Saiga Mitsuki
+|origin =Country of Aspiration- Circo 
+|age = 17
+|birth = 
+|policy =Become stronger for the sake of family 
+|likes =Tricking Morta 
+|dislikes =Mushrooms 
+|desc = 憧憬の国・チルコの第三王子。兄であるネロが率いるサーカス団に所属しており、猛獣ショーに出演している。兄達のように誰かを守れるような存在になりたいと思っており、自分を大きく見せようとつい嘘を吐いてしまう。しかし、他人から嘘を吐かれるのは嫌い。
+|bg = ウェルガーを目覚めさせたあなたは、彼が守っているというチルコの街に案内される。けれど、街にいる子ども達はあなたに敵意のある視線を向けていて…―
+}}
+== Story ==
+{{Choice|title2 = 影から刺さる視線|choice21s = 興味を持たれてる？|points21s = 8|choice21m = 敵意を向けられてる？|points21m = 8|title3 = 大人だから|choice31s = 素直に言う|points31s = 4|choice31m = 誤魔化す|points31m = 4|choice32s = 人に聞く|points32s = 8|choice32m = 探しに行く|points32m = 8|title4 = 嘘を吐かないように|choice41s = 格好よかった|points41s = 12|choice41m = 嘘吐きなんて思わない|points41m = 12|title5 = 敵意の視線|choice51s = 気のせいだった|points51s = 16|choice51m = テントに戻ろう|points51m = 16}}{{Still|text=Sun Still|img=Still_273s.jpg}}
+{{Still|text=Moon Still|img=Still_273m.jpg}}

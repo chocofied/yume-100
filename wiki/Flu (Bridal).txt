@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 106
+|name = Flu
+|name_jp = フリュー
+|attribute = Gentle
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 336
+|hp_max = 788
+|hp_break = 930
+|atk_base = 203
+|atk_max = 321
+|atk_break = 379
+|rp_base = 214
+|rp_max = 412
+|rp_break = 487
+|lskill_name = 僕の声、届くかな？
+|lskill_desc = Increase Green RP by 25%
+|skill_name = 中庭でおしゃべり
+|skill_desc = Recovery of HP in accordance to RP (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 709
+|hp_max_s = 1064
+|hp_break_s = 1234
+|atk_base_s = 305
+|atk_max_s = 375
+|atk_break_s = 435
+|rp_base_s = 392
+|rp_max_s = 557
+|rp_break_s = 646
+|lskill_name_s = 僕の大切な人だ！
+|lskill_desc_s = Increase Green RP by 35%
+|skill_name_s = フリューの大きな声
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 709
+|hp_max_m = 969
+|hp_break_m = 1124
+|atk_base_m = 305
+|atk_max_m = 395
+|atk_break_m = 458
+|rp_base_m = 392
+|rp_max_m = 582
+|rp_break_m = 675
+|lskill_name_m = 運命なんて関係ない！
+|lskill_desc_m = Increase Green RP by 35%
+|skill_name_m = フリューの内緒話
+|skill_desc_m = Recovery of HP in accordance to RP (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Innocent Bridal
+|original = [[Flu]]
+|desc = 声の国ヴォックスの第二王子。声が小さく、気が弱い。婚宴の儀で国の代表として宣誓を行うことになったが、不安を抱えている。けれどここぞという場面のときは実は強い。
+|bg = アフロスで行われる婚宴の儀に訪れたあなたは、人ごみの中でフリューと再会する。その後、中庭で彼から「運命の人を映し出す水鏡」の話を聞き…―。
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼の不安
+|choice21m = パーティは嫌いですか？
+|points21m = 6
+|choice21s = なぜお兄様が？
+|points21s = 6
+|title3 = きみに会いたくて
+|choice31s = そのおかげでまた会えた
+|points31s = 3
+|choice31m = びっくりしたけど嬉しかった
+|points31m = 3
+|choice32m = 恥ずかしいです
+|points32m = 6
+|choice32s = 見つめすぎです
+|points32s = 6
+|title4 = 水鏡
+|choice41s = 見てみたい
+|points41s = 12
+|choice41m = 見なくてもいい
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_106s.jpg}}
+{{Still|text=Moon Still|img=Still_106m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は……とっても……大変だったけど……明日も……がんばろうね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = きみは……いつも僕の声を聞こうとしてくれるね……嬉しい
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = その……ドレス……かわいいって……思って……
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = きみが……僕の……運命の人です
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = そんなに驚いてどうしたの？　僕だって、やるときはやるんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = そのドレス……とても……よく……似合ってる
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ひゃっ！　……ごめん、僕の声が小さいから、近づいたんだよね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ……おはよう……あの……なドレスだね……聞こえなかった？
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ……素敵なもの、あった？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = きみは……綺麗だね……
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = もっとこっちに来て……内緒話が、あるんだ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ……僕の後ろにいて
+|BATTLE_START_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ぇぃっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = わっ！
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ……っ！　驚いた……すごいんだね
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = きみが……僕を……強くしてくれるんだ
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = その……きみが他の男の人と……なんて……嫌なんだ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = きみと……を……誓えたら……わっ！　何でもない……です
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 僕の声……ちゃんときみに届けたい……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、頑張れるから……
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = き……緊張した……
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 大好きなきみのことを、守りたい
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 僕だって！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = きみが……僕の……運命の人です
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = きみのことが……大好きです
+|CARD_EVOLUTION_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = きみに会えるなんて嬉しいな……
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 強くなったら……きみは僕を選んでくれますか？
+|CARD_ENHANCE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = きみを傷つける人は……許さない！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 大丈夫……
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 僕の声を聞いて
+|SKILL_INVOKE_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう。これからも……ずっと、僕と……一緒にいて、ください！
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = ……あ……ううん、一緒に行きたいな…って
+|DECK_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びに来てくれてありがとう……ちゃんと、聞こえた？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんな風に祝ってもらえるの……うれしい
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは……静かできれいな場所だね。
+|GUILD_clip = 
+}}

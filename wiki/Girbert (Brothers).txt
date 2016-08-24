@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 238
+|name = Girbert
+|name_jp = ギルバート
+|attribute = Cool
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 473
+|hp_max = 912
+|hp_break = 1057
+|atk_base = 281
+|atk_max = 528
+|atk_break = 613
+|rp_base = 301
+|rp_max = 470
+|rp_break = 545
+|lskill_name = 魔方陣に導かれ
+|lskill_desc = Increase ATK by 50% when HP below 80%
+|skill_name = ルナソル・シルバー
+|skill_desc = Reduce damage by 20% for 1 turn
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 820
+|hp_max_s = 1067
+|hp_break_s = 1216
+|atk_base_s = 502
+|atk_max_s = 713
+|atk_break_s = 813
+|rp_base_s = 446
+|rp_max_s = 550
+|rp_break_s = 627
+|lskill_name_s = 魔術便に乗せた光
+|lskill_desc_s = Increase ATK by 65% when HP below 80%
+|skill_name_s = シャイニー・シルバー
+|skill_desc_s = Reduce damage by 25% for 1 turn
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 820
+|hp_max_m = 1167
+|hp_break_m = 1330
+|atk_base_m = 502
+|atk_max_m = 676
+|atk_break_m = 771
+|rp_base_m = 446
+|rp_max_m = 531
+|rp_break_m = 605
+|lskill_name_m = 芽吹く気持ち
+|lskill_desc_m = Increase ATK by 65% when HP below 80%
+|skill_name_m = フルール・シルバー
+|skill_desc_m = Reduce damage by 25% for 1 turn
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Big Brother and Little Brother
+|original = [[Girbert]]
+|desc = 月影の国・クレアブールの王子。今は城にいないゲイリー王子の影武者を務めており、凛としたその振る舞いは真の王族として称賛されている。今回、公務で訪れたソルシアナの街であなたと再会した。
+|bg = 魔術の祭典に招待されソルシアナを訪れたあなたは、公務で来ていたギルバートと再会する。旅をしているゲイリーから手紙をもらったことを彼に伝えると…
+}}
+
+== Story ==
+{{Choice|title2 = ギルバートの本音|choice21s = 一緒に探しませんか|points21s = 6|choice21m = 会いたくないですか？|points21m = 6|title3 = 魔術道具|choice31s = 是非、お願いします|points31s = 3|choice31m = お忙しいのでは？|points31m = 3|choice32s = 絵本で見たことがあります|points32s = 6|choice32m = そうなんでしょうか……|points32m = 6|title4 = 兄の影|choice41s = 試してみたいです|points41s = 12|choice41m = 試してみますか？|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_238s.jpg}}
+{{Still|text=Moon Still|img=Still_238m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = お前のおかげで、久しぶりに暖かな気分で過ごせた。ありがとう
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お前のことを大切にしたい。そしてお前のことはゲイリーにも譲らない
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 種と共に育ち、花を咲かせる頃も一緒に…そんな思いを込めたのかな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 兄弟なんだ。好きなものも似てくるだろう…ああ、お前のことだ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = わかっている。お前は俺と兄さんを会わせたかったんだろう？だが…
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = お節介だが、素直でまっすぐなところがお前のよさだ。そのままでいい
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 会ってはいけないと言いながら、会えるかもと思ったら…俺は…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 俺がゲイリーという光に導かれたように…俺もお前や兄さんに光を届けたい
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 兄さん…どこに
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 怪我などしていないだろうな。見せてみろ
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = いつまで寝ているつもりだ。目覚ましの魔法陣でも描いておけ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 公務まで時間がある…おい、昼食だ。誰と？　はっ、俺とに決まっているだろう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 月を見ると兄さんを思い出すんだ…なんでもない。ただ、今夜は傍にいろ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 偶然のこととはいえ、近くにゲイリー…兄さんがいるのか。いや、何でもない
+|MAIN_TOP_TOUCH_2_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = こうして共に誕生日を祝える…何気ないことを、今は大事に思う。おめでとう
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ゲイリーとして毅然と振る舞う。いついかなる時も。なのに…
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 子どものような振る舞いだとわかっているが…すまない
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 正直、どうしたらいいのかわからない。でも、正直な気持ちは…
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 俺と兄さんと…お前はどちらを選ぶんだ？
+|DECK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 魔術ばかりに頼っては駄目だな
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 時間を食ってしまったな
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = まさかこんなところでお前と再会するとはな。ちょうどいい、一緒に来い
+|CARD_TOP_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 魔術か…やってみよう
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = この光を届ける！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 綺麗に咲かせてみせろ
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 魔術を発動させる
+|BATTLE_FEVER_TIME_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ほら、こっちへ来い。手伝ってやる！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = せいっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = っく！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 回復の魔法陣…か？
+|BATTLE_RECOVER_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 魔術の素養が全くないんだな
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ムキになってる顔も悪くない
+|CHAIN_GREAT_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 何の用だ？俺は今、忙しいんだ。悪いが、後にしてくれないか
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 魔術の国のパーティか。珍しいものがたくさんあるな。あれは何だ…
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは空気がいい。兄さんにも教えてやりたい……兄さんならもう知ってるか
+|GUILD_clip = 
+}}

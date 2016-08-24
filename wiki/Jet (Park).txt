@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 246
+|name = Jet
+|name_jp = ジェット
+|attribute = Passion
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 322
+|hp_max = 641
+|hp_break = 851
+|atk_base = 275
+|atk_max = 516
+|atk_break = 686
+|rp_base = 94
+|rp_max = 148
+|rp_break = 196
+|lskill_name = 暴走列車、出発進行！
+|lskill_desc = Reduce Green damage by 10%
+|skill_name = スピードコースター
+|skill_desc = Increase own ATK for 1 turn (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 577
+|hp_max_s = 820
+|hp_break_s = 1070
+|atk_base_s = 491
+|atk_max_s = 661
+|atk_break_s = 863
+|rp_base_s = 140
+|rp_max_s = 167
+|rp_break_s = 218
+|lskill_name_s = 最高のフォトスポット
+|lskill_desc_s = Reduce Green damage by 15%
+|skill_name_s = デンジャーコースター
+|skill_desc_s = Increase own ATK for 1 turn (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 577
+|hp_max_m = 750
+|hp_break_m = 978
+|atk_base_m = 491
+|atk_max_m = 697
+|atk_break_m = 910
+|rp_base_m = 140
+|rp_max_m = 173
+|rp_break_m = 226
+|lskill_name_m = ヒーローの王子様
+|lskill_desc_m = Reduce Green damage by 15%
+|skill_name_m = クライシスコースター
+|skill_desc_m = Increase own ATK for 1 turn (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Film Park
+|original = [[Jet]]
+|desc = 映画の国・ボディブルの王子。アクションを影から支える名スタントマン。アクション俳優一家に生まれるものの、本人はスタントにプライドを持っており、演技にはあまり関心がない。ビートン・フィルムパークには、彼がスタントを務めた映画のアトラクションがある。
+|bg = ジェットからビートン・フィルムパークに招待されたあなた。彼がスタントを務めた映画のローラーコースターに、一番最初に乗せてもらえることになり…
+}}
+
+== Story ==
+{{Choice|title2 = ローラーコースター|choice21s = 格好いい|points21s = 6|choice21m = 格好が似合っている|points21m = 6|title3 = 最初の乗客|choice31s = いいんですか？|points31s = 3|choice31m = すごく嬉しい！|points31m = 3|choice32s = ありがとうございます|points32s = 6|choice32m = 恥ずかしい|points32m = 6|title4 = 運転開始！|choice41s = おめでとうございます|points41s = 12|choice41m = 楽しみですね|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_246s.jpg}}
+{{Still|text=Moon Still|img=Still_246m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = お、お前にもワンデイパスポートやるよ。ゆっくりしていけよな
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここもいい場所だな。ここにもローラーコースターを走らせようぜ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お、オープニングセレモニーが始まってるじゃねえか
+|WELCOME_PARTY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = どうだ？　緊張してるか？　ははっ、楽しみだよな。俺もだ
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 銀幕のヒーローか…お前の前では、本物のヒーローでいたいんだ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 何が起きても、俺がいるから大丈夫だからな
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = よし、あと少しだ！
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まだまだ加速するからな！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 来てくれたのか！よっし、じゃあ俺のアトラクションから行ってみようぜ！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = な、スリル満点だっただろ？
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = スピードが一番だよな
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 俺がヒーローみたいだって？
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = せっかくだから笑えよ
+|SKILL_INVOKE_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日か。パーク内のレストランでディナーにするか！　肉食べようぜ
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = よっし！じゃ、コースターに乗りこむぞ！
+|DECK_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 一番に乗せてやるからさ、楽しみにしてろよ！すっげえスピードだから！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = おい、口んとこ…ケチャップついてる…ハハッ、そんな慌てて食べるなよ
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = n写真っていいな。今まではこういうの、どうでもいいって思ってたけどさn
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 楽しかったか？　そうだ、写真…いい感じに撮れてるといいな！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = いやあ…大満足！　日が暮れるまで遊び尽くしたのなんて、久しぶりだぜ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = どこで飯食べるかな。ラーメンって言いたいとこだけど、軽めなのがいいか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 俺の仕事柄さ……スリルを味わってもらおうって決めてたんだ！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = アトラクションのプロデュースって聞いて、結構張り切っちまったんだよな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よ！　ぐっすり眠れたか？　今日は一日歩き回る予定だからな
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 俺が本物のヒーローみたいだったって？　…ありがとな、嬉しいよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ヤッ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = やるじゃねえか！一緒に飛ぶぞ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = この程度なんともねえよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …ギリギリだった
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 限定グッズでも入ってんのか？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ここから先には行かせねえぜ
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 仕方ねえ、ついてこい！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 下がってな！俺が止めてやる
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = どんな時も、お前にとって俺は一番のヒーローでいたいんだよ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = せっかく皆を楽しませたいって思ってたのに…お前にも…格好つかねえな
+|MAIN_TOP_TOUCH_m_2_clip = 
+}}

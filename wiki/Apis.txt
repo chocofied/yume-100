@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 7
+|name = Apis
+|name_jp = アピス
+|attribute = Sexy
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 353
+|hp_max = 773
+|hp_break = 912
+|atk_base = 201
+|atk_max = 364
+|atk_break = 430
+|rp_base = 165
+|rp_max = 300
+|rp_break = 354
+|lskill_name = 隠れ毒舌
+|lskill_desc = Increase Purple HP & RP by 15%
+|skill_name = ハニー・アベイユ
+|skill_desc = Turn Yellow beads into Purple
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 695
+|hp_max_s = 997
+|hp_break_s = 1157
+|atk_base_s = 346
+|atk_max_s = 470
+|atk_break_s = 545
+|rp_base_s = 285
+|rp_max_s = 387
+|rp_break_s = 449
+|lskill_name_s = 隠れ毒舌
+|lskill_desc_s = Increase Purple HP & RP by 20%
+|skill_name_s = ハニー・アベイユ
+|skill_desc_s = Turn Yellow beads into Purple
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 695
+|hp_max_m = 1043
+|hp_break_m = 1210
+|atk_base_m = 346
+|atk_max_m = 492
+|atk_break_m = 571
+|rp_base_m = 285
+|rp_max_m = 351
+|rp_break_m = 407
+|lskill_name_m = 隠れ毒舌
+|lskill_desc_m = Increase Purple HP & RP by 20%
+|skill_name_m = ハニー・アベイユ
+|skill_desc_m = Turn Yellow beads into Purple
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Fukuma Shunpei
+|origin = Country of Poison - Avetel
+|age = 29
+|birth = February 01
+|likes = Relaxation time
+|dislikes = Tingly atmospheres
+|policy = Don't let others touch me
+|desc = 毒薬の国・アベーテルの王子。礼儀正しく、優雅に振る舞うが、触れられることを極度に嫌う。母親からの溺愛を受けている。得意な楽器はフルート。
+|bg = 優雅で礼儀正しく振る舞うアピス。けれど、触れた時に人が変わったようになってしまう。彼のその理由を知って、あなたは……？
+}}
+
+== Story ==
+{{Choice
+|title2 = 触るな
+|choice21m = 出席する
+|points21m = 6
+|choice21s = 断る
+|points21s = 6
+|title3 = 愛なんていらない
+|choice31m = 顔に手を触れる
+|points31m = 4
+|choice31s = 心配する
+|points31s = 4
+|choice32m = …
+|points32m = 5
+|choice32s = そんなことはない
+|points32s = 5
+|title4 = おせっかい
+|choice41s = アピスさんの気持ちは…
+|points41s = 12
+|choice41m = ちょっと待って下さい
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_7s.jpg}}
+{{Still|text=Moon Still|img=Still_7m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = アワードねえ…公務だから参加するけど、あんまり興味ないな
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ふーん。僕を選んでくれたんだ…ま、礼は言っておくよ？
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ごきげんよう。本日はどこへ参りましょうか？…ねぇ、早く決めてくれる？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = もう夜ですよ？無理をなさらないでくださいね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 何か御用ですか、プリンセス？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 僕に気安く触らないでくれるかな？
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ぼーっとしてて、蜂に刺されたりしないでよ？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 本当は、のんびり過ごしたいんだけどなぁ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君、緊張感の無い顔してるねぇ…そこもいいと思うけど
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはようございます、プリンセス。よく眠れましたか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 僕に触れたいの？君なら、まあいいけど
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君に近づく奴は、僕が許さないよ？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = …何？そんなに僕に触れたいわけ？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ふっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがと
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 目ざわりだよ。消えて
+|SKILL_INVOKE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = いいよ。あとで僕も君に飽きるくらい触れてやるから
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = さっさと終わらせようよ
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = いいんじゃない？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 面倒だなぁ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まぁ、やってみるよ
+|CHAIN_GREAT_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = あんまり僕に無理させないで欲しいな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = なんなんだろう、この力…君が、いるからなのかな？
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 覚悟しなよ、もう君を離さないから
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕を連れていくの？まぁ、いいんだけど
+|DECK_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 蜂に刺されちゃえよ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 鬱陶しいんだよ、君達
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 終わらせようよ
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだあるの？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 勝って当たり前だよね
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = どこか行くの？…公務が忙しいんだけど
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日？ああそう。おめでとう
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんなことしてくれなくていいよ。でも、ま、参加してあげる
+|WELCOME_PARTY_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 礼を言っておくよ
+|CHAIN_EXCELLENT_clip = 
+|GUILD_en = 
+|GUILD_jp = 肉体労働とかは苦手なんだけど…そういうのじゃないよね？
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 君、あの子の友達？まぁ、仲良くしてやってよ。
+|FRIEND_DETAIL_clip = 
+}}

@@ -1,0 +1,74 @@
+== Status ==
+{{Infobox
+|no = 264
+|name = Julius
+|name_jp = ユリウス
+|attribute = Cool
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 508
+|hp_max = 873
+|hp_break = 1109
+|atk_base = 339
+|atk_max = 550
+|atk_break = 699
+|rp_base = 329
+|rp_max = 535
+|rp_break = 680
+|lskill_name = 誰かの力になれるなら
+|lskill_desc = Increase Blue HP and RP by 25%
+|skill_name = 平和への思い
+|skill_desc = Increase Blue beads appearance rate for 10 chains (B)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 786
+|hp_max_s = 969
+|hp_break_s = 1210
+|atk_base_s = 523
+|atk_max_s = 710
+|atk_break_s = 886
+|rp_base_s = 508
+|rp_max_s = 594
+|rp_break_s = 741
+|lskill_name_s = 桜の香りに誘われて
+|lskill_desc_s = Increase Blue HP and RP by 30%
+|skill_name_s = この思いを詰め込んで
+|skill_desc_s = Increase Blue beads appearance rate for 10 chains (A)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 786
+|hp_max_m = 934
+|hp_break_m = 1166
+|atk_base_m = 523
+|atk_max_m = 671
+|atk_break_m = 839
+|rp_base_m = 508
+|rp_max_m = 653
+|rp_break_m = 815
+|lskill_name_m = 暗雲断ち切る剣戟
+|lskill_desc_m = Increase Blue HP and RP by 25% and ATK by 15%
+|skill_name_m = その笑顔のためなら
+|skill_desc_m = Increase Blue beads appearance rate for 10 chains (A)
+|gold_m = 10000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|desc = 花と緑の国・ブルメリアの王子。ぶっきらぼうで乱暴な言葉を使うが、実は照れ隠し故の言動。香料の調合が得意。プリンスアワードで『ドリームクラウン』の称号を得た後、内乱が落ち着いた承和の国の復興を手助けするために雷（あずま）の城へと訪れた。
+|bg = 『ドリームクラウン』の称号を贈られたユリウスと、承和の国を訪れたあなた。穏やかな雰囲気の街を歩いていると、突然彼の瞳が鋭さを帯びて…―
+|event = Princes' Outings
+|original = [[Julius]]
+}}
+== Story ==
+{{Choice|title2 = ユリウスと雷|choice21s = 気になりますか？|points21s = 8|choice21m = 立派な刀ですね|points21m = 8|title3 = 不安な予兆|choice31s = 私も一緒に……|points31s = 4|choice31m = 一人では危険です|points31m = 4|choice32s = いいえ|points32s = 8|choice32m = はい|points32m = 8|title4 = 影からの襲撃|choice41s = ありがとうございます|points41s = 12|choice41m = ユリウスさんは大丈夫ですか|points41m = 12|title5 = 残酷な残り香|choice51s = 大丈夫です|points51s = 16|choice51m = 少しだけ|points51m = 16}}
+{{Still|text=Sun Still|img=Still_264s.jpg}}
+{{Still|text=Moon Still|img=Still_264m.jpg}}

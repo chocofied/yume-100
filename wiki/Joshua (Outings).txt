@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 263
+|name = Joshua
+|name_jp = ジョシュア
+|attribute = Cool
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 447
+|hp_max = 869
+|hp_break = 1008
+|atk_base = 291
+|atk_max = 547
+|atk_break = 635
+|rp_base = 312
+|rp_max = 488
+|rp_break = 566
+|lskill_name = 本を愛する者として
+|lskill_desc = Increase Party ATK by 50% when HP is Max
+|skill_name = ペルフェットリブロ
+|skill_desc = Increase Blue beads appearance rate (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 782
+|hp_max_s = 1017
+|hp_break_s = 1159
+|atk_base_s = 520
+|atk_max_s = 739
+|atk_break_s = 842
+|rp_base_s = 464
+|rp_max_s = 571
+|rp_break_s = 651
+|lskill_name_s = 君の理想に 
+|lskill_desc_s = Increase Party ATK by 65% when HP is Max
+|skill_name_s = イデアーレリブロ
+|skill_desc_s = Increase Blue beads appearance rate (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 782
+|hp_max_m = 1113
+|hp_break_m = 1269
+|atk_base_m = 520
+|atk_max_m = 701
+|atk_break_m = 799
+|rp_base_m = 464
+|rp_max_m = 552
+|rp_break_m = 629
+|lskill_name_m = 君と紡ぐ物語
+|lskill_desc_m = Increase Party ATK by 65% when HP is Max
+|skill_name_m = エレガンテリブロ
+|skill_desc_m = Increase Blue beads appearance rate (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+== Profile ==
+{{Profile
+|desc = 紅茶の国・ベルガントの王子。その振る舞いは洗練されている。マナーに関して厳しく、それにプライドを持っている。プリンスアワードで『ゴールドクラウン』の称号を得た後、文壇の国から招待を受け、文学普及のための公務を行うことになった。
+|bg = 『ゴールドクラウン』の称号を贈られたジョシュアと共に、文壇の国へと招待されたあなた。文学普及の公務のため、二人で街に視察に行こうとしたその時…―
+|event = Princes' Outings
+|original = [[Joshua]]
+}}
+== Story ==
+{{Choice|title2 = お城探検|choice21s = 聞いてなかったわけじゃない|points21s = 6|choice21m = ごめんなさい|points21m = 6|title3 = 王子様とお姫様|choice31s = お城はもういいんですか？|points31s = 3|choice31m = 活気がありますね|points31m = 3|choice32s = 真似をしてお辞儀を返す|points32s = 6|choice32m = わあ、素敵だね|points32m = 6|title4 = ジョシュアの好きなもの|choice41s = かわいい|points41s = 12|choice41m = 意外|points41m = 12}}{{Still|text=Sun Still|img=Still_263s.jpg}}
+{{Still|text=Moon Still|img=Still_263m.jpg}}

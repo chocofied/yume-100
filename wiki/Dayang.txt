@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 103
+|name = Dayang
+|name_jp = ダヤン
+|attribute = Cool
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 325
+|hp_max = 711
+|hp_break = 944
+|atk_base = 244
+|atk_max = 355
+|atk_break = 471
+|rp_base = 239
+|rp_max = 424
+|rp_break = 563
+|lskill_name = ダヤンの儲け話
+|lskill_desc = Increase Blue RP by 35%
+|skill_name = さあ、一儲けするぜ！
+|skill_desc = Recover HP every turn (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 640
+|hp_max_s = 832
+|hp_break_s = 1086
+|atk_base_s = 337
+|atk_max_s = 415
+|atk_break_s = 542
+|rp_base_s = 402
+|rp_max_s = 572
+|rp_break_s = 747
+|lskill_name_s = ダヤンの寝息
+|lskill_desc_s = Increase Blue RP by 50%
+|skill_name_s = 金だけじゃねえかもな
+|skill_desc_s = Recover HP every turn (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 640
+|hp_max_m = 910
+|hp_break_m = 1188
+|atk_base_m = 337
+|atk_max_m = 401
+|atk_break_m = 523
+|rp_base_m = 402
+|rp_max_m = 542
+|rp_break_m = 708
+|lskill_name_m = ダヤンと行商
+|lskill_desc_m = Increase Blue RP by 50%
+|skill_name_m = うひ、お金ちゃん
+|skill_desc_m = Recover HP every turn (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Shirai Yusuke
+|origin = Country of Pharmaceutics - Medicina
+|age = 15
+|birth = June 18
+|likes = Money and chips
+|dislikes = Gambling on a loss
+|policy = Good business
+|desc = 薬学者ギルド・メディシナの長。放浪し、薬を売り歩く。とにかくお金が大好きで、「世の中金だ！」と思っている。また、そのためかそろばんを弾く動作をするのが癖になっている。
+|bg = 毒薬の国からの帰り道、ダヤンと再会したあなた。薬の調合を手伝うことになるが、それは彼の策略で…―。
+}}
+
+== Story ==
+{{Choice
+|title2 = 笑顔の裏
+|choice21s = どうして私に？
+|points21s = 6
+|choice21m = うーん
+|points21m = 6
+|title3 = 世の中は金！
+|choice31m = やっぱり詐欺
+|points31m = 3
+|choice31s = 最初から言ってくれれば
+|points31s = 3
+|choice32s = そんなことない
+|points32s = 6
+|choice32m = まだ分からない
+|points32m = 6
+|title4 = 濡れ衣
+|choice41s = 仲裁に入る
+|points41s = 12
+|choice41m = 成り行きを見守る
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_103s.jpg}}
+{{Still|text=Moon Still|img=Still_103m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 一位になって、名前が売れたら…やばい、大儲けの予感しかしねぇ！
+|AWARD_EVENT_NOMINATED_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お金で買えないものってさ、他にはどんなものがあるの？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = おお！いいところにいた！さ、出かけるよ！風邪が流行ってるらしいから
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = お金があればさ、とりあえずは不幸せにはならないでしょ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 幾ら払ったらキスさせてくれる？えーじゃ、せめて幾らぐらいの価値か教えて
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = これ、余った薬草でつくった押し花。こんなんで喜んでくれるの？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 太陽が沈んだってやることはいっぱいあるよ！　薬草煎じたり…調合したり
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……おっと残念！　ただでおさわりしちゃう？　ダメダメ～
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 早起きは三文の得っていうだろ？　オレ、朝は早いんだ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ちょっとー…だらだらご飯食べてたら商機逃すからさー。早くして！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 割り勘はきっちりね！　細かいとか言われるけど気にしねえ……
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 綺麗な花には毒があるってね……気をつけなね♪
+|CARD_DETAIL_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = そして大きな声でまいどあり～！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = たぁッ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 良い薬あるぜ？
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = まあ　あんたにだけ特別な！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うううっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 薬は豊富にあるよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = うひ　お金ちゃん
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = いいね！もっと声だして！
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あんたと二人なら、いい商売ができると思うんだよ！オレと来いよ！
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 愛と人情お断り！
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 時には大胆な値引きもね！
+|CHAIN_GREAT_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = これで明日の売上も期待できますなあ！
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 良い薬ができれば、あんたも笑顔見せてくれるんだろ？
+|CARD_EVOLUTION_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 何見てんの？　お金とるよ？　って嘘だよ。元気してた？
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日か…苦手なんだよこういうの。ほら、とっておきの元気が出る薬をやる！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 安い薬、普通の薬、高い薬って出すと、みんな普通の薬買うよね？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = どんな怪我や薬も任せとけ！
+|DECK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 最後の一滴まで絞りとるぜ？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 毎度ありー！
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 地獄の沙汰も金次第！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さ！ここで一気に回収だ！
+|BATTLE_FEVER_TIME_clip = 
+|GUILD_en = 
+|GUILD_jp = ここにお金になるいい薬草ないかなあ！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びに来たの？なんか具合悪いんだったら、薬あるよ！有料だけど
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝い？　え、なにくれるの？……なんもないのか。
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = なんか、すっげー嬉しい。やっぱ世の中って金だけじゃないのかもな
+|AWARD_EVENT_FAVORITES_clip = 
+}}

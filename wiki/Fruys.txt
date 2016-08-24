@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 81
+|name = Fruys
+|name_jp = フリュス
+|attribute = Passion
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 334
+|hp_max = 742
+|hp_break = 876
+|atk_base = 212
+|atk_max = 386
+|atk_break = 455
+|rp_base = 200
+|rp_max = 363
+|rp_break = 428
+|lskill_name = そよ風のささやき
+|lskill_desc = Increase Party ATK by 10%
+|skill_name = クロスウインド
+|skill_desc = Turn Green beads into Red
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 668
+|hp_max_s = 1002
+|hp_break_s = 1162
+|atk_base_s = 366
+|atk_max_s = 521
+|atk_break_s = 604
+|rp_base_s = 345
+|rp_max_s = 425
+|rp_break_s = 493
+|lskill_name_s = 春風の気まぐれ
+|lskill_desc_s = Increase Party ATK by 15%
+|skill_name_s = エターナルウインド
+|skill_desc_s = Turn Green beads into Red
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 668
+|hp_max_m = 1047
+|hp_break_m = 1215
+|atk_base_m = 366
+|atk_max_m = 474
+|atk_break_m = 550
+|rp_base_m = 345
+|rp_max_m = 446
+|rp_break_m = 517
+|lskill_name_m = 朝風のいたずら
+|lskill_desc_m = Increase Party ATK by 15%
+|skill_name_m = メリーウインド
+|skill_desc_m = Turn Green beads into Red
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Shimono Hiro
+|origin = Country of Spirit - Secundati
+|age = 16
+|birth = April 02
+|likes = Fun things
+|dislikes = Things that aren't fun
+|policy = Don't go against the wind
+|desc = 精霊の国・セクンダティの風の一族の王子。自由気ままに毎日を過ごしている。風を操る。気まぐれだけど、心優しい性格。いちごジュースが好き。
+|bg = フリュスを訪ね、シルフィアにやってきたあなた。風のように自由な彼を追いかけるうちに垣間見た、彼の表情とは……？
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼とめぐる空
+|choice21m = すごい！
+|points21m = 6
+|choice21s = もう少しゆっくり飛んで
+|points21s = 6
+|title3 = 歌といちごジュースの朝
+|choice31s = いちご、好きです
+|points31s = 3
+|choice31m = フリュス君らしいですね
+|points31m = 3
+|choice32s = うん！
+|points32s = 6
+|choice32m = 慌てる
+|points32m = 6
+|title4 = 昼下がりの風
+|choice41m = 一緒に連れていって
+|points41m = 4
+|choice41s = どこにいくの？
+|points41s = 4
+}}
+
+{{Still|text=Sun Still|img=Still_81s.jpg}}
+{{Still|text=Moon Still|img=Still_81m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = なんか退屈だなー。うーん、ちょっと出かけようかな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよ。今日もいい風がふいてるよ。さ、どこへいこうか
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 僕がついておいでって言ったら、どこまでもついてくる？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = あれっ？見つかっちゃった…そんな怖い顔しないでよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 本当に君は懲りないんだから…しょうがないなあ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 風の声に呼ばれちゃうから、しょうがないんだよね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = え？どこに出かけてたって？…それはね…「いいところ」だよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = なぁに？これは、新しい遊び？どうやってやるの？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 外は真っ暗？…楽しいことをするのに、そんなことは関係ないよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 風の声を君にも聞かせてあげたいな
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君の前だと、ちょっと油断しちゃうっていうか…なんだろうね？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 不思議？僕が？……でも、君だって同類だよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = さあ、僕がつれていくよ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとう！
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = う…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = エイっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すっごい！風みたいだね
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = やればできるじゃん！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = もうちょっといけるよね！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = それ、面白そうだね
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 楽しもうよ。どんなときでもね
+|BATTLE_START_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 僕についてこれるなら、ご自由に！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 風の言葉が聞こえるよ
+|SKILL_INVOKE_clip = 
+|DECK_en = 
+|DECK_jp = 僕といっしょに風に乗ろう
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 風の力をもっと強く感じられるよ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = どこまでも飛んでいけそう！…君、ついてこれるかな？
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = なんかいい感じ！どうかな？
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = いい風が吹いているね。どこか遠くにいきたいね
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 気持ちのいい風がふいてきたね
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、風は止んでないよ
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 突風に注意してね
+|BATTLE_FEVER_TIME_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。1年、君にいい風が吹きますように
+|BIRTHDAY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びにきたの？偶然だね、僕も遊びにいこうと思ってたんだ
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = みんな気ままなんだからー…。へへっ、僕に言われたくないって？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝いしてくれるの？いいね。僕、楽しいこと大好き
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = いい風の流れだね。誰に入れるか、風任せなんてのも、いいんじゃない？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 僕を？そうなんだ！じゃあ、このまま一緒にどこか遠くに飛んでいく？
+|AWARD_EVENT_FAVORITES_clip = 
+}}

@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 11
+|name = Sky
+|name_jp = 澄快
+|attribute = Passion
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 340
+|hp_max = 831
+|hp_break = 980
+|atk_base = 247
+|atk_max = 420
+|atk_break = 496
+|rp_base = 127
+|rp_max = 215
+|rp_break = 254
+|lskill_name = 格好つけたい
+|lskill_desc = Hold on for one more hit after HP reaches 0
+|skill_name = 煙草は男の嗜み
+|skill_desc = Turn Blue beads into Red
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 748
+|hp_max_s = 1171
+|hp_break_s = 1358
+|atk_base_s = 399
+|atk_max_s = 517
+|atk_break_s = 600
+|rp_base_s = 205
+|rp_max_s = 265
+|rp_break_s = 307
+|lskill_name_s = 格好つけたい
+|lskill_desc_s = Hold on for one more hit after HP reaches 0
+|skill_name_s = 煙草は男の嗜み
+|skill_desc_s = Turn Blue beads into Red
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 748
+|hp_max_m = 1121
+|hp_break_m = 1300
+|atk_base_m = 399
+|atk_max_m = 567
+|atk_break_m = 658
+|rp_base_m = 205
+|rp_max_m = 252
+|rp_break_m = 292
+|lskill_name_m = 格好つけたい
+|lskill_desc_m = Hold on for one more hit after HP reaches 0
+|skill_name_m = 煙草は男の嗜み
+|skill_desc_m = Turn Blue beads into Red
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Namikawa Daisuke
+|origin = Country of Magic Science - Daten
+|age = 25
+|birth = August 13
+|likes = Being cool
+|dislikes = Uncool things
+|policy = I will protect the girl I love with my life
+|desc = 魔法科学の国・ダテンの元王子。悪ぶっているが悪になりきれない心根真っ直ぐな照れ屋の青年。銃と煙草を持ち歩く。綺麗好きだが、よく意外と言われる。
+|bg = とあるきっかけから、悪者につけ狙われてしまうあなた。そんなあなたを守るため、澄快が立ち上がる……！！彼はあなたを守り切れるのか、それとも…！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 不器用な優しさ
+|choice21s = 率直に尋ねる
+|points21s = 6
+|choice21m = やんわり尋ねる
+|points21m = 6
+|title3 = スノードーム
+|choice31s = 面白い人だと思う
+|points31s = 3
+|choice31m = そんなことない
+|points31m = 3
+|choice32m = 澄快も私の守護神だよ
+|points32m = 6
+|choice32s = 大袈裟だよ
+|points32s = 6
+|title4 = 逃亡劇の始まり
+|choice41s = 澄快の好きなもの
+|points41s = 12
+|choice41m = なんでもいいよ
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_11s.jpg}}
+{{Still|text=Moon Still|img=Still_11m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en =Nighttime, huh? I want a cup...Ah, if you're not doing anything, won't you have one with me, a cup? 
+|MAIN_TOP_EVENING_GREET_jp = 夜か。一杯やりてぇな。…あー、ヒマだったら…オマエも一緒に、とか…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Where'd you want to go? Ah, listen, it's dangerous alone so I'll join you. 
+|MAIN_TOP_AFTERNOON_GREET_jp = どこ行きたいんだ？あーほら、ひとりじゃ危ねぇからついてってやるよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en =Morning. Ah--damn, 'm sleepy...what? Don't laugh! 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。あーっくそ、ねみぃ…何だよ、笑うなよ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 結果は上々だな
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en =Leave it to me! I'll handle it! 
+|BATTLE_START_jp = 伏せろ！オレがやる！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en =I'm definitely going to protect you. So don't be so worried. 
+|CARD_DETAIL_m_jp = オマエはオレ必ず守ってやるから。心配すんなって
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en =If you keep underestimating me, you never know what might happen, you know..? 
+|MAIN_TOP_TOUCH_m_1_jp = あんまオレのことナメてると、どうなっても知らねぇぞ？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =Uwoh!! Damn, you don't learn at all...What are you laughing at?! 
+|MAIN_TOP_TOUCH_m_2_jp = うおっ！ったく、懲りねぇなオマエ…何笑ってんだよ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en =We-well, if you're so insistent...here, you can touch. 
+|CARD_DETAIL_s_jp = ま、まぁオマエがどうしてもってーなら…ほら、触れよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en =Don't mess with me so much, you... 
+|MAIN_TOP_TOUCH_s_1_jp = オマエ、あんまからかってんじゃねぇぞ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =What are you touching? I'll get you back! 
+|MAIN_TOP_TOUCH_s_2_jp = 何触ってんだよ？やり返すぞ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en =You're a weird one, you know... 
+|CARD_DETAIL_jp = オマエって変なやつだなぁ…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en =Uwoh!? Ah, that was nothing! ..Damn, I'm so...uncool... 
+|MAIN_TOP_TOUCH_1_jp = うおっ！？あ、今のなしだ！…くそっ、だっせぇ、オレ…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =What's that? Did you fall for me? 
+|MAIN_TOP_TOUCH_2_jp = なんだぁ？オレに惚れたか？
+|MAIN_TOP_TOUCH_2_clip = 
+|CHAIN_EXCELLENT_en =Don't you leave my side! 
+|CHAIN_EXCELLENT_jp = オレの側、離れんなよ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_TURN_END_en =They keep turning up one after another! 
+|BATTLE_TURN_END_jp = 次から次へと湧きやがって！
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en =Now, let's finish this up! 
+|BATTLE_FEVER_TIME_jp = さぁ、片付けてやろうぜ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ほら、お望み通り鉛玉くれてやるぜ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en =I've got you now! You can't run anymore! 
+|SKILL_INVOKE_s_jp = かかったな！もう逃がさねぇ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en =Geez, don't give me so much, trouble! 
+|SKILL_INVOKE_jp = ったく、手こずらせんな、よっ！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en =Thanks, that helped. 
+|BATTLE_RECOVER_jp = サンキュ、助かったぜ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en =Ouch!! 
+|BATTLE_DAMAGE_jp = いてっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en =Toryaa! 
+|BATTLE_ATTACK_jp = とりゃ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_GREAT_en =When this is over, let's eat some good grub! 
+|CHAIN_GREAT_jp = 終わったらうまいメシ、食おうぜ！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =Let's do this in one shot! 
+|CHAIN_NICE_jp = いっちょやってやろうぜ！
+|CHAIN_NICE_clip = 
+|BATTLE_CLEAR_en =Yeah! We won! 
+|BATTLE_CLEAR_jp = よし、勝ったな！
+|BATTLE_CLEAR_clip = 
+|BIRTHDAY_en =Congrats. Ah, um...I made reservations, at a restaurant...let's go, together. 
+|BIRTHDAY_jp = おめでとう。あーっと…レストラン、予約したからよ…一緒に、行こうぜ？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = …あいてっ！誰だ今こづいたやつ！？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en =I will protect yo...Damn!! Like hell I can say that! 
+|CARD_EVOLUTION_m_jp = オマエはオレが、守っ…くそっ！言えるか！
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =We, are already a good combo, right? Please keep taking care of me! 
+|CARD_EVOLUTION_s_jp = オレ達、もう名コンビだろ？これからもよろしくな！
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en =Ah, this is pretty good development. 
+|CARD_ENHANCE_jp = あぁ、なかなかいい調子だぜ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en =Oi, we're still not leaving? I'm already prepared and everything. 
+|CARD_TOP_jp = おい、まだ行かねぇのかよ。オレはもう準備万端だぜ
+|CARD_TOP_clip = 
+|FRIEND_DETAIL_en =Yo. They're not here right now if you're wondering...damn, where'd they go? 
+|FRIEND_DETAIL_jp = よう。あいつなら今いないぜ…ったく、どこ行ったんだか…
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = つるむのは好きじゃねぇ…ま、まぁ力が必要だってんなら考えてやるぜ！
+|GUILD_clip = 
+|WELCOME_PARTY_en =Ah--....It's kind of restless, huh! Th-thanks... 
+|WELCOME_PARTY_jp = あー…なんかむずむずするな！あ、ありがとよ…
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_NOMINATED_en =!! Wh-what is it! This sort of thing, it doesn't really suit me...ah--Damn. 
+|AWARD_EVENT_NOMINATED_jp = っ！な、なんだよ！こんなトコ、オレに似合わねえだろ…あーくそっ
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =Ah? You chose me? I-I don't know what to say! I'm getting embarrassed here! 
+|AWARD_EVENT_FAVORITES_jp = あ？オレを選んだ？ど、どんな反応したらいいんだ！照れるっつってんだ！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

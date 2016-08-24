@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 127
+|name = Toto
+|name_jp = トト
+|attribute = Gentle
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 332
+|hp_max = 820
+|hp_break = 968
+|atk_base = 207
+|atk_max = 353
+|atk_break = 416
+|rp_base = 207
+|rp_max = 353
+|rp_break = 416
+|lskill_name = ご主人さまになって？
+|lskill_desc = Increase Green HP by 20%
+|skill_name = トトの待て！
+|skill_desc = Erase right side beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 738
+|hp_max_s = 1107
+|hp_break_s = 1284
+|atk_base_s = 335
+|atk_max_s = 412
+|atk_break_s = 478
+|rp_base_s = 335
+|rp_max_s = 476
+|rp_break_s = 552
+|lskill_name_s = ぼくたちはともだち！
+|lskill_desc_s = Increase Green HP by 30%
+|skill_name_s = トトのお手！
+|skill_desc_s = Erase right side beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 738
+|hp_max_m = 1107
+|hp_break_m = 1284
+|atk_base_m = 335
+|atk_max_m = 476
+|atk_break_m = 552
+|rp_base_m = 335
+|rp_max_m = 412
+|rp_break_m = 478
+|lskill_name_m = あなただけのぼく
+|lskill_desc_m = Increase Green HP by 30%
+|skill_name_m = トトのお座り！
+|skill_desc_m = Erase right side beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Nishida Masakazu
+|origin = Country of Rainbow - Oz
+|age = 20
+|birth = October 10
+|likes = Whoever becomes my master
+|dislikes = People who aren't my master
+|policy = Be devoted to your master
+|desc = 虹の国・オズの王子。飼い主になってくれる人をずっと探し続けている。いい子にできたら、飼い主には褒めて欲しい。いい子にできなかったら、たくさん叱ってほしい。むしろ叱られたいと思っている。
+|bg = トトを目覚めさせると突然、「ぼくの飼い主になってください！」と言われてしまうあなた。どうやら彼は飼い主になってくれる人を探しているらしくて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ぼくおかしい？
+|choice21s = 大変だよね……
+|points21s = 6
+|choice21m = 寂しいよね……
+|points21m = 6
+|title3 = この人がいいの！
+|choice31m = どうしていいか困ったはず
+|points31m = 3
+|choice31s = すごい話ですね……
+|points31s = 3
+|choice32m = 友達じゃだめなの？
+|points32m = 6
+|choice32s = なぜ飼い主？
+|points32s = 6
+|title4 = いい子にするよ？
+|choice41s = 記憶がないままなんて
+|points41s = 12
+|choice41m = 同じ立場なら不安になる
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_127s.jpg}}
+{{Still|text=Moon Still|img=Still_127m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = What should we do next? Walkie? Huh... You want me to keep watch?
+|MAIN_TOP_AFTERNOON_GREET_jp = 次はなにをする？　お散歩？　えっ…ぼく、お留守番？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Master-.... Wake up-! I'm hungry-!
+|MAIN_TOP_MORNING_GREET_jp = ご主人様ー…おきてー！お腹がすいたようー！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = Damn... Oswald keeps saying that stuff... Ha! It's nothing
+|MAIN_TOP_TOUCH_1_jp = くそ…オズワルドのヤツ、適当なこと言いやがって…はっ！なんでもないよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = Welcome home! Master! I was so lonely all by myself...
+|MAIN_TOP_EVENING_GREET_jp = おかえりなさい！　ご主人様！　ぼく　一人で寂しかった…
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_EVOLUTION_m_en = I can't think of anyone as my owner except master....
+|CARD_EVOLUTION_m_jp = ぼく、飼い主はご主人様以外、考えられない……
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = Not master, but umm... What to do, I want someone to own me
+|CARD_EVOLUTION_s_jp = ご主人様じゃなくて、えっと……どうしよう、飼ってくれる人がほしいのに
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = It's master's birthday... If you weren't here, I would still be all by myself..Yay!
+|BIRTHDAY_jp = ご主人様のお誕生日…居なかったら、ぼくずっと一人だったから…嬉しい！
+|BIRTHDAY_clip = 
+|DECK_en = Let's go already! I don't wanna stay here!
+|DECK_jp = はやくいこう！ぼく、ここにいるのやだ！
+|DECK_clip = 
+|BATTLE_CLEAR_en = Where's my treat?
+|BATTLE_CLEAR_jp = ご褒美は？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = Uuuuuu----! I'll wait!
+|BATTLE_TURN_END_jp = ううううーーーー！待つ！
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = If master praises me I'll try harder!
+|CARD_ENHANCE_jp = ぼく、ご主人様がイイコイイコしてくれたら、もっとがんばる！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = What's up... I smell something I don't like! Master, hurry up and take me away from here
+|CARD_TOP_jp = なんだよ……いやな匂いがする！ご主人様、早くここから連れ出して
+|CARD_TOP_clip = 
+|BATTLE_DAMAGE_en = Kyaaiin!
+|BATTLE_DAMAGE_jp = きゃいん！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = U----! Woof!
+|BATTLE_ATTACK_jp = うーーー！ワンっ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = Don't get in the way of finding my master!
+|SKILL_INVOKE_jp = ご主人様探しの邪魔しないでよ！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = I'll lick you all better
+|BATTLE_RECOVER_jp = ぺろぺろしてあげる
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = Don't touch my master!
+|SKILL_INVOKE_m_jp = ぼくのご主人様に、触るなよ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = She said she's my friend, not my master!
+|SKILL_INVOKE_s_jp = ご主人様じゃなくて……お友達だって！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en = I'll chew them all up for you
+|BATTLE_FEVER_TIME_jp = あいつら全部噛み付いてやる
+|BATTLE_FEVER_TIME_clip = 
+|CHAIN_NICE_en = Master, please order me
+|CHAIN_NICE_jp = ご主人様、命令をしてください
+|CHAIN_NICE_clip = 
+|CHAIN_EXCELLENT_en = I'm so happy master is ordering me! Watch this!
+|CHAIN_EXCELLENT_jp = ご主人様の命令、嬉しい！見ててね！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = A request!? Not an order?
+|CHAIN_GREAT_jp = お願い！？　命令じゃなくて？　
+|CHAIN_GREAT_clip = 
+|FRIEND_DETAIL_en = ....This smell isn't bad.... You're master's guest, huh!
+|FRIEND_DETAIL_jp = ……悪くない匂いだ……ご主人さまのお客様だな！
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = You didn't have to do this for me.... I want it to be just me and master
+|WELCOME_PARTY_jp = ぼくのことはほっておいてくれていいよ……ご主人様と二人っきりがいい
+|WELCOME_PARTY_clip = 
+|GUILD_en = Where is master? Don't leave me all by myse~lf!
+|GUILD_jp = ご主人様はどこ？　一人にしないでくださーい！　
+|GUILD_clip = 
+|MAIN_TOP_TOUCH_2_en = Master-.... Where are you, master-...
+|MAIN_TOP_TOUCH_2_jp = ご主人様ー…ご主人様はどこにいますかぁー…
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = Master's hand.. is somehow soft... Also it smells nice
+|MAIN_TOP_TOUCH_s_1_jp = なんか…ご主人様の手、柔らかいね…あといい匂いがする
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = How come you don't want to become my master? I'm gonna get into the bath too?
+|CARD_DETAIL_jp = なんでぼくのご主人様になるの嫌なの？　ぼくちゃんとお風呂も入るよ？
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = What other stuff do friends do? I want to do all kinds of things!
+|CARD_DETAIL_s_jp = お友達って、他にどんなことするの？　いろんなことしたい！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Umm, if not master, what.. should I call you
+|MAIN_TOP_TOUCH_s_2_jp = えっと、ご主人様じゃない場合、なんて…呼んだらいいのかな
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = I can't sleep at night when I'm alone.. Please sleep with me
+|MAIN_TOP_TOUCH_m_1_jp = ぼく、一人じゃ夜眠れないから…一緒に寝てください
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = Master, hey hey give me a bath
+|MAIN_TOP_TOUCH_m_2_jp = ご主人さま、ねえねえ　ぼくのことお風呂に入れて！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = Don't get in the way...
+|BATTLE_START_jp = 邪魔すんなよ……
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = ....Ah! Sorry! I won't do bad stuff anymore... Sorry...
+|CARD_DETAIL_m_jp = ……あっ！　ごめんなさい！　もう悪いことしません…ごめんなさい…
+|CARD_DETAIL_m_clip = 
+|BATTLE_RESULT_en = Master, it smells good inside here
+|BATTLE_RESULT_jp = ご主人様、これ、中からいい匂いがするよ
+|BATTLE_RESULT_clip = 
+|AWARD_EVENT_NOMINATED_en = Master, I'll be good so please praise me the most!
+|AWARD_EVENT_NOMINATED_jp = ご主人さま、ぼくいい子にしてるから一番だって褒めてほしい！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = Yay. If it's for master, I'll do anything, y'know
+|AWARD_EVENT_FAVORITES_jp = うれしい。ぼく、ご主人さまのためだったら、なんだってするんだからね
+|AWARD_EVENT_FAVORITES_clip = 
+}}

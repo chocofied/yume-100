@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 151
+|name = Vim
+|name_jp = ヴィム
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 582
+|hp_max = 1213
+|hp_break = 1382
+|atk_base = 409
+|atk_max = 596
+|atk_break = 680
+|rp_base = 422
+|rp_max = 614
+|rp_break = 700
+|lskill_name = 満月への恐れ
+|lskill_desc = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name = ムーンアプロー
+|skill_desc = Recovery of HP in accordance to RP (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1091
+|hp_max_s = 1346
+|hp_break_s = 1508
+|atk_base_s = 566
+|atk_max_s = 662
+|atk_break_s = 741
+|rp_base_s = 584
+|rp_max_s = 793
+|rp_break_s = 888
+|lskill_name_s = 満月の下でキス
+|lskill_desc_s = Increase ATK by 50% when Party consists of all 5 colours
+|skill_name_s = ムーンクライシス
+|skill_desc_s = Recovery of HP in accordance to RP (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1091
+|hp_max_m = 1297
+|hp_break_m = 1453
+|atk_base_m = 566
+|atk_max_m = 727
+|atk_break_m = 814
+|rp_base_m = 584
+|rp_max_m = 750
+|rp_break_m = 840
+|lskill_name_m = 月夜に照らされた狼
+|lskill_desc_m = Increase ATK by 40% and RP by 15% when Party consists of all 5 colours
+|skill_name_m = ムーンダンツェン
+|skill_desc_m = Recovery of HP and increase ATK
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Fear! Will’s Harvest Festival
+|original = [[Vim]]
+|desc = 獣人の国・ベスマールの王子。満月の夜にあることが起こるため、悩みを抱えている。そのため、他人に対しても距離を置きがち。今回参加することになった収穫祭の日も満月だと知って、思い悩む。
+|bg = ヴィムに誘われ、収穫祭に訪れたあなた。けれど再会した彼は何だか元気がない様子。理由を尋ねると、収穫祭の日は満月らしくて…という彼にあなたは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ヴィムの憂い
+|choice21s = 何かいい方法はないかな
+|points21s = 8
+|choice21m = 辞退するの？
+|points21m = 8
+|title3 = 収穫祭の準備
+|choice31m = 耳を活かして猫
+|points31m = 4
+|choice31s = 格好いい戦士
+|points31s = 4
+|choice32s = うん、ありがとう
+|points32s = 8
+|choice32m = 一緒に入っていいの？
+|points32m = 8
+|title4 = 降り続く雨
+|choice41s = もっと考えてみよう？
+|points41s = 12
+|choice41m = 満月さえなければ…
+|points41m = 12
+|title5 = ヴィムの決意
+|choice51m = 一緒に楽しもうね
+|points51m = 16
+|choice51s = きっと大丈夫だよね
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_151s.jpg}}
+{{Still|text=Moon Still|img=Still_151m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 仮装パーティか…俺の耳があれば大丈夫って？気軽なこというなよ…
+|MAIN_TOP_TOUCH_1_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = もうすぐ月が出るっていうのに
+|BATTLE_START_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = あんたの大丈夫って言葉、魔法みたいだな…大丈夫な気がしてきたよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = そりゃ俺だってあんたと一緒に楽しく参加できたらって…思うけどさ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = え？お菓子くれないとイタズラする？…じゃあ、イタズラしてみろよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = すげえ…本当に皆、仮装してるんだな…俺なんてまだ地味なのか…？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = この姿…怖くないよな？やっぱり、俺…不安で
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = たくさんの人がいるパーティも楽しいけど、あんたと二人っきりで過ごしたいな
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 月夜に出歩いてたら危ないぜ…こんな獣に襲われちまうだろ？
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = あんた、やっぱり変わってるよな…こんな姿の俺でいい…なんてさ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 俺のために頑張ってくれてるのか…悪いな
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なんか使えそうなもんあったか？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 二人でとことん楽しもうぜ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ああ、楽しくなってきたよ。ありがとな
+|CHAIN_GREAT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = イテッ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ウォウ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = っち……憂鬱な月だ！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 持ち直した！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = こんな夜も、悪くはねえな！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = パーティーの魔法だな、きっと
+|SKILL_INVOKE_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = もう暗いな……曇で月が隠れてしまえばいいのにな……
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 休憩したら一緒に出かけてもらっていいか？ちょっと悩んでて……
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = どうするかな……もう朝だ。まだ何も決まってねえのに……
+|MAIN_TOP_MORNING_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あんた達も、尻尾とか耳、触りたがるのかよ……
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここはどこだ？迷ったのか？でも、まあ静かでいいところだ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = また会えたな……正直にいうと、嬉しい
+|WELCOME_PARTY_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、来るのか？こりないな
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ま、せっかくの夜だからな
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 仮装ったって何するのがいいんだろうな…考えれば考えるほど憂鬱だ
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 衣装も汚れなかったし　よしとするか
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = あんたと一緒にいたら、大丈夫なんじゃないかって思えてきた
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = せっかくの夜だし、少しでも楽しめればいいな
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 月夜の晩を俺と一緒に？…いいけどさ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 本当に大丈夫だよな、俺。もし、俺が誰かを傷つけようとしたらさ…
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 特別な月夜だな。俺と過ごしたいって…いいのかよ、本当に食べちまうぜ？
+|BIRTHDAY_clip = 
+}}

@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 172
+|name = Rufen
+|name_jp = ルーフェン
+|attribute = Passion
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 442
+|hp_max = 811
+|hp_break = 940
+|atk_base = 264
+|atk_max = 468
+|atk_break = 543
+|rp_base = 330
+|rp_max = 585
+|rp_break = 678
+|lskill_name = 合唱に一票！
+|lskill_desc = Increase HP & RP by 15% when Party consists of all 5 colours
+|skill_name = 合唱練習
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 729
+|hp_max_s = 948
+|hp_break_s = 1081
+|atk_base_s = 444
+|atk_max_s = 547
+|atk_break_s = 624
+|rp_base_s = 556
+|rp_max_s = 790
+|rp_break_s = 901
+|lskill_name_s = 夕暮れの保健室
+|lskill_desc_s = Increase HP & RP by 20% when Party consists of all 5 colours
+|skill_name_s = ステージ発表
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 729
+|hp_max_m = 916
+|hp_break_m = 1044
+|atk_base_m = 444
+|atk_max_m = 599
+|atk_break_m = 683
+|rp_base_m = 556
+|rp_max_m = 749
+|rp_break_m = 854
+|lskill_name_m = 二人で回る文化祭
+|lskill_desc_m = Increase HP & RP by 20% when Party consists of all 5 colours
+|skill_name_m = 楽しいミュージカル
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = School Memory ~Cultural Festival with Him~
+|original = [[Rufen]]
+|desc = 声の国・ヴォックスの第三王子。元気いっぱいで自由奔放。周りがあまり見えず、思いやりが空回りすることもある。今回、両親から礼節を学んでくるよう言われ、メモワール学園にやってきた。
+|bg = ルーフェンと同じクラスのあなた。文化祭での出し物は、彼の一票で合唱に決まった。気合いを入れてクラスを引っ張り合唱練習に取り組む彼だけど…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 練習開始
+|choice21s = よろしくね
+|points21s = 6
+|choice21m = 文化祭が楽しみ
+|points21m = 6
+|title3 = 一番大事なことは？
+|choice31m = そろそろ休もう？
+|points31m = 3
+|choice31s = ごめんね
+|points31s = 3
+|choice32s = ルーフェンは悪くない
+|points32s = 6
+|choice32m = もう少しゆっくりやろう
+|points32m = 6
+|title4 = 暗雲
+|choice41m = 私達も頑張ろう
+|points41m = 12
+|choice41s = 気にしちゃダメだよ
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_172s.jpg}}
+{{Still|text=Moon Still|img=Still_172m.jpg}}
+
+== Quotes ==
+{{Quotes
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ミュージカルってこんな感じか？！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まだまだ、レパートリーはあるよな
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = みんなでひとつになろうぜ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 本番のステージって気持ちいいよな！
+|SKILL_INVOKE_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = おお！こんなところで会えるなんてな。一人だと不安だったけど、安心した…
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = どんどん、いい歌になっていくな……これなら大丈夫だな！
+|CARD_ENHANCE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = アンコールが聞こえるな
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし！ステージに向かうぞ
+|BATTLE_CLEAR_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 余裕余裕ー！
+|BATTLE_RECOVER_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = こんなに皆で練習したんだ！きっと、大丈夫。いざとなったらオレが……
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日か、皆でバースデーソング歌おうぜ！え？二人きりがいい？わ…わかった
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 大丈夫だ！　いいアイディアが浮かんだぞ。これでオレ達のステージは成功だ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 一緒に歌おうぜ！？な、いいだろ？
+|DECK_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝か……ヤバい！寝坊した！遅刻だ……やべー…怒られる
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 昼だ！腹が減ったなー！な、学食いこうぜ！あ、購買部でもいいな！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = お！？オマエ、いい声してるな。そのまま背筋伸ばして、顎を引いてみろ！
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = オレなんか声もでかいし、空回っちまうけど…今回は皆で頑張りたい
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = やっと終わった…こう、一日中座って勉強するのって、辛いなあ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 合唱はいいよな！　一人で歌うのと違って、力が入る感じがするからな
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = なんか、頭ぽーっとする…おかしいな　でも、皆と歌うんだ…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 一緒にステージ立ててよかった…この学校にきてよかった！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = オマエの手、冷たくて気持ちいな…ずっと、触れててほしい…いいか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = よっし、オマエは何食べたい？結構、屋台出てるんだな…わ、急に走るなよ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = オレ達のステージの邪魔はさせねー！
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 台詞もあって、歌もあって、ダンスもあって…盛りだくさんだな！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = わっ！　台詞間違えた…まあ、このまま行こうぜ！なんとかなる！！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうそう、下っ腹に力入れてさ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いい感じだ！！　これが合唱の良さだな！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = おおお！　それ衣装とかに使えるかもな！
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 恥ずかしがらずに声を出せよ
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = うりゃ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = いたたた…
+|BATTLE_DAMAGE_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = え？入学式？……やべ、オレ、遅刻するんじゃないか！？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここで合唱練習しようぜ！　なんか広くて綺麗だしさ！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = なあなあ、他のクラスと比べてうちのクラスの出し物どう思う？
+|FRIEND_DETAIL_clip = 
+}}

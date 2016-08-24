@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 13
+|name = Totori
+|name_jp = トトリ
+|attribute = Gentle
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 285
+|hp_max = 605
+|hp_break = 714
+|atk_base = 187
+|atk_max = 318
+|atk_break = 375
+|rp_base = 212
+|rp_max = 435
+|rp_break = 513
+|lskill_name = リラクゼーション
+|lskill_desc = Increase Green HP & RP by 15%
+|skill_name = 幸運のアド・アストラ
+|skill_desc = Recover time (2s)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 545
+|hp_max_s = 745
+|hp_break_s = 864
+|atk_base_s = 302
+|atk_max_s = 391
+|atk_break_s = 454
+|rp_base_s = 413
+|rp_max_s = 613
+|rp_break_s = 711
+|lskill_name_s = 静のリラクゼーション
+|lskill_desc_s = Increase Green HP & RP by 20%
+|skill_name_s = 幸運のアド・アストラ
+|skill_desc_s = Recover time (2s)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 545
+|hp_max_m = 817
+|hp_break_m = 948
+|atk_base_m = 302
+|atk_max_m = 372
+|atk_break_m = 432
+|rp_base_m = 413
+|rp_max_m = 587
+|rp_break_m = 681
+|lskill_name_m = 動のリラクゼーション
+|lskill_desc_m = Increase Green HP & RP by 20%
+|skill_name_m = 幸運のアド・アストラ
+|skill_desc_m = Recover time (2s)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Marutaka Daichi
+|origin = Country of Jewel - Toriarl
+|age = 31
+|birth = November 12
+|likes = Pleasant wind, citrous aroma
+|dislikes = Disorderly places, things
+|policy = Make everything and all your thoughts simple.
+|desc = 宝石の国・トリアールの王子。温厚で穏やかな性格。恋愛に対しては興味があまりなく父である国王を心配させている。女性のエスコートは完璧にできる。
+|bg = 物腰が柔らかく大人なトトリ。そんな彼にだんだん惹かれていくあなた。けれど、トトリはあまり恋愛に興味がなさそうで…？あなたの恋の結末は…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 二人の関係
+|choice21s = 嫁……？
+|points21s = 6
+|choice21m = いえ、私は……
+|points21m = 6
+|title3 = 募る気持ち
+|choice31s = ぜひお願いします
+|points31s = 4
+|choice31m = ご迷惑じゃないですか？
+|points31m = 4
+|choice32s = お礼を口にする
+|points32s = 5
+|choice32m = 恥ずかしくなりうつむく
+|points32m = 5
+|title4 = 告白、そして……
+|choice41m = 私の気持ちに気づいて
+|points41m = 12
+|choice41s = 私はあなたが……
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_13s.jpg}}
+{{Still|text=Moon Still|img=Still_13m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 星を眺めにいきましょうか…もちろん、二人きりで
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 君の前では、誰よりも頼れる男でありたいと思っていますよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = わたしだって、寂しかったり不安だったりするって言ったら…どうしますか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 妹たちが君と話をしてみたい？構いませんよ。きっと気が合うと思います
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = おっと…驚きました。かわいらしい悪戯をするんですね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = どうしたんです？ふふっ…遠慮はしなくていいんですよ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = おや、もうこんな時間ですか。風邪など引いてはいけません、早く休みましょう
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 今日はのんびりしてしまいましたね。このままゆっくりしますか
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ゆっくり休めましたか？今日は何をして過ごしましょうか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 助かります
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 驚きました…！努力したのですね、素敵です
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = よく頑張りました。後はわたしがやりましょう
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 背伸びしないでいいですよ。ゆっくりと
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = さあ、確認しましょう
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = あまり気が進みませんが…
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君を見ていると…つい、甘やかしてしまいそうで
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君が焦る必要はありません。わたしは待っていますから
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 困った顔をして、どうかしましたか？わたしで良ければ話を聞きますよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|DECK_en = 
+|DECK_jp = わたしがエスコートしましょうか？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君が素敵な女性になっていくことを、楽しみにしています
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 君のことが、なぜだかとても気になります
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 日々、努力は怠らないようにしましょうね
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = さて、もう出発の準備はできましたか？忘れ物のないようにね
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 大丈夫ですか？頑張りましたね
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 体制を整えましょう
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = チャンスですよ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = わたしに任せておいてください
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 君に、いいところを見せたいと思います
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ちょっと大人げないですが、仕方ないですね
+|SKILL_INVOKE_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとうございます。君の一年が、素敵な経験にあふれますように
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = いろいろな建物がありますね。どれから参りましょうか？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = わたしのためにパーティーを？それは光栄です。ありがとう
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 彼女と仲良くしてもらってるみたいですね。ありがとう
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = この場に相応しい振る舞いを心がけねばいけませんね
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ありがとうございます。けれどわたしは、君の笑顔だけで十分ですよ
+|AWARD_EVENT_FAVORITES_clip = 
+}}

@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 225
+|name = Kaede
+|name_jp = 楓
+|attribute = Sexy
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 528
+|hp_max = 1042
+|hp_break = 1325
+|atk_base = 331
+|atk_max = 455
+|atk_break = 578
+|rp_base = 317
+|rp_max = 515
+|rp_break = 655
+|lskill_name = 君と桜探し
+|lskill_desc = Increase whole party's HP & RP by 15%
+|skill_name = 想いの桜画
+|skill_desc = Erase all Purple beads and turn Green Beads into Purple
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 938
+|hp_max_s = 1272
+|hp_break_s = 1588
+|atk_base_s = 432
+|atk_max_s = 487
+|atk_break_s = 608
+|rp_base_s = 490
+|rp_max_s = 629
+|rp_break_s = 785
+|lskill_name_s = 君に春を
+|lskill_desc_s = Increase whole party's HP & RP by 20%
+|skill_name_s = 想いの桜画
+|skill_desc_s = Erase all Purple beads and turn Green Beads into Purple
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 938
+|hp_max_m = 1115
+|hp_break_m = 1393
+|atk_base_m = 432
+|atk_max_m = 555
+|atk_break_m = 693
+|rp_base_m = 490
+|rp_max_m = 629
+|rp_break_m = 785
+|lskill_name_m = 君だけの桜
+|lskill_desc_m = Increase whole party's HP & RP by 15% and ATK by 10%
+|skill_name_m = 慕情の桜画
+|skill_desc_m = Erase all Purple beads and turn Red Beads into Purple
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = The Changing Seasons
+|original = [[Kaede]]
+|desc = 四季の国・蓬莱の秋の一族の王子。絵画・彫刻・建築など「芸術」の分野で才能を発揮する天才。感性に優れ、作り出す作品は多くの人を魅了するが、繊細な一面も持ち合わせている。桜の絵の出展を依頼されるものの、本物の桜がもうすぐ咲くのに絵を描くなんて無粋な真似はしたくないと断る。
+|bg = 楓と山桜を見に行くことになったあなた。けれど桜の開花が遅れており花はまだ咲いていなかった。一緒に桜を見ることができず残念がるあなたに彼は…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 楓の思い
+|choice21s = 楽しみです
+|points21s = 8
+|choice21m = でも、絵も見てみたいです
+|points21m = 8
+|title3 = 桜の花弁
+|choice31m = 咲いているといいですね
+|points31m = 4
+|choice31s = 行ってみたいです
+|points31s = 4
+|choice32s = だって……
+|points32s = 8
+|choice32m = なんでもありません
+|points32m = 8
+|title4 = 桜餅
+|choice41m = 口を閉じる
+|points41m = 12
+|choice41s = 口を開ける
+|points41s = 12
+|title5 = 目的地で見たもの
+|choice51s = ありがとうございます
+|points51s = 16
+|choice51m = もう大丈夫です
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_225s.jpg}}
+{{Still|text=Moon Still|img=Still_225m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。早く、そのひどい寝癖をどうにかしたら？桜が驚いて咲かないよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろご飯にしようか。この時期は春の山菜を使った料理がたくさんあるんだ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = この街を彩る夜桜は見ものだよ。君もきっと気に入ると思う
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 桜餅を頬張る君の顔ってまぬけだよね…可愛いって言ったつもりなんだけど
+|MAIN_TOP_TOUCH_1_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = これでゆっくり春を過ごせるね
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 早く支度しなよ。桜を探しに行くんでしょ？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 本物の桜の前に、絵なんて無粋な真似…けど、君は見たいんだよね？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 君にいいものを見せてあげるから…俺のアトリエにおいで
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ咲かないかな
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 俺の部屋、いいって言うまで覗いたらだめだよ？わかった？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 他のやつと春を楽しむなんて許さないよ？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日なんだ？じゃあ…ほら、おいで。満開の桜の下で祝ってあげるから
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 桜の花びらさえまともに描けないなんて…とんだ不器用なお姫様だな
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 久しぶりに君が蓬莱に来るのを楽しみにしてたんだ。だっていじめたいからね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 俺と桜を見たかった…か。一人の男として、見せないわけにはいかないな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 俺と桜を見たかった、なんて言われたら…調子が狂うよ、まったく
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 桜が咲くまで待てないわけ？
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 桜餅でも入っていたら、君の口に詰め込んであげるよ
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君は困った子だね…涙なんかを見せたりして、どうなっても知らないよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = はあ…俺は、君の悲しそうな顔はあまり見たくないらしい。だからあの絵を…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 桜を描くことなんてないと思ってたんだけどね…君の存在って不思議だよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = へえ…君って覗き見が趣味なんだ？いいから認めなよ、事実でしょ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = そんなんじゃいつまで経っても咲かないよ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まあまあなんじゃない？もうすぐ咲くかもね
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 頑張ったね。一緒に満開の桜を見に行こうか
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 無粋だな
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 俺が描く絵……高くつくけど？
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 桜色に…染めてあげるよ！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 風が薫る…
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 落ち着いて花見くらいさせてよ
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 君達に俺の絵を見せる価値なんてないよ
+|SKILL_INVOKE_s_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 桜と共に俺の歓迎を？ありがとう。そういうセンスは嫌いじゃないな
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここに俺が設計した建物を置くのもいいかもね。君もきっと気に入るよ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 君はあの子の友達？じゃあ、あの子に伝えてくれる？春はもうすぐだよって
+|FRIEND_DETAIL_clip = 
+}}

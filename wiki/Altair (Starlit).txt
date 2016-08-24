@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 268
+|name = Altair
+|name_jp = アルタイル
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 550
+|hp_max = 1098
+|hp_break = 1251
+|atk_base = 413
+|atk_max = 671
+|atk_break = 765
+|rp_base = 351
+|rp_max = 482
+|rp_break = 549
+|lskill_name = 密かに送るエール
+|lskill_desc = Recover Skill Gauge every turn (S)
+|skill_name = 笑顔を生む飴細工
+|skill_desc = Turn Purple beads into Green and erase Green beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 988
+|hp_max_s = 1219
+|hp_break_s = 1365
+|atk_base_s = 638
+|atk_max_s = 866
+|atk_break_s = 970
+|rp_base_s = 458
+|rp_max_s = 535
+|rp_break_s = 599
+|lskill_name_s = 星が瞬く大河
+|lskill_desc_s = Recover Skill Gauge every turn (SS)
+|skill_name_s = 笑顔を生む飴細工
+|skill_desc_s = Turn Purple beads into Green and erase Green beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 988
+|hp_max_m = 1339
+|hp_break_m = 1500
+|atk_base_m = 638
+|atk_max_m = 819
+|atk_break_m = 917
+|rp_base_m = 458
+|rp_max_m = 516
+|rp_break_m = 578
+|lskill_name_m = 二つ目の願い事
+|lskill_desc_m = Recover Skill Gauge every turn and increase party HP by 10%
+|skill_name_m = お前のための飴細工
+|skill_desc_m = Turn Red beads into Green and erase Green beads
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|desc = 星の国・ガラッシアの東側の王子。聡明で勇ましく、民のことを第一に考える。分断された国の西側の王子・ベガのことを心配しており、彼がメインイベントを取り仕切る星祭りでは、何か自分も力になれないかと三日三晩考えて飴細工の屋台を出すことにした。
+|bg = アルタイルから、星祭りに招待されたあなた。飴細工の屋台を出すという彼が作った飴細工を見せてもらうと、なんとも言えないいびつな形をしていて…―
+|event = In the Starlit Night
+|original = [[Altair]]
+}}
+== Story ==
+{{Choice|title2 = 眺めるだけじゃなく|choice21s = 友達思いですね|points21s = 8|choice21m = 尊敬します|points21m = 8|title3 = 飴細工作り|choice31s = 聞かない|points31s = 4|choice31m = 聞く|points31m = 4|choice32s = ありがとうございます|points32s = 8|choice32m = そんなことありませんよ|points32m = 8|title4 = アルタイルの思い|choice41s = 飴作りは私に任せて|points41s = 12|choice41m = 愛されていますね|points41m = 12|title5 = 熱を持つ指先|choice51s = アルタイルさんのおかげ|points51s = 16|choice51m = もう大丈夫です|points51m = 16}}{{Still|text=Sun Still|img=Still_268s.jpg}}
+{{Still|text=Moon Still|img=Still_268m.jpg}}

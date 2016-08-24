@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 14
+|name = Sirius
+|name_jp = シリウス
+|attribute = Passion
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 308
+|hp_max = 648
+|hp_break = 764
+|atk_base = 183
+|atk_max = 375
+|atk_break = 443
+|rp_base = 214
+|rp_max = 364
+|rp_break = 430
+|lskill_name = 天狼の嗅覚
+|lskill_desc = Reduce Red damage by 10%
+|skill_name = ブライト・ファング
+|skill_desc = Erase random beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 583
+|hp_max_s = 913
+|hp_break_s = 1059
+|atk_base_s = 356
+|atk_max_s = 461
+|atk_break_s = 535
+|rp_base_s = 346
+|rp_max_s = 448
+|rp_break_s = 520
+|lskill_name_s = 天狼の嗅覚
+|lskill_desc_s = Reduce Red damage by 15%
+|skill_name_s = ヘリアカル・ファング
+|skill_desc_s = Erase random beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 583
+|hp_max_m = 874
+|hp_break_m = 1014
+|atk_base_m = 356
+|atk_max_m = 506
+|atk_break_m = 587
+|rp_base_m = 346
+|rp_max_m = 426
+|rp_break_m = 494
+|lskill_name_m = 天狼の嗅覚
+|lskill_desc_m = Reduce Red damage by 15%
+|skill_name_m = セレネリオ・ファング
+|skill_desc_m = Erase random beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yashiro Taku
+|origin = Country of Star - Canes
+|age = 23
+|birth = November 01
+|likes = Friendly people like Procyon
+|dislikes = High and mighty people
+|policy = Help the weak, beat up the bad guy
+|desc = 星の国・ケイネスの王子。粗野でぶっきらぼうな性格。従弟のプロキオンのことを気にかけて追い回している。本能的に敵だと感じるとすぐに噛みつく。
+|bg = シリウスの友達になってくれとケイネスの国王から頼まれたあなた。最初は冷たい態度のシリウスが、だんだんとあなたに心を開いていって…！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 国王様からのお願い
+|choice21m = 私と一緒にいよう
+|points21m = 6
+|choice21s = 友達になろう
+|points21s = 6
+|title3 = 友達のはじまり
+|choice31s = そんなはずない
+|points31s = 4
+|choice31m = 私をちゃんと見て
+|points31m = 4
+|choice32m = きっと素敵
+|points32m = 5
+|choice32s = 想像できる
+|points32s = 5
+|title4 = 優しい猟犬
+|choice41s = すぐに助ける
+|points41s = 12
+|choice41m = シリウスがいれば……
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_14s.jpg}}
+{{Still|text=Moon Still|img=Still_14m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = アンタ、結構早くに起きるんだな…まだ、ねみぃよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = なんか、そろそろ腹へって来ないか？オレ、腹減ると何もできない
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = もう、外は真っ暗だぜ？いいのか？…ならもうちょっと遊ぼうぜ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = なあ、プロキオン見なかったか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 今からプロキオンんとこ行くんだ！じゃあな！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 何すんだよっ…いや、アンタの匂いは嫌いじゃないけどよ…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = なあ一緒に遊ぼうぜ！面白いゲーム教えてもらったんだ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 好きの種類って違うのか？なんか、よくわかんねーんだけど
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = いい匂いがするものはみんな好きだ！アンタの匂いもいい匂いだな
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = オレのモンだろ、アンタは…勝手にどっか行くんじゃねーぞ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = オレにまかせとけ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なんかいい匂いすんな
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = よっし！楽しくなってきたな！
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = すげえな！アンタ、やっぱいいよ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = よっし！ボッコボコにしてやる！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = オラっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うぐっ
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = アンタに近づく男には、噛みついてやる
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = マーキング？な、なんのことだよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 弱きを助け、強きを…なんだっけ？
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まとめてぶん殴ってやる！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ちまちま面倒だな
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よおっし！よくやった！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = プロキオン、どこに行ったんだー…！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ほら、オレの修行の成果どう？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = どんなことからも、アンタのこと守れるよ！
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = いたたた…
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = うぜえ！オレがまとめて殴る！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 悪いやつは殴るって、決めてるんだオレ
+|SKILL_INVOKE_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = もっと鼻が利くようになったかな…あっ、いい匂いがする
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = プロキオンもいっしょでいいか？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 今日はアンタが生まれた日なんだってな！一番いい匂いの花とってきた！やる！
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = オレのことはいいんだけど、プロキオンのこと知らねえ？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = なんだここ！？　不思議な匂いがするぞ！！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あいつのトモダチか！？ならオレともトモダチだな！！
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = なんだここ？いろんなニオイがするな。あ、プロキオンもいるのか！？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = オレを選んだ？そりゃそうだろ！アンタが選ぶのはオレしか駄目だ！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

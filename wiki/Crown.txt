@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 39
+|name = Crown
+|name_jp = クラウン
+|attribute = Sexy
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 304
+|hp_max = 608
+|hp_break = 718
+|atk_base = 223
+|atk_max = 430
+|atk_break = 507
+|rp_base = 205
+|rp_max = 396
+|rp_break = 467
+|lskill_name = 隠しナイフ
+|lskill_desc = Increase Gold by 15%
+|skill_name = １００の微笑み
+|skill_desc = Recovery of HP in accordance to RP (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 11
+|lvmax_s = 50
+|hp_base_s = 548
+|hp_max_s = 712
+|hp_break_s = 826
+|atk_base_s = 408
+|atk_max_s = 580
+|atk_break_s = 673
+|rp_base_s = 376
+|rp_max_s = 535
+|rp_break_s = 621
+|lskill_name_s = 隠しナイフ
+|lskill_desc_s = Increase Gold by 20%
+|skill_name_s = 最高の微笑み
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 11
+|lvmax_m = 50
+|hp_base_m = 548
+|hp_max_m = 821
+|hp_break_m = 952
+|atk_base_m = 408
+|atk_max_m = 503
+|atk_break_m = 583
+|rp_base_m = 376
+|rp_max_m = 535
+|rp_break_m = 621
+|lskill_name_m = 隠しナイフ
+|lskill_desc_m = Increase Gold by 20%
+|skill_name_m = 微笑みを探して
+|skill_desc_m = Recovery of HP in accordance to RP (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Nogami Sho
+|origin = Country of Jester - Carnaval
+|age = 26
+|birth = August 19
+|likes = Little children
+|dislikes = Strife
+|policy = Only show your smiling face to others
+|desc = 道化の国・カルナバーラの王子。自分の本心を見せず、おどけて振る舞うのが得意。どんな人でも笑わせようとする。彼が持つその手法は１００を超えるという。
+|bg = クラウンと共に人を笑顔にする旅をすることになったあなた。彼が笑わせようとした人とは？そして彼が使命を果たした時に迎えるものとは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 旅の目的
+|choice21m = どうやったんですか？
+|points21m = 6
+|choice21s = すごい！
+|points21s = 6
+|title3 = 100人目
+|choice31m = あの襲われた女性？
+|points31m = 3
+|choice31s = まさか強盗！？
+|points31s = 3
+|choice32m = ケガを心配する
+|points32m = 6
+|choice32s = ハンカチを取り出す
+|points32s = 6
+|title4 = 心からの笑顔
+|choice41s = あなたも素敵な笑顔です
+|points41s = 12
+|choice41m = その笑顔が好きです
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_39s.jpg}}
+{{Still|text=Moon Still|img=Still_39m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = すごい人だ。ここにいる人々を笑顔にできたら…至上の喜びだね
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ありがとう。貴女の笑顔は私を笑顔にしてくれること…知っていたかな？
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう！よき朝だよ。さあ、ごらんなさい
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 天上に太陽輝く…さて、今日という日もクライマックスへと…
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 長い旅に必要なものはなんでしょう？…そう、素敵な笑顔さ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君が笑えば、世界は笑うという名言があるけれど…素晴らしい言葉だ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 光が射してくる方へ…行く先は自然と決まるものだよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 人々に笑顔を与える…大変に困難なことだけれど…一人でも多くの人に
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 暗い顔をしてどうかしたのかい？…まさか私を試している？ふふっ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 貴女とその笑顔を、願わくばずっと私のそばに…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ショータイムのはじまりだ！
+|BATTLE_START_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 闇のとばりが覆い隠していくけれど、さあ、まだ物語は続くんだ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = さあ、ご注目。１、２、３…ほら、素敵な景色だろう？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = まるでケーキが膨らむような楽しくて甘い時間だ
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = この顔は泣いているようにも笑っているようにも…受け取り方は自由だよ
+|CARD_DETAIL_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = さあ拍手喝采！
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = いいね！さあ、ショーを始めよう
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 素晴らしい！ショーが盛り上がるよ！
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ショーは間もなくクライマックスに！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 笑顔の力、見せてあげよう！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = カーテンコールはいただくよ
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 終幕にはまだ早いかな
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 素晴らしいフィナーレだ！
+|BATTLE_CLEAR_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ファンタスティック！最高のパフォーマンスだ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = トウッ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ウッ・・・
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 不思議な力だね
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 道化の見せる夢幻…見逃す事なかれ！
+|SKILL_INVOKE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = これはこれは…ようこそ来てくれたね。今宵はどんな夢を？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = このシルクハットからも力が溢れ出そうだよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 決めたよ！このクラウン、貴女といっしょに行くことにしよう！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 貴女の笑顔が、私の力の源となる。さあ、お手を…
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 笑顔溢れる世界へ、私と出かけよう！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日！では目を閉じて…１、２、３…はい、プレゼントです！
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 私のお祝いとは！！いえ、もてなされるよりもてなす方が多い身なので
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = さながら猛獣使いのような立ち位置でしょうか
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ご友人の方ですね？では一緒に、私のショーをご覧あれ！
+|FRIEND_DETAIL_clip = 
+}}

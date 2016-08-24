@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 86
+|name = Procyon
+|name_jp = プロキオン
+|attribute = Cute
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 331
+|hp_max = 698
+|hp_break = 823
+|atk_base = 211
+|atk_max = 358
+|atk_break = 422
+|rp_base = 214
+|rp_max = 439
+|rp_break = 518
+|lskill_name = こいぬのしらべ
+|lskill_desc = Increase Yellow RP by 25%
+|skill_name = おにいちゃんだもん！
+|skill_desc = Increase time (2s)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 628
+|hp_max_s = 942
+|hp_break_s = 1093
+|atk_base_s = 340
+|atk_max_s = 419
+|atk_break_s = 486
+|rp_base_s = 417
+|rp_max_s = 592
+|rp_break_s = 687
+|lskill_name_s = こいぬのマーチ
+|lskill_desc_s = Increase Yellow RP by 35%
+|skill_name_s = おにいちゃんだもん！
+|skill_desc_s = Increase time (2s)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 628
+|hp_max_m = 816
+|hp_break_m = 947
+|atk_base_m = 340
+|atk_max_m = 483
+|atk_break_m = 560
+|rp_base_m = 417
+|rp_max_m = 592
+|rp_break_m = 687
+|lskill_name_m = こいぬのワルツ
+|lskill_desc_m = Increase Yellow RP by 35%
+|skill_name_m = おにいちゃんだもん！
+|skill_desc_m = Increase time (2s)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yonaga Tsubasa
+|origin = Country of Star - Canes
+|age = 8
+|birth = November 01
+|likes = Hide and seek
+|dislikes = Bell peppers
+|policy = Team "save the best for last"
+|desc = 星の国・ケイネスの王子。特技は人の匂いを嗅いで、いい人と悪い人を見分けること。人懐っこく、周囲のみんなに愛されて育った。最近、弟が生まれた。
+|bg = 人懐っこくて無邪気な笑顔をふりまくプロキオンに心が温まるあなた。そんな元気いっぱいな彼が、時折見せる寂しげな表情の理由は…―？
+}}
+
+== Story ==
+{{Choice
+|title2 = ボク、おにいちゃんなの
+|choice21m = お兄ちゃんだったんだね
+|points21m = 6
+|choice21s = どうしたの？
+|points21s = 6
+|title3 = おにいちゃんのせきにん
+|choice31m = かっこいいね
+|points31m = 3
+|choice31s = 頑張らないとだね
+|points31s = 3
+|choice32s = プロキオンくんにもあげるね
+|points32s = 6
+|choice32m = ……ありがとう
+|points32m = 6
+|title4 = さびしかったんだ……
+|choice41s = 大丈夫だよ！
+|points41s = 12
+|choice41m = お兄ちゃんなんだから泣かないの
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_86s.jpg}}
+{{Still|text=Moon Still|img=Still_86m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = えへへ。ボク、ぜったい一等賞になるのー！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = わふっ！ボクもおねーちゃんのこと、いっぱいだーいすき！
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = おひるねしたからだいじょうぶ！おはなしきかせて！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = わふっ！　おねーちゃんにさわってもらうの、だーいすき！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ボクね、かけっこ大好きなの。お外でかけっこしよう？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = おひるねしなきゃって、言われたけど、ねむ…た…く…ない…のー
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おねえちゃん！おねえちゃん！今日はなにしてあそぶ？
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ボクのぶんもある？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = わるいやつは、あっちいけ！
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ボクがお兄ちゃんだからね！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = みんなボクのマネをしてください！
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ボクもうお兄ちゃんなんだからね！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ピーマンのおばけがでてきちゃうの？
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = おっきくなったらピーマン食べないとだめ？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 頭なでてもいいよ！くすぐったいの我慢するから！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 今日だけ、だっこしてほしいなあ……。疲れちゃった
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ボク…シリウスよりかっこよくなるの！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = おねえちゃんみたいな、ぬいぐるみ　ボクもほしいなあ
+|CARD_DETAIL_m_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = おしりペンペンだよ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだいるのー？！
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = いっぱいキラキラするよ！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = いいにおいがする！わああ！ボクもあいたかったよ！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = やったあ！悪いやつやっつけたよ！
+|BATTLE_CLEAR_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ボクだって強いんだ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = だ、だいじょうぶだもん。
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ふえええっ！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = げんこつだよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 悪い子はメッ！ってするよ！
+|SKILL_INVOKE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = りっぱなお兄ちゃんになるもん
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = お兄ちゃんになった？
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = ボクもお出かけに連れてってくれる？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 泣かないよ！お兄ちゃんだからね
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日なの？ボクもはやく追いつくから待っててね！
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = ボクが一番エラいの？！じゃあ、みんなお耳と尻尾つけよう！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ボク、眠ってて……起きたらみんながニコニコしてて、すっごく嬉しい！
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんにちは！ボク、プロキオン。おねえちゃんのお友達の人だよね？
+|FRIEND_DETAIL_clip = 
+}}

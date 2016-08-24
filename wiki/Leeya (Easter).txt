@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 231
+|name = Leeya
+|name_jp = リーヤ
+|attribute = Passion
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 560
+|hp_max = 972
+|hp_break = 1108
+|atk_base = 378
+|atk_max = 614
+|atk_break = 700
+|rp_base = 434
+|rp_max = 705
+|rp_break = 803
+|lskill_name = 夢の設計図
+|lskill_desc = Increase HP by 35% when Party consists of all 5 colours
+|skill_name = クロックワークエッグ
+|skill_desc = Recover HP and insert Red beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 874
+|hp_max_s = 1078
+|hp_break_s = 1207
+|atk_base_s = 584
+|atk_max_s = 682
+|atk_break_s = 764
+|rp_base_s = 669
+|rp_max_s = 909
+|rp_break_s = 1018
+|lskill_name_s = 天才はお前だ！
+|lskill_desc_s = Increase HP by 40% when Party consists of all 5 colours
+|skill_name_s = ファンファーレエッグ
+|skill_desc_s = Recover HP and insert Red beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 874
+|hp_max_m = 1040
+|hp_break_m = 1165
+|atk_base_m = 584
+|atk_max_m = 750
+|atk_break_m = 840
+|rp_base_m = 669
+|rp_max_m = 860
+|rp_break_m = 963
+|lskill_name_m = 大人気の3回転
+|lskill_desc_m = Increase HP by 40% when Party consists of all 5 colours
+|skill_name_m = デコレーションエッグ
+|skill_desc_m = Recover HP and insert Red beads
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Leeya]]
+|desc = 虹の国・オズの王子。見た目と荒っぽい話し方に反して、実は世話焼きな性格。昔オズワルドから知恵をもらい、天才になった。今回、感謝祭に向けてアトラクションを作ってほしいとオズワルドから頼まれ、何を作ろうか頭を悩ませている。
+|bg = 聞きたいことがあると書かれた手紙がリーヤから届いたあなた。彼の領を訪れると、感謝祭に向けたアトラクション作りについて相談されて…―
+}}
+
+== Story ==
+{{Choice|title2 = 少年のような彼|choice21s = 壊さなければいい|points21s = 8|choice21m = 場所を変えたらいい|points21m = 8|title3 = 最高の遊園地を|choice31s = 明日は何をするんですか？|points31s = 4|choice31m = もちろんいいですよ|points31m = 4|choice32s = すみません・・・|points32s = 8|choice32m = 期待してます|points32m = 8|title4 = 卵とスーパーアイディア|choice41s = 気分転換も大事|points41s = 12|choice41m = 全然平気です|points41m = 12|title5 = 新たなアプローチ|choice51s = カラーペンを手に取る|points51s = 16|choice51m = リボンを手に取る|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_231s.jpg}}
+{{Still|text=Moon Still|img=Still_231m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = パーティって、今はそんなことしてる暇ねえだろ？困った奴らだな……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここ、遊園地を作るにはいい場所じゃねえか……作るか！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来たな。せっかくだ、遊園地で遊んでから帰れよ
+|FRIEND_DETAIL_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お前、いきなり根性あること言い出すからビビる。まあ、それしかねえよな！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ううう…寝不足でぐるぐるぶん回されたら、こうなるわな…おえ…気持ち悪ぃ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 膝枕ってか…災い転じてなんとやらっつーか…いい景色だな
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いいじゃんいいじゃん！次は何する？
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = おら！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 危ねっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = お手伝いロボを起動だ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = お疲れさん！よく頑張ったな。ま、ちっとは休め
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = おい、大丈夫かあ？無理すんなよ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 悪くねえな！この調子で行くぜ！
+|CHAIN_GREAT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = あー…
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = まあいっちょ、やってやらあ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = スピードが重要だよな！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ぶん回すぞ！最高回転数に挑戦だ！
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = よーく、考えるんだ、俺！まだ方法はあるはずなんだからな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = お前の笑顔が見れたら、満足って言ったら、怒られっかなあ…
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さ！皆、遊べ遊べー！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = おっと、メンテンス必要か？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = じゃ、次のアトラクション行こうぜ
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ちょっと、お前に相談したいことがあってよ、話聞いてくれるか？
+|CARD_TOP_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よお！目、覚めたか？よく寝て、よく食べて、よく働く…って、大事だからな！
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = なんか、お前のおかげで楽しいもんになりそうだ。来てもらってよかった
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = このカップはガンガンまわしてなんぼってやつだろ？　じゃあ、行くぜえ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ううう…ちょっと、醉った…お前、意外に強いんだな。おかしいなあ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 頑張ったしさ、ご褒美ってことで大丈夫だろ？な、労ってくれるってことで
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = あああ…なんか、頭がクラクラするな。集中しすぎだな！休憩！飯、食べるぞ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = あとちょっとで終わるから…お前、先に休んでてくれよ。わりいな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 遊園地ねえ…言われてみれば、まあ悪くないよな。しかも、一から作るってか
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = どうも、俺が作るもんは無骨になっちまうんだよな。なんか強そうっていうか…
+|MAIN_TOP_TOUCH_2_clip = 
+|DECK_en = 
+|DECK_jp = いいところにきた！手伝ってくれ！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お前の為にちょっと変わったプレゼントを作ってみた！この箱、開けてみろよ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 皆が驚いて、楽しんで…特別な祭にしてえな…もちろんお前にも…
+|CARD_EVOLUTION_m_clip = 
+}}

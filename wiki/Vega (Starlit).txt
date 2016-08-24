@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 266
+|name = Vega
+|name_jp = ベガ
+|attribute = Cute
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 482
+|hp_max = 919
+|hp_break = 1168
+|atk_base = 336
+|atk_max = 517
+|atk_break = 657
+|rp_base = 345
+|rp_max = 532
+|rp_break = 677
+|lskill_name = 皆で集めた輝き
+|lskill_desc = Increase Yellow ATK by 50%
+|skill_name = 星の結晶をのせて
+|skill_desc = Erase middle row beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 827
+|hp_max_s = 1186
+|hp_break_s = 1481
+|atk_base_s = 491
+|atk_max_s = 574
+|atk_break_s = 717
+|rp_base_s = 506
+|rp_max_s = 591
+|rp_break_s = 738
+|lskill_name_s = 星の大河を超えて
+|lskill_desc_s = Increase Green and Yellow ATK by 50%
+|skill_name_s = 星の祈りをのせて
+|skill_desc_s = Erase middle row beads (SSS)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 827
+|hp_max_m = 1075
+|hp_break_m = 1343
+|atk_base_m = 491
+|atk_max_m = 605
+|atk_break_m = 756
+|rp_base_m = 506
+|rp_max_m = 623
+|rp_break_m = 777
+|lskill_name_m = 君との星流し
+|lskill_desc_m = Increase Yellow ATK by 50% and RP by 10%
+|skill_name_m = 星の輝きをのせて
+|skill_desc_m = Erase middle row beads and recover HP
+|gold_m = 10000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|desc = 星の国・ガラッシアの西側の王子。美しく可憐な容姿で女性らしい所作をするが、秘めたる意志は確固たる強さを持つ。今回の星祭りでは、自らが企画した『とあるイベント』の祭司を務めることになっている。
+|bg = 星祭りに招待されたあなたは、街で人々に囲まれるベガを見つける。年に一度の星祭りで、今までにない『とあるイベント』をすることになった彼は…―
+|event = In the Starlit Night
+|original = [[Vega]]
+}}
+== Story ==
+{{Choice|title2 = 信頼の眼差し|choice21s = 大変そうですね|points21s = 8|choice21m = 夢みたいな景色になりそう|points21m = 8|title3 = 秘密基地|choice31s = 人気者ですね|points31s = 4|choice31m = 皆、期待してるんですね|points31m = 4|choice32s = 素敵な秘密基地ですね|points32s = 8|choice32m = そんな大事な場所に……|points32m = 8|title4 = 嵐の前|choice41s = 釣りができるんですか？|points41s = 12|choice41m = 是非やってみたいです|points41m = 12|title5 = ベガの心|choice51s = ベガを見る|points51s = 16|choice51m = 声を上げる|points51m = 16}}{{Still|text=Sun Still|img=Still_266s.jpg}}
+{{Still|text=Moon Still|img=Still_266m.jpg}}

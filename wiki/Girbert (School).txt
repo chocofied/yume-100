@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 171
+|name = Girbert
+|name_jp = ギルバート
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 620
+|hp_max = 1223
+|hp_break = 1394
+|atk_base = 467
+|atk_max = 640
+|atk_break = 730
+|rp_base = 306
+|rp_max = 498
+|rp_break = 568
+|lskill_name = 実行委員長の務め
+|lskill_desc = Increase all stats of Blue by 20%
+|skill_name = 委員長の立案
+|skill_desc = Erase left side beads (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1101
+|hp_max_s = 1492
+|hp_break_s = 1671
+|atk_base_s = 608
+|atk_max_s = 781
+|atk_break_s = 875
+|rp_base_s = 473
+|rp_max_s = 533
+|rp_break_s = 597
+|lskill_name_s = 二人きりの教室
+|lskill_desc_s = Increase all stats of Blue by 25%
+|skill_name_s = 委員長の手腕
+|skill_desc_s = Erase left side beads (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1101
+|hp_max_m = 1492
+|hp_break_m = 1671
+|atk_base_m = 608
+|atk_max_m = 685
+|atk_break_m = 767
+|rp_base_m = 473
+|rp_max_m = 608
+|rp_break_m = 681
+|lskill_name_m = お手製パンケーキ
+|lskill_desc_m = Increase all stats of Blue by 25%
+|skill_name_m = 委員長の実力
+|skill_desc_m = Erase left side beads and insert hearts
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = School Memory ~Cultural Festival with Him~
+|original = [[Girbert]]
+|desc = 月影の国・クレアブールの王子。堂々と、凛としたその振る舞いは誰もが真の王族として称賛する。今は城にいないゲイリー王子の影武者を務めている。今回、生徒達の模範となってほしいと校長から招待されたゲイリー王子の代わりに、メモワール学園にやってきた。
+|bg = 文化祭の実行委員長を務めるギルバートに、補佐をしろと言われたあなた。しかし、あなたがするべきことを尋ねても、彼はないと言う。その真意とは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 突然の任命
+|choice21m = 私では力不足では
+|points21m = 8
+|choice21s = わかりました
+|points21s = 8
+|title3 = パンケーキの味
+|choice31m = 私は待っています
+|points31m = 4
+|choice31s = おいしそう
+|points31s = 4
+|choice32m = 私、お邪魔では
+|points32m = 8
+|choice32s = 頼られてますね
+|points32s = 8
+|title4 = 非力な補佐役
+|choice41s = ありがとうございました
+|points41s = 12
+|choice41m = 私が何もできないから
+|points41m = 12
+|title5 = 予想外のトラブル
+|choice51s = ギルバートさんのお陰
+|points51s = 16
+|choice51m = 私は何も……
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_171s.jpg}}
+{{Still|text=Moon Still|img=Still_171m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 学園での態度もゲイリーとして恥ずべきところがないよう気をつけねば
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは静かでいい。少し責務を忘れてゆっくりしようか……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = なに、文化祭の準備が滞っているだと？……仕方がない手伝ってやる
+|FRIEND_DETAIL_clip = 
+|DECK_en = 
+|DECK_jp = よし、俺についてこい。全て見て回る
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 気恥ずかしいが、お前が生まれて来てくれて嬉しく思う。これからも一緒にいてくれ
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = どうだ？　なかなかいい出来上がりだろう？おかわりも用意してある
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = なに……お前が食べさせてくれる……のか…そうか、では……
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = お前は何もしなくていいと、言っただろう？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = わかった…仕方ない。少し手を貸せ
+|CHAIN_GREAT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 俺の文化祭を邪魔してくれるな！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ん？　それはパンケーキの材料か？
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 制服というものは動きづらい
+|BATTLE_RECOVER_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ほう、いい動きをする。さすがは俺の補佐だ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ここまでくれば確実に成功だな！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = パンケーキぐらい…焼いてやる！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = まだまだ問題は山積みか…！
+|SKILL_INVOKE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、片付いたな。準備に戻る
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お前までいるのか…いいな、ここでは俺のことをギルバートと呼ぶんじゃないぞ
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まとめて片付ける
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 次の書類を用意しておけ
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = どうなるかと思ったが…ここまで来たら、何がなんでも成功させる
+|CARD_EVOLUTION_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = まったく。いろいろと決めなければならないものだ……ほら、次をよこせ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = どうにか、無事に文化祭を迎えられそうだ…少し、疲れたが…まだ大丈夫だ
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝から寝ぼけた顔をしているな。制服のタイが歪んでいるぞ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 文化祭とは、想像以上にいろいろとやることがあるな…失敗するはずはないが
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = お前は無駄なことを考えずに俺の隣にいればいい
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ランチタイムだな……なに、弁当を作ってきた…だと！？　いただこう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 学業以外にもいろいろと忙しいものだな、あっという間にこんな時間だ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = なんだ？　お前に気遣われるとは…心配なら、しばらくこうして傍にいろ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 後夜祭に出ればまた忙しくなる。ならば今ご褒美を貰うとしよう…お前からな
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 別にただパンケーキが好きという…わけじゃない。俺が好きなのは…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 政の問題に比べたら文化祭など容易いものだが…まあ、それなりに充実していた
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = こんなことをする予定ではなかったが…まあ、これも文化祭の為だ
+|MAIN_TOP_TOUCH_m_2_clip = 
+}}

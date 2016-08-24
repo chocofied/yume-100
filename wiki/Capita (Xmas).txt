@@ -1,0 +1,212 @@
+== Status ==
+{{Infobox
+|no = 187
+|name = Capita
+|name_jp = キャピタ
+|attribute = Cool
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 400
+|hp_max = 856
+|hp_break = 1137
+|atk_base = 208
+|atk_max = 368
+|atk_break = 489
+|rp_base = 253
+|rp_max = 368
+|rp_break = 489
+|lskill_name = サンタの謎解き
+|lskill_desc = Increase Blue & Purple HP by 25%
+|skill_name = クリスマスソックス
+|skill_desc = Erase random beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 770
+|hp_max_s = 1002
+|hp_break_s = 1308
+|atk_base_s = 350
+|atk_max_s = 497
+|atk_break_s = 649
+|rp_base_s = 350
+|rp_max_s = 431
+|rp_break_s = 562
+|lskill_name_s = クリスマスの朝に
+|lskill_desc_s = Increase Blue & Purple HP by 30%
+|skill_name_s = プレゼントフォト
+|skill_desc_s = Erase random beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 770
+|hp_max_m = 1096
+|hp_break_m = 1431
+|atk_base_m = 350
+|atk_max_m = 471
+|atk_break_m = 614
+|rp_base_m = 350
+|rp_max_m = 416
+|rp_break_m = 543
+|lskill_name_m = サンタの贈り物
+|lskill_desc_m = Increase Blue & Purple HP by 30%
+|skill_name_m = ラッピングボックス
+|skill_desc_m = Erase random beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Christmas of Wonderland
+|original = [[Capita]]
+|desc = 不思議の国・ワンダーメアの王子。フォルストの芋虫の一族。探究心が強く、ありとあらゆることに疑問を持つ。あなたから聞いたサンタクロースにも興味を持ち、探究しようと思っている。
+|bg = キャピタに招待され、ワンダーメアを訪れたあなた。あなたが話すサンタクロースに興味持った彼と、情報を集めようと街へ出るが…―
+}}
+
+== Story ==
+{{Choice
+|title2 = サンタクロースの謎
+|choice21m = 気にしないでください
+|points21m = 6
+|choice21s = 私は楽しいです
+|points21s = 6
+|title3 = サンタクロースを求めて
+|choice31s = 私も会いたいです
+|points31s = 3
+|choice31m = 笑いかける
+|points31m = 3
+|choice32m = 握手してもらいます
+|points32m = 6
+|choice32s = お礼を言います
+|points32s = 6
+|title4 = ホワイトクリスマス
+|choice41s = ロマンチックですね
+|points41s = 12
+|choice41m = 幻想的ですね
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_187s.jpg}}
+{{Still|text=Moon Still|img=Still_187m.jpg}}
+
+== Quotes ==
+{{Quotes
+|EVENT_LOGIN_BONUS_1_en = 
+|EVENT_LOGIN_BONUS_1_jp = いい子にしていた貴方にプレゼントだ…これで合っているだろうか？
+|EVENT_LOGIN_BONUS_1_clip = 
+|EVENT_LOGIN_BONUS_2_en = 
+|EVENT_LOGIN_BONUS_2_jp = メリークリスマス。このような風習がある貴方の世界…本当に興味深い
+|EVENT_LOGIN_BONUS_2_clip = 
+|GUILD_en = 
+|GUILD_jp = ここには様々な本が揃っているな。多くの謎に出会えそうだ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれた。ささやかながらもてなそう
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = この祝い事はなんだ？歓迎パーティ？私の……？ほう、興味深いな
+|WELCOME_PARTY_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 貴方への贈り物を用意しよう
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = さて、サンタクロースに見えるかな？
+|SKILL_INVOKE_m_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 感謝する
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = クリスマスの謎を解き明かそう
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = プレゼントを用意しなければ
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = こんなもので足りるだろうか
+|BATTLE_TURN_END_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 厄介だな
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 問題無い
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その繊細さは、雪の結晶のようだな
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 貴方の込めた想いが伝わってくる。ありがとう
+|CHAIN_EXCELLENT_clip = 
+|DECK_en = 
+|DECK_jp = ではクリスマスの謎を楽しもうじゃないか
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 貴方はいつも素敵な謎をくれる…今日は私から、貴方へ特別な贈り物をしよう
+|BIRTHDAY_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = サンタクロースはどこだろうか
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = こうして貴方とすごす冬…とてもいいものだな。有意義な時間の使い方だ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = サンタクロースという御仁…私に代役が務められるだろうか
+|CARD_EVOLUTION_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = わざわざ来てもらってすまない…だが自分の好奇心を抑えることができなかった
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = おぼろげながら理解してきた…クリスマスという行事の意味を
+|CARD_ENHANCE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 貴方を想う心が溢れる。温かい、優しい…抽象的だが、そんな気持ちだ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = どうだろうか？サンタクロース役は、上手く務められていたか？
+|CARD_DETAIL_m_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 沢山の人に贈り物をするより、貴方への贈り物を選ぶ方が時間がかかりそうだ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = サンタクロースはフォルストにはやって来ないのか…そうだな、残念だ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = これでは…サンタクロースに会えないかもな
+|CHAIN_NICE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = あれはサンタクロースではないのか？
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = プレゼントになるだろうか
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 贈り物をもらうことは勿論だが、選ぶこともこんなに愉しいとはな…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = プレゼントを私に？貴方から？これは、想像もしていなかった……
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 貴方と会えることを心待ちにしていた。貴方の話にはいつも心引かれるからな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜の間にプレゼントを配り切る？世界中に？なんという御仁なのだ…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = そのような行事があるのだな。本当に興味深い…もっと教えてはくれないか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝起きたら靴下の中を覗けばいいのだな…だが、靴下に入るのだろうか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = なかなか準備に手間がかかるのだな…だが、このような経験も興味深い
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 一体、サンタクロースという御仁はどういったきっかけでそのような活動を？
+|MAIN_TOP_TOUCH_2_clip = 
+}}

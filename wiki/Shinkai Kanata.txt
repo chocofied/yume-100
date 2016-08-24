@@ -1,0 +1,191 @@
+== Status ==
+{{Infobox
+|no = 249
+|name = Shinkai Kanata
+|name_jp = 深海奏汰
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 381
+|hp_max = 737
+|hp_break = 979
+|atk_base = 258
+|atk_max = 402
+|atk_break = 535
+|rp_base = 234
+|rp_max = 439
+|rp_break = 583
+|lskill_name = ふんすいでおよぐ
+|lskill_desc = Increase HP by 20% when Party has more than 3 colours
+|skill_name = みずあび……♪
+|skill_desc = Recover HP in accordance to RP (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 663
+|hp_max_s = 862
+|hp_break_s = 1126
+|atk_base_s = 382
+|atk_max_s = 471
+|atk_break_s = 614
+|rp_base_s = 417
+|rp_max_s = 593
+|rp_break_s = 774
+|lskill_name_s = おはなのかんむり
+|lskill_desc_s = Increase HP by 25% when Party has more than 3 colours
+|skill_name_s = おさんぽ……♪
+|skill_desc_s = Recover HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 663
+|hp_max_m = 944
+|hp_break_m = 1231
+|atk_base_m = 382
+|atk_max_m = 455
+|atk_break_m = 594
+|rp_base_m = 417
+|rp_max_m = 562
+|rp_break_m = 734
+|lskill_name_m = おなかいっぱい
+|lskill_desc_m = Increase HP by 25% when Party has more than 3 colours
+|skill_name_m = おひるね……♪
+|skill_desc_m = Recover HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Koutaro Nishiyama
+|origin = Ensemble Stars!
+|age = 17
+|birth = August 30
+|likes = 
+|dislikes = 
+|policy = 
+|desc = 夢ノ咲学院という学校に通う生徒らしいが、気がついたらショコルーナにいたという。城の中庭にある噴水で水浴びをするなど、不思議な行動をする。
+|bg = ショコルーナの街中で、衛兵達から城の中庭の噴水で水浴びをしている者がいると聞いたあなた。城の中庭へ向かってみると…―
+}}
+
+== Story ==
+{{Choice|title2 = 噴水で水浴び|choice21s = こんにちは|points21s = 6|choice21m = なんで泳いでいるんですか？|points21m = 6|title3 = 不思議な彼|choice31s = はい|points31s = 3|choice31m = ええと……|points31m = 3|choice32s = ど、どういたしまして|points32s = 6|choice32m = 何も言えない|points32m = 6}}
+
+{{Still|text=Sun Still|img=Still_249s.jpg}}
+{{Still|text=Moon Still|img=Still_249m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんにちは～♪いっしょに『みずあび』いかがですか？
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = すてきなばしょですね♪おさかなさんもつれてきましょう～♪
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 『ふく』がびしょびしょ？いい『おてんき』なのですぐかわきます～♪
+|WELCOME_PARTY_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでたいので『たい』をたべましょう～♪ぼくがさばきますね～
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 『しゅとう』はとくいです…☆
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 『ぽかぽか』していて、『ひなたぼっこ』びよりです
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = しつこいのは『きらい』です
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 『ははなるうみ』よ～♪
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 『ひなたぼっこ』で『ぱわぁ』ぜんかいです♪
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 『ちょうちんあんこう』みたいでかわいいですね？
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = いっしょに『みずあび』しますか？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 『げんき』になりました～♪
+|BATTLE_RECOVER_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ここは、すてきな『おはなばたけ』ですね～♪
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = おさかなは『えいようまんてん』。つよくなります～
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = もしかして、『みずあび』のお誘いですか？
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 『おめでたい』です…♪
+|BATTLE_CLEAR_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 『みずあび』してたら、またおこられちゃいました…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 『よる』はさむくて、『みず』がつめたいので、『みずあび』はまたこんど～♪
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 『せ～とかい』の人は、なんで『みずあび』してると『おこる』んでしょう？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = なんだか、おなかがすいてきました～♪『ごはん』がたべたいです
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = きょうはいい『おてんき』ですね。いっしょに『おさんぽ』しませんか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 『なに』してるのかって？…うふふ、『みずあび』ですよ？ぷか、ぷか…♪
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 『はなかんむり』をつけたすがた、とても『かわいい』ですね…♪
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 『ひあがらない』くらいのちょうどいい『おてんき』ですね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 『ちょうちんあんこう』は『しんかいぎょ』ですよ～とってもかわいいです…♪
+|CARD_DETAIL_s_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 『えんりょ』しなくていいですよ？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 『おさかな』のことは、ぼくにまかせてください～♪
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = がんばるすがたは、『すてき』です…♪
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = おなじ『ちきゅう』の『おともだち』～　　
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ぼくは『うみ』も、『おはな』もすきですよ～♪
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 『ごはん』をたべて『まんぷく』です…♪『ねむく』なっちゃいますね～…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ぷか、ぷか…♪
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ふふふ…♪いっしょに『おひるね』、きもちいいですね～
+|CARD_DETAIL_m_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = おさかなさんが、かわいそう…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ふふふ♪
+|BATTLE_ATTACK_clip = 
+}}

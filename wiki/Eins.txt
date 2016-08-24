@@ -1,0 +1,240 @@
+== Status ==
+{{Infobox
+|no = 38
+|name = Eins
+|name_jp = アインツ
+|attribute = Passion
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 284
+|hp_max = 680
+|hp_break = 803
+|atk_base = 233
+|atk_max = 450
+|atk_break = 531
+|rp_base = 206
+|rp_max = 326
+|rp_break = 385
+|lskill_name = ここはオレの見せ場！
+|lskill_desc = Recover HP every turn (A)
+|skill_name = ナンバー・ワン
+|skill_desc = Increase Red beads appearance rate (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 11
+|lvmax_s = 50
+|hp_base_s = 612
+|hp_max_s = 919
+|hp_break_s = 1066
+|atk_base_s = 428
+|atk_max_s = 608
+|atk_break_s = 705
+|rp_base_s = 310
+|rp_max_s = 382
+|rp_break_s = 443
+|lskill_name_s = ここはオレの見せ場！
+|lskill_desc_s = Recover HP every turn (S)
+|skill_name_s = スペシャル・ワン
+|skill_desc_s = Increase Red beads appearance rate (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 11
+|lvmax_m = 50
+|hp_base_m = 612
+|hp_max_m = 837
+|hp_break_m = 971
+|atk_base_m = 428
+|atk_max_m = 635
+|atk_break_m = 737
+|rp_base_m = 310
+|rp_max_m = 402
+|rp_break_m = 466
+|lskill_name_m = ここはオレの見せ場！
+|lskill_desc_m = Recover HP every turn (S)
+|skill_name_m = アウェイク・ワン
+|skill_desc_m = Increase Red beads appearance rate (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kikuchi Yukitoshi
+|origin = Country of Time - Forrant
+|age = Forever 20™
+|birth = December 31
+|likes = Numerals, mirror
+|dislikes = Dirty places. Things that don't fit with my aesthetic.
+|policy = There's nothing I can't do!
+|desc = 時の国・フォーラントの熱血王子。自信家だが、憎めない性格。自分の事を永遠の２０歳だと言い張ることをやめない。明るく社交的な為周りに人が集まってくる。\\n
+|bg = 競技会に出るアインツを応援することになったあなた。繰り広げられる熱い特訓の成果とは！？そしてアインツがあなたに伝えた思いとは…！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 競技会に向けて
+|choice21s = そうですね
+|points21s = 6
+|choice21m = 別に私は……
+|points21m = 6
+|title3 = 特訓！特訓！特訓！
+|choice31s = すごい！
+|points31s = 3
+|choice31m = 危ない！
+|points31m = 3
+|choice32s = よかった
+|points32s = 6
+|choice32m = 本当ですか？
+|points32m = 6
+|title4 = 競技会が始まる！
+|choice41m = 緊張してますか？
+|points41m = 12
+|choice41s = 応援してます
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_38s.jpg}}
+{{Still|text=Moon Still|img=Still_38m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = ここで出会ったのも運命ッ！アインツハイパーシェイクハンドだッ！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 嬉しいぞ！アインツウルトラシェイクハンドをしようではないか！
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = That's right. I'll grant you anything you desire. It's 'cause I'm a prince!<br>
+うん。お前の望みはなんでもかなえてやるぞ。王子だからな！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = If you make such a tired face, your joy will get away, y'kno? .. Y u mad<br>
+そんな疲れた顔をしていると、幸せが逃げるというぞ？…なんで怒るんだ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 腹が減っては…なんとやらと言うだろう？！さ、いくぞ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = Alright! It's morning! I'm in great shape today!<br>
+さあ！朝だぞ！今日もオレは絶好調だ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = What are you talking about, I'm Forever20™! No problem<br>
+何を言っているオレは永遠の二十歳だからな！問題ない
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = Traning is going well. Just you wait<br>
+トレーニングは順調だよ。楽しみに待っているといい
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = Fuhahaha. Tryna surprise me, huh? Not bad. I saw through it, though.<br>
+ふははは。サプライズか、悪くない。だがオレはお見通しだよ。
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = オレの働きだからな…当然の結果だろう！
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = Alright, from this point on, it's all my turn!<br>
+さあ、ここから全部、オレのターンだ！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = No...! Don't talk to me... When I'm like this...!<br>
+だめだ…！今のオレに…話しかけないでくれ…っ！
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = Wh-what are you talking about... I'm Forever20™...! Ack, my leg cramped... !<br>
+な、何を言う…オレは永遠の二十歳だ…！あっ足つった…！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = What are you doing... I... If you touch me... h..!<br>
+どうしたんだ…オレは…オマエに触れられると…っ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = おおっ？！時に大胆だな！…だが、悪くない
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = Alright, let me guess what you're thinking... Let's see... Is it, "I'm hungry"?<br>
+よし、お前の思っていることを当てよう…そうだな…「おなかがすいた」か？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = Nice! But you've still got a ways to go!<br>
+やるじゃないか！だがまだまだだ！
+|CHAIN_NICE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = Hey, thanks to me that was a cinch, huh!<br>
+ほら、オレのおかげで、楽勝だっただろう？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = Piece of cake!<br>
+余裕だな！
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = If you just leave it to me, it'll be no problem!<br>
+オレに任せておけば、ノープロブレムだ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ふふふ…今日のオレは、絶好調だ！！！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = オレの必殺技、受けてみよ！！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = …ふ、心配をかけたね。
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = Guhuh!<br>
+ぐふぅう！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = Ta---h!<br>
+たあーーーっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ... Excellent! I just can't!<br>
+…エクセレント！たまらないよ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = Wowza! That was beautiful!!<br>
+すばらしい！美しい！！
+|CHAIN_GREAT_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = It's here it's here it's here---!<br>
+きたきたきたーーー！
+|BATTLE_FEVER_TIME_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = オマエの…いやきみの誕生日…どんなに言葉を尽くしても祝い足りないっ！
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = If you have me, there's no such thing as fear! <br>
+オレがいれば、怖いものなんてないさ！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = よし！もう取り乱したりしないぞ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = Hey, are you falling for me all over again?<br>
+ほら、惚れ直すだろう？
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = どうだ？見違えただろう、オレ！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = You came to see me, huh? Yeah, that's so cute<br>
+オレに会いにきてくれたんだろう？うん、かわいいぞ
+|CARD_TOP_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = アイツの友達！？なら大歓迎さ！！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = オレがみんなを率いるからな！心強いだろう！！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = そう固くなるな！祝ってくれてありがとう！
+|WELCOME_PARTY_clip = 
+}}

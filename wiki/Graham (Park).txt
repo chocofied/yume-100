@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 241
+|name = Graham
+|name_jp = グレアム
+|attribute = Cool
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 611
+|hp_max = 1255
+|hp_break = 1431
+|atk_base = 339
+|atk_max = 493
+|atk_break = 562
+|rp_base = 374
+|rp_max = 544
+|rp_break = 621
+|lskill_name = 水晶宮からの招待状 (Invitation from Crystal Palace)
+|lskill_desc = Increase Gold by 30%
+|skill_name = ギミックトラップ (Gimmick Trap)
+|skill_desc = Increase own HP for 3 turns and recover HP
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 1130
+|hp_max_s = 1619
+|hp_break_s = 1813
+|atk_base_s = 469
+|atk_max_s = 548
+|atk_break_s = 614
+|rp_base_s = 517
+|rp_max_s = 604
+|rp_break_s = 676
+|lskill_name_s = コーヒーキャンディ (Coffee Candy)
+|lskill_desc_s = Increase Gold by 30% and Party ATK by 10%
+|skill_name_s = パズルトラップ (Puzzle Trap)
+|skill_desc_s = Increase own HP for 3 turns and recover HP
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 1130
+|hp_max_m = 1531
+|hp_break_m = 1715
+|atk_base_m = 469
+|atk_max_m = 602
+|atk_break_m = 674
+|rp_base_m = 517
+|rp_max_m = 583
+|rp_break_m = 653
+|lskill_name_m = 今夜、月のない洞窟で (Tonight, in a cave with no moon)
+|lskill_desc_m = Increase Gold by 35%
+|skill_name_m = エスケープトラップ (Escape Trap)
+|skill_desc_m = Increase own HP for 3 turns and recover HP
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Film Park
+|original = [[Graham]]
+|desc = 文壇の国・ミステリアムの王子。数多くの賞を受賞するミステリー作家で、１００年に一度の天才と言われている。著名な映画監督であるテルによって小説が映画化された。ビートン・フィルムパークには、その映画を元にしたアトラクションがある。
+|bg = ビートン・フィルムパークで、厳しい表情のグレアムと再会したあなた。どうやら彼の作品が原作となっているアトラクションで、事件が発生したらしく…―
+}}
+
+== Story ==
+{{Choice|title2 = 事件発生|choice21s = 大変|points21s = 8|choice21m = どうなるんでしょう|points21m = 8|title3 = 推理開始|choice31s = 照れてしまう|points31s = 4|choice31m = 手を握り返す|points31m = 4|choice32s = 気を紛らわす|points32s = 8|choice32m = 肩を寄せる|points32m = 8|title4 = 事件の状況整理|choice41s = 手伝えることを聞く|points41s = 12|choice41m = 邪魔しないようにする|points41m = 12|title5 = 意外な真実|choice51s = ありがとう|points51s = 16|choice51m = ごめんなさい|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_241s.jpg}}
+{{Still|text=Moon Still|img=Still_241m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = このトリックは美しいね
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = この天才ミステリー作家に解けない謎はない！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 完璧な物語だ
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = つまづいたら逆転の発想か
+|BATTLE_TURN_END_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 焦るなよ　まだまだだ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = なに！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = お前なら大丈夫、自分を信じろ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = この事件、俺に任せておけ
+|SKILL_INVOKE_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = どんどん新作のアイディアが湧いてくるぞ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お前に再会できるなんて。しかもテーマパーク…デート…なんでもない
+|CARD_TOP_clip = 
+|DECK_en = 
+|DECK_jp = じゃあ、お前は俺の助手だ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = アトラクションか…俺の物語が五感で楽しめるんだな。楽しみだ
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お前にとびきりのトリックをプレゼントするよ。ぜひ、謎を解いてくれないか
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 無事にオープンを迎えられるかな。俺の物語、楽しんでもらいたい
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 慣れないことをしたせいかな。まだお腹が空かないんだ…軽食ならもらうよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。今日は何をするんだ？俺の新作を読むか？よかったら…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = …っ！な、なんだいきなり俺に触れて…！まさか、事件でも発生したのか！？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は充実した一日だった。良質な睡眠は、記憶の整理に重要だよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 新作の執筆も順調だよ。お前にはちょっとだけ先に読んでもらおうかな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 俺の作品の世界を、実際に体験できる…まずはお前の感想がほしい…のだが
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ほら、この俺がいればどんな謎だって必ず…すぐに解決してあげるよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = お前と一緒に推理を楽しめるなんて…いい機会に恵まれたよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 俺の推理を聞いてもらおうか
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 俺に任せておけば、万事、大丈夫…って、うわああ！突然驚かさないでくれ
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 焦るんじゃない、推理は始まったばかりだ
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 重要な証拠品が見つかった。慎重にいこう
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 最後の最後でお前を守ることができないなんて…俺としたことが
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 映画オリジナルの展開はともかく、アトラクション独自の展開が入ってるなんて
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 怖い？…ん、俺？もちろん俺は大丈夫に決まってるだろ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 素晴らしい。さすが俺が見込んだだけはある
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ほう…お前の見解を聞かせてくれないか
+|CHAIN_GREAT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ここに証拠がある！
+|BATTLE_ATTACK_clip = 
+|GUILD_en = 
+|GUILD_jp = ここもパークの一部……違うか。あのコテージで新作の構想を練ろうかな
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 俺が作りこんだ世界を実際に体験できるなんてね……贅沢なことだよ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれた。ぜひ、アトラクションで俺の作り上げた世界を体験してほしい
+|FRIEND_DETAIL_clip = 
+}}

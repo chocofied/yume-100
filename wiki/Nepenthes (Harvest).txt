@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 155
+|name = Nepenthes
+|name_jp = ネペンテス
+|attribute = Passion
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 361
+|hp_max = 702
+|hp_break = 933
+|atk_base = 222
+|atk_max = 346
+|atk_break = 460
+|rp_base = 261
+|rp_max = 490
+|rp_break = 651
+|lskill_name = ホラータング
+|lskill_desc = Increase Red HP & RP by 20%
+|skill_name = 追求！収穫祭の美食
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 13
+|lvmax_s = 60
+|hp_base_s = 632
+|hp_max_s = 793
+|hp_break_s = 1036
+|atk_base_s = 329
+|atk_max_s = 443
+|atk_break_s = 579
+|rp_base_s = 465
+|rp_max_s = 627
+|rp_break_s = 819
+|lskill_name_s = マミーマッド
+|lskill_desc_s = Increase Red HP & RP by 25%
+|skill_name_s = 美味！おばけカボチャ
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 13
+|lvmax_m = 60
+|hp_base_m = 632
+|hp_max_m = 899
+|hp_break_m = 1173
+|atk_base_m = 329
+|atk_max_m = 392
+|atk_break_m = 511
+|rp_base_m = 465
+|rp_max_m = 627
+|rp_break_m = 819
+|lskill_name_m = ラビットブルート
+|lskill_desc_m = Increase Red HP & RP by 25%
+|skill_name_m = 妙味！手作りのお菓子
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Fear! Will’s Harvest Festival
+|original = [[Nepenthes]]
+|desc = 花の精の国・ヴィラスティンのウツボカズラの一族の王子。美食家で、この世の全てのものを味わいたいと思っている。今回訪れた収穫祭で個性的な美食を見つけようと歩き回る。
+|bg = ネペンテスに誘われて、収穫祭を訪れたあなた。個性的な美食を見つけられず落ち込む彼に、あなたがある提案をすると…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 美食を求めて
+|choice21s = 楽しみですね
+|points21s = 6
+|choice21m = 聞こえないふり
+|points21m = 6
+|title3 = 私の提案
+|choice31m = どうだったんですか
+|points31m = 3
+|choice31s = 大丈夫ですか
+|points31s = 3
+|choice32s = 私に案があります
+|points32s = 6
+|choice32m = 落ち着いて……
+|points32m = 6
+|title4 = おばけカボチャハウス
+|choice41m = 美味しそうですね
+|points41m = 12
+|choice41s = 私もお手伝いできますか？
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_155s.jpg}}
+{{Still|text=Moon Still|img=Still_155m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = その程度の味ではちょっと……
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = もうカボチャはいりませんよ　カボチャは
+|BATTLE_RESULT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まあバランスがとれてきましたね
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 美味しく食べるつもりが美味しく食べられてしまうなど…不覚です
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = もしやあなた様こそが、究極の美食…？おや、後ずさりしてどうしたのです？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = このカボチャは普通の巨大カボチャじゃありません。ちゃんと美味しいのです！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お菓子をもっているだけなのに子どもがまとわりついて…なんと不快な行事
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 持て成されるつもりでおりましたが、どうやら持て成す側だったのですね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 邪道ですがデザートから参りましょう
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 卒倒するほど美味しいと思いますよ…ほら、あなた様もひとつ味見を…
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = なかなか気が進みませんが……用意しますか
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = あなた様の言う通り、粒のそろった美食があることに期待して出かけましょうか
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 昼食の時間です。時間がないからといって手を抜くことは許しませんよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 量があるからって、それが美味しいとはかぎらないでしょう？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 仮装をする労力に見合った食事をいただけるのか…甚だ疑問ですね
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = いいのですよ？美味しく熟れたあなた様を味見させてくれても…
+|CARD_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = 清涼な風が吹いておりますね……なにかよき素材がある気配！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = またしても面妖なパーティーがあるのですか？……おや、変わったオードブルが
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 挨拶なんて結構……あなた様が手にもってるそれをよこしなさい！
+|FRIEND_DETAIL_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では、メインディッシュにいきましょうか
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = グミの食感もいいかと……次は何を？
+|BATTLE_TURN_END_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = そのお菓子よこしなさい
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = これは……っ！　なかなかの珍味ですね！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = キャンディごときで……
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = まずい！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ドテカボチャというやつは、大きさ同様、大味なのですよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 私の美食が、恐怖とは！？……失礼な！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 食事の邪魔です！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = お菓子をくれないと、食べてしまいますよ
+|SKILL_INVOKE_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 私が仮装をして何になるというのです！むしろ食材を盛りなさい！
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ふふっ　最高の食材が揃いました…あとはメイン、そう、あなた様ですよ！
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 浮かれ頓痴気な恰好をした甲斐があったのでしょうね
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = あなた様を食べてもいいのですね！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 恐怖で腹が膨れるわけがないでしょう…なんとも、面倒な展開になってきました
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 私の最後の晩餐は、ぜひあなた様を食したい。それが、至福の食事です
+|BIRTHDAY_clip = 
+}}

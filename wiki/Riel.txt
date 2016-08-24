@@ -1,0 +1,80 @@
+== Status ==
+{{Infobox
+|no = 286
+|name = Riel
+|name_jp = リエル
+|attribute = Cute
+<!-- Before -->
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 634
+|hp_max = 1078
+|hp_break = 1229
+|atk_base = 395
+|atk_max = 642
+|atk_break = 732
+|rp_base = 362
+|rp_max = 589
+|rp_break = 671
+|lskill_name = 精霊の加護
+|lskill_desc = Nullify Poison 
+|skill_name = 森林のファルファッラ
+|skill_desc = Turn beads in middle column Yellow (A)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 970
+|hp_max_s = 1316
+|hp_break_s = 1474
+|atk_base_s = 610
+|atk_max_s = 784
+|atk_break_s = 878
+|rp_base_s = 559
+|rp_max_s = 630
+|rp_break_s = 706
+|lskill_name_s = 篝火の加護
+|lskill_desc_s = Nullify Poison and increase Party HP by 15%
+|skill_name_s = 導きのファルファッラ
+|skill_desc_s = Turn beads in middle column Yellow (S)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 970
+|hp_max_m = 1154
+|hp_break_m = 1292
+|atk_base_m = 610
+|atk_max_m = 784
+|atk_break_m = 878
+|rp_base_m = 559
+|rp_max_m = 718
+|rp_break_m = 804
+|lskill_name_m = 森の加護
+|lskill_desc_m = Nullify Poison and increase Party ATK by 20%
+|skill_name_m = 迷子のファルファッラ
+|skill_desc_m = Turn all beads in middle column Yellow
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|va =Nishiyama Koutarou 
+|origin =Country of Forest - Hyule 
+|age = 24
+|birth = 
+|policy = 
+|likes = 
+|dislikes = 
+|desc = 森林の国・ヒューレの王子。森や、そこに住む精霊達と共に育ち、彼らと心を通わせることができる。穏やかで優しい性格。しかし、理由なき暴力は許さないという強い信念を持っており、一度怒りを覚えると我を忘れてしまうことがある。
+|bg = 目覚めさせたリエルからヒューレに招待されたあなた。彼と一緒に森の命とも言える篝火（かがりび）が収められている神殿を訪れると、突然銃声が響き渡り…
+}}
+== Story ==
+{{Still|text=Sun Still|img=Still_286s.jpg}}
+{{Still|text=Moon Still|img=Still_286m.jpg}}
+== Quotes ==

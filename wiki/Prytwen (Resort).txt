@@ -1,0 +1,97 @@
+== Status ==
+{{Infobox
+|no = 283
+|name = Prytwen
+|name_jp = プリトヴェン
+|attribute = Cute
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 511
+|hp_max = 1093
+|hp_break = 1268
+|atk_base = 325
+|atk_max = 576
+|atk_break = 668
+|rp_base = 250
+|rp_max = 364
+|rp_break = 422
+|lskill_name = ルジールシュヴァリエ
+|lskill_desc = Increase all Yellow stats by 15%
+|skill_name = 恋色花火
+|skill_desc = Erase random beads for 11 chains
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 984
+|hp_max_s = 1279
+|hp_break_s = 1458
+|atk_base_s = 547
+|atk_max_s = 778
+|atk_break_s = 887
+|rp_base_s = 346
+|rp_max_s = 426
+|rp_break_s = 486
+|lskill_name_s = ラメールシュヴァリエ
+|lskill_desc_s = Increase all Yellow stats by 20%
+|skill_name_s = 全力奪取
+|skill_desc_s = Erase random beads for 13 chains
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 984
+|hp_max_m = 1399
+|hp_break_m = 1595
+|atk_base_m = 547
+|atk_max_m = 737
+|atk_break_m = 840
+|rp_base_m = 346
+|rp_max_m = 411
+|rp_break_m = 469
+|lskill_name_m = アムールシュヴァリエ
+|lskill_desc_m = Increase all Yellow stats by 20%
+|skill_name_m = 盾の想い
+|skill_desc_m = Erase random beads for 13 chains
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|original = [[Prytwen]]
+|event = Summer-Coloured Resort
+|desc = 武器の国・アヴァロンの王子。弟のカリバーンと一緒に兵をまとめ、モンスター 討伐を行っている。真面目で正義感が強く、周囲からの信頼も厚い。公務が完璧な一方で 、色恋沙汰には非常に疎いという一面も持つ。胸に秘めた想いを伝えようと、あなたを豪 華客船の旅に招待した。
+|bg = プリトヴェンから豪華客船の旅に招待され、アンキュラを訪れたあなた。二人で船 上の休暇を満喫していると、彼からあなたを奪おうとする男性が現れて…―
+}}
+== Story ==
+{{Choice
+|title2 = 二人で探索を
+|choice21s = 驚いてしまって
+|points21s = 6
+|choice21m = 気後れしてしまって
+|points21m = 6
+|title3 = 潮風に吹かれて
+|choice31m = 何かついていますか？
+|points31m = 3
+|choice31s = 視線を逸らす
+|points31s = 3
+|choice32s = ありがとうございます
+|points32s = 6
+|choice32m = じっと見つめる
+|points32m = 6
+|title4 = 視線の正体は……
+|choice41s = どうしたんですか？
+|points41s = 12
+|choice41m = 知り合いですか？
+|points41m = 12
+}}
+{{Still|text=Sun Still|img=Still_283s.jpg}}
+{{Still|text=Moon Still|img=Still_283m.jpg}}
+
+== Quotes ==

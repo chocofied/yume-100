@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 132
+|name = Hikage
+|name_jp = 陽影
+|attribute = Passion
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 444
+|hp_max = 946
+|hp_break = 1256
+|atk_base = 282
+|atk_max = 500
+|atk_break = 664
+|rp_base = 194
+|rp_max = 282
+|rp_break = 375
+|lskill_name = 輝夏
+|lskill_desc = Increase Red & Purple HP by 25%
+|skill_name = シャイニングリゾート
+|skill_desc = Erase left side beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 11
+|lvmax_s = 60
+|hp_base_s = 851
+|hp_max_s = 1106
+|hp_break_s = 1444
+|atk_base_s = 475
+|atk_max_s = 675
+|atk_break_s = 881
+|rp_base_s = 268
+|rp_max_s = 330
+|rp_break_s = 431
+|lskill_name_s = 輝球
+|lskill_desc_s = Increase Red & Purple HP by 30%
+|skill_name_s = スプラッシュバレー
+|skill_desc_s = Erase left side beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 11
+|lvmax_m = 60
+|hp_base_m = 851
+|hp_max_m = 1210
+|hp_break_m = 1580
+|atk_base_m = 475
+|atk_max_m = 640
+|atk_break_m = 836
+|rp_base_m = 268
+|rp_max_m = 319
+|rp_break_m = 416
+|lskill_name_m = 輝水
+|lskill_desc_m = Increase Red & Purple HP by 30%
+|skill_name_m = ダイナミッククロール
+|skill_desc_m = Erase left side beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Marine Sand Story
+|original = [[Hikage]]
+|desc = 四季の国・蓬莱の夏の一族の王子。明るく開放的な性格で、面倒見がいいため、周りに慕われている。夏を司る王子として招待を受け、観光に力を入れているアンキュラへやってきた。海が大好き。
+|bg = 陽影に誘われ、アンキュラのリゾートアイランドを訪れたあなた。彼と一緒に街を歩いたりお店を見たりするけれど、なんだかぎこちない雰囲気で…！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 夏の観光シーズン
+|choice21m = 素敵です
+|points21m = 6
+|choice21s = 新鮮です
+|points21s = 6
+|title3 = 陽影の夏の過ごし方
+|choice31s = 女性ものの店だったから
+|points31s = 3
+|choice31m = 私に付き合わせてしまったから
+|points31m = 3
+|choice32s = 二人で楽しみたい
+|points32s = 6
+|choice32m = 陽影さんに楽しんで欲しい
+|points32m = 6
+|title4 = 海を目指して
+|choice41m = 心配し過ぎです
+|points41m = 12
+|choice41s = 私は楽しいです
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_132s.jpg}}
+{{Still|text=Moon Still|img=Still_132m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = だってこういうときはやっぱ、女の子っていうかオマエが主役だろ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = おしゃれなデートとか……考えたんだけどなあ……無理するもんじゃないって？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 太陽が沈んで夜が来ると、さすがに静かだな……ちょっと飲みに行くか？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ちょっとゆっくりしすぎたか？　まあ、たまにのんびりするのもいいよな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = すげえな……ほら、あそこ見てみろよ！人魚が……って、潜っちまった
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 綺麗な海があって、美味しい食べ物があったら人が集まるに決まってるよな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = やっぱ夏はアイス食べたいよな！桜花もああ見えてアイス好きなんだぜ？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = まあ……体動かすのが好きだけど、オマエが楽しんでるのが一番だからさ
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = こうやって二人で目一杯遊んだり、楽しいよな！　オマエも楽しんでるよな？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ビーチボールなんて懐かしいな……あとシャチの形の浮き輪とか……買うか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よく眠れたか？オレ、枕がかわるとちょっと眠れないみたいでさー…まいったな
+|MAIN_TOP_MORNING_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あれ……ああ！あいつの友達か！よろしくな！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここも、涼しくていいところだよな！散歩でもしてくるか
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = よ！また会えたな……再会できてうれしいよ
+|WELCOME_PARTY_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 痛ってー！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = おりゃっ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = やっぱ夏の海はいいもんだろ？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 大丈夫、心配すんなって！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 白い砂浜で遊ぼうぜ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ほら、人魚みえただろ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 二人で一緒に、沖の方まで！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、じゃあ、遠くまで泳ぐぞ！
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 給水時間ってことで
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレ、身体動かすの好きなんだ！　え、そう思ってたって？
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 急に誘って悪かったな……でも来てくれて嬉しいよ。さっそく、行こうか
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 二人で一緒にって言ってもさ、なんか難しくね？そうでもないって？そうか……
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ほら、二人で一緒に楽しいのがいいって……嬉しかったよ！楽しもうな！
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = オレと一緒にいこうぜ……ほら、手貸せよ！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 今日はさ、二人っきりであの綺麗な景色独占しよう！いい場所知ってるんだ
+|BIRTHDAY_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = お邪魔虫はどこにもいるってか
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あのさ……オマエの水着姿、ちょっと楽しみにしてた……ごめん
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 楽しんでこーぜ！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = うまくあけられるか？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いいぜ！ビッグウェーブ到来だあ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 真夏の太陽みたいだな！
+|CHAIN_GREAT_clip = 
+}}

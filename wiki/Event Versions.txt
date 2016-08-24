@@ -1,0 +1,842 @@
+{|class="article-table sortable"
+!data-sort-type="number"|No.
+!class="unsortable"|Image
+!Name
+!Event
+!data-sort-type="number" style="width: 100px;"|Rarity
+!Attribute
+|-
+|68
+|[[File:68_t.png|80px]]
+|[[Byakuyo (Sweets Panic)|Byakuyo]]<br />白葉
+|Sweets Panic<br />スイーツパニック
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|69
+|[[File:69_t.png|80px]]
+|[[Hinata (Sweets Panic)|Hinata]]<br />ヒナタ
+|Sweets Panic<br />スイーツパニック
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|98
+|[[File:98_t.png|80px]]
+|[[Luke (Desert)|Luke]]<br />ルーク
+|Desert Land's Road<br />砂漠の国の旅路
+|data-sort-value="3"|{{Rarity|3}}
+|Gentle
+|-
+|99
+|[[File:99_t.png|80px]]
+|[[Sakia (Rainy Day)|Sakia]]<br />サキア
+|Rainy Day Song<br />あまごいうた
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|100
+|[[File:100_t.png|80px]]
+|[[Forma (Rainy Day)|Forma]]<br />フォーマ
+|Rainy Day Song<br />あまごいうた
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|101
+|[[File:101_t.png|80px]]
+|[[Apis (Rainy Day)|Apis]]<br />アピス
+|Rainy Day Song<br />あまごいうた
+|data-sort-value="3"|{{Rarity|3}}
+|Sexy
+|-
+|104
+|[[File:104_t.png|80px]]
+|[[Avi (Bridal)|Avi]]<br />アヴィ
+|Innocent Bridal<br />イノセントブライダル
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|105
+|[[File:105_t.png|80px]]
+|[[Crown (Bridal)|Crown]]<br />クラウン
+|Innocent Bridal<br />イノセントブライダル
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|106
+|[[File:106_t.png|80px]]
+|[[Flu (Bridal)|Flu]]<br />フリュー
+|Innocent Bridal<br />イノセントブライダル
+|data-sort-value="3"|{{Rarity|3}}
+|Gentle
+|-
+|112
+|[[File:112_t.png|80px]]
+|[[Castor (Star)|Castor]]<br />カストル
+|Wish Upon A Star<br />星に願いを
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|113
+|[[File:113_t.png|80px]]
+|[[Shigure (Star)|Shigure]]<br />紫雨
+|Wish Upon A Star<br />星に願いを
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|118
+|[[File:118_t.png|80px]]
+|[[Lid (Ice)|Lid]]<br />リド
+|A Slight Fever That Melts The Ice<br />微熱にとけるアイス
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|119
+|[[File:119_t.png|80px]]
+|[[Drei (Ice)|Drei]]<br />ドライ
+|A Slight Fever That Melts The Ice<br />微熱にとけるアイス
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|130
+|[[File:130_t.png|80px]]
+|[[Martin (Marine)|Martin]]<br />マルタン
+|Marine Sand Story<br />マリンサイド
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|132
+|[[File:132_t.png|80px]]
+|[[Hikage (Marine)|Hikage]]<br />陽影
+|Marine Sand Story<br />マリンサイド
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|138
+|[[File:138_t.png|80px]]
+|[[Tormari (Butterfly)|Tormari]]<br />トルマリ
+|Invitation to Butterfly Evening Party<br />蝶夜会への招待
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|139
+|[[File:139_t.png|80px]]
+|[[Guido (Butterfly)|Guido]]<br />グウィード
+|Invitation to Butterfly Evening Party<br />蝶夜会への招待
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|140
+|[[File:140_t.png|80px]]
+|[[Haldine (Weapon)|Haldine]]<br />ハルディーン
+|Feelings of the Sword and Shield ~I Want to Protect You~<br />剣と盾の想い
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|142
+|[[File:142_t.png|80px]]
+|[[Sieg (Weapon)|Sieg]]<br />ジーク
+|Feelings of the Sword and Shield ~I Want to Protect You~<br />剣と盾の想い
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|144
+|[[File:144_t.png|80px]]
+|[[Carlo (Weapon)|Carlo]]<br />カルロ
+|Feelings of the Sword and Shield ~I Want to Protect You~<br />剣と盾の想い
+|data-sort-value="3"|{{Rarity|3}}
+|Cool
+|-
+|146
+|[[File:146_t.png|80px]]
+|[[Miya (Literary)|Miya]]<br />ミヤ
+|Literary Love Story<br />文壇恋物語
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|148
+|[[File:148_t.png|80px]]
+|[[Kies (Literary)|Kies]]<br />キース
+|Literary Love Story<br />文壇恋物語
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|150
+|[[File:150_t.png|80px]]
+|[[Will (Harvest)|Will]]<br />ウィル
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|151
+|[[File:151_t.png|80px]]
+|[[Vim (Harvest)|Vim]]<br />ヴィム
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|152
+|[[File:152_t.png|80px]]
+|[[Alfred (Harvest)|Alfred]]<br />アルフレッド
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|153
+|[[File:153_t.png|80px]]
+|[[Procyon (Harvest)|Procyon]]<br />プロキオン
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="3"|{{Rarity|3}}
+|Cute
+|-
+|154
+|[[File:154_t.png|80px]]
+|[[Rolf (Harvest)|Rolf]]<br />ロルフ
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|155
+|[[File:155_t.png|80px]]
+|[[Nepenthes (Harvest)|Nepenthes]]<br />ネペンテス
+|Fear! Will’s Harvest Festival<br />恐怖！ウィルの収穫祭
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|156
+|[[File:156_t.png|80px]]
+|[[Tiga (Parade)|Tiga]]<br />ティーガ
+|Parade is a Love Gimmick?<br />パレードは恋仕掛け？
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|157
+|[[File:157_t.png|80px]]
+|[[Deneb (Parade)|Deneb]]<br />デネブ
+|Parade is a Love Gimmick?<br />パレードは恋仕掛け？
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|158
+|[[File:158_t.png|80px]]
+|[[Altair (Parade)|Altair]]<br />アルタイル
+|Parade is a Love Gimmick?<br />パレードは恋仕掛け？
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|159
+|[[File:159_t.png|80px]]
+|[[Haku (Parade)|Haku]]<br />ハク
+|Parade is a Love Gimmick?<br />パレードは恋仕掛け？
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|160
+|[[File:160_t.png|80px]]
+|[[Dion (Briar)|Dion]]<br />ディオン
+|Briar’s Magic Tool ~Prince of Gluttony, Grad~<br />いばらの魔モノ
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|161
+|[[File:161_t.png|80px]]
+|[[Sirius (Briar)|Sirius]]<br />シリウス
+|Briar’s Magic Tool ~Prince of Gluttony, Grad~<br />いばらの魔モノ
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|170
+|[[File:170_t.png|80px]]
+|[[Synny (Sweets Panic)|Synny]]<br />シュニー
+|Sweets Panic<br />スイーツパニック
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|171
+|[[File:171_t.png|80px]]
+|[[Girbert (School)|Girbert]]<br />ギルバート
+|School Memory ~Cultural Festival with Him~<br />スクール・メモリー
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|172
+|[[File:172_t.png|80px]]
+|[[Rufen (School)|Rufen]]<br />ルーフェン
+|School Memory ~Cultural Festival with Him~<br />スクール・メモリー
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|173
+|[[File:173_t.png|80px]]
+|[[Iria (School)|Iria]]<br />イリア
+|School Memory ~Cultural Festival with Him~<br />スクール・メモリー
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|174
+|[[File:174_t.png|80px]]
+|[[Sai (School)|Sai]]<br />サイ
+|School Memory ~Cultural Festival with Him~<br />スクール・メモリー
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|175
+|[[File:175_t.png|80px]]
+|[[Medi (Aurora)|Medi]]<br />メディ
+|Aurora Kingdom's Road<br />オーロラの国の旅路
+|data-sort-value="3"|{{Rarity|3}}
+|Sexy
+|-
+|182
+|[[File:182_t.png|80px]]
+|[[Chrono (Xmas)|Chrono]]<br />クロノ
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|183
+|[[File:183_t.png|80px]]
+|[[Cheshire Cat (Xmas)|Cheshire Cat]]<br />チェシャ猫
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|184
+|[[File:184_t.png|80px]]
+|[[Hearts (Xmas)|Hearts]]<br />ハーツ
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|185
+|[[File:185_t.png|80px]]
+|[[Marchia (Xmas)|Marchia]]<br />マーチア
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|186
+|[[File:186_t.png|80px]]
+|[[Mad Hatter (Xmas)|Mad Hatter]]<br />マッドハッター
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|187
+|[[File:187_t.png|80px]]
+|[[Capita (Xmas)|Capita]]<br />キャピタ
+|Christmas of Wonderland<br />不思議のクリスマス
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|191
+|[[File:191_t.png|80px]]
+|[[Frost (New Year)|Frost]]<br />フロスト
+|New Year's First Play<br />新春初あそび
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|192
+|[[File:192_t.png|80px]]
+|[[Eins (New Year)|Eins]]<br />アインツ
+|New Year's First Play<br />新春初あそび
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|193
+|[[File:193_t.png|80px]]
+|[[Toni (New Year)|Toni]]<br />トニ
+|New Year's First Play<br />新春初あそび
+|data-sort-value="3"|{{Rarity|3}}
+|Cute
+|-
+|195
+|[[File:195_t.png|80px]]
+|[[Edmond (New Year)|Edmond]]<br />エドモント
+|New Year's First Play<br />新春初あそび
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|196
+|[[File:196_t.png|80px]]
+|[[Lied (New Year)|Lied]]<br />リード
+|New Year's First Play<br />新春初あそび
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|202
+|[[File:202_t.png|80px]]
+|[[Rica (Chocolate Date)|Rica]]<br />リカ
+|Chocolate Date<br />チョコレート・デート
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|203
+|[[File:203_t.png|80px]]
+|[[Toto (Chocolate Date)|Toto]]<br />トト
+|Chocolate Date<br />チョコレート・デート
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|204
+|[[File:204_t.png|80px]]
+|[[Kaede (Chocolate Date)|Kaede]]<br />楓
+|Chocolate Date<br />チョコレート・デート
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|205
+|[[File:205_t.png|80px]]
+|[[Banri (Chocolate Date)|Banri]]<br />万里
+|Chocolate Date<br />チョコレート・デート
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|206
+|[[File:206_t.png|80px]]
+|[[Antares (Chocolate Date)|Antares]]<br />アンタレス
+|Chocolate Date<br />チョコレート・デート
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|208
+|[[File:208_t.png|80px]]
+|[[Saiga (Your Chocolate)|Saiga]]<br />砕牙
+|Whom does your chocolate belong to<br />君のチョコは誰のもの
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|209
+|[[File:209_t.png|80px]]
+|[[Makoto (Your Chocolate)|Makoto]]<br />真琴
+|Whom does your chocolate belong to<br />君のチョコは誰のもの
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|210
+|[[File:210_t.png|80px]]
+|[[Joshua (Your Chocolate)|Joshua]]<br />ジョシュア
+|Whom does your chocolate belong to<br />君のチョコは誰のもの
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|211
+|[[File:211_t.png|80px]]
+|[[Creto (Your Chocolate)|Creto]]<br />クレト
+|Whom does your chocolate belong to<br />君のチョコは誰のもの
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|214
+|[[File:214_t.png|80px]]
+|[[Lid (Award)|Lid]]<br />リド
+|Prince Award<br />プリンスアワード
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|215
+|[[File:215_t.png|80px]]
+|[[Sai (Award)|Sai]]<br />サイ
+|Prince Award<br />プリンスアワード
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|216
+|[[File:216_t.png|80px]]
+|[[Tiga (Award)|Tiga]]<br />チィーガ
+|Prince Award<br />プリンスアワード
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|217
+|[[File:217_t.png|80px]]
+|[[Sieg (Award)|Sieg]]<br />シーグ
+|Prince Award<br />プリンスアワード
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|218
+|[[File:218_t.png|80px]]
+|[[Kies (Award)|Kies]]<br />キース
+|Prince Award<br />プリンスアワード
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|219
+|[[File:219_t.png|80px]]
+|[[Douglas (Hospitality)|Douglas]]<br />ダグラス
+|Hospitality of The Princes<br />王子様達のおもてなし
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|220
+|[[File:220_t.png|80px]]
+|[[Ritz (Hospitality)|Ritz]]<br />リッツ
+|Hospitality of The Princes<br />王子様達のおもてなし
+|data-sort-value="4"|{{Rarity|5}}
+|Cute
+|-
+|221
+|[[File:221_t.png|80px]]
+|[[Almari (Hospitality)|Almari]]<br />アルマリ
+|Hospitality of The Princes<br />王子様達のおもてなし
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|222
+|[[File:222_t.png|80px]]
+|[[Jay (Hospitality)|Jay]]<br />ジェイ
+|Hospitality of The Princes<br />王子様達のおもてなし
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|223
+|[[File:223_t.png|80px]]
+|[[Oka (Seasons)|Oka]]<br />桜花
+|The Changing Seasons<br />めぐる季節
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|225
+|[[File:225_t.png|80px]]
+|[[Kaede (Seasons)|Kaede]]<br />楓
+|The Changing Seasons<br />めぐる季節
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|226
+|[[File:226_t.png|80px]]
+|[[Hikage (Seasons)|Hikage]]<br />陽影
+|The Changing Seasons<br />めぐる季節
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|227
+|[[File:227_t.png|80px]]
+|[[Mysterious Butler]]<br />謎の執事
+|April Fools'<br />Voice Actor: Chafurin
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|229
+|[[File:229_t.png|80px]]
+|[[Oswald (Easter)|Oswald]]<br />オズワルド
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|230
+|[[File:230_t.png|80px]]
+|[[Thinpla (Easter)|Thinpla]]<br />ティンプラ
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|231
+|[[File:231_t.png|80px]]
+|[[Leeya (Easter)|Leeya]]<br />リーヤ
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|232
+|[[File:232_t.png|80px]]
+|[[Droite (Easter)|Droite]]<br />ドロワット
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|233
+|[[File:233_t.png|80px]]
+|[[Leonie (Easter)|Leonie]]<br />レオニー
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|234
+|[[File:234_t.png|80px]]
+|[[Gauche (Easter)|Gauche]]<br />ゴーシュ
+|The Eggs that Construct A Rainbow<br />虹を架けるたまご
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|237
+|[[File:237_t.png|80px]]
+|[[Gary (Brothers)|Gary]]<br />ゲイリー
+|Big Brother and Little Brother<br />兄と弟
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|238
+|[[File:238_t.png|80px]]
+|[[Girbert (Brothers)|Girbert]]<br />ギルバート
+|Big Brother and Little Brother<br />兄と弟
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|239
+|[[File:239_t.png|80px]]
+|[[Miya (Brothers)|Miya]]<br />ミヤ
+|Big Brother and Little Brother<br />兄と弟
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|240
+|[[File:240_t.png|80px]]
+|[[Iria (Brothers)|Iria]]<br />イリア
+|Big Brother and Little Brother<br />兄と弟
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|241
+|[[File:241_t.png|80px]]
+|[[Graham (Park)|Graham]]<br />グレアム
+|Film Park<br />フィルムパーク
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|242
+|[[File:242_t.png|80px]]
+|[[Will (Park)|Will]]<br />ウィル
+|Film Park<br />フィルムパーク
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|243
+|[[File:243_t.png|80px]]
+|[[Gerald (Park)|Gerald]]<br />ジェラルド
+|Film Park<br />フィルムパーク
+|data-sort-value="4"|{{Rarity|4}}
+|Gentle
+|-
+|244
+|[[File:244_t.png|80px]]
+|[[Banri (Park)|Banri]]<br />万里
+|Film Park<br />フィルムパーク
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|245
+|[[File:245_t.png|80px]]
+|[[Tell (Park)|Tell]]<br />テル
+|Film Park<br />フィルムパーク
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|246
+|[[File:246_t.png|80px]]
+|[[Jet (Park)|Jet]]<br />ジェット
+|Film Park<br />フィルムパーク
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|250
+|[[File:250_t.png|80px]]
+|[[Frost (Enstars)|Frost]]<br />フロスト
+|The Three Brothers and the Three Oddballs<br />三兄弟と三奇人
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|251
+|[[File:251_t.png|80px]]
+|[[Synny (Enstars)|Synny]]<br />シュニー
+|The Three Brothers and the Three Oddballs<br />三兄弟と三奇人
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|252
+|[[File:252_t.png|80px]]
+|[[Graysia (Enstars)|Graysia]]<br />グレイシア
+|The Three Brothers and the Three Oddballs<br />三兄弟と三奇人
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|254
+|[[File:254_t.png|80px]]
+|[[Apollo (Water Mirror)|Apollo]]<br />アポロ
+|The Bride Reflected on the Water Mirror<br />水鏡に映る花嫁
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|255
+|[[File:255_t.png|80px]]
+|[[Ster (Water Mirror)|Ster]]<br />シュテル
+|The Bride Reflected on the Water Mirror<br />水鏡に映る花嫁
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|256
+|[[File:256_t.png|80px]]
+|[[Juno (Water Mirror)|Juno]]<br />ユーノ
+|The Bride Reflected on the Water Mirror<br />水鏡に映る花嫁
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|257
+|[[File:257_t.png|80px]]
+|[[Fujime (Water Mirror)|Fujime]]<br />藤目
+|The Bride Reflected on the Water Mirror<br />水鏡に映る花嫁
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|258
+|[[File:258_t.png|80px]]
+|[[Sky (Water Mirror)|Sky]]<br />澄快
+|The Bride Reflected on the Water Mirror<br />水鏡に映る花嫁
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|259
+|[[File:259_t.png|80px]]
+|[[Hercules (Rain)|Hercules]]<br />ヘラクレス
+|Love after the Rain<br />雨のち恋
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|260
+|[[File:260_t.png|80px]]
+|[[Raith (Rain)|Raith]]<br />レイス
+|Love after the Rain<br />雨のち恋
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|261
+|[[File:261_t.png|80px]]
+|[[Rica (Outings)|Rica]]<br />リカ
+|Princes' Outings<br />王子様の外遊
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|262
+|[[File:262_t.png|80px]]
+|[[Saiga (Outings)|Saiga]]<br />砕牙
+|Princes' Outings<br />王子様の外遊
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|263
+|[[File:263_t.png|80px]]
+|[[Joshua (Outings)|Joshua]]<br />ジョシュア
+|Princes' Outings<br />王子様の外遊
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|264
+|[[File:264_t.png|80px]]
+|[[Julius (Outings)|Julius]]<br />ユリウス
+|Princes' Outings<br />王子様の外遊
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|265
+|[[File:265_t.png|80px]]
+|[[Akito (Outings)|Akito]]<br />アキト
+|Princes' Outings<br />王子様の外遊
+|data-sort-value="4"|{{Rarity|4}}
+|Passion
+|-
+|266
+|[[File:266_t.png|80px]]
+|[[Vega (Starlit)|Vega]]<br />ベガ
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="5"|{{Rarity|5}}
+|Cute
+|-
+|267
+|[[File:267_t.png|80px]]
+|[[Mad Hatter (Starlit)|Mad Hatter]]<br />マッドハッター
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|268
+|[[File:268_t.png|80px]]
+|[[Altair (Starlit)|Altair]]<br />アルタイル
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|269
+|[[File:269_t.png|80px]]
+|[[Capita (Starlit)|Capita]]<br />キャピタ
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|270
+|[[File:270_t.png|80px]]
+|[[Hearts (Starlit)|Hearts]]<br />ハーツ
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|271
+|[[File:271_t.png|80px]]
+|[[Deneb (Starlit)|Deneb]]<br />デネブ
+|In the Starlit Night<br />星灯る夜に
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|277
+|[[File:277_t.png|80px]]
+|[[Hinoto (Mononoke)|Hinoto]]<br />ヒノト
+|Mononokegami<br />物の怪神楽
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|278
+|[[File:278_t.png|80px]]
+|[[Byakuyo (Mononoke)|Byakuyo]]<br />白葉
+|Mononokegami<br />物の怪神楽
+|data-sort-value="5"|{{Rarity|5}}
+|Sexy
+|-
+|279
+|[[File:279_t.png|80px]]
+|[[Toya (Mononoke)|Toya]]<br />凍哉
+|Mononokegami<br />物の怪神楽
+|data-sort-value="4"|{{Rarity|4}}
+|Cool
+|-
+|280
+|[[File:280_t.png|80px]]
+|[[Kanoe (Mononoke)|Kanoe]]<br />カノエ
+|Mononokegami<br />物の怪神楽
+|data-sort-value="5"|{{Rarity|5}}
+|Cool
+|-
+|281
+|[[File:281_t.png|80px]]
+|[[Kanoto (Mononoke)|Kanoto]]<br />カノト
+|Mononokegami<br />物の怪神楽
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|282
+|[[File:282_t.png|80px]]
+|[[Haldine (Resort)|Haldine]]<br />ハルディーン
+|Summer-Coloured Resort<br />夏色リゾート
+|data-sort-value="5"|{{Rarity|5}}
+|Passion
+|-
+|283
+|[[File:283_t.png|80px]]
+|[[Prytwen (Resort)|Prytwen]]<br />プリトヴェン
+|Summer-Coloured Resort<br />夏色リゾート
+|data-sort-value="4"|{{Rarity|4}}
+|Cute
+|-
+|284
+|[[File:284_t.png|80px]]
+|[[Volker (Resort)|Volker]]<br />フォルカー
+|Summer-Coloured Resort<br />夏色リゾート
+|data-sort-value="5"|{{Rarity|5}}
+|Gentle
+|-
+|285
+|[[File:285_t.png|80px]]
+|[[Sorbge (Resort)|Sorbge]]<br />ソルベージュ
+|Summer-Coloured Resort<br />夏色リゾート
+|data-sort-value="4"|{{Rarity|4}}
+|Sexy
+|-
+|}

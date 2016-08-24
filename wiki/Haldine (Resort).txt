@@ -1,0 +1,102 @@
+== Status ==
+{{Infobox
+|no = 282
+|name = Haldine
+|name_jp = ハルディーン
+|attribute = Passion
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 628
+|hp_max = 1299
+|hp_break = 1481
+|atk_base = 430
+|atk_max = 627
+|atk_break = 715
+|rp_base = 367
+|rp_max = 535
+|rp_break = 610
+|lskill_name = 豪快フルスロットル
+|lskill_desc = Increase ATK by 50% when HP is above 50%
+|skill_name = サニーサイドマーチ
+|skill_desc = Erase all Green beads and turn Blue beads to Red
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1169
+|hp_max_s = 1585
+|hp_break_s = 1775
+|atk_base_s = 596
+|atk_max_s = 765
+|atk_break_s = 857
+|rp_base_s = 508
+|rp_max_s = 572
+|rp_break_s = 641
+|lskill_name_s = 爽快マリンスカイ
+|lskill_desc_s = Increase ATK by 60% when HP is above 50%
+|skill_name_s = サニーサイドマーチ
+|skill_desc_s = Erase all Green beads and turn Blue beads to Red
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1169
+|hp_max_m = 1676
+|hp_break_m = 1877
+|atk_base_m = 596
+|atk_max_m = 696
+|atk_break_m = 780
+|rp_base_m = 508
+|rp_max_m = 594
+|rp_break_m = 665
+|lskill_name_m = 悪戯ウォーターガン
+|lskill_desc_m = Increase ATK by 60% when HP is above 50%
+|skill_name_m = サニープレイスマーチ
+|skill_desc_m = Erase all Red beads and turn Purple beads to Red
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|original = [[Haldine]]
+|event = Summer-Coloured Resort
+|desc = 紅茶の国・テイシャの王子。王位や政治などには興味がなく、自由気ままに行動 して国王の頭を悩ませている。社交的で話好き。気に入った相手にはあだ名をつけるとい う一面も。今回、あなたを豪華客船の旅に招待し、マリンスポーツを楽しもうと計画を立 てている。
+|bg = ハルディーンに誘われ、アンキュラで豪華客船に乗るあなた。二人で楽しく過ごし ていると、マリンスポーツを格好よくこなす彼の周りに女の子達が集まって…
+}}
+== Story ==
+{{Choice
+|title2 = 豪華客船クルーズ
+|choice21s = 楽しそうだね
+|points21s = 8
+|choice21m = 自信はないけど……
+|points21m = 8
+|title3 = 世界を見つめて
+|choice31m = 危なくないの？
+|points31m = 4
+|choice31s = ハルってすごいね
+|points31s = 4
+|choice32s = 気持ちいい！
+|points32s = 8
+|choice32m = スピードを落として
+|points32m = 8
+|title4 = 彼の笑顔は誰のもの？
+|choice41m = うん、そうだね……
+|points41m = 12
+|choice41s = 別の遊びがしたい
+|points41s = 12
+|title5 = すれ違う心
+|choice51s = 本音を告げる
+|points51s = 16
+|choice51m = どうしても言えない
+|points51m = 16
+}}
+{{Still|text=Sun Still|img=Still_282s.jpg}}
+{{Still|text=Moon Still|img=Still_282m.jpg}}
+
+== Quotes ==

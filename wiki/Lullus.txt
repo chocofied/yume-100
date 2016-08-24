@@ -1,0 +1,225 @@
+== Status ==
+{{Infobox
+|no = 253
+|name = Lullus
+|name_jp = ルルス
+|attribute = Sexy
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 504
+|hp_max = 936
+|hp_break = 1067
+|atk_base = 420
+|atk_max = 718
+|atk_break = 819
+|rp_base = 419
+|rp_max = 610
+|rp_break = 696
+|lskill_name = エリクシールへの思い
+|lskill_desc = Increase ATK & RP by 30% when HP above 50%
+|skill_name = プリマ・マテリア
+|skill_desc = Purple beads appearance 100% once and erase right side beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 842
+|hp_max_s = 1141
+|hp_break_s = 1278
+|atk_base_s = 682
+|atk_max_s = 876
+|atk_break_s = 981
+|rp_base_s = 580
+|rp_max_s = 653
+|rp_break_s = 731
+|lskill_name_s = 幸せを呼ぶ錬金術
+|lskill_desc_s = Increase ATK & RP by 40% when HP above 50%
+|skill_name_s = マテリアルリゾルブ
+|skill_desc_s = Purple beads appearance 100% once and erase right side beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 842
+|hp_max_m = 1038
+|hp_break_m = 1163
+|atk_base_m = 682
+|atk_max_m = 926
+|atk_break_m = 1037
+|rp_base_m = 580
+|rp_max_m = 678
+|rp_break_m = 759
+|lskill_name_m = 未来のための錬金術
+|lskill_desc_m = Increase ATK & RP by 40% when HP above 50%
+|skill_name_m = マテリアルリファイン
+|skill_desc_m = Purple beads appearance 100% once and erase right side beads
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|va = Taniyama Kishou
+|origin = Country of Alchemy - Alchemia
+|age = 25
+|birth = ?
+|likes = Alchemy / research
+|dislikes = Dislike = I don't care, so I don't know
+|policy = There's no such thing as a genius
+|desc = The prince of Alchemia of the country of alchemy. People call him a genius, but he doesn't think of himself that way. His ultimate goal is to refine "the Elixir," and all he does is research to that end. He is childhood friends with the princes of the country of spirits.
+|bg = You, who came together to the country of alchemy with Lullus. With the ultimate goal of refining "the Elixir" that is said to be able to grant any wish, he had earnestly piled up research to do, but...
+}}
+
+== Story ==
+{{Choice
+|title2 = 笑えない会話
+|choice21s = 誰も心配してないんですか？
+|points21s = 10
+|choice21m = よくあることなんですか？
+|points21m = 10
+|title3 = エリクシール
+|choice31s = 黙り込む
+|points31s = 6
+|choice31m = その通りです
+|points31m = 6
+|choice32s = 少しびっくりした
+|points32s = 9
+|choice32m = 大丈夫
+|points32m = 9
+|title4 = 研究熱心
+|choice41s = 杖の中の生き物を見つめる
+|points41s = 7
+|choice41m = ルルスの背を見つめる
+|points41m = 7
+|choice42s = 迷惑でしたか？
+|points42s = 8
+|choice42m = アルケミアの街って…
+|points42m = 8
+|title5 = コイツは『コイツ』
+|choice51s = 杖の先を覗き込む
+|points51s = 15
+|choice51m = ルルスに聞く
+|points51m = 15
+|title6 = 研究の目的
+|choice61s = 考えたことなかった？
+|points61s = 20
+|choice61m = 何か目的があるんじゃ？
+|points61m = 20
+}}
+
+{{Still|text=Sun Still|img=Still_253s.jpg}}
+{{Still|text=Moon Still|img=Still_253m.jpg}}
+
+== Quotes ==
+{{Quotes
+|SKILL_INVOKE_en =Don't get in the way of my research 
+|SKILL_INVOKE_jp = オレの研究の邪魔をするな
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en =Shall we also disinfect? 
+|BATTLE_RECOVER_jp = 消毒でもするか
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en =I hope my alchemy can make you smile 
+|SKILL_INVOKE_m_jp = オレの錬金術でお前が笑顔になればいいな
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en =This alchemy is... for the happiness of the citizens! 
+|SKILL_INVOKE_s_jp = 錬金術は…国の皆の幸せのために！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en =I guess I was negated 
+|BATTLE_DAMAGE_jp = 打ち消されたか
+|BATTLE_DAMAGE_clip = 
+|CARD_ENHANCE_en =I want to puruse it. If there's any way at all, no matter what I have to do 
+|CARD_ENHANCE_jp = 追い続けたい。辿り着く方法があるのなら、どんなことをしても
+|CARD_ENHANCE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = The contents of this flask? I wonder what they are
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en =This is the ultimate alchemy 
+|BATTLE_FEVER_TIME_jp = 究極の錬金術だ
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en =Huh... The power of the ring of Träumere? It kind of piques my interest, but maybe I'll save it for later 
+|CARD_TOP_jp = へえ…トロイメアの指輪の力？気になるけど、それは後でいいかな
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en =Huh, it's over already? 
+|BATTLE_CLEAR_jp = あれ、もう終わり？
+|BATTLE_CLEAR_clip = 
+|BIRTHDAY_en =Isn't it your birthday? Then, here... It's fireworks. It's just a reaction of flames, but isn't it beautiful? 
+|BIRTHDAY_jp = 誕生日なんだろう？ならこれを…花火だよ。ただの炎色反応だけど綺麗だろう？
+|BIRTHDAY_clip = 
+|DECK_en =So you can't let go of my hand... Well, it can't be helped 
+|DECK_jp = 今、手が放せないんだって…仕方ないな
+|DECK_clip = 
+|CARD_EVOLUTION_m_en =The reason I started doing alchemy was because I purely wanted to understand the truth of this world 
+|CARD_EVOLUTION_m_jp = 錬金術をオレが極めるのは、純粋に真理を知りたかったからだ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =If my alchemy is not for my sake... Then whose sake is it for...? 
+|CARD_EVOLUTION_s_jp = オレの錬金術はオレのためじゃなくて…じゃあ、誰のため…？
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_MORNING_GREET_en =Wow, is it morning already? I definitely did not mean to pull an all-nighter. I must have really gotten into it 
+|MAIN_TOP_MORNING_GREET_jp = おっと、もう朝か。徹夜する予定はなかったんだけど。夢中になってた
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en =I haven't thought of this until now, but... It would be wonderful if my alchemy could make everyone smile. 
+|MAIN_TOP_TOUCH_s_1_jp = 今更だけど…オレの錬金術で皆に笑顔になってもらえたらいいって、思ったんだ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en =I'd be lying if I said I wasn't curious about the power of your ring... But I want to believe in your own power 
+|CARD_DETAIL_jp = お前の指輪の力、気にならないって言えば嘘になるけど…自分の力を信じたい
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en =If there are people who will become unhappy because of the Elixir, then it must not be allowed to be exist. 
+|MAIN_TOP_TOUCH_s_2_jp = エリクシールで不幸になる人がいるのなら、それはあってはならないものなんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_EVENING_GREET_en =What color do you think the Elixir will be? The color of the setting sun... or maybe, the color of a starless night sky? 
+|MAIN_TOP_EVENING_GREET_jp = エリクシールって何色だと思う？夕日の色…それとも、星のない夜空の色？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Did you come to wake me up? You'd make a great wife 
+|MAIN_TOP_AFTERNOON_GREET_jp = オレのことを起こしにきた？お前、いいお嫁さんになりそうだな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en =I have something I'd like to look into, so please go ahead. I'll catch up in a bit. 
+|MAIN_TOP_TOUCH_1_jp = ちょっと調べものがあるから、先に出かけててくれ。すぐに追いつくよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =If it's alchemy research, I can go on for days without losing interest. It feels like I'm peering into the truths of the world. 
+|MAIN_TOP_TOUCH_2_jp = 錬金術の研究なら、何日も飽きずに続けられる。世界の真理を覗き込む気分だ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 必ずオレは極めてみせる。そしてエリクシールにたどり着くんだ…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en =It's fine. This doesn't mean I'm going to stop doing alchemy. I just want to do alchemy that's for the sake of the citizens. 
+|CARD_DETAIL_s_jp = 大丈夫。錬金術をやめるってわけじゃない。民のための錬金術を極めたい
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en =You're the first person I've met who thinks this way. If you stayed by my side... I would be happy 
+|CARD_DETAIL_m_jp = こんな風に思えたのはお前が初めてだ。お前が傍にいてくれたら…嬉しい
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en =I'll be satisfied if my alchemy... could bring happiness to you and everyone in the country 
+|MAIN_TOP_TOUCH_m_2_jp = オレの錬金術でお前や、国の皆が幸せになってくれたら…それで満足なのかもな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_ATTACK_en =Create flames... 
+|BATTLE_ATTACK_jp = 炎を生成…
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en =Come close to me, let's try some experiments together 
+|CHAIN_EXCELLENT_jp = オレの近くに来て、一緒に実験してみよう
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en =What's inside? I want to see, too 
+|BATTLE_RESULT_jp = 中、何はいってた？オレも見たい
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en =These guys... What kind of substance are they composed of? 
+|BATTLE_START_jp = あいつら…どういう構成をしている？
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en =Yes yes, you're amazing. This time fire was born 
+|CHAIN_GREAT_jp = そうそう、上手いよ。今度は火が生まれた
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =Difficult? Not so. Look, we've made water 
+|CHAIN_NICE_jp = 難しい？そんなことはない。ほら、水ができた
+|CHAIN_NICE_clip = 
+|FRIEND_DETAIL_en =......Huh? Ah, sorry. I didn't notice you there. What's up? 
+|FRIEND_DETAIL_jp = ……えっ？ああ、悪い。気づかなかった。どうした？
+|FRIEND_DETAIL_clip = 
+|GUILD_en =It looks like there's some quality raw material here. I'll gather some and return 
+|GUILD_jp = ここには、いい素材が集まってそうだ。いくつか採取して帰ろう
+|GUILD_clip = 
+|WELCOME_PARTY_en =For me? Wow, thank you. I do have to get back to my research though, so I'll bow out in a bit. 
+|WELCOME_PARTY_jp = オレの為？そうか、ありがとう。だけど研究もあるし、そろそろ失礼するよ
+|WELCOME_PARTY_clip = 
+}}

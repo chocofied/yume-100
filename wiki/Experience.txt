@@ -1,0 +1,65 @@
+==Levels==
+Each Prince starts off at Level 1, and can be leveled up until they achieve their maximum base level. To find out what your Prince's maximum base level is, you can refer to the number of stars they have.
+*1☆ - Level 15
+*2☆ - Level 30
+*3☆ - Level 40
+*4☆ - Level 50
+*5☆ - Level 60
+*6☆ - Level 70
+An easy way to tell your Prince's maximum base level is to take the number of stars your Prince has, add 1 and multiply by 10 to get your Prince's maximum base level. Only 1☆ Princes cannot be calculated this way.
+
+However, this changes when you feed the ''same'' kind of Prince to your Prince. For example, I feed Avi to another Avi. This will cause their maximum base level to increase by 5. Thus, my Avi's maximum level will increase from 40 to 45. This also works with Awakened forms being fed to non-Awakened forms and vice versa, but does ''not'' work with Event Princes being fed to their non-Event versions and vice versa.
+
+Awakening Princes will increase their star by 1, and thus increase their maximum level. The minimum amount of stars a Prince can have is 1 and the most is 6. You can only feed the same kind of Prince to a Prince '''four''' times to gain a maximum level bonus of 20.
+
+When you've fed 2 of the same Prince to one Prince, you will unlock his secret story which causes a pink heart to appear on his portrait when read. If you feed another two more (Four in total) and max out his levels, his stars will turn to pink.
+
+Stars are also referred to as rarity.
+==Exp==
+Not every Prince requires the same amount of EXP to level up. Princes can be divided into different groups, with Group 1 needing the least amount of EXP to level up and Group 6 needing the most amount of EXP to level up.
+
+Group 1
+
+*1☆ Princes
+*Apollo
+*Ster
+*Million
+Group 2
+*Awakened 1☆ Princes
+*2☆ Princes
+*Avi
+*Event Medi
+*Event Luke
+*Awakened Apollo
+*Awakened Ster
+Group 3
+*Storyline Princes
+*Awakened 2☆ Princes
+*Awakened Event Luke
+*Awakened Event Medi
+Group 4
+*3☆ Princes
+*Almari
+*Awakened Storyline Princes
+Group 5
+*Zero
+*Awakened 3☆ Princes
+*4☆ Gacha Princes
+*5☆ Gacha Princes
+*Awakened 4☆ Gacha Princes
+*Awakened 5☆ Gacha Princes
+*Awakened Million
+Group 6
+*4☆ Drop Princes
+*5☆ Drop Princes
+*Awakened 4☆ Drop Princes
+*Awakened 5☆ Drop Princes
+*Awakened Oka
+*Awakened Kalt
+
+
+'''Note''' : Storyline Princes include -
+*Hinata
+*Byakuyo
+*Shigure
+*Kairi

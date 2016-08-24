@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 70
+|name = Creto
+|name_jp = クレト
+|attribute = Passion
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 343
+|hp_max = 801
+|hp_break = 945
+|atk_base = 218
+|atk_max = 421
+|atk_break = 496
+|rp_base = 187
+|rp_max = 296
+|rp_break = 349
+|lskill_name = カッコよさと可愛さ
+|lskill_desc = Increase Red & Blue ATK by 15%
+|skill_name = カカオ・ハッスル
+|skill_desc = Erase left side beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 721
+|hp_max_s = 1129
+|hp_break_s = 1310
+|atk_base_s = 400
+|atk_max_s = 518
+|atk_break_s = 601
+|rp_base_s = 281
+|rp_max_s = 364
+|rp_break_s = 422
+|lskill_name_s = 一流ショコラティエ
+|lskill_desc_s = Increase Red & Blue ATK by 25%
+|skill_name_s = ショコラ・スマイル
+|skill_desc_s = Erase left side beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 721
+|hp_max_m = 985
+|hp_break_m = 1143
+|atk_base_m = 400
+|atk_max_m = 593
+|atk_break_m = 688
+|rp_base_m = 281
+|rp_max_m = 364
+|rp_break_m = 422
+|lskill_name_m = 折れないココロ
+|lskill_desc_m = Increase Red & Green ATK by 25%
+|skill_name_m = ガナッシュ・マジック
+|skill_desc_m = Erase left side beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yamaya Yoshitaka
+|origin = Country of Chocolate - Shocoluna
+|age = 17
+|birth = February 19
+|likes = Sweet things in general
+|dislikes = Wasabi
+|policy = Just put in effort and research
+|desc = ショコルーナのラッテ一族の王子。カッコイイ人になりたいと、日夜雑誌やカッコイイ人をみて研究をしている。チョコや甘いものが好きだけど、恥ずかしいので隠している。
+|bg = ショコルーナを訪れたあなた。チョコレートのことが本当に好きなクレトと楽しい時間を過ごす。そんなときクレトがショコラコンクールへ出場することに…？
+}}
+
+== Story ==
+{{Choice
+|title2 = チョコ香る街での再会
+|choice21m = クレト君もチョコ好きなの？
+|points21m = 6
+|choice21s = どれがおすすめ？
+|points21s = 6
+|title3 = 彼とおいしいチョコ
+|choice31s = オススメの店を紹介してもらう
+|points31s = 3
+|choice31m = 好みの店を伝える
+|points31m = 3
+|choice32m = 甘い……
+|points32m = 6
+|choice32s = おいしい！
+|points32s = 6
+|title4 = ショコラコンクールへの誘い
+|choice41s = クレト君は興味ないの？
+|points41s = 12
+|choice41m = どうしたの？
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_70s.jpg}}
+{{Still|text=Moon Still|img=Still_70m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = あっ！君は誰に入れるの？…入れるんですか？俺だったらいいな…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = えっ、俺に！？本当！？その、嬉しくて、ですね…ありがとう！
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよーございます。あ、チョコ食べる？ミルクにいれてもいいよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = チョコレートとブラックコーヒーって大人っぽいな。俺、まだブラックは無理
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = お昼ご飯食べたあとって、すごい眠い……いや、寝ちゃダメだ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 勉強するのは嫌いじゃないけど、写真が少ない本は眠くなっちゃう……です
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = やべっ、こぼした！…あ、今の見なかったことにして！…ください。お願い
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = すっごく頑張っても、必ず報われるわけじゃないけど、頑張りたい！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 失敗したー…しかも、すごい単純なミスで。俺のこと慰めて欲しい……
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = いつも応援してくれて……すごくうれしい……あの、俺っ！
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 俺のつくったショコラが一番だって…言ってもらいたい…！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = うまそうなもの、あった？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 俺を甘くみるなよ？
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 思ったよりタフだね！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = やるぅー！
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 俺が作ったショコラ、食べてみて！正直な感想教えて！……です
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ねえ…あのー今日は一緒に出かけてくれませんか？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = この国で一番美味しいショコラ？…俺の作ったヤツ？……なんてね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 倒したら、チョコ食べる！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = …ありがと！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 倒したら、生チョコ食べさせて！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 倒したら、ガトーショコラ食べたい！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 一休みには早いか。
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = このタイミング！完璧だ！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 疲れた時は甘いものがいいよね。ほら！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = やったー！俺、負けないでよかったー。
+|BATTLE_CLEAR_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うぐっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = てやぁっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すっげー……俺も負けないぞ！
+|CHAIN_EXCELLENT_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = お、なんか力がみなぎる感じ？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = いま、新しいレシピが思い浮かんだ！
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = 俺、連れて行ってくれるの？やったぁ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = そんなに見られっと、緊張する。どう？
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日なんだってな……これ、作ってみたから、食べて。感想も教えて
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = 美味しいチョコレートの材料、見つかるかな！？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = そんな風に祝われると、緊張するな。ありがと……ございます
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんにちは！俺はクレト。君はチョコ好き？
+|FRIEND_DETAIL_clip = 
+}}

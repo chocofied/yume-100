@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 261
+|name = Rica
+|name_jp = リカ
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 613
+|hp_max = 1160
+|hp_break = 1322
+|atk_base = 378
+|atk_max = 582
+|atk_break = 663
+|rp_base = 413
+|rp_max = 636
+|rp_break = 726
+|lskill_name = 王子様の務め
+|lskill_desc = Increase HP by 35% when Party consists of all 5 colours
+|skill_name = 名誉ある称号
+|skill_desc = Insert hearts (2)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1044
+|hp_max_s = 1357
+|hp_break_s = 1520
+|atk_base_s = 553
+|atk_max_s = 681
+|atk_break_s = 763
+|rp_base_s = 605
+|rp_max_s = 745
+|rp_break_s = 834
+|lskill_name_s = 世界一のチョコ
+|lskill_desc_s = Increase HP by 35% and ATK by 15% when Party consists of all 5 colours
+|skill_name_s = 甘いご褒美
+|skill_desc_s = Insert hearts (2-3)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1044
+|hp_max_m = 1287
+|hp_break_m = 1441
+|atk_base_m = 553
+|atk_max_m = 646
+|atk_break_m = 724
+|rp_base_m = 605
+|rp_max_m = 821
+|rp_break_m = 920
+|lskill_name_m = この国のためのチョコ
+|lskill_desc_m = Increase HP by 40% when Party consists of all 5 colours
+|skill_name_m = とろけるご褒美
+|skill_desc_m = Insert hearts (1-4)
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|desc = チョコレートの国・ショコルーテの王子。ストレートな物言いをするため、悪気なく人を傷つけることもあるが、ただ素直なだけ。俺様だが、寂しがりという一面も。プリンスアワードで『ドリームクラウン』の称号を得た後、おいしいチョコレートを広めるという公務のために虹の国を訪れた。
+|bg = 『ドリームクラウン』の称号を贈られたリカと、虹の国を訪れたあなた。彼は王子様としてチョコレートを広めるという公務に気乗りがしないようで…―
+|event = Princes' Outings
+|original = [[Rica]]
+}}
+== Story ==
+{{Choice|title2 = 特別な距離感|choice21s = わかってますよ|points21s = 8|choice21m = だけど……|points21m = 8|title3 = 王子としてのプライド|choice31s = オズに来てみたかった？|points31s = 4|choice31m = オズを選んだのは？|points31m = 4|choice32s = 他の方も個性的ですよ|points32s = 8|choice32m = リカさんも十分……|points32m = 8|title4 = リカの決意|choice41s = なんとかなりませんか？|points41s = 12|choice41m = もっと探してみますか？|points41m = 12|title5 = 意外な一面|choice51s = 素敵です|points51s = 16|choice51m = なんでもないです|points51m = 16}}{{Still|text=Sun Still|img=Still_261s.jpg}}
+{{Still|text=Moon Still|img=Still_261m.jpg}}

@@ -1,0 +1,168 @@
+<onlyinclude>
+<div class="mw-collapsible mw-collapsed">Top<div class="mw-collapsible-content">
+<dl class="quotes">
+<dt>Before Awakening 1</dt><dd>{{{MAIN_TOP_TOUCH_1_en|}}}<p>{{{MAIN_TOP_TOUCH_1_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_1_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_1_clip|}}}]]|}}</dd><dt></dt>
+<dt>Before Awakening 2</dt><dd>{{{MAIN_TOP_TOUCH_2_en|}}}<p>{{{MAIN_TOP_TOUCH_2_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_2_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_2_clip|}}}]]|}}</dd><dt></dt>
+<dt>Sun 1</dt><dd>{{{MAIN_TOP_TOUCH_s_1_en|}}}<p>{{{MAIN_TOP_TOUCH_s_1_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_s_1_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_s_1_clip|}}}]]|}}</dd><dt></dt>
+<dt>Sun 2</dt><dd>{{{MAIN_TOP_TOUCH_s_2_en|}}}<p>{{{MAIN_TOP_TOUCH_s_2_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_s_2_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_s_2_clip|}}}]]|}}</dd><dt></dt>
+<dt>Moon 1</dt><dd>{{{MAIN_TOP_TOUCH_m_1_en|}}}<p>{{{MAIN_TOP_TOUCH_m_1_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_m_1_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_m_1_clip|}}}]]|}}</dd><dt></dt>
+<dt>Moon 2</dt><dd>{{{MAIN_TOP_TOUCH_m_2_en|}}}<p>{{{MAIN_TOP_TOUCH_m_2_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_TOUCH_m_2_clip|}}}|[[File:{{{MAIN_TOP_TOUCH_m_2_clip|}}}]]|}}</dd><dt></dt>
+<dt>Morning</dt><dd>{{{MAIN_TOP_MORNING_GREET_en|}}}<p>{{{MAIN_TOP_MORNING_GREET_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_MORNING_GREET_clip|}}}|[[File:{{{MAIN_TOP_MORNING_GREET_clip|}}}]]|}}</dd><dt></dt>
+<dt>Afternoon</dt><dd>{{{MAIN_TOP_AFTERNOON_GREET_en|}}}<p>{{{MAIN_TOP_AFTERNOON_GREET_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_AFTERNOON_GREET_clip|}}}|[[File:{{{MAIN_TOP_AFTERNOON_GREET_clip|}}}]]|}}</dd><dt></dt>
+<dt>Evening</dt><dd>{{{MAIN_TOP_EVENING_GREET_en|}}}<p>{{{MAIN_TOP_EVENING_GREET_jp|}}}</p></dd><dd>{{#if:{{{MAIN_TOP_EVENING_GREET_clip|}}}|[[File:{{{MAIN_TOP_EVENING_GREET_clip|}}}]]|}}</dd><dt></dt>
+</dl>
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">Prince<div class="mw-collapsible-content">
+<dl class="quotes">
+<dt>Prince Display</dt><dd>{{{CARD_TOP_en|}}}<p>{{{CARD_TOP_jp|}}}</p></dd><dd>{{#if:{{{CARD_TOP_clip|}}}|[[File:{{{CARD_TOP_clip|}}}]]|}}</dd><dt></dt>
+<dt>Status</dt><dd>{{{CARD_DETAIL_en|}}}<p>{{{CARD_DETAIL_jp|}}}</p></dd><dd>{{#if:{{{CARD_DETAIL_clip|}}}|[[File:{{{CARD_DETAIL_clip|}}}]]|}}</dd><dt></dt>
+<dt>Status (Sun)</dt><dd>{{{CARD_DETAIL_s_en|}}}<p>{{{CARD_DETAIL_s_jp|}}}</p></dd><dd>{{#if:{{{CARD_DETAIL_s_clip|}}}|[[File:{{{CARD_DETAIL_s_clip|}}}]]|}}</dd><dt></dt>
+<dt>Status (Moon)</dt><dd>{{{CARD_DETAIL_m_en|}}}<p>{{{CARD_DETAIL_m_jp|}}}</p></dd><dd>{{#if:{{{CARD_DETAIL_m_clip|}}}|[[File:{{{CARD_DETAIL_m_clip|}}}]]|}}</dd><dt></dt>
+<dt>Awakening (Sun)</dt><dd>{{{CARD_EVOLUTION_s_en|}}}<p>{{{CARD_EVOLUTION_s_jp|}}}</p></dd><dd>{{#if:{{{CARD_EVOLUTION_s_clip|}}}|[[File:{{{CARD_EVOLUTION_s_clip|}}}]]|}}</dd><dt></dt>
+<dt>Awakening (Moon)</dt><dd>{{{CARD_EVOLUTION_m_en|}}}<p>{{{CARD_EVOLUTION_m_jp|}}}</p></dd><dd>{{#if:{{{CARD_EVOLUTION_m_clip|}}}|[[File:{{{CARD_EVOLUTION_m_clip|}}}]]|}}</dd><dt></dt>
+<dt>Training</dt><dd>{{{CARD_ENHANCE_en|}}}<p>{{{CARD_ENHANCE_jp|}}}</p></dd><dd>{{#if:{{{CARD_ENHANCE_clip|}}}|[[File:{{{CARD_ENHANCE_clip|}}}]]|}}</dd><dt></dt>
+<dt>Formation</dt><dd>{{{DECK_en|}}}<p>{{{DECK_jp|}}}</p></dd><dd>{{#if:{{{DECK_clip|}}}|[[File:{{{DECK_clip|}}}]]|}}</dd><dt></dt>
+</dl>
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">Battle<div class="mw-collapsible-content">
+<dl class="quotes">
+<dt>Nice Chain</dt><dd>{{{CHAIN_NICE_en|}}}<p>{{{CHAIN_NICE_jp|}}}</p></dd><dd>{{#if:{{{CHAIN_NICE_clip|}}}|[[File:{{{CHAIN_NICE_clip|}}}]]|}}</dd><dt></dt>
+<dt>Great Chain</dt><dd>{{{CHAIN_GREAT_en|}}}<p>{{{CHAIN_GREAT_jp|}}}</p></dd><dd>{{#if:{{{CHAIN_GREAT_clip|}}}|[[File:{{{CHAIN_GREAT_clip|}}}]]|}}</dd><dt></dt>
+<dt>Excellent Chain</dt><dd>{{{CHAIN_EXCELLENT_en|}}}<p>{{{CHAIN_EXCELLENT_jp|}}}</p></dd><dd>{{#if:{{{CHAIN_EXCELLENT_clip|}}}|[[File:{{{CHAIN_EXCELLENT_clip|}}}]]|}}</dd><dt></dt>
+<dt>Skill</dt><dd>{{{SKILL_INVOKE_en|}}}<p>{{{SKILL_INVOKE_jp|}}}</p></dd><dd>{{#if:{{{SKILL_INVOKE_clip|}}}|[[File:{{{SKILL_INVOKE_clip|}}}]]|}}</dd><dt></dt>
+<dt>Skill (Sun)</dt><dd>{{{SKILL_INVOKE_s_en|}}}<p>{{{SKILL_INVOKE_s_jp|}}}</p></dd><dd>{{#if:{{{SKILL_INVOKE_s_clip|}}}|[[File:{{{SKILL_INVOKE_s_clip|}}}]]|}}</dd><dt></dt>
+<dt>Skill (Moon)</dt><dd>{{{SKILL_INVOKE_m_en|}}}<p>{{{SKILL_INVOKE_m_jp|}}}</p></dd><dd>{{#if:{{{SKILL_INVOKE_m_clip|}}}|[[File:{{{SKILL_INVOKE_m_clip|}}}]]|}}</dd><dt></dt>
+<dt>Start</dt><dd>{{{BATTLE_START_en|}}}<p>{{{BATTLE_START_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_START_clip|}}}|[[File:{{{BATTLE_START_clip|}}}]]|}}</dd><dt></dt>
+<dt>Attack</dt><dd>{{{BATTLE_ATTACK_en|}}}<p>{{{BATTLE_ATTACK_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_ATTACK_clip|}}}|[[File:{{{BATTLE_ATTACK_clip|}}}]]|}}</dd><dt></dt>
+<dt>Damaged</dt><dd>{{{BATTLE_DAMAGE_en|}}}<p>{{{BATTLE_DAMAGE_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_DAMAGE_clip|}}}|[[File:{{{BATTLE_DAMAGE_clip|}}}]]|}}</dd><dt></dt>
+<dt>Recover</dt><dd>{{{BATTLE_RECOVER_en|}}}<p>{{{BATTLE_RECOVER_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_RECOVER_clip|}}}|[[File:{{{BATTLE_RECOVER_clip|}}}]]|}}</dd><dt></dt>
+<dt>Fever</dt><dd>{{{BATTLE_FEVER_TIME_en|}}}<p>{{{BATTLE_FEVER_TIME_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_FEVER_TIME_clip|}}}|[[File:{{{BATTLE_FEVER_TIME_clip|}}}]]|}}</dd><dt></dt>
+<dt>End Turn</dt><dd>{{{BATTLE_TURN_END_en|}}}<p>{{{BATTLE_TURN_END_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_TURN_END_clip|}}}|[[File:{{{BATTLE_TURN_END_clip|}}}]]|}}</dd><dt></dt>
+<dt>Clear</dt><dd>{{{BATTLE_CLEAR_en|}}}<p>{{{BATTLE_CLEAR_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_CLEAR_clip|}}}|[[File:{{{BATTLE_CLEAR_clip|}}}]]|}}</dd><dt></dt>
+<dt>Result</dt><dd>{{{BATTLE_RESULT_en|}}}<p>{{{BATTLE_RESULT_jp|}}}</p></dd><dd>{{#if:{{{BATTLE_RESULT_clip|}}}|[[File:{{{BATTLE_RESULT_clip|}}}]]|}}</dd><dt></dt>
+</dl>
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">Misc<div class="mw-collapsible-content">
+<dl class="quotes">
+<dt>Community</dt><dd>{{{GUILD_en|}}}<p>{{{GUILD_jp|}}}</p></dd><dd>{{#if:{{{GUILD_clip|}}}|[[File:{{{GUILD_clip|}}}]]|}}</dd><dt></dt>
+<dt>Friend Support</dt><dd>{{{FRIEND_DETAIL_en|}}}<p>{{{FRIEND_DETAIL_jp|}}}</p></dd><dd>{{#if:{{{FRIEND_DETAIL_clip|}}}|[[File:{{{FRIEND_DETAIL_clip|}}}]]|}}</dd><dt></dt>
+<dt>Welcome Party</dt><dd>{{{WELCOME_PARTY_en|}}}<p>{{{WELCOME_PARTY_jp|}}}</p></dd><dd>{{#if:{{{WELCOME_PARTY_clip|}}}|[[File:{{{WELCOME_PARTY_clip|}}}]]|}}</dd><dt></dt>
+<dt>Birthday</dt><dd>{{{BIRTHDAY_en|}}}<p>{{{BIRTHDAY_jp|}}}</p></dd><dd>{{#if:{{{BIRTHDAY_clip|}}}|[[File:{{{BIRTHDAY_clip|}}}]]|}}</dd><dt></dt>
+<dt>Prince Award - Nominated</dt><dd>{{{AWARD_EVENT_NOMINATED_en|}}}<p>{{{AWARD_EVENT_NOMINATED_jp|}}}</p></dd><dd>{{#if:{{{AWARD_EVENT_NOMINATED_clip|}}}|[[File:{{{AWARD_EVENT_NOMINATED_clip|}}}]]|}}</dd><dt></dt>
+<dt>Prince Award - Favorites</dt><dd>{{{AWARD_EVENT_FAVORITES_en|}}}<p>{{{AWARD_EVENT_FAVORITES_jp|}}}</p></dd><dd>{{#if:{{{AWARD_EVENT_FAVORITES_clip|}}}|[[File:{{{AWARD_EVENT_FAVORITES_clip|}}}]]|}}</dd><dt></dt>
+</dl>
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">Special<div class="mw-collapsible-content">
+<dl class="quotes">
+<dt>Point Event Rewards 1</dt><dd>{{{RANKING_EVENT_POINT_REWARD_1_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_1_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Point Event Rewards 2</dt><dd>{{{RANKING_EVENT_POINT_REWARD_2_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_2_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Point Event Rewards 3</dt><dd>{{{RANKING_EVENT_POINT_REWARD_3_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_3_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Point Event Rewards 4</dt><dd>{{{RANKING_EVENT_POINT_REWARD_4_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_4_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Point Event Rewards 5</dt><dd>{{{RANKING_EVENT_POINT_REWARD_5_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_5_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Point Event Rewards 6</dt><dd>{{{RANKING_EVENT_POINT_REWARD_6_en|}}}<p>{{{RANKING_EVENT_POINT_REWARD_6_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Login Bonus 1</dt><dd>{{{EVENT_LOGIN_BONUS_1_en|}}}<p>{{{EVENT_LOGIN_BONUS_1_jp|}}}</p></dd><dd></dd><dt></dt>
+<dt>Login Bonus 2</dt><dd>{{{EVENT_LOGIN_BONUS_2_en|}}}<p>{{{EVENT_LOGIN_BONUS_2_jp|}}}</p></dd><dd></dd><dt></dt>
+</dl>
+</div></div>
+
+</onlyinclude>
+<noinclude>
+<pre>
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 
+|DECK_en = 
+|DECK_jp = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 
+|GUILD_en = 
+|GUILD_jp = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 
+|RANKING_EVENT_POINT_REWARD_1_en = 
+|RANKING_EVENT_POINT_REWARD_1_jp = 
+|RANKING_EVENT_POINT_REWARD_2_en = 
+|RANKING_EVENT_POINT_REWARD_2_jp = 
+|RANKING_EVENT_POINT_REWARD_3_en = 
+|RANKING_EVENT_POINT_REWARD_3_jp = 
+|RANKING_EVENT_POINT_REWARD_4_en = 
+|RANKING_EVENT_POINT_REWARD_4_jp = 
+|RANKING_EVENT_POINT_REWARD_5_en = 
+|RANKING_EVENT_POINT_REWARD_5_jp = 
+|RANKING_EVENT_POINT_REWARD_6_en = 
+|RANKING_EVENT_POINT_REWARD_6_jp = 
+|EVENT_LOGIN_BONUS_1_en =
+|EVENT_LOGIN_BONUS_1_jp =
+|EVENT_LOGIN_BONUS_2_en =
+|EVENT_LOGIN_BONUS_2_jp =
+}}
+</pre>
+</noinclude>

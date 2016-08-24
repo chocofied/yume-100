@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 148
+|name = Kies
+|name_jp = キース
+|attribute = Cool
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 490
+|hp_max = 995
+|hp_break = 1154
+|atk_base = 329
+|atk_max = 548
+|atk_break = 636
+|rp_base = 249
+|rp_max = 415
+|rp_break = 481
+|lskill_name = 木漏れ日の恋
+|lskill_desc = Reduce Red & Blue damage by 10%
+|skill_name = 再現の恋心
+|skill_desc = Insert hearts and recover Seal
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 895
+|hp_max_s = 1273
+|hp_break_s = 1451
+|atk_base_s = 521
+|atk_max_s = 702
+|atk_break_s = 800
+|rp_base_s = 394
+|rp_max_s = 469
+|rp_break_s = 535
+|lskill_name_s = 夜の花畑で抱き上げて
+|lskill_desc_s = Reduce Red & Blue damage by 15%
+|skill_name_s = 雨夜の恋心
+|skill_desc_s = Insert hearts and recover Seal
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 895
+|hp_max_m = 1164
+|hp_break_m = 1327
+|atk_base_m = 521
+|atk_max_m = 740
+|atk_break_m = 844
+|rp_base_m = 394
+|rp_max_m = 486
+|rp_break_m = 554
+|lskill_name_m = 眠る前に本を読んで
+|lskill_desc_m = Reduce Red & Blue damage by 15%
+|skill_name_m = 真夜中の恋心
+|skill_desc_m = Insert hearts and recover Seal
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Literary Love Story
+|original = [[Kies]]
+|desc = 宝石の国・オックスの王子。自分の所有物には人であろうと物であろうと深い愛情をそそぐ。藤目の著書を大変気に入っており、文学賞の受賞パーティが開かれるミステリアムを訪れた。
+|bg = 文学賞の受賞パーティが開かれるミステリアムで、キースと再会したあなた。藤目の書く恋愛小説が好きな彼に、本のような体験をさせてやると言われ…―
+}}
+
+== Story ==
+{{Choice
+|title2 = お嬢様……？
+|choice21s = ありがとうございます
+|points21s = 6
+|choice21m = 遠慮する
+|points21m = 6
+|title3 = それは、きっと、命令。
+|choice31s = からかわないでください
+|points31s = 3
+|choice31m = 繋がれた手をほどこうとする
+|points31m = 3
+|choice32m = 全部頼む人、はじめて見ました
+|points32m = 6
+|choice32s = こんなに食べられません
+|points32s = 6
+|title4 = ときめき
+|choice41m = お嬢様と呼ばれるのは恥ずかしい
+|points41m = 12
+|choice41s = 名前で呼んでほしい
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_148s.jpg}}
+{{Still|text=Moon Still|img=Still_148m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんなところで再会するとは……藤目の本、ちゃんと読んできたんだろうな？　
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ほう…あの図書館、結構な蔵書がありそうだ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 藤目の本、お前にも貸してやろう。いい話だぞ
+|FRIEND_DETAIL_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ふ…意地悪というものを、教えてやろう
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 準備はいいか？お嬢様
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ならば、もう少し情感を込めるか
+|SKILL_INVOKE_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お前、何故こんな場所にいる？…いや、聞きたいのはこっちだ
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = まだ、続きはあるぞ。読むか？
+|CARD_ENHANCE_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 続きが気になるな…
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、ゆっくりと楽しむことにしよう
+|BATTLE_CLEAR_clip = 
+|DECK_en = 
+|DECK_jp = 物語のような二人……悪くないな
+|DECK_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 少しはヒロインらしくできないのか？　…お嬢様？
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 俺の言う通りにしていろ。でないと…どうなっても知らんぞ
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 世界で一番美しい物語をお前と楽しもう。覚悟するがいい、俺は本気だ
+|BIRTHDAY_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = オープンカフェで軽食をとりながら、小説を読む…よし、それを実行しよう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 口答えをするようになったな。減らない口は塞いでしまうことにしよう
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = あの美しい物語の世界をお前にも見せてやる。悪くない話だろう
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 意外だと？　失礼な奴だ…だが、まあ良かろう。お前も読めばわかる筈だ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = すっかり夜だな…落ち着いて本でも読むことにする。お前にも貸してやる
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = こんなところで何をしている？　まさか、お前も好きな本があるのか？
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = ふ…今のその無邪気な笑顔は悪くない…物語のヒロイン以上かもしれない
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 意地悪をして欲しいだと…？お前は変わっているな…さて、どうしようか
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = …どうにもお前相手では、ロマンのある展開にはなりそうもないか？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = つべこべいわずに、俺に言われた通りにしろ。悪いようにはしない
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = …！いや、物語に準じたヒロインの表情ではあるが…そのような顔をされると…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = いいところで…邪魔が入る
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まだまだ勉強不足だ…よく見ておくがいい
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ほう…何を学んだかは知らんが、みちがえたぞ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = まあ、拾っておくがいい
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 本でも読んで、学んだほうがいいのではないか？
+|CHAIN_NICE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 過ぎた心配はいらん
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = では、俺が読み聞かせてやろう
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 筋書き通りに行くぞ
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 油断した
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 昨晩は夜が更けるまで新刊を読んでいた…少々、眠い
+|MAIN_TOP_MORNING_GREET_clip = 
+}}

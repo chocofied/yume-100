@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 242
+|name = Will
+|name_jp = ウィル
+|attribute = Sexy
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 648
+|hp_max = 1222
+|hp_break = 1393
+|atk_base = 412
+|atk_max = 635
+|atk_break = 724
+|rp_base = 388
+|rp_max = 597
+|rp_break = 681
+|lskill_name = ホラーレストラン
+|lskill_desc = Increase Purple ATK by 50%
+|skill_name = スプーキーディナー
+|skill_desc = Turn Blue beads into Purple and increase Purple beads appearance rate
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1099
+|hp_max_s = 1307
+|hp_break_s = 1464
+|atk_base_s = 603
+|atk_max_s = 774
+|atk_break_s = 867
+|rp_base_s = 567
+|rp_max_s = 729
+|rp_break_s = 816
+|lskill_name_s = テラーディナー
+|lskill_desc_s = Increase Green & Purple ATK by 50%
+|skill_name_s = スクリームディナー
+|skill_desc_s = Turn Red beads into Purple and increase Purple beads appearance rate
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1099
+|hp_max_m = 1429
+|hp_break_m = 1600
+|atk_base_m = 603
+|atk_max_m = 743
+|atk_break_m = 832
+|rp_base_m = 567
+|rp_max_m = 699
+|rp_break_m = 783
+|lskill_name_m = チキンハンドオブジェ
+|lskill_desc_m = Increase Purple ATK by 65%
+|skill_name_m = ナイトメアディナー
+|skill_desc_m = Turn Blue beads into Purple and increase Purple beads appearance rate
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Film Park
+|original = [[Will]]
+|desc = 映画の国・ケナルの王子。有名なホラー映画監督で、人が恐怖に怯える顔が好き。ビートン・フィルムパークの製作総指揮を兄のテルと二人で担っている。
+|bg = 映画の国・ケナルにできたビートン・フィルムパークに招待されたあなた。ウィルと一緒に、彼の新作ホラー映画を元に作られたレストランに向かうと…―
+}}
+
+== Story ==
+{{Choice|title2 = ディナーの前に|choice21s = 今でも怖い|points21s = 8|choice21m = そうです|points21m = 8|title3 = 二人で写真を|choice31s = 駄目ですか？|points31s = 4|choice31m = お願いします|points31m = 4|choice32s = 恥ずかしいです|points32s = 8|choice32m = 引きつってますね|points32m = 8|title4 = レストランの入り口で|choice41s = でも……|points41s = 12|choice41m = さっきのは勘違い？|points41m = 12|title5 = 監督としての誇り|choice51s = 怖いです……|points51s = 16|choice51m = 手加減お願いします|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_242s.jpg}}
+{{Still|text=Moon Still|img=Still_242m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ん？　ちょっと困ったことになりそうだぞ？　さてどうしたものか
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = まろやかにしつつも、僕の個性はより引き立つ感じに仕上がったと思うよ
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 恐怖の豪華ディナーに招待するよ。味は保証する。だから、いい表情見せてね
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 君、食べられないものある？
+|DECK_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = さ、感想聞かせて？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = そろそろデザートかな
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 映画を作る以外にこんな才能があるなんてね。自分でも驚きだよ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 待ってたんだよ。君にはいろいろ見てもらいたくて。いい悲鳴を聞かせてね
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = あちらこちらから悲鳴が聞こえるね
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 僕の手料理、食べたい？ゾクゾクさせてあげる…♪
+|SKILL_INVOKE_m_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 僕の手料理食べてみたいって？そうかそうか…腕によりをかけるよ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = そんな意外そうな顔をしなくていいじゃない！味だって絶品だよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ねえ、聞かせてよ。感想…どう？おいしかった？もっと食べてみたい？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君の食べている姿…ゾクゾクする。快感…！　ささ、どんどん食べて
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 皆、楽しんでるかい？怖がってる？大成功だよ！それが狙いだからね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = いいよ…すごくいい。君といると僕のあらゆる欲望が満たされる感じがする
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ここにきたらさ、誰もが恐怖の世界の住人に…あれ、なんで僕から離れるの？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さあさあ、お待ちかねの恐怖ディナーの時間だよ〜！いやあ、楽しみだなあ
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 君の怯える表情、楽しそうな笑顔、いろんな表情が見られて、興味が尽きないよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = もちろん、レストランだけじゃなくてホラーハウスもあるよ？行ってみる？
+|MAIN_TOP_TOUCH_2_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 最凶スペシャルディナー…身も凍る恐怖を！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = マナーがなってないなあ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 召し上がれ
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = お楽しみはとっておこうかな
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 胃薬の用意はあるよ
+|BATTLE_RECOVER_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 食だって、演出が必要だよ
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = いい食材が手に入ったかな？　ふふふ
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 口に入れた途端、芳醇な旨味が広がる罪悪感
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = これを食べてもいいのか？って背徳感
+|CHAIN_GREAT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = スペシャルコース「惨劇の街」入りましたぁ！
+|BATTLE_START_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おや、なんか元気がないね？え、怖い夢を見た！？その寝顔、見たかった…！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ところで君の好きな食べ物は何だい？ランチは君の好きなお店に行こう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|GUILD_en = 
+|GUILD_jp = あのコテージ！何だかいい雰囲気！ホラーハウスに改装しよう
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = どうにかプレオープンまで漕ぎ着けたよ……ちょっとだけお祝いしようか
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 君も遊びに来る？オープンしたら、いい悲鳴を聞かせてね
+|FRIEND_DETAIL_clip = 
+}}

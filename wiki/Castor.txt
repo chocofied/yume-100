@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 58
+|name = Castor
+|name_jp = カストル
+|attribute = Sexy
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 380
+|hp_max = 742
+|hp_break = 861
+|atk_base = 283
+|atk_max = 442
+|atk_break = 513
+|rp_base = 256
+|rp_max = 481
+|rp_break = 558
+|lskill_name = 二つの心
+|lskill_desc = Increase Purple HP & RP by 20%
+|skill_name = ジェミニ・ライト
+|skill_desc = Recover HP every turn (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 668
+|hp_max_s = 913
+|hp_break_s = 1041
+|atk_base_s = 420
+|atk_max_s = 543
+|atk_break_s = 619
+|rp_base_s = 457
+|rp_max_s = 591
+|rp_break_s = 674
+|lskill_name_s = 息づく強さ
+|lskill_desc_s = Increase Purple HP & RP by 25%
+|skill_name_s = マイティ・ハート
+|skill_desc_s = Recover HP every turn (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 668
+|hp_max_m = 839
+|hp_break_m = 956
+|atk_base_m = 420
+|atk_max_m = 566
+|atk_break_m = 645
+|rp_base_m = 457
+|rp_max_m = 615
+|rp_break_m = 701
+|lskill_name_m = 照らされる心
+|lskill_desc_m = Increase Purple HP & RP by 25%
+|skill_name_m = バイナリー・スター
+|skill_desc_m = Recover HP every turn (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|va = Okawa Genki
+|origin = Country of Star - Gemio
+|age = 24
+|birth = June 09
+|likes = Sweet things
+|dislikes = Spicy things
+|policy = Philanthropism
+|desc = 星の国・ジェミオの王子。優しく穏やかな性格で、国の皆から期待を受けているが、それを重荷と感じている。また、そのことに関してある大きな秘密を抱えている。
+|bg = あなたによって目覚めたカストルのある大きな秘密を知ったあなた。カストルとポルックス、二つの人格が交錯する中、あなたが見た彼らの表情とは……？
+}}
+
+== Story ==
+{{Choice
+|title2 = もう一人の発現
+|choice21m = 余計なこと？
+|points21m = 6
+|choice21s = 誰なんですか？
+|points21s = 6
+|title3 = 王子の言葉
+|choice31s = カストルさん？
+|points31s = 3
+|choice31m = ポルックスさん？
+|points31m = 3
+|choice32m = 何も言えない
+|points32m = 6
+|choice32s = 素直に答える
+|points32s = 6
+|title4 = カストルとポルックス
+|choice41s = 素直に話す
+|points41s = 12
+|choice41m = じっとカストルの目を見る
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_58s.jpg}}
+{{Still|text=Moon Still|img=Still_58m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 興味がねえな…っ！ポルックス止めて！あの…君に応援してほしい
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ありがとう、頑張るよ。ポルックスだって君に感謝しているはずだよ
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = なにしに来たんだ？早く帰れって言っただろう
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今、気分転換にお茶を入れようと思っていたんだ。君も一緒にどう？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = お前に、俺達のことがわかるわけがない
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 心配かけてごめんね。僕は大丈夫だよ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 何の用だ……？俺で残念だったな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝日がまぶしいね、気分はどう？ちょっと、出かけないか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 結構やるな…！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = いいものあったかな
+|BATTLE_RESULT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = なかなか調子いいんだな
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 僕とポルックス、どっちが魅力的かな？…ごめん、困らせちゃったね
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = いま、ちょっとだけ、君と手をつないでみたいなって思ってた
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = どうしたんだい？　……僕でいいなら、一緒にいるよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = カストルがいっそ、俺に消えろって言ってくれたらいいのに…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = あんまり、近くにくるなよ。どうしていいか、わかんないから
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 俺、弱くないからな？
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = お前、本当に……不思議なヤツだなあ！
+|CARD_DETAIL_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 会いにきてくれてありがとう…！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 俺達なら余裕だな
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだまだだ！
+|BATTLE_TURN_END_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はあぁっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = これは僕も頑張らないとね！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとう
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うあっ！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 手加減はしないよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = くらえ！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さっさと決めるぞ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 手加減はできないなあ！
+|SKILL_INVOKE_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 僕達は、二人で一人なんだね
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = この強さは僕のもの？それとも……
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 僕とポルックスで君を守るよ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ……なんだよ。言いたいことあるなら言えよ
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう！僕からも……俺からも……お祝いだよ
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = リーダー……僕につとまるかな。頑張るね
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝いありがとう……っと、ごめんね。まだ本調子じゃなくて……
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びにきてくれてありがとう。また、来てね
+|FRIEND_DETAIL_clip = 
+}}

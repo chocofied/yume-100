@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 240
+|name = Iria
+|name_jp = イリア
+|attribute = Gentle
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 393
+|hp_max = 754
+|hp_break = 1001
+|atk_base = 245
+|atk_max = 461
+|atk_break = 612
+|rp_base = 212
+|rp_max = 331
+|rp_break = 440
+|lskill_name = 魔術を求める旅
+|lskill_desc = Increase Green & Yellow ATK by 25%
+|skill_name = アーチ・ブルー
+|skill_desc = Erase bottom beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 679
+|hp_max_s = 965
+|hp_break_s = 1260
+|atk_base_s = 438
+|atk_max_s = 590
+|atk_break_s = 771
+|rp_base_s = 314
+|rp_max_s = 374
+|rp_break_s = 488
+|lskill_name_s = 弟には負けない
+|lskill_desc_s = Increase Green & Yellow ATK by 35%
+|skill_name_s = セイレン・ブルー
+|skill_desc_s = Erase bottom beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 679
+|hp_max_m = 927
+|hp_break_m = 1211
+|atk_base_m = 438
+|atk_max_m = 567
+|atk_break_m = 740
+|rp_base_m = 314
+|rp_max_m = 407
+|rp_break_m = 531
+|lskill_name_m = 兄の心の内
+|lskill_desc_m = Increase Green & Yellow ATK by 35%
+|skill_name_m = メッセージ・ブルー
+|skill_desc_m = Erase bottom beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Big Brother and Little Brother
+|original = [[Iria]]
+|desc = 魔術の国・ソルシアナの双子の兄王子。物腰が柔らかく、優秀で次期国王として周囲の期待を一身に受けている。今回、魔術の祭典で披露するため、本にも載っていない新しい魔術を身につけようとしている。
+|bg = イリアに招待され、ソルシアナを訪れたあなた。魔術の祭典に向けて練習をする弟のミヤを見た彼は、何か悩んでいるようで…―
+}}
+
+== Story ==
+{{Choice|title2 = 出発の前に|choice21s = 何を見ていたんですか|points21s = 6|choice21m = すみません|points21m = 6|title3 = 彼にとっての兄弟|choice31s = わかってますよ|points31s = 3|choice31m = そんなに否定しなくても|points31m = 3|choice32s = 見守るといい|points32s = 6|choice32m = 一緒に練習するといい|points32m = 6|title4 = 心のありか|choice41s = 大丈夫です|points41s = 12|choice41m = 自分を信じて|points41m = 12}}
+
+{{Still|text=Sun Still|img=Still_240s.jpg}}
+{{Still|text=Moon Still|img=Still_240m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 貴方は大丈夫だと言ってくれるんですか？不思議ですね、すごく安心しました　
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 私達兄弟は、お互い妙に遠慮して…不器用で…やっぱり似ているのですね
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 貴方の手のひら…とても暖かいですね。これで、頑張れそうな気がします
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 私達兄弟は今は、あまり似ていませんが、幼い頃は本当に瓜二つで……
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 貴方に関して…もし、ミヤとライバルになったとしても、私は負けません
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ミヤのみせてくれる魔術、とても楽しみにしているんです。一緒に見ましょう
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = お疲れではありませんか？明日に備えて早めに休みましょう。また、明日…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 皆が私達の披露する魔術を楽しみにしていて…ちょっと緊張しますね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ミヤは一体どんな魔術を披露するのか…正直なところ気になってしまって
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 貴方の言葉は不思議な力がありますね。あの…いえ、なんでもありません
+|CARD_DETAIL_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 魔法陣に命じます。氷よいでよ！
+|BATTLE_START_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ライバルが身近にいるのは、いいことですよね
+|SKILL_INVOKE_s_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 光よ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …っ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 回復魔術を使いますね
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = では、新しい魔術をお見せします
+|SKILL_INVOKE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 私の魔術は、貴方の役に立ちましたか？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 危ないですから…貴方は下がっていて
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = では、私のすぐ傍にいてください
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 貴方が応援してくれると、力が湧いてきます
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よく眠れましたか？ふふっ、まだ少し寝ぼけていらっしゃるのでしょうか
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 従者に頼んでお弁当を用意してもらいました。中庭でランチをしましょう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは静かでいいところですね。あの木陰で本を読んで過ごしましょうか
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそソルシアナへ。人が多くて驚かれましたか？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = とても賑やかですね。え？私達も参加ですか？どうしましょうか…
+|WELCOME_PARTY_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 素直な気持ちで、向き合ってみます
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 私の力を侮らないでくださいね
+|BATTLE_FEVER_TIME_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 素直な気持ちで魔術大会を迎えられます。ミヤに、負けたくありません！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 魔術大会、ミヤは一体どんな魔術を見せてくれるんでしょうか
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = ミヤよりも…私と一緒に、行きませんか？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日に貴方に一つだけ魔法を教えてあげます。さあ、手を…
+|BIRTHDAY_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 一休みしましょうか？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よかった。お怪我はありませんか？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ようこそいらっしゃいました。私の魔術で歓迎いたします
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 私には、努力することしかできませんから　
+|CARD_ENHANCE_clip = 
+}}

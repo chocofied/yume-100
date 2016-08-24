@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 19
+|name = Raith
+|name_jp = レイス
+|attribute = Sexy
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 286
+|hp_max = 609
+|hp_break = 718
+|atk_base = 201
+|atk_max = 341
+|atk_break = 402
+|rp_base = 203
+|rp_max = 416
+|rp_break = 491
+|lskill_name = その日暮らし
+|lskill_desc = Increase Gold by 15%
+|skill_name = 人生は毒のように甘い
+|skill_desc = Erase bottom beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 548
+|hp_max_s = 822
+|hp_break_s = 954
+|atk_base_s = 324
+|atk_max_s = 399
+|atk_break_s = 463
+|rp_base_s = 395
+|rp_max_s = 561
+|rp_break_s = 651
+|lskill_name_s = その日暮らし
+|lskill_desc_s = Increase Gold by 20%
+|skill_name_s = 君の役に立ちたい…
+|skill_desc_s = Erase bottom beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 548
+|hp_max_m = 712
+|hp_break_m = 826
+|atk_base_m = 324
+|atk_max_m = 460
+|atk_break_m = 534
+|rp_base_m = 395
+|rp_max_m = 561
+|rp_break_m = 651
+|lskill_name_m = その日暮らし
+|lskill_desc_m = Increase Gold by 20%
+|skill_name_m = 君に溺れるも一興…
+|skill_desc_m = Erase bottom beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kuwahata Yusuke
+|origin = Country of Poison - Telsot
+|age = 26
+|birth = March 21
+|likes = Sweet things, the cry of insects
+|dislikes = Bitter things, hot things, spicy things, dirty tones
+|policy = If you don't enjoy life, you've lost
+|desc = 毒薬の国・テルソートの王子。自由奔放に明るく楽しく暮らすことが好きで、面倒臭いことはやりたがらない。彼のヴァイオリンの腕前は、誰もが聞き惚れる。
+|bg = 自由なレイスとゆっくりとした時間を過ごすあなた。けれどある事件が起こりあなたも巻き込まれてしまいそうになる。その時レイスは…？そしてあなたは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 天使の環
+|choice21m = 思わず後ずさる
+|points21m = 6
+|choice21s = いえ……
+|points21s = 6
+|title3 = 白い日差し
+|choice31s = すごくきれい
+|points31s = 3
+|choice31m = レイスの声に固まってしまう
+|points31m = 3
+|choice32m = レイスさんになってみたい
+|points32m = 6
+|choice32s = もっと作品を見たい
+|points32s = 6
+|title4 = 大きな手のひら
+|choice41m = どうなさったのですか？
+|points41m = 12
+|choice41s = お部屋に戻っています
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_19s.jpg}}
+{{Still|text=Moon Still|img=Still_19m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = You don't have to get so worked up. Just go with your heart's desire.
+|AWARD_EVENT_NOMINATED_jp = そんなに気負わなくて大丈夫。君の心のままに、選べばいいんだよ
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = What? For me? I see, thanks. I kinda wanna go brag to everyone about it
+|AWARD_EVENT_FAVORITES_jp = あれ？俺に？…そっか、ありがとうね。皆に自慢しちゃおうかな
+|AWARD_EVENT_FAVORITES_clip = 
+|CARD_DETAIL_en = ...Ah! So sorry. I was just thinking of something else! What were you saying?
+|CARD_DETAIL_jp = …あ！ごめんごめん。ちょっと、ほかのこと考えた！なんだっけ？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = I realized that I just thought of it as a chore
+|MAIN_TOP_TOUCH_s_1_jp = 俺、面倒だなって思ってただけなんだって、気づいたよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Sometimes I just want to play hooky..Hey, do you have any tricks for getting motivation?
+|MAIN_TOP_TOUCH_s_2_jp = たまにちょっとサボりたくなっちゃう…ねえ、やる気がでるおまじないは？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = I'm actually working hard. So let's go for a breather
+|CARD_DETAIL_s_jp = 俺。がんばってるよね。だから息抜きにでかけよう
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_MORNING_GREET_en = Isn't it early? I wanna sleep a little more..
+|MAIN_TOP_MORNING_GREET_jp = …早いね？まだちょっと眠たいよ…俺は…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = I'm finally on a roll. You too? Yea, isn't it great
+|MAIN_TOP_AFTERNOON_GREET_jp = やっと調子がでてきたかな。君も…？うん、いいね
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = The sun went down, huh. For us, that means the fun time starts now
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちたね。俺たちにとって、楽しい時間はこれからだよね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = What kind of music do you like? I'll play anything for you.
+|MAIN_TOP_TOUCH_1_jp = どんな音楽が好きなの？なんでも弾いてあげるよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = The world is so beautiful. I wonder if there's any way to solidify this moment.
+|MAIN_TOP_TOUCH_2_jp = 世界はとても美しいね。その瞬間をどうにか形にできないかな
+|MAIN_TOP_TOUCH_2_clip = 
+|CHAIN_EXCELLENT_en = Amazing, and beautiful on top of that
+|CHAIN_EXCELLENT_jp = すばらしいよ、しかも美しい
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = Take that!
+|BATTLE_ATTACK_jp = ほらっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = Ughhh
+|BATTLE_DAMAGE_jp = ううっ
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = Alright, what song should I play next? Tell me your request!
+|MAIN_TOP_TOUCH_m_1_jp = さ、次はどんな曲がいい？君のリクエストを聞かせて！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = I've been just doing whatever I like, but it's so nice to have someone who appreciates it.
+|MAIN_TOP_TOUCH_m_2_jp = 好きだからしていたことだけど、その先に喜んでくれる人がいるっていいね。
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = The power to make someone happy...I'm positive there isn't just one shape to that power.
+|CARD_DETAIL_m_jp = 人を幸せにする力…きっとその形は、ひとつだけじゃないんだね
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = Not again~
+|BATTLE_START_jp = やだなあ～
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = Did you get anything pretty?
+|BATTLE_RESULT_jp = きれいなもの、あった？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = You're doing fine
+|CHAIN_NICE_jp = うん、適当でいいんだよ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = You're so good at this, wow
+|CHAIN_GREAT_jp = けっこうやるんだね、すごいよ
+|CHAIN_GREAT_clip = 
+|CARD_EVOLUTION_m_en = Next time, we can do a recital at that huge theatre
+|CARD_EVOLUTION_m_jp = 今度はあの大きな劇場でリサイタルができるね
+|CARD_EVOLUTION_m_clip = 
+|CARD_ENHANCE_en = A new phrase is coming to me
+|CARD_ENHANCE_jp = 新しいフレーズが浮かびそうだな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = I guess I can do a lot more different things than I thought
+|CARD_EVOLUTION_s_jp = 俺って、思ったよりいろんなことができたんだね
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_RECOVER_en = What a warm power
+|BATTLE_RECOVER_jp = 暖かい力だね
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = I'll send you the song I'm the best at
+|SKILL_INVOKE_jp = 俺が一番得意な曲を届けよう
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = Don't make me get serious
+|SKILL_INVOKE_s_jp = 俺に本気を出させないで欲しいな
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = This performance calms my heart
+|SKILL_INVOKE_m_jp = この演奏で心を落ち着けなよ
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = Take this beautiful melody!
+|BATTLE_FEVER_TIME_jp = 美しい旋律を！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = It's not the finale yet
+|BATTLE_TURN_END_jp = まだフィナーレではないよ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = That turned out amazingly!
+|BATTLE_CLEAR_jp = すばらしい結果だったろう？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = I made a new painting. Come see it. I'm sure you'll like it
+|CARD_TOP_jp = 新しい絵が描き上がったよ。見においでよ。きっと気に入るよ
+|CARD_TOP_clip = 
+|DECK_en = If you have me, I'm sure we'll have fun
+|DECK_jp = 俺といれば、きっと楽しいと思うよ
+|DECK_clip = 
+|BIRTHDAY_en = Congratulations. If it's alright with you, would you listen to a song just for you? How about it?
+|BIRTHDAY_jp = おめでとう。よければ、君のための一曲を聴いてほしいんだけど？どうかな
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = I'm glad you are returning to a beautiful world. Thank you
+|WELCOME_PARTY_jp = 美しい世界に戻ってこれて嬉しいよ。ありがとう
+|WELCOME_PARTY_clip = 
+|GUILD_en = We're all freely having a great time. Isn't this the greatest?
+|GUILD_jp = みんなで楽しく自由に過ごそうじゃないか。それが一番だろう
+|GUILD_clip = 
+|FRIEND_DETAIL_en = Did you come to hear my performance just like that child? Alright then, one song
+|FRIEND_DETAIL_jp = 君もあの子と同じように俺の演奏を聴きにきてくれたのかい？じゃあ、一曲
+|FRIEND_DETAIL_clip = 
+}}

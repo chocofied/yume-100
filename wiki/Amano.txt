@@ -1,0 +1,191 @@
+== Status ==
+{{Infobox
+|no = 235
+|name = Amano
+|name_jp = アマノ
+|attribute = Cute
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 539
+|hp_max = 941
+|hp_break = 1073
+|atk_base = 389
+|atk_max = 632
+|atk_break = 721
+|rp_base = 434
+|rp_max = 705
+|rp_break = 803
+|lskill_name = 太平の弓矢
+|lskill_desc = Increase ATK & RP by 30% when HP is higher than 50%
+|skill_name = 降り注ぐ矢雨
+|skill_desc = Erase beads in cross and recover skill gauges apart from own
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 847
+|hp_max_s = 1102
+|hp_break_s = 1234
+|atk_base_s = 601
+|atk_max_s = 740
+|atk_break_s = 829
+|rp_base_s = 669
+|rp_max_s = 824
+|rp_break_s = 923
+|lskill_name_s = 雲閃の弓矢
+|lskill_desc_s = Increase ATK & RP by 40% when HP is higher than 50%
+|skill_name_s = 舞い降る矢霰
+|skill_desc_s = Erase beads in cross and recover skill gauges apart from own
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 847
+|hp_max_m = 1007
+|hp_break_m = 1128
+|atk_base_m = 601
+|atk_max_m = 772
+|atk_break_m = 865
+|rp_base_m = 669
+|rp_max_m = 860
+|rp_break_m = 963
+|lskill_name_m = 峻烈の弓矢
+|lskill_desc_m = Increase ATK & RP by 40% when HP is higher than 50%
+|skill_name_m = 乱れ舞う矢嵐
+|skill_desc_m = Erase beads in cross and recover skill gauges apart from own
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|va = Kobayashi Yuusuke
+|origin = Country of Weapon - Akagura
+|age = 28
+|birth = 
+|likes = Reading, maintaining my archery equipment
+|dislikes = Scolding
+|policy = Harmony is the most important thing
+|desc = 武器の国・アカグラの王子。穏やかで真面目な性格をしている。神がいる国まで届くと言われる伝説の弓を持つ。モンスター討伐を積極的に行う武器の国が多い中、アカグラは必要以上に討伐をしない。
+|bg = アマノを目覚めさせたお礼にアカグラに招待されたあなた。穏やかな街の外壁の向こうから、モンスターの声が聞こえる。その時、彼が何かを言いかけて…―
+}}
+
+== Story ==
+{{Choice|title2 = 危険が隣り合う国|choice21s = いえ|points21s = 10|choice21m = はい|points21m = 10|title3 = 他国からの使者|choice31s = 後ろに下がる|points31s = 6|choice31m = なんですか|points31m = 6|choice32s = 勘違いされたままなんじゃ|points32s = 9|choice32m = 大丈夫ですか？|points32m = 9|title4 = アカグラの歴史|choice41s = 気にしていません|points41s = 7|choice41m = 充分です|points41m = 7|choice42s = なんでもない|points42s = 8|choice42m = 綺麗な弓だと思って|points42m = 8|title5 = 藤棚の香り|choice51s = 似合うって……|points51s = 15|choice51m = ありがとうございます|points51m = 15|title6 = 彼の苦悩|choice61s = 話したくないなら|points61s = 20|choice61m = 討伐の理由を聞く|points61m = 20}}
+
+{{Still|text=Sun Still|img=Still_235s.jpg}}
+{{Still|text=Moon Still|img=Still_235m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 無事で何よりです
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ようこそいらっしゃいました。ちょうど…美しい花がたくさん咲く時期なのです
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = この弓は守るため…皆を守るための武器です
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 迷っている時間はないとわかっています。ですが、僕は…
+|CARD_EVOLUTION_s_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 僕の為に、祈ってください
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 大切な人を…君を守りたい！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = では連射準備！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さ、この隙に隠れましょう
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 民や君を守るためなら、この弓を引く覚悟はできています
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 藤の花が綺麗に咲いていますよ
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日ですよね？　あのよければ僕と…一緒に花を見に行きませんか？
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 花を見るのが好きなんです。季節ごとにいろんな花が咲くでしょう？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 僕のことを意気地のない男だと言う人も多いと思います。でも無駄な殺生は…
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = この大地に生まれたことに感謝をし、清廉潔白でありたいと思っています
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = これからは…僕が国を守ります。もちろん、君のことも
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 訓練をしたので、お腹がすきました…あの、僕と一緒に昼食をいかがでしょう？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日の光を浴びた布団で眠るのは幸せです。ふかふかで…あっ！すみません
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 必ず戻ってきます。僕の帰りを待っていてくれませんか？この藤の花と共に…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 藤の花言葉に「決して離れない」というものがあります…君と離れたくない
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 神より賜ったこの弓と矢…貫けぬものはありません
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 国を守りたい。そして、君を守りたい…だから僕は、この弓を引きます！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 危ないですから、下がって！
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 大丈夫ですよ。僕が君を守ります
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 可憐です。君は強く、美しいのですね…
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やっ！
+|BATTLE_ATTACK_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君を守るために、僕は迷わないと…強くなると誓います。だから傍に…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 神より授かりし弓の加護よ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 待ってください。本当にもう危険がないか、確認します
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = っ痛！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとうございます
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 神聖なこの弓は、守るべき人達のために…！
+|SKILL_INVOKE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはようございます、ゆっくり休めましたか？コーヒーとお茶どちらにします？
+|MAIN_TOP_MORNING_GREET_clip = 
+|GUILD_en = 
+|GUILD_jp = ここならモンスターの襲来もない……か、誰も傷つかずにすみますね
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あの子って可愛いですよね……あっ内緒ですよ？恥ずかしいので……
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 僕のためにパーティを？ありがとうございます。お礼に僕も何か持ってきます
+|WELCOME_PARTY_clip = 
+}}

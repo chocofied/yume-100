@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 219
+|name = Douglas
+|name_jp = ダグラス
+|attribute = Sexy
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 622
+|hp_max = 1062
+|hp_break = 1211
+|atk_base = 389
+|atk_max = 632
+|atk_break = 721
+|rp_base = 389
+|rp_max = 632
+|rp_break = 721
+|lskill_name = エスコート、させて？
+|lskill_desc = Increase Purple ATK by 35% and HP by 10%
+|skill_name = 淡い光
+|skill_desc = Increase Party ATK for 1 turn & Purple Beads appearance rate
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 956
+|hp_max_s = 1296
+|hp_break_s = 1452
+|atk_base_s = 601
+|atk_max_s = 772
+|atk_break_s = 865
+|rp_base_s = 601
+|rp_max_s = 677
+|rp_break_s = 758
+|lskill_name_s = 香りに溺れて
+|lskill_desc_s = Increase Purple ATK by 35% and HP by 20%
+|skill_name_s = 流れる光
+|skill_desc_s = Increase Party ATK for 1 turn & Purple Beads appearance rate
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 956
+|hp_max_m = 1136
+|hp_break_m = 1272
+|atk_base_m = 601
+|atk_max_m = 772
+|atk_break_m = 865
+|rp_base_m = 601
+|rp_max_m = 772
+|rp_break_m = 865
+|lskill_name_m = 君を奪う、海賊
+|lskill_desc_m = Increase Purple ATK by 50% and HP by 10%
+|skill_name_m = 揺らめく光
+|skill_desc_m = Increase Party ATK for 1 turn & Purple Beads appearance rate
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Hospitality of The Princes
+|original = [[Douglas]]
+|desc = 海賊の国・アンキュラの王子。海の治安を守る海賊として、船で海をまわっている。見た目のイメージとは違い、実は紳士的で女性のエスコートにも慣れている。記録の国では、昔馴染みがいるサーカス団の公演にあなたを誘う。
+|bg = レコルドのホテルでダグラスと再会したあなた。彼にエスコートされ、昔の仲間がいるというサーカスの公演を見ることになったけれど…―
+}}
+
+== Story ==
+{{Choice
+|title2 = レジデントショーへ
+|choice21s = いいんですか
+|choice21m = そんなことないです！
+|points21s = 8
+|points21m = 8
+|title3 = ナイフショー
+|choice31s = とても楽しみ
+|choice31m = ドキドキします
+|points31s = 4
+|points31m = 4
+|choice32s = ダグラスさんが一緒なら……
+|choice32m = 少し不安
+|points32s = 8
+|points32m = 8
+|title4 = 稼業を休んで
+|choice41s = 楽しいから好き
+|choice41m = 静かなところが好き
+|points41s = 12
+|points41m = 12
+|title5 = その瞳に釘づけ
+|choice51s = 名前を呼ぶ
+|choice51m = じっと見つめる
+|points51s = 16
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_219s.jpg}}
+{{Still|text=Moon Still|img=Still_219m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 可愛いお返しをありがとう。じゃあ、まだまだ夜は長いから…いいよね？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君のこと、帰してあげられないかも…いいよね？返事は聞かないけど
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = そんなに緊張しなくたっていいじゃないか？それとも…俺のことが怖い？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ボニータの土産、何がいいかな？彼女も女の子だし、君のセンスが頼みだな
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 俺がもてなすって言ったんだ。まだまだこの程度で終わるわけないだろう
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = この程度で驚いてもらっちゃ困るな…君は俺にとっての一番の宝物なんだから
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 姫、どうか俺ととびきりの夜を過ごしてくれませんか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 女の子は甘いものは別腹っていうんだっけ？じゃあ、デザート食べに行こうか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 駄目、まだ寝かせない…ははっ、首まで真っ赤になってるよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 君のためにとっておきの席を抑えてきたよ。そう、今日はたっぷりおもてなしだ
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の手のひら、温かいな
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 陸にいても海賊は海賊。全部いただくよ
+|SKILL_INVOKE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まだちょっと、恥ずかしがってるの？
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = いいね、ちょっとわがままな君も可愛いな
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = おっと、悔しいな！
+|BATTLE_DAMAGE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君のこと、いつだって手放したくない。誰よりも一番近くでずっと、一緒がいい
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 陸の上でだって強いから安心して？
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = ほら、お宝は見逃しちゃダメだよ
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = そうだな、おねだりしてみせてよ
+|CHAIN_NICE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。大丈夫だよ。まだゆっくり寝てていい…可愛い寝顔だからね
+|MAIN_TOP_MORNING_GREET_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 賑やかな街で皆で過ごすのも悪くないね。楽しそうだな
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 図書館に宝の地図があるんじゃないかって聞いたんだけど、どう思う？
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 来てくれたんだ。けどあの子疲れて寝てるんだ…悪いね。来たって伝えておくよ
+|FRIEND_DETAIL_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 君からもらった、幸せのお返しを
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 君は…どんなお宝にも代えがたい
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君を守って、君を楽しませて、そのために俺は強くなるんだよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = まだまだ夜は長いよ。それにせっかく用意してもらったなら…堪能しないとね
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 今夜は君のこと…帰したくないんだ。この意味、わかるよね？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = じゃあ一日、贅沢に過ごそうか
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 今日の俺は調子がいい
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 逃がすわけないだろ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 姫、お怪我はありませんか？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = そんな無防備な顔をして…悪い男に付け込まれたらどうするんだ…
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう。君に贈るものか…俺の身も心も、もう君のものだし。困ったね
+|BIRTHDAY_clip = 
+}}

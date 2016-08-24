@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 157
+|name = Deneb
+|name_jp = デネブ
+|attribute = Cool
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 361
+|hp_max = 662
+|hp_break = 887
+|atk_base = 249
+|atk_max = 442
+|atk_break = 592
+|rp_base = 236
+|rp_max = 418
+|rp_break = 560
+|lskill_name = 渾身のコスプレ衣装
+|lskill_desc = Increase Blue ATK by 35%
+|skill_name = コスプレカーニバル
+|skill_desc = Erase left side beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 13
+|lvmax_s = 60
+|hp_base_s = 596
+|hp_max_s = 848
+|hp_break_s = 1116
+|atk_base_s = 420
+|atk_max_s = 566
+|atk_break_s = 744
+|rp_base_s = 397
+|rp_max_s = 473
+|rp_break_s = 622
+|lskill_name_s = 笑顔のツーショット
+|lskill_desc_s = Increase Blue ATK by 50%
+|skill_name_s = ブラックキャンディ
+|skill_desc_s = Erase left side beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 13
+|lvmax_m = 60
+|hp_base_m = 596
+|hp_max_m = 748
+|hp_break_m = 985
+|atk_base_m = 420
+|atk_max_m = 566
+|atk_break_m = 744
+|rp_base_m = 397
+|rp_max_m = 535
+|rp_break_m = 705
+|lskill_name_m = 恋をした堕天使
+|lskill_desc_m = Increase Blue ATK by 50%
+|skill_name_m = フロートパレード
+|skill_desc_m = Erase left side beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Parade is a Love Gimmick?
+|original = [[Deneb]]
+|desc = 星の国・ノーザンクロスの王子。繊細で陶器のような見た目だが、非常に頭が良い。飄々としていて本心が読めない。コスプレが大好きな彼は、今回の収穫祭で着る衣装も凝っている。
+|bg = デネブと収穫祭に参加をすることになったあなた。コスプレ好きの彼の仮装はとても素敵。一緒にコスプレをしようと誘ってくれる彼と考えるあなたの仮装は…
+}}
+
+== Story ==
+{{Choice
+|title2 = 作戦会議ティータイム
+|choice21m = 怖くできるかな？
+|points21m = 6
+|choice21s = 怖すぎなければ……
+|points21s = 6
+|title3 = コスプレイヤーの楽しみ
+|choice31s = キラキラしてます
+|points31s = 3
+|choice31m = 雰囲気があります
+|points31m = 3
+|choice32s = おしゃれのひとつですね
+|points32s = 6
+|choice32m = 深入りしてしまいそう
+|points32m = 6
+|title4 = アレンジ開始！
+|choice41m = 魔女を推したい
+|points41m = 12
+|choice41s = かぼちゃを推したい
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_157s.jpg}}
+{{Still|text=Moon Still|img=Still_157m.jpg}}
+
+== Quotes ==
+{{Quotes
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 闇に囚われた哀れな天使に慈悲を……
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = コスプレは勢いと度胸だよ
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 僕達のコスプレが一番だね！
+|SKILL_INVOKE_s_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = そんな恥ずかしがらないで
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうそう、いい感じ！首、かしげてみて
+|CHAIN_GREAT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 使えそうなパーツあるかな！
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 羽根がとれちゃうっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 応急処置完了！
+|BATTLE_RECOVER_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すっごい可愛いね！魔法にかけられちゃうよ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 闇の力だよ！
+|BATTLE_ATTACK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう！今日はせっかくだから、いろんな衣装着て遊ぼうね
+|BIRTHDAY_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = じゃあ、ステージに上がろうか
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = さ、時間は有限だからね！まずはテーマを決めて、雑貨屋さんに行って……
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = もっと派手にしてもいいかな？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = やっぱりこっちの色もいいよね
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ふふふ……ちょっと、サプライズ感もあったほうがいいよね……楽しみにしてて
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = さ、僕とコスプレの買い出しにいこう！
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = もう一着ぐらい作れるかも……
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 収穫祭で一番のコスプレになるんじゃないかな！　かわいく作れたよ
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 遅くまで準備してたから、ちょっとまだ眠いな……でも、準備は完璧だよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = あ、パーツが足りない……休憩の間に買い足しに行かなきゃだね……
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さあ、夜だね！　これからが本番。誰よりも楽しもうね！
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 本当に天使だったら、僕、君と恋に落ちて堕天してたと思うな……本当だよ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 闇にとらわれし天の力受けてみよ…ってね！
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = やっぱり、この衣装にしてよかったな……君もすっごく可愛いよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = こういう退廃的な感じって、非日常って感じがしない？ドキドキするよね
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 君と一緒にコスプレできるなんて、楽しみだなあ……頑張って準備しないと
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = コスプレ、いつから好きだったって？　うーん、内緒！
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = すごくいいカメラ持ってきたんだ！いっぱい写真とろうね！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = え、君が撮影してくれるの？　いいよいいよ！一緒に写んないと意味がないし
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 収穫祭は毎年楽しみなんだよ。どんなに忙しくても絶対参加してるんだ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君のアドバイスのおかげで、可愛い衣装になったよ！嬉しいな
+|MAIN_TOP_TOUCH_s_2_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = また会えたね。とりあえず早くコスプレ衣装に着がえなきゃね
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここでコスプレパーティーするのもいいんじゃないかなあ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あ、君もコスプレしたいの？　いいよ、みんなでやろう！
+|FRIEND_DETAIL_clip = 
+}}

@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 78
+|name = Dormouse
+|name_jp = ドーマウス
+|attribute = Gentle
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 369
+|hp_max = 854
+|hp_break = 1007
+|atk_base = 186
+|atk_max = 294
+|atk_break = 347
+|rp_base = 199
+|rp_max = 385
+|rp_break = 454
+|lskill_name = いんそむにあマウス
+|lskill_desc = Increase Green HP & RP by 15%
+|skill_name = ねむくてねむくて…
+|skill_desc = Recover 1000 HP
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 768
+|hp_max_s = 1152
+|hp_break_s = 1336
+|atk_base_s = 279
+|atk_max_s = 344
+|atk_break_s = 399
+|rp_base_s = 365
+|rp_max_s = 519
+|rp_break_s = 602
+|lskill_name_s = いやしのティーポット
+|lskill_desc_s = Increase Green HP & RP by 20%
+|skill_name_s = それはしあわせな…
+|skill_desc_s = Recover 1500 HP
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 768
+|hp_max_m = 1204
+|hp_break_m = 1397
+|atk_base_m = 279
+|atk_max_m = 362
+|atk_break_m = 420
+|rp_base_m = 365
+|rp_max_m = 473
+|rp_break_m = 549
+|lskill_name_m = ぴったりサイズのカップ
+|lskill_desc_m = Increase Green HP & RP by 20%
+|skill_name_m = ゆめからさめて…
+|skill_desc_m = Recover 1500 HP
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kawabe Shunsuke
+|origin = Country of Marvel - Wondermare
+|age = ??
+|birth = May 15
+|likes = Fluffy beds
+|dislikes = Hard beds
+|policy = The sleep after eating is silver, and the sleep before eating is gold
+|desc = 不思議の国・ワンダーメアの王子。眠りネズミの集うスリープバレイに住んでいる。いつも眠いし、寝ていたい。他の人が楽しいことをいいなあと思うが、眠ることと比べた結果、眠りを選んでしまう。
+|bg = 目覚めさせたドーマウスを訪ねてみると、眠りネズミと異名をとるドーマウスが「眠れない」という。彼が再びゆっくり眠れるように奮闘するあなただけど…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 『アリス』の存在
+|choice21s = 寝ないで！
+|points21s = 6
+|choice21m = 睡眠不足……？
+|points21m = 6
+|title3 = 『アリス』の行方
+|choice31m = 少しでいいから頑張ろう？
+|points31m = 3
+|choice31s = つらかったら目を閉じてて
+|points31s = 3
+|choice32m = 寝ぼけてる？
+|points32m = 6
+|choice32s = 話と違っているよ
+|points32s = 6
+|title4 = 彼の知らない現実
+|choice41s = いいよ、何を読む？
+|points41s = 12
+|choice41m = 休んでなくて大丈夫？
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_78s.jpg}}
+{{Still|text=Moon Still|img=Still_78m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 眠いのにね…眠くないの…ねえ、どうすればいいのかな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ふわぁ…もう…朝？まだ眠いよぉ……
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ゼリー飲料はね…とてもすごいんだ…あれがあれば僕…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 君といると、なんだか安心する…ねぇ、抱き枕になってくれる？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 君…ふかふか…ぎゅってすると…気持ちいい…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 羊さんが一匹…羊さんが二匹…だめだ、やっぱり眠れないよぅ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = そうだよね…変わらないものなんてないんだ。けど…僕は…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ね、アリスちゃんはどこかな？……どうしたの？そんな顔して
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ふわぁ…
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 僕、大丈夫だよ…君がいることが…幸せだから…
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ゆっくりやろうよ？ね？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = だいじょうぶ？痛いところ、ない？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごいね…目が覚めちゃうくらい
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = わっ！びっくりしたあ～上手だね
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = どうしたの？…アリスちゃんもね、僕によくこうして来たんだよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 今度、いっしょにアリスちゃんのところへ遊びに行こうね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あのね…君のことが…大好きだよ…Zzz
+|CARD_DETAIL_s_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = アリスちゃんは、どこかな～っと！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = さあ、おやすみなさいだよ
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 目が冴えちゃった！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = あの子はいないけど、君はここにいるんだよね
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 疲れちゃったよぉ
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = もう…眠いのにぃ
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = いっぱい体動かしたら、よく眠れるかなぁ？
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 遊びにきてくれたの？でも、僕…なんだか、眠くて…ふわぁ～
+|CARD_TOP_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = いい気持ち～
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ふえぇっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ふわぁ
+|BATTLE_ATTACK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう。今日はね、ずっと眠らずに…君と……Zzz
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = おでかけじゃなくて、僕と一緒に眠ろう？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = もうあの子は…この世界にはいないんだね
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = なんだか、幸せな夢を見ている気分なんだ…
+|CARD_EVOLUTION_s_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ……おやすみなさい
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは……お昼寝するのに……よさそ……う
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ふぁぁああ……歓迎パーティ？……誰の？……僕かぁ
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = …ふわぁ…眠い…ん？なあに…？Zzz
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 僕のこと…そうなんだ…ふわぁ…じゃあ…一緒に寝よう…Zzz
+|AWARD_EVENT_FAVORITES_clip = 
+}}

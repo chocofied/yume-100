@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 2
+|name = Hinata
+|name_jp = ヒナタ
+|attribute = Cute
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 295
+|hp_max = 616
+|hp_break = 727
+|atk_base = 171
+|atk_max = 290
+|atk_break = 342
+|rp_base = 175
+|rp_max = 357
+|rp_break = 422
+|lskill_name = はじめての気持ち (The First Feeling)
+|lskill_desc = Increase Yellow HP & RP by 15%
+|skill_name = みーんなぼくのもの！(Everything Is Mine!)
+|skill_desc = Recovery of HP in accordance to RP (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 555
+|hp_max_s = 758
+|hp_break_s = 879
+|atk_base_s = 275
+|atk_max_s = 357
+|atk_break_s = 414
+|rp_base_s = 340
+|rp_max_s = 504
+|rp_break_s = 585
+|lskill_name_s = はじめての気持ち (The First Feeling)
+|lskill_desc_s = Increase Yellow HP & RP by 20%
+|skill_name_s = ずーっとぼくのもの！(Forever Mine!)
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 555
+|hp_max_m = 832
+|hp_break_m = 965
+|atk_base_m = 275
+|atk_max_m = 391
+|atk_break_m = 454
+|rp_base_m = 340
+|rp_max_m = 418
+|rp_break_m = 485
+|lskill_name_m = はじめての気持ち (The First Feeling)
+|lskill_desc_m = Increase Yellow HP & RP by 20%
+|skill_name_m = きみは、ぼくのもの！ (You Are Mine!)
+|skill_desc_m = Recovery of HP in accordance to RP (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Murase Ayumu
+|origin = Country of Toys - Fairbelk
+|age = 15
+|birth = March 05
+|likes = Meek adults
+|dislikes = Rebellious adults
+|policy = E~verything is mine!
+|desc = おもちゃの国のわがまま王子様。自分に手に入らないものはないと思っている。持っているぬいぐるみの名前は、モモちゃん。屈託のない性格だけど、少し腹黒い一面も持ち合わせている。
+|bg = 欲しい物は全て買い与えられてきたヒナタ。\\nあなたと出会い、初めて手に入らない物もあると知ったヒナタは？\\nそしてヒナタの変化に対してあなたは……？
+}}
+
+== Story ==
+{{Choice
+|title2 = きみは何が欲しいの？
+|choice21m = いただけないよ
+|points21m = 6
+|choice21s = 気持ちだけ…
+|points21s = 6
+|title3 = 大切にするということ
+|choice31s = 大切なんだね
+|points31s = 6
+|choice31m = いい顔してる
+|points31m = 6
+|choice32m = 聞いてみる
+|points32m = 3
+|choice32s = 聞かない
+|points32s = 3
+|title4 = 欲しいものは？
+|choice41m = 聞く
+|points41m = 12
+|choice41s = 聞かない
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_2s.jpg}}
+{{Still|text=Moon Still|img=Still_2m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en =Gooood morning~ Did you sleep well~!?
+|MAIN_TOP_MORNING_GREET_jp = おっはよ～、よく眠れた～！？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Hey, hey! Let's go shopping~! I'll buy anything for you! 
+|MAIN_TOP_AFTERNOON_GREET_jp = ねえねえ、買い物に行こうよ～！ぼくが何でも買ってあげる！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =*yawn*...I'm feeling sleepy... Right, Momo-chan? 
+|MAIN_TOP_EVENING_GREET_jp = ふわぁ…ぼく、眠くなってきちゃったよ。ねえ、モモちゃん？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en =There's no wish I can't grant! So if you want anything, just tell me! 
+|MAIN_TOP_TOUCH_1_jp = ぼくに叶えられないことはないから！お願いがあったら言ってね！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =You want to borrow Momo-chan? I don't mind if it's you♪ 
+|MAIN_TOP_TOUCH_2_jp = モモちゃん、貸してほしいの？きみだったら、いいよ♪
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en =What's wrong? You surprised me, geez! 
+|CARD_DETAIL_jp = どうしたの？びっくりしたなあ…もう！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =If it's you, I don't mind giving you my everything. 
+|MAIN_TOP_TOUCH_s_1_jp = きみになら、ぼくがもってるものぜーんぶ、あげてもいいよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =What is it~? I'll want to touch you too! 
+|MAIN_TOP_TOUCH_s_2_jp = なに～？ぼくも、きみに触れちゃうよー！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en =This is the first time I've felt like this. You are, very dear to me. 
+|CARD_DETAIL_s_jp = はじめてだよ、こんな気持ち。きみのことが、大切なんだ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =...What's wrong? Are you bothered by the fact that you became mine? 
+|MAIN_TOP_TOUCH_m_1_jp = …どうしたの？ぼくのものになってくれる気になった？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =Don't get hurt, okay? If my precious toy broke, I'll be sad. 
+|MAIN_TOP_TOUCH_m_2_jp = ケガしないでよ？大切なおもちゃが壊れちゃったら、悲しいからさ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =What? Do you want to become my toy that much? 
+|CARD_DETAIL_m_jp = 何？そんなにぼくのおもちゃになりたいのかな？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =What a pain~ Don't you think so, Momo-chan? 
+|BATTLE_START_jp = めんどくさいなあ～ね、モモちゃん！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =Did you get anything? 
+|BATTLE_RESULT_jp = 何か手に入った？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en =Amaziiing! I want you more and more! 
+|CHAIN_EXCELLENT_jp = すっごーい！きみのこと、ますます欲しくなっちゃう！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en =You're good! Momo-chan says that you're amazing too! 
+|CHAIN_GREAT_jp = 上手じゃん！モモちゃんもすごいって言ってるよ！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =Thanks! Come, let's go! 
+|CHAIN_NICE_jp = ありがと！さ、いっくぞー！
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en =Take that! 
+|BATTLE_ATTACK_jp = それっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Wah! 
+|BATTLE_DAMAGE_jp = わっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =Yaaay! Thank you! 
+|BATTLE_RECOVER_jp = わーい！ありがと！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =I would like it if you don't get in our way! 
+|SKILL_INVOKE_jp = ぼくたちの邪魔しないでほしいなあ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =I won't let you touch my precious thing! 
+|SKILL_INVOKE_s_jp = ぼくの大切なものには、触らせないよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en =Become my toy...! 
+|SKILL_INVOKE_m_jp = ぼくのおもちゃになりなよ…！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en =I'll turn you into a toy! 
+|BATTLE_FEVER_TIME_jp = おもちゃにしてやる！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =Eeh! There's still more? *sigh* 
+|BATTLE_TURN_END_jp = えーっ！まだいるの…はぁ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en =Are you hurt~ ? 
+|BATTLE_CLEAR_jp = ケガしてない～？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en =Hey hey, let's go and play already! 
+|CARD_TOP_jp = ねぇねぇ、早く遊びに行こうよー！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =Ahahah! This is getting fun! 
+|CARD_ENHANCE_jp = あははっなんだか楽しくなってきた！
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =What is this feeling? No matter what, I really want you. 
+|CARD_EVOLUTION_s_jp = なんだろう、この気持ち。君のこと、どうしても欲しいんだ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =I'll definitely get my hands on you...so be prepared. 
+|CARD_EVOLUTION_m_jp = 君のこと、絶対に手に入れるから…覚悟してね
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =I'll be fine even with just Momo-chan~! 
+|DECK_jp = ぼくとモモちゃんだけでも大丈夫だよ～！
+|DECK_clip = 
+|BIRTHDAY_en =Happy birthdaaaay! Candy, clothes, a castle; I'll buy anything for you♪♪ 
+|BIRTHDAY_jp = お誕生日おめでとー！服でもお菓子でもお城でも、何でも買ってあげる♪♪
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en =Yaaaay~♪ Thank you! Momo-chan is super happy too! 
+|WELCOME_PARTY_jp = わあ～い♪ありがとう！モモちゃんも、すっごく喜んでるよ！
+|WELCOME_PARTY_clip = 
+|GUILD_en =Everything here is mine right!? 
+|GUILD_jp = ここにあるもの、ぜ～んぶぼくのものだよね！？
+|GUILD_clip = 
+|FRIEND_DETAIL_en =Yoohoo! You want to become my friend too? Yeah, sure! Let's be friends! 
+|FRIEND_DETAIL_jp = やっほー！きみもぼくと友達になりたいの？うん、いいよ！なってあげる！
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en =Hey, hey! Of course, you're gonna pick me, right? Right, Momo-chan? 
+|AWARD_EVENT_NOMINATED_jp = ねえねえ、きみはもちろん！ぼくを選んでくれるよね？ねっモモちゃん！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =Yaaay~! Thank you! I love you sooo much!! 
+|AWARD_EVENT_FAVORITES_jp = わ～い、ありがとう！きみのことが、だ～いすき！！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

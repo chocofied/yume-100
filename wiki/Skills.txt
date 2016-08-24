@@ -1,0 +1,6848 @@
+== Guide ==
+=== Abbreviations ===
+HP - Hit Points
+<br />RP - Recovery Power
+<br />ATK - Attack
+=== Skill Ranks ===
+C - tiny
+<br />B - small
+<br />A - medium
+<br />S - great
+<br />SS - super
+<br />SSS - ultimate
+
+== Prince Skills ==
+{|class="wikitable sortable"
+!No.
+!class="unsortable"|Image
+!Name
+!Attribute
+!Route
+!Leader Skill
+!Skill
+|-
+|1
+|[[File:1_t.png|80px]]
+|[[Avi]]<br />アヴィ
+|Passion
+|Normal
+|Increase Red ATK by 25%
+|Erase middle column beads (A)
+|-
+|1
+|[[File:1s_t.png|80px]]
+|[[Avi]]<br />アヴィ
+|Passion
+|Sun
+|Increase Red ATK by 35%
+|Erase middle column beads (S)
+|-
+|1
+|[[File:1m_t.png|80px]]
+|[[Avi]]<br />アヴィ
+|Passion
+|Moon
+|Increase Red ATK by 35%
+|Erase middle column beads (S)
+|-
+|2
+|[[File:2_t.png|80px]]
+|[[Hinata]]<br />ヒナタ
+|Cute
+|Normal
+|Increase Yellow HP & RP by15%
+|Recovery of HP in accordance to RP (A)
+|-
+|2
+|[[File:2s_t.png|80px]]
+|[[Hinata]]<br />ヒナタ
+|Cute
+|Sun
+|Increase Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|2
+|[[File:2m_t.png|80px]]
+|[[Hinata]]<br />ヒナタ
+|Cute
+|Moon
+|Increase Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|3
+|[[File:3_t.png|80px]]
+|[[Byakuyo]]<br />白葉
+|Sexy
+|Normal
+|Increase Purple ATK by 25%
+|Increase Purple beads appearance rate (A)
+|-
+|3
+|[[File:3s_t.png|80px]]
+|[[Byakuyo]]<br />白葉
+|Sexy
+|Sun
+|Increase Purple ATK by 35%
+|Increase Purple beads appearance rate (S)
+|-
+|3
+|[[File:3m_t.png|80px]]
+|[[Byakuyo]]<br />白葉
+|Sexy
+|Moon
+|Increase Purple ATK by 35%
+|Increase Purple beads appearance rate (S)
+|-
+|4
+|[[File:4_t.png|80px]]
+|[[Shigure]]<br />紫雨
+|Gentle
+|Normal
+|Reduce Purple damage by 10%
+|Erase beads on top row (A)
+|-
+|4
+|[[File:4s_t.png|80px]]
+|[[Shigure]]<br />紫雨
+|Gentle
+|Sun
+|Reduce Purple damage by 15%
+|Erase beads on top row (S)
+|-
+|4
+|[[File:4m_t.png|80px]]
+|[[Shigure]]<br />紫雨
+|Gentle
+|Moon
+|Reduce Purple damage by 15%
+|Erase beads on top row (S)
+|-
+|5
+|[[File:5_t.png|80px]]
+|[[Kairi]]<br />カイリ
+|Cool
+|Normal
+|Increase Blue ATK by 25%
+|Erase random beads (A)
+|-
+|5
+|[[File:5s_t.png|80px]]
+|[[Kairi]]<br />カイリ
+|Cool
+|Sun
+|Increase Blue ATK by 35%
+|Erase random beads (S)
+|-
+|5
+|[[File:5m_t.png|80px]]
+|[[Kairi]]<br />カイリ
+|Cool
+|Moon
+|Increase Blue ATK by 35%
+|Erase random beads (S)
+|-
+|6
+|[[File:6_t.png|80px]]
+|[[Lid]]<br />リド
+|Cute
+|Normal
+|Increase Yellow ATK by 25%
+|Turn beads into bombs (2)
+|-
+|6
+|[[File:6s_t.png|80px]]
+|[[Lid]]<br />リド
+|Cute
+|Sun
+|Increase Yellow ATK by 35%
+|Turn beads into bombs (3)
+|-
+|6
+|[[File:6m_t.png|80px]]
+|[[Lid]]<br />リド
+|Cute
+|Moon
+|Increase Yellow ATK by 35%
+|Turn beads into bombs (3)
+|-
+|7
+|[[File:7_t.png|80px]]
+|[[Apis]]<br />アピス
+|Sexy
+|Normal
+|Increase Purple HP & RP by 15%
+|Turn Yellow beads into Purple
+|-
+|7
+|[[File:7s_t.png|80px]]
+|[[Apis]]<br />アピス
+|Sexy
+|Sun
+|Increase Purple HP & RP by 20%
+|Turn Yellow beads into Purple
+|-
+|7
+|[[File:7m_t.png|80px]]
+|[[Apis]]<br />アピス
+|Sexy
+|Moon
+|Increase Purple HP & RP by 20%
+|Turn Yellow beads into Purple
+|-
+|8
+|[[File:8_t.png|80px]]
+|[[Vim]]<br />ヴィム
+|Cool
+|Normal
+|Increase Blue HP & RP by 15%
+|Turn Green beads into Blue
+|-
+|8
+|[[File:8s_t.png|80px]]
+|[[Vim]]<br />ヴィム
+|Cool
+|Sun
+|Increase Blue HP & RP by 20%
+|Turn Green beads into Blue
+|-
+|8
+|[[File:8m_t.png|80px]]
+|[[Vim]]<br />ヴィム
+|Cool
+|Moon
+|Increase Blue HP & RP by 20%
+|Turn Green beads into Blue
+|-
+|9
+|[[File:9_t.png|80px]]
+|[[Rufen]]<br />ルーフェン
+|Passion
+|Normal
+|Increase Red HP & RP by 15%
+|Recover HP every turn (A)
+|-
+|9
+|[[File:9s_t.png|80px]]
+|[[Rufen]]<br />ルーフェン
+|Passion
+|Sun
+|Increase Red HP & RP by 20%
+|Recover HP every turn (S)
+|-
+|9
+|[[File:9m_t.png|80px]]
+|[[Rufen]]<br />ルーフェン
+|Passion
+|Moon
+|Increase Red HP & RP by 20%
+|Recover HP every turn (S)
+|-
+|10
+|[[File:10_t.png|80px]]
+|[[Drei]]<br />ドライ
+|Cool
+|Normal
+|Reduce Blue damage by 10%
+|Turn beads into bombs (2)
+|-
+|10
+|[[File:10s_t.png|80px]]
+|[[Drei]]<br />ドライ
+|Cool
+|Sun
+|Reduce Blue damage by 15%
+|Turn beads into bombs (3)
+|-
+|10
+|[[File:10m_t.png|80px]]
+|[[Drei]]<br />ドライ
+|Cool
+|Moon
+|Reduce Blue damage by 15%
+|Turn beads into bombs (3)
+|-
+|11
+|[[File:11_t.png|80px]]
+|[[Sky]]<br />澄快
+|Passion
+|Normal
+|Hold on for one more hit after HP reaches 0
+|Turn Blue beads into Red
+|-
+|11
+|[[File:11s_t.png|80px]]
+|[[Sky]]<br />澄快
+|Passion
+|Sun
+|Hold on for one more hit after HP reaches 0
+|Turn Blue beads into Red
+|-
+|11
+|[[File:11m_t.png|80px]]
+|[[Sky]]<br />澄快
+|Passion
+|Moon
+|Hold on for one more hit after HP reaches 0
+|Turn Blue beads into Red
+|-
+|12
+|[[File:12_t.png|80px]]
+|[[Sakia]]<br />サキア
+|Cute
+|Normal
+|Additional damage after attack (A)
+|Increase Yellow beads appearance rate (A)
+|-
+|12
+|[[File:12s_t.png|80px]]
+|[[Sakia]]<br />サキア
+|Cute
+|Sun
+|Additional damage after attack (S)
+|Increase Yellow beads appearance rate (S)
+|-
+|12
+|[[File:12m_t.png|80px]]
+|[[Sakia]]<br />サキア
+|Cute
+|Moon
+|Additional damage after attack (S)
+|Increase Yellow beads appearance rate (S)
+|-
+|13
+|[[File:13_t.png|80px]]
+|[[Totori]]<br />トトリ
+|Gentle
+|Normal
+|Increase Green HP & RP by 15%
+|Recover time (2s)
+|-
+|13
+|[[File:13s_t.png|80px]]
+|[[Totori]]<br />トトリ
+|Gentle
+|Sun
+|Increase Green HP & RP by 20%
+|Recover time (2s)
+|-
+|13
+|[[File:13m_t.png|80px]]
+|[[Totori]]<br />トトリ
+|Gentle
+|Moon
+|Increase Green HP & RP by 20%
+|Recover time (2s)
+|-
+|14
+|[[File:14_t.png|80px]]
+|[[Sirius]]<br />シリウス
+|Passion
+|Normal
+|Reduce Red damage by 10%
+|Erase random beads (A)
+|-
+|14
+|[[File:14s_t.png|80px]]
+|[[Sirius]]<br />シリウス
+|Passion
+|Sun
+|Reduce Red damage by 15%
+|Erase random beads (S)
+|-
+|14
+|[[File:14m_t.png|80px]]
+|[[Sirius]]<br />シリウス
+|Passion
+|Moon
+|Reduce Red damage by 15%
+|Erase random beads (S)
+|-
+|15
+|[[File:15_t.png|80px]]
+|[[Rolf]]<br />ロルフ
+|Cute
+|Normal
+|Reduce Yellow damage by 10%
+|Turn Purple beads into Yellow
+|-
+|15
+|[[File:15s_t.png|80px]]
+|[[Rolf]]<br />ロルフ
+|Cute
+|Sun
+|Reduce Yellow damage by 15%
+|Turn Purple beads into Yellow
+|-
+|15
+|[[File:15m_t.png|80px]]
+|[[Rolf]]<br />ロルフ
+|Cute
+|Moon
+|Reduce Yellow damage by 15%
+|Turn Purple beads into Yellow
+|-
+|16
+|[[File:16_t.png|80px]]
+|[[Zwei]]<br />ツヴァイ
+|Gentle
+|Normal
+|Increase Green ATK by 25%
+|Turn Red beads into Green
+|-
+|16
+|[[File:16s_t.png|80px]]
+|[[Zwei]]<br />ツヴァイ
+|Gentle
+|Sun
+|Increase Green ATK by 35%
+|Turn Red beads into Green
+|-
+|16
+|[[File:16m_t.png|80px]]
+|[[Zwei]]<br />ツヴァイ
+|Gentle
+|Moon
+|Increase Green ATK by 35%
+|Turn Red beads into Green
+|-
+|17
+|[[File:17_t.png|80px]]
+|[[Guido]]<br />グウィード
+|Sexy
+|Normal
+|Reduce Purple damage by 10%
+|Erase middle row beads (A)
+|-
+|17
+|[[File:17s_t.png|80px]]
+|[[Guido]]<br />グウィード
+|Sexy
+|Sun
+|Reduce Purple damage by 15%
+|Erase middle row beads (S)
+|-
+|17
+|[[File:17m_t.png|80px]]
+|[[Guido]]<br />グウィード
+|Sexy
+|Moon
+|Reduce Purple damage by 15%
+|Erase middle row beads (S)
+|-
+|18
+|[[File:18_t.png|80px]]
+|[[Forma]]<br />フォーマ
+|Cool
+|Normal
+|Increase Blue ATK by 25%
+|Recover time (2s)
+|-
+|18
+|[[File:18s_t.png|80px]]
+|[[Forma]]<br />フォーマ
+|Cool
+|Sun
+|Increase Blue ATK by 35%
+|Recover time (2s)
+|-
+|18
+|[[File:18m_t.png|80px]]
+|[[Forma]]<br />フォーマ
+|Cool
+|Moon
+|Increase Blue ATK by 35%
+|Recover time (2s)
+|-
+|19
+|[[File:19_t.png|80px]]
+|[[Raith]]<br />レイス
+|Sexy
+|Normal
+|Increase Gold by 15%
+|Erase bottom beads (A)
+|-
+|19
+|[[File:19s_t.png|80px]]
+|[[Raith]]<br />レイス
+|Sexy
+|Sun
+|Increase Gold by 20%
+|Erase bottom beads (S)
+|-
+|19
+|[[File:19m_t.png|80px]]
+|[[Raith]]<br />レイス
+|Sexy
+|Moon
+|Increase Gold by 20%
+|Erase bottom beads (S)
+|-
+|20
+|[[File:20_t.png|80px]]
+|[[Alfred]]<br />アルフレッド
+|Sexy
+|Normal
+|Recover HP every turn (A)
+|Erase beads on left side (A)
+|-
+|20
+|[[File:20s_t.png|80px]]
+|[[Alfred]]<br />アルフレッド
+|Sexy
+|Sun
+|Recover HP every turn (S)
+|Erase beads on left side (S)
+|-
+|20
+|[[File:20m_t.png|80px]]
+|[[Alfred]]<br />アルフレッド
+|Sexy
+|Moon
+|Recover HP every turn (S)
+|Erase beads on left side (S)
+|-
+|21
+|[[File:21_t.png|80px]]
+|[[Toni]]<br />トニ
+|Cute
+|Normal
+|None
+|Recover time (1s)
+|-
+|21
+|[[File:21s_t.png|80px]]
+|[[Toni]]<br />トニ
+|Cute
+|Sun
+|None
+|Recover time (1s)
+|-
+|21
+|[[File:21m_t.png|80px]]
+|[[Toni]]<br />トニ
+|Cute
+|Moon
+|None
+|Recover time (1s)
+|-
+|22
+|[[File:22_t.png|80px]]
+|[[Medi]]<br />メディ
+|Sexy
+|Normal
+|None
+|Recover 300 HP
+|-
+|22
+|[[File:22s_t.png|80px]]
+|[[Medi]]<br />メディ
+|Sexy
+|Sun
+|None
+|Recover 400 HP
+|-
+|22
+|[[File:22m_t.png|80px]]
+|[[Medi]]<br />メディ
+|Sexy
+|Moon
+|None
+|Recover 400 HP
+|-
+|23
+|[[File:23_t.png|80px]]
+|[[Carlo]]<br />カルロ
+|Cool
+|Normal
+|None
+|Turn beads into bombs (1)
+|-
+|23
+|[[File:23s_t.png|80px]]
+|[[Carlo]]<br />カルロ
+|Cool
+|Sun
+|None
+|Turn beads into bombs (1)
+|-
+|23
+|[[File:23m_t.png|80px]]
+|[[Carlo]]<br />カルロ
+|Cool
+|Moon
+|None
+|Turn beads into bombs (1)
+|-
+|24
+|[[File:24_t.png|80px]]
+|[[Cohen]]<br />コーエン
+|Gentle
+|Normal
+|None
+|Erase bottom beads (C)
+|-
+|24
+|[[File:24s_t.png|80px]]
+|[[Cohen]]<br />コーエン
+|Gentle
+|Sun
+|None
+|Erase bottom beads (A)
+|-
+|24
+|[[File:24m_t.png|80px]]
+|[[Cohen]]<br />コーエン
+|Gentle
+|Moon
+|None
+|Erase bottom beads (A)
+|-
+|25
+|[[File:25_t.png|80px]]
+|[[Randa]]<br />ランダ
+|Passion
+|Normal
+|None
+|Erase right side beads (C)
+|-
+|25
+|[[File:25s_t.png|80px]]
+|[[Randa]]<br />ランダ
+|Passion
+|Sun
+|None
+|Erase right side beads (B)
+|-
+|25
+|[[File:25m_t.png|80px]]
+|[[Randa]]<br />ランダ
+|Passion
+|Moon
+|None
+|Erase right side beads (B)
+|-
+|26
+|[[File:26_t.png|80px]]
+|[[Sharon]]<br />シャロン
+|Passion
+|Normal
+|Increase Gold by 10%
+|Erase top beads (B)
+|-
+|26
+|[[File:26s_t.png|80px]]
+|[[Sharon]]<br />シャロン
+|Passion
+|Sun
+|Increase Gold by 15%
+|Erase beads on top row (A)
+|-
+|26
+|[[File:26m_t.png|80px]]
+|[[Sharon]]<br />シャロン
+|Passion
+|Moon
+|Increase Gold by 15%
+|Erase beads on top row (A)
+|-
+|27
+|[[File:27_t.png|80px]]
+|[[Lian]]<br />ライアン
+|Cool
+|Normal
+|Hold on for one more hit after HP reaches 0
+|Erase middle row beads (B)
+|-
+|27
+|[[File:27s_t.png|80px]]
+|[[Lian]]<br />ライアン
+|Cool
+|Sun
+|Hold on for one more hit after HP reaches 0
+|Erase middle row beads (A)
+|-
+|27
+|[[File:27m_t.png|80px]]
+|[[Lian]]<br />ライアン
+|Cool
+|Moon
+|Hold on for one more hit after HP reaches 0
+|Erase middle row beads (A)
+|-
+|28
+|[[File:28_t.png|80px]]
+|[[Spica]]<br />スピカ
+|Cool
+|Normal
+|Increase Blue ATK by 15%
+|Increase Blue beads appearance rate (B)
+|-
+|28
+|[[File:28s_t.png|80px]]
+|[[Spica]]<br />スピカ
+|Cool
+|Sun
+|Increase Blue ATK by 25%
+|Increase Blue beads appearance rate (A)
+|-
+|28
+|[[File:28m_t.png|80px]]
+|[[Spica]]<br />スピカ
+|Cool
+|Moon
+|Increase Blue ATK by 25%
+|Increase Blue beads appearance rate (A)
+|-
+|29
+|[[File:29_t.png|80px]]
+|[[Aldebaran]]<br />アルデバラン
+|Cute
+|Normal
+|Increase Yellow ATK by 15%
+|Recovery of HP in accordance to RP (B)
+|-
+|29
+|[[File:29s_t.png|80px]]
+|[[Aldebaran]]<br />アルデバラン
+|Cute
+|Sun
+|Increase Yellow ATK by 25%
+|Recovery of HP in accordance to RP (A)
+|-
+|29
+|[[File:29m_t.png|80px]]
+|[[Aldebaran]]<br />アルデバラン
+|Cute
+|Moon
+|Increase Yellow ATK by 25%
+|Recovery of HP in accordance to RP (A)
+|-
+|30
+|[[File:30_t.png|80px]]
+|[[Antares]]<br />アンタレス
+|Sexy
+|Normal
+|Increase Purple ATK by 15%
+|Erase right side beads (B)
+|-
+|30
+|[[File:30s_t.png|80px]]
+|[[Antares]]<br />アンタレス
+|Sexy
+|Sun
+|Increase Purple ATK by 25%
+|Erase right side beads (A)
+|-
+|30
+|[[File:30m_t.png|80px]]
+|[[Antares]]<br />アンタレス
+|Sexy
+|Moon
+|Increase Purple ATK by 25%
+|Erase right side beads (A)
+|-
+|31
+|[[File:31_t.png|80px]]
+|[[Stimma]]<br />シュティマ
+|Passion
+|Normal
+|Increase Red HP & RP by 10%
+|Recover time (1s)
+|-
+|31
+|[[File:31s_t.png|80px]]
+|[[Stimma]]<br />シュティマ
+|Passion
+|Sun
+|Increase Red HP & RP by 15%
+|Recover time (1s)
+|-
+|31
+|[[File:31m_t.png|80px]]
+|[[Stimma]]<br />シュティマ
+|Passion
+|Moon
+|Increase Red HP & RP by 15%
+|Recover time (1s)
+|-
+|32
+|[[File:32_t.png|80px]]
+|[[Flu]]<br />フリュー
+|Gentle
+|Normal
+|Increase Green ATK by 15%
+|Recover 400 HP
+|-
+|32
+|[[File:32s_t.png|80px]]
+|[[Flu]]<br />フリュー
+|Gentle
+|Sun
+|Increase Green ATK by 25%
+|Recover 600 HP
+|-
+|32
+|[[File:32m_t.png|80px]]
+|[[Flu]]<br />フリュー
+|Gentle
+|Moon
+|Increase Green ATK by 25%
+|Recover 600 HP
+|-
+|33
+|[[File:33_t.png|80px]]
+|[[Lied]]<br />リード
+|Sexy
+|Normal
+|Increase Purple HP & RP by 10%
+|Erase left side beads (B)
+|-
+|33
+|[[File:33s_t.png|80px]]
+|[[Lied]]<br />リード
+|Sexy
+|Sun
+|Increase Purple HP & RP by 15%
+|Erase left side beads (A)
+|-
+|33
+|[[File:33m_t.png|80px]]
+|[[Lied]]<br />リード
+|Sexy
+|Moon
+|Increase Purple HP & RP by 15%
+|Erase left side beads (A)
+|-
+|34
+|[[File:34_t.png|80px]]
+|[[Luke]]<br />ルーク
+|Gentle
+|Normal
+|None
+|Erase random beads (B)
+|-
+|34
+|[[File:34s_t.png|80px]]
+|[[Luke]]<br />ルーク
+|Gentle
+|Sun
+|None
+|Erase random beads (A)
+|-
+|34
+|[[File:34m_t.png|80px]]
+|[[Luke]]<br />ルーク
+|Gentle
+|Moon
+|None
+|Erase random beads (A)
+|-
+|35
+|[[File:35_t.png|80px]]
+|[[Kaine]]<br />カイネ
+|Cute
+|Normal
+|Increase Yellow HP & RP by 10%
+|Erase random beads (B)
+|-
+|35
+|[[File:35s_t.png|80px]]
+|[[Kaine]]<br />カイネ
+|Cute
+|Sun
+|Increase Yellow HP & RP by 15%
+|Erase random beads (A)
+|-
+|35
+|[[File:35m_t.png|80px]]
+|[[Kaine]]<br />カイネ
+|Cute
+|Moon
+|Increase Yellow HP & RP by 15%
+|Erase random beads (A)
+|-
+|36
+|[[File:36_t.png|80px]]
+|[[Kotohogi]]<br />言祝
+|Gentle
+|Normal
+|Increase Green ATK by 25%
+|Recover HP every turn (A)
+|-
+|36
+|[[File:36s_t.png|80px]]
+|[[Kotohogi]]<br />言祝
+|Gentle
+|Sun
+|Increase Green ATK by 35%
+|Recover HP every turn (S)
+|-
+|36
+|[[File:36m_t.png|80px]]
+|[[Kotohogi]]<br />言祝
+|Gentle
+|Moon
+|Increase Green ATK by 35%
+|Recover HP every turn (S)
+|-
+|37
+|[[File:37_t.png|80px]]
+|[[Jay]]<br />ジェイ
+|Gentle
+|Normal
+|Recover HP every turn (A)
+|Recovery of HP in accordance to RP (A)
+|-
+|37
+|[[File:37s_t.png|80px]]
+|[[Jay]]<br />ジェイ
+|Gentle
+|Sun
+|Recover HP every turn (S)
+|Recovery of HP in accordance to RP (S)
+|-
+|37
+|[[File:37m_t.png|80px]]
+|[[Jay]]<br />ジェイ
+|Gentle
+|Moon
+|Recover HP every turn (S)
+|Recovery of HP in accordance to RP (S)
+|-
+|38
+|[[File:38_t.png|80px]]
+|[[Eins]]<br />アインツ
+|Passion
+|Normal
+|Recover HP every turn (A)
+|Increase Red beads appearance rate (A)
+|-
+|38
+|[[File:38s_t.png|80px]]
+|[[Eins]]<br />アインツ
+|Passion
+|Sun
+|Recover HP every turn (S)
+|Increase Red beads appearance rate (S)
+|-
+|38
+|[[File:38m_t.png|80px]]
+|[[Eins]]<br />アインツ
+|Passion
+|Moon
+|Recover HP every turn (S)
+|Increase Red beads appearance rate (S)
+|-
+|39
+|[[File:39_t.png|80px]]
+|[[Crown]]<br />クラウン
+|Sexy
+|Normal
+|Increase Gold by 15%
+|Recovery of HP in accordance to RP (A)
+|-
+|39
+|[[File:39s_t.png|80px]]
+|[[Crown]]<br />クラウン
+|Sexy
+|Sun
+|Increase Gold by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|39
+|[[File:39m_t.png|80px]]
+|[[Crown]]<br />クラウン
+|Sexy
+|Moon
+|Increase Gold by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|40
+|[[File:40_t.png|80px]]
+|[[Miya]]<br />ミヤ
+|Cute
+|Normal
+|Increase Yellow ATK by 35%
+|Increase time (2s)
+|-
+|40
+|[[File:40s_t.png|80px]]
+|[[Miya]]<br />ミヤ
+|Cute
+|Sun
+|Increase Yellow ATK by 50%
+|Recover time (3s)
+|-
+|40
+|[[File:40m_t.png|80px]]
+|[[Miya]]<br />ミヤ
+|Cute
+|Moon
+|Increase Yellow ATK by 50%
+|Recover time (3s)
+|-
+|41
+|[[File:41_t.png|80px]]
+|[[Iria]]<br />イリア
+|Gentle
+|Normal
+|Increase Green HP & RP by 20%
+|Turn Red beads into Green
+|-
+|41
+|[[File:41s_t.png|80px]]
+|[[Iria]]<br />イリア
+|Gentle
+|Sun
+|Increase Green HP & RP by 25%
+|Turn Red beads into Green
+|-
+|41
+|[[File:41m_t.png|80px]]
+|[[Iria]]<br />イリア
+|Gentle
+|Moon
+|Increase Green HP & RP by 25%
+|Turn Red beads into Green
+|-
+|42
+|[[File:42_t.png|80px]]
+|[[Michiru]]<br />ミチル
+|Cute
+|Normal
+|Increase Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|42
+|[[File:42s_t.png|80px]]
+|[[Michiru]]<br />ミチル
+|Cute
+|Sun
+|Increase Yellow HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|42
+|[[File:42m_t.png|80px]]
+|[[Michiru]]<br />ミチル
+|Cute
+|Moon
+|Increase Yellow HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|43
+|[[File:43_t.png|80px]]
+|[[Vairy]]<br />ヴァイリー
+|Passion
+|Normal
+|Increase Red ATK by 35%
+|Erase left side beads (S)
+|-
+|43
+|[[File:43s_t.png|80px]]
+|[[Vairy]]<br />ヴァイリー
+|Passion
+|Sun
+|Increase Red ATK by 50%
+|Erase left side beads (SS)
+|-
+|43
+|[[File:43m_t.png|80px]]
+|[[Vairy]]<br />ヴァイリー
+|Passion
+|Moon
+|Increase Red ATK by 50%
+|Erase left side beads (SS)
+|-
+|44
+|[[File:44_t.png|80px]]
+|[[Sieg]]<br />ジーク
+|Gentle
+|Normal
+|Increase Green ATK by 35%
+|Erase all Green beads
+|-
+|44
+|[[File:44s_t.png|80px]]
+|[[Sieg]]<br />ジーク
+|Gentle
+|Sun
+|Increase Green ATK by 50%
+|Erase all Green beads
+|-
+|44
+|[[File:44m_t.png|80px]]
+|[[Sieg]]<br />ジーク
+|Gentle
+|Moon
+|Increase Green ATK by 50%
+|Erase all Green beads
+|-
+|45
+|[[File:45_t.png|80px]]
+|[[Tiga]]<br />ティーガ
+|Passion
+|Normal
+|Increase Red HP & RP by 20%
+|Erase middle column beads (S)
+|-
+|45
+|[[File:45s_t.png|80px]]
+|[[Tiga]]<br />ティーガ
+|Passion
+|Sun
+|Increase Red HP & RP by 25%
+|Erase middle column beads (SS)
+|-
+|45
+|[[File:45m_t.png|80px]]
+|[[Tiga]]<br />ティーガ
+|Passion
+|Moon
+|Increase Red HP & RP by 25%
+|Erase middle column beads (SS)
+|-
+|46
+|[[File:46_t.png|80px]]
+|[[Sai]]<br />サイ
+|Cool
+|Normal
+|Increase Blue ATK by 35%
+|Erase random beads (S)
+|-
+|46
+|[[File:46s_t.png|80px]]
+|[[Sai]]<br />サイ
+|Cool
+|Sun
+|Increase Blue ATK by 50%
+|Erase random beads (SS)
+|-
+|46
+|[[File:46m_t.png|80px]]
+|[[Sai]]<br />サイ
+|Cool
+|Moon
+|Increase Blue ATK by 50%
+|Erase random beads (SS)
+|-
+|47
+|[[File:47_t.png|80px]]
+|[[Tormari]]<br />トルマリ
+|Passion
+|Normal
+|Increase Red HP & RP by 20%
+|Recover HP every turn (S)
+|-
+|47
+|[[File:47s_t.png|80px]]
+|[[Tormari]]<br />トルマリ
+|Passion
+|Sun
+|Increase Red HP & RP by 25%
+|Recover HP every turn (SS)
+|-
+|47
+|[[File:47m_t.png|80px]]
+|[[Tormari]]<br />トルマリ
+|Passion
+|Moon
+|Increase Red HP & RP by 25%
+|Recover HP every turn (SS)
+|-
+|48
+|[[File:48_t.png|80px]]
+|[[Almari]]<br />アルマリ
+|Cool
+|Normal
+|Recover HP every turn (S)
+|Turn Green beads into Blue
+|-
+|48
+|[[File:48s_t.png|80px]]
+|[[Almari]]<br />アルマリ
+|Cool
+|Sun
+|Recover HP every turn (SS)
+|Turn Green beads into Blue
+|-
+|48
+|[[File:48m_t.png|80px]]
+|[[Almari]]<br />アルマリ
+|Cool
+|Moon
+|Recover HP every turn (SS)
+|Turn Green beads into Blue
+|-
+|49
+|[[File:49_t.png|80px]]
+|[[Kies]]<br />キース
+|Cool
+|Normal
+|Additional damage after ATK (S)
+|Erase all Blue beads
+|-
+|49
+|[[File:49s_t.png|80px]]
+|[[Kies]]<br />キース
+|Cool
+|Sun
+|Additional damage after ATK (SS)
+|Erase all Blue beads
+|-
+|49
+|[[File:49m_t.png|80px]]
+|[[Kies]]<br />キース
+|Cool
+|Moon
+|Additional damage after ATK (SS)
+|Erase all Blue beads
+|-
+|50
+|[[File:50_t.png|80px]]
+|[[Haku]]<br />ハク
+|Sexy
+|Normal
+|Increase Purple ATK by 35%
+|Recovery of HP in accordance to RP (S)
+|-
+|50
+|[[File:50s_t.png|80px]]
+|[[Haku]]<br />ハク
+|Sexy
+|Sun
+|Increase Purple ATK by 50%
+|Recovery of HP in accordance to RP (SS)
+|-
+|50
+|[[File:50m_t.png|80px]]
+|[[Haku]]<br />ハク
+|Sexy
+|Moon
+|Increase Purple ATK by 50%
+|Recovery of HP in accordance to RP (SS)
+|-
+|51
+|[[File:51_t.png|80px]]
+|[[Sefir]]<br />セフィル
+|Gentle
+|Normal
+|Increase Party HP & RP by 15%
+|Recovery of HP in accordance to Party RP (SS)
+|-
+|51
+|[[File:51s_t.png|80px]]
+|[[Sefir]]<br />セフィル
+|Gentle
+|Sun
+|Increase Party HP & RP by 20%
+|Recover party's Skill Gauge and HP
+|-
+|51
+|[[File:51m_t.png|80px]]
+|[[Sefir]]<br />セフィル
+|Gentle
+|Moon
+|Increase Party HP & RP by 15% and ATK by 10%
+|Recovery of HP in accordance to Party RP (SS)
+|-
+|52
+|[[File:52_t.png|80px]]
+|[[Orion]]<br />オリオン
+|Sexy
+|Normal
+|Increase Purple ATK by 50%
+|Erase bottom beads (SS)
+|-
+|52
+|[[File:52s_t.png|80px]]
+|[[Orion]]<br />オリオン
+|Sexy
+|Sun
+|Increase Purple ATK by 65%
+|Erase bottom beads and increase Purple beads appearance rate
+|-
+|52
+|[[File:52m_t.png|80px]]
+|[[Orion]]<br />オリオン
+|Sexy
+|Moon
+|Increase Purple ATK by 50% and HP increase 10%
+|Erase bottom beads (SSS)
+|-
+|53
+|[[File:53_t.png|80px]]
+|[[Gary]]<br />ゲイリー
+|Gentle
+|Normal
+|Increase Green ATK by 50%
+|Erase middle beads (SS)
+|-
+|53
+|[[File:53s_t.png|80px]]
+|[[Gary]]<br />ゲイリー
+|Gentle
+|Sun
+|Increase Green ATK by 50% and RP increase 10%
+|Erase middle beads (SSS)
+|-
+|53
+|[[File:53m_t.png|80px]]
+|[[Gary]]<br />ゲイリー
+|Gentle
+|Moon
+|Increase Green ATK by 65%
+|Erase middle beads, increase ATK for 1 turn
+|-
+|54
+|[[File:54_t.png|80px]]
+|[[Girbert]]<br />ギルバート
+|Cool
+|Normal
+|Increase Blue ATK by 50%
+|Change beads to bombs and hearts
+|-
+|54
+|[[File:54s_t.png|80px]]
+|[[Girbert]]<br />ギルバート
+|Cool
+|Sun
+|Increase Blue ATK by 65%
+|Change beads to bombs and hearts
+|-
+|54
+|[[File:54m_t.png|80px]]
+|[[Girbert]]<br />ギルバート
+|Cool
+|Moon
+|Increase Blue ATK by 50% and HP increase 10%
+|Change beads to bombs and hearts
+|-
+|55
+|[[File:55_t.png|80px]]
+|[[Haldine]]<br />ハルディーン
+|Passion
+|Normal
+|Increase Red ATK by 50%
+|Erase right side beads (SS)
+|-
+|55
+|[[File:55s_t.png|80px]]
+|[[Haldine]]<br />ハルディーン
+|Passion
+|Sun
+|Increase Red ATK by 50% and HP increase 10%
+|Erase right side beads (SSS)
+|-
+|55
+|[[File:55m_t.png|80px]]
+|[[Haldine]]<br />ハルディーン
+|Passion
+|Moon
+|Increase Red ATK by 65%
+|Erase right side beads and insert bombs
+|-
+|56
+|[[File:56_t.png|80px]]
+|[[Joshua]]<br />ジョシュア
+|Cool
+|Normal
+|Increase Party ATK by 20%
+|Erase random beads (SS)
+|-
+|56
+|[[File:56s_t.png|80px]]
+|[[Joshua]]<br />ジョシュア
+|Cool
+|Sun
+|Increase Party ATK by 25%
+|Erase random beads (SSS)
+|-
+|56
+|[[File:56m_t.png|80px]]
+|[[Joshua]]<br />ジョシュア
+|Cool
+|Moon
+|Increase Party ATK by 20% and HP by 5%
+|Erase random beads and insert bombs
+|-
+|57
+|[[File:57_t.png|80px]]
+|[[Peco]]<br />ペコ
+|Cute
+|Normal
+|Increase Yellow HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|57
+|[[File:57s_t.png|80px]]
+|[[Peco]]<br />ペコ
+|Cute
+|Sun
+|Increase Yellow HP & RP by 25% and ATK by 15%
+|Recovery of HP in accordance to RP (SSS)
+|-
+|57
+|[[File:57m_t.png|80px]]
+|[[Peco]]<br />ペコ
+|Cute
+|Moon
+|Increase Yellow HP & RP by 25% and ATK by 15%
+|Recover HP and insert hearts
+|-
+|58
+|[[File:58_t.png|80px]]
+|[[Castor]]<br />カストル
+|Sexy
+|Normal
+|Increase Purple HP & RP by 20%
+|Recover HP every turn (S)
+|-
+|58
+|[[File:58s_t.png|80px]]
+|[[Castor]]<br />カストル
+|Sexy
+|Sun
+|Increase Purple HP & RP by 25%
+|Recover HP every turn (SS)
+|-
+|58
+|[[File:58m_t.png|80px]]
+|[[Castor]]<br />カストル
+|Sexy
+|Moon
+|Increase Purple HP & RP by 25%
+|Recover HP every turn (SS)
+|-
+|59
+|[[File:59_t.png|80px]]
+|[[Graysia]]<br />グレイシア
+|Passion
+|Normal
+|Increase Red HP & RP by 25%
+|Turn beads into bombs (4)
+|-
+|59
+|[[File:59s_t.png|80px]]
+|[[Graysia]]<br />グレイシア
+|Passion
+|Sun
+|Increase Purple HP & RP by 30%
+|Turn beads into bombs (5)
+|-
+|59
+|[[File:59m_t.png|80px]]
+|[[Graysia]]<br />グレイシア
+|Passion
+|Moon
+|Increase Red HP & RP by 25% and ATK by 15%
+|Turn beads into bombs (5)
+|-
+|60
+|[[File:60_t.png|80px]]
+|[[Synny]]<br />シュニー
+|Cute
+|Normal
+|Increase Yellow HP & RP by 20%
+|Erase bottom beads (S)
+|-
+|60
+|[[File:60s_t.png|80px]]
+|[[Synny]]<br />シュニー
+|Cute
+|Sun
+|Increase Yellow HP & RP by 25%
+|Erase bottom beads (SS)
+|-
+|60
+|[[File:60m_t.png|80px]]
+|[[Synny]]<br />シュニー
+|Cute
+|Moon
+|Increase Yellow HP & RP by 25%
+|Erase bottom beads (SS)
+|-
+|61
+|[[File:61_t.png|80px]]
+|[[Frost]]<br />フロスト
+|Cool
+|Normal
+|Increase Blue HP & RP by 25%
+|Erase Blue & Yellow beads (SS)
+|-
+|61
+|[[File:61s_t.png|80px]]
+|[[Frost]]<br />フロスト
+|Cool
+|Sun
+|Increase Blue HP & RP by 30%
+|Erase Blue & Yellow beads (SSS)
+|-
+|61
+|[[File:61m_t.png|80px]]
+|[[Frost]]<br />フロスト
+|Cool
+|Moon
+|Increase Blue HP & RP by 30%
+|Erase Blue & Red beads (SSS)
+|-
+|62
+|[[File:62_t.png|80px]]
+|[[Makoto]]<br />真琴
+|Cute
+|Normal
+|Increase Yellow ATK by 35%
+|Erase all Yellow beads
+|-
+|62
+|[[File:62s_t.png|80px]]
+|[[Makoto]]<br />真琴
+|Cute
+|Sun
+|Increase Yellow ATK by 50%
+|Erase all Yellow beads
+|-
+|62
+|[[File:62m_t.png|80px]]
+|[[Makoto]]<br />真琴
+|Cute
+|Moon
+|Increase Yellow ATK by 50%
+|Erase all Yellow beads
+|-
+|63
+|[[File:63_t.png|80px]]
+|[[Hikage]]<br />陽影
+|Passion
+|Normal
+|Increase Red ATK by 35%
+|Erase middle beads and recover HP
+|-
+|63
+|[[File:63s_t.png|80px]]
+|[[Hikage]]<br />陽影
+|Passion
+|Sun
+|Increase Red ATK by 50%
+|Erase middle beads and recover HP
+|-
+|63
+|[[File:63m_t.png|80px]]
+|[[Hikage]]<br />陽影
+|Passion
+|Moon
+|Increase Red ATK by 50%
+|Erase middle beads and recover HP
+|-
+|64
+|[[File:64_t.png|80px]]
+|[[Azuma]]<br />雷
+|Cool
+|Normal
+|Increase Blue ATK by 50%
+|Erase middle row beads (S)
+|-
+|64
+|[[File:64s_t.png|80px]]
+|[[Azuma]]<br />雷
+|Cool
+|Sun
+|Increase Blue ATK by 65%
+|Erase middle row beads (SS)
+|-
+|64
+|[[File:64m_t.png|80px]]
+|[[Azuma]]<br />雷
+|Cool
+|Moon
+|Increase Blue ATK by 50% and HP increase 10%
+|Erase middle row beads (S)
+|-
+|65
+|[[File:65_t.png|80px]]
+|[[Oka]]<br />桜花
+|Gentle
+|Normal
+|Recover HP every turn (SS)
+|Erase random beads and recover HP
+|-
+|65
+|[[File:65s_t.png|80px]]
+|[[Oka]]<br />桜花
+|Gentle
+|Sun
+|Recover HP every turn (SSS)
+|Erase random beads and recover HP
+|-
+|65
+|[[File:65m_t.png|80px]]
+|[[Oka]]<br />桜花
+|Gentle
+|Moon
+|Recover HP every turn (SSS)
+|Erase random beads and recover HP
+|-
+|66
+|[[File:66_t.png|80px]]
+|[[Edmond]]<br />エドモント
+|Passion
+|Normal
+|Increase Red & Yellow HP & RP by 20%
+|Turn Purple beads into Red and insert hearts
+|-
+|66
+|[[File:66s_t.png|80px]]
+|[[Edmond]]<br />エドモント
+|Passion
+|Sun
+|Increase Red & Blue HP & RP by 25%
+|Turn Green beads into Red and insert hearts
+|-
+|66
+|[[File:66m_t.png|80px]]
+|[[Edmond]]<br />エドモント
+|Passion
+|Moon
+|Increase Red & Yellow HP & RP by 25%
+|Turn Purple beads into Red and insert hearts
+|-
+|67
+|[[File:67_t.png|80px]]
+|[[Zero]]<br />ゼロ
+|Cool
+|Normal
+|Increase Party ATK by 50% if get 18-chain
+|Recover time (2s)
+|-
+|67
+|[[File:67s_t.png|80px]]
+|[[Zero]]<br />ゼロ
+|Cool
+|Sun
+|Increase Party ATK by 50% if get 14-chain
+|Recover time (2s)
+|-
+|67
+|[[File:67m_t.png|80px]]
+|[[Zero]]<br />ゼロ
+|Cool
+|Moon
+|Increase Party ATK by 50% if get 14-chain
+|Recover time (2s)
+|-
+|68
+|[[File:68_t.png|80px]]
+|[[Byakuyo (Sweets Panic)]]<br />白葉
+|Sexy
+|Normal
+|Increase Yellow & Purple ATK by 35%
+|Turn Red beads into Purple and insert hearts
+|-
+|68
+|[[File:68s_t.png|80px]]
+|[[Byakuyo (Sweets Panic)]]<br />白葉
+|Sexy
+|Sun
+|Increase Blue & Purple ATK by 50%
+|Turn Red beads into Purple and insert hearts
+|-
+|68
+|[[File:68m_t.png|80px]]
+|[[Byakuyo (Sweets Panic)]]<br />白葉
+|Sexy
+|Moon
+|Increase Yellow & Purple ATK by 50%
+|Turn Red beads into Purple and insert hearts
+|-
+|69
+|[[File:69_t.png|80px]]
+|[[Hinata (Sweets Panic)]]<br />ヒナタ
+|Cute
+|Normal
+|Increase Yellow & Purple HP & RP by 15%
+|Recover HP every turn (S)
+|-
+|69
+|[[File:69s_t.png|80px]]
+|[[Hinata (Sweets Panic)]]<br />ヒナタ
+|Cute
+|Sun
+|Increase Yellow & Purple HP & RP by 20%
+|Recover HP every turn (SS)
+|-
+|69
+|[[File:69m_t.png|80px]]
+|[[Hinata (Sweets Panic)]]<br />ヒナタ
+|Cute
+|Moon
+|Increase Green & Yellow HP & RP by 20%
+|Recover HP every turn (SS)
+|-
+|70
+|[[File:70_t.png|80px]]
+|[[Creto]]<br />クレト
+|Passion
+|Normal
+|Increase Red & Blue ATK by 15%
+|Erase left side beads (A)
+|-
+|70
+|[[File:70s_t.png|80px]]
+|[[Creto]]<br />クレト
+|Passion
+|Sun
+|Increase Red & Blue ATK by 25%
+|Erase left side beads (S)
+|-
+|70
+|[[File:70m_t.png|80px]]
+|[[Creto]]<br />クレト
+|Passion
+|Moon
+|Increase Red & Green ATK by 25%
+|Erase left side beads (S)
+|-
+|71
+|[[File:71_t.png|80px]]
+|[[Rica]]<br />リカ
+|Cool
+|Normal
+|Increase Blue & Green HP & RP by 20%
+|Erase middle beads (SS)
+|-
+|71
+|[[File:71s_t.png|80px]]
+|[[Rica]]<br />リカ
+|Cool
+|Sun
+|Increase Blue & Green HP & RP by 25%
+|Erase middle beads (SSS)
+|-
+|71
+|[[File:71m_t.png|80px]]
+|[[Rica]]<br />リカ
+|Cool
+|Moon
+|Increase Red & Blue HP & RP by 25%
+|Erase middle beads and insert bombs
+|-
+|72
+|[[File:72_t.png|80px]]
+|[[Martin]]<br />マルタン
+|Gentle
+|Normal
+|Reduce Green damage by 15%
+|Turn Purple beads into Green
+|-
+|72
+|[[File:72s_t.png|80px]]
+|[[Martin]]<br />マルタン
+|Gentle
+|Sun
+|Reduce Green damage by 20%
+|Turn Purple beads into Green
+|-
+|72
+|[[File:72m_t.png|80px]]
+|[[Martin]]<br />マルタン
+|Gentle
+|Moon
+|Reduce Green damage by 20%
+|Turn Purple beads into Green
+|-
+|73
+|[[File:73_t.png|80px]]
+|[[Cheshire Cat]]<br />チェシャ猫
+|Cute
+|Normal
+|Increase Yellow ATK by 50%
+|Erase 10-25 beads randomly
+|-
+|73
+|[[File:73s_t.png|80px]]
+|[[Cheshire Cat]]<br />チェシャ猫
+|Cute
+|Sun
+|Increase Yellow ATK by 65%
+|Erase 15-25 beads randomly
+|-
+|73
+|[[File:73m_t.png|80px]]
+|[[Cheshire Cat]]<br />チェシャ猫
+|Cute
+|Moon
+|Increase Yellow ATK by 50% and reduce Yellow damage by 10%
+|Erase 10-30 beads randomly
+|-
+|74
+|[[File:74_t.png|80px]]
+|[[Hearts]]<br />ハーツ
+|Passion
+|Normal
+|Hold on for one more hit after HP reaches 0
+|Erase all Red beads
+|-
+|74
+|[[File:74s_t.png|80px]]
+|[[Hearts]]<br />ハーツ
+|Passion
+|Sun
+|Hold on for one more hit after HP reaches 0
+|Erase all Red beads and insert bombs
+|-
+|74
+|[[File:74m_t.png|80px]]
+|[[Hearts]]<br />ハーツ
+|Passion
+|Moon
+|Hold on for one more hit after HP reaches 0
+|Erase all Red beads and insert bombs
+|-
+|75
+|[[File:75_t.png|80px]]
+|[[Mad Hatter]]<br />マッドハッター
+|Sexy
+|Normal
+|Increase Purple ATK & RP by 30%
+|Erase all Purple beads
+|-
+|75
+|[[File:75s_t.png|80px]]
+|[[Mad Hatter]]<br />マッドハッター
+|Sexy
+|Sun
+|Increase Purple ATK & RP by 30% and HP by 5%
+|Erase all Purple beads and recover HP
+|-
+|75
+|[[File:75m_t.png|80px]]
+|[[Mad Hatter]]<br />マッドハッター
+|Sexy
+|Moon
+|Increase Purple ATK & RP by 35%
+|Erase all Purple beads and recover HP
+|-
+|76
+|[[File:76_t.png|80px]]
+|[[Marchia]]<br />マーチア
+|Passion
+|Normal
+|Increase Gold by 20%
+|Erase top beads (S)
+|-
+|76
+|[[File:76s_t.png|80px]]
+|[[Marchia]]<br />マーチア
+|Passion
+|Sun
+|Increase Gold by 25%
+|Erase top beads (SS)
+|-
+|76
+|[[File:76m_t.png|80px]]
+|[[Marchia]]<br />マーチア
+|Passion
+|Moon
+|Increase Gold by 25%
+|Erase top beads (SS)
+|-
+|77
+|[[File:77_t.png|80px]]
+|[[Chrono]]<br />クロノ
+|Gentle
+|Normal
+|Increase Green ATK by 35%
+|Recover time and HP
+|-
+|77
+|[[File:77s_t.png|80px]]
+|[[Chrono]]<br />クロノ
+|Gentle
+|Sun
+|Increase Green ATK by 50%
+|Recover time and HP
+|-
+|77
+|[[File:77m_t.png|80px]]
+|[[Chrono]]<br />クロノ
+|Gentle
+|Moon
+|Increase Green ATK by 50%
+|Recover time and HP
+|-
+|78
+|[[File:78_t.png|80px]]
+|[[Dormouse]]<br />ドーマウス
+|Gentle
+|Normal
+|Increase Green HP & RP by 15%
+|Recover 1000 HP
+|-
+|78
+|[[File:78s_t.png|80px]]
+|[[Dormouse]]<br />ドーマウス
+|Gentle
+|Sun
+|Increase Green HP & RP by 20%
+|Recover 1500 HP
+|-
+|78
+|[[File:78m_t.png|80px]]
+|[[Dormouse]]<br />ドーマウス
+|Gentle
+|Moon
+|Increase Green HP & RP by 20%
+|Recover 1500 HP
+|-
+|79
+|[[File:79_t.png|80px]]
+|[[Foia]]<br />フォイア
+|Passion
+|Normal
+|Increase Party ATK by 20%
+|Increase own ATK (SS)
+|-
+|79
+|[[File:79s_t.png|80px]]
+|[[Foia]]<br />フォイア
+|Passion
+|Sun
+|Increase Party ATK by 25%
+|Increase own ATK (SSS)
+|-
+|79
+|[[File:79m_t.png|80px]]
+|[[Foia]]<br />フォイア
+|Passion
+|Moon
+|Increase Party ATK by 20% and HP by 5%
+|Increase own ATK (SSS)
+|-
+|80
+|[[File:80_t.png|80px]]
+|[[Ritz]]<br />リッツ
+|Cute
+|Normal
+|Increase Party HP & RP by 10%
+|Increase Yellow beads appearance rate (S)
+|-
+|80
+|[[File:80s_t.png|80px]]
+|[[Ritz]]<br />リッツ
+|Cute
+|Sun
+|Increase Party HP & RP by 15%
+|Increase Yellow beads appearance rate (S)
+|-
+|80
+|[[File:80m_t.png|80px]]
+|[[Ritz]]<br />リッツ
+|Cute
+|Moon
+|Increase Party HP & RP by 15%
+|Increase Yellow beads appearance rate (S)
+|-
+|81
+|[[File:81_t.png|80px]]
+|[[Fruys]]<br />フリュス
+|Passion
+|Normal
+|Increase Party ATK by 10%
+|Turn Green beads into Red
+|-
+|81
+|[[File:81s_t.png|80px]]
+|[[Fruys]]<br />フリュス
+|Passion
+|Sun
+|Increase Party ATK by 15%
+|Turn Green beads into Red
+|-
+|81
+|[[File:81m_t.png|80px]]
+|[[Fruys]]<br />フリュス
+|Passion
+|Moon
+|Increase Party ATK by 15%
+|Turn Green beads into Red
+|-
+|82
+|[[File:82_t.png|80px]]
+|[[Zant]]<br />ザント
+|Cool
+|Normal
+|Increase Blue ATK & RP by 30%
+|Erase middle column beads (SS)
+|-
+|82
+|[[File:82s_t.png|80px]]
+|[[Zant]]<br />ザント
+|Cool
+|Sun
+|Increase Blue ATK & RP by 35%
+|Erase middle column beads (SSS)
+|-
+|82
+|[[File:82m_t.png|80px]]
+|[[Zant]]<br />ザント
+|Cool
+|Moon
+|Increase Blue ATK & RP by 30% and HP by 5%
+|Erase middle column beads (SS)
+|-
+|83
+|[[File:83_t.png|80px]]
+|[[Kalt]]<br />カルト
+|Sexy
+|Normal
+|Increase Purple ATK & RP by 25%
+|Recovery of HP in accordance to RP (S)
+|-
+|83
+|[[File:83s_t.png|80px]]
+|[[Kalt]]<br />カルト
+|Sexy
+|Sun
+|Increase Purple ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|83
+|[[File:83m_t.png|80px]]
+|[[Kalt]]<br />カルト
+|Sexy
+|Moon
+|Increase Purple ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|84
+|[[File:84_t.png|80px]]
+|[[Gerald]]<br />ジェラルド
+|Gentle
+|Normal
+|Increase Green HP & RP by 25%
+|Turn Purple beads into Green and insert hearts
+|-
+|84
+|[[File:84s_t.png|80px]]
+|[[Gerald]]<br />ジェラルド
+|Gentle
+|Sun
+|Increase Green HP & RP by 25% and ATK by 15%
+|Turn Yellow beads into Green and insert hearts
+|-
+|84
+|[[File:84m_t.png|80px]]
+|[[Gerald]]<br />ジェラルド
+|Gentle
+|Moon
+|Increase Green HP & RP by 30%
+|Turn Purple beads into Green and insert hearts
+|-
+|85
+|[[File:85_t.png|80px]]
+|[[Jet]]<br />ジェット
+|Passion
+|Normal
+|Increase Red HP by 30%
+|Erase right side beads (S)
+|-
+|85
+|[[File:85s_t.png|80px]]
+|[[Jet]]<br />ジェット
+|Passion
+|Sun
+|Increase Red HP by 35%
+|Erase right side beads (SS)
+|-
+|85
+|[[File:85m_t.png|80px]]
+|[[Jet]]<br />ジェット
+|Passion
+|Moon
+|Increase Red HP by 35%
+|Erase right side beads (SS)
+|-
+|86
+|[[File:86_t.png|80px]]
+|[[Procyon]]<br />プロキオン
+|Cute
+|Normal
+|Increase Yellow RP by 25%
+|Increase time (2s)
+|-
+|86
+|[[File:86s_t.png|80px]]
+|[[Procyon]]<br />プロキオン
+|Cute
+|Sun
+|Increase Yellow RP by 35%
+|Increase time (2s)
+|-
+|86
+|[[File:86m_t.png|80px]]
+|[[Procyon]]<br />プロキオン
+|Cute
+|Moon
+|Increase Yellow RP by 35%
+|Increase time (2s)
+|-
+|87
+|[[File:87_t.png|80px]]
+|[[Will]]<br />ウィル
+|Sexy
+|Normal
+|Additional damage after attack (SS)
+|Reduce appearance of Yellow beads and increase Purple
+|-
+|87
+|[[File:87s_t.png|80px]]
+|[[Will]]<br />ウィル
+|Sexy
+|Sun
+|Additional damage after attack (SSS)
+|Reduce appearance of Yellow beads and increase Purple
+|-
+|87
+|[[File:87m_t.png|80px]]
+|[[Will]]<br />ウィル
+|Sexy
+|Moon
+|Additional damage after attack (SSS)
+|Reduce appearance of Blue beads and increase Purple
+|-
+|88
+|[[File:88_t.png|80px]]
+|[[Banri]]<br />万里
+|Cute
+|Normal
+|Increase Yellow HP by 30%
+|Erase random beads (S)
+|-
+|88
+|[[File:88s_t.png|80px]]
+|[[Banri]]<br />万里
+|Cute
+|Sun
+|Increase Yellow HP by 35%
+|Erase random beads (SS)
+|-
+|88
+|[[File:88m_t.png|80px]]
+|[[Banri]]<br />万里
+|Cute
+|Moon
+|Increase Yellow HP by 35%
+|Erase random beads (SS)
+|-
+|89
+|[[File:89_t.png|80px]]
+|[[Nabbit]]<br />ナビット
+|Cute
+|Normal
+|Increase all Yellow stats by 10%
+|Increase party ATK for 1 turn (A)
+|-
+|89
+|[[File:89s_t.png|80px]]
+|[[Nabbit]]<br />ナビット
+|Cute
+|Sun
+|Increase all Yellow stats by 15%
+|Increase party ATK for 1 turn (A)
+|-
+|89
+|[[File:89m_t.png|80px]]
+|[[Nabbit]]<br />ナビット
+|Cute
+|Moon
+|Increase all Yellow stats by 15%
+|Increase party ATK for 1 turn (A)
+|-
+|90
+|[[File:90_t.png|80px]]
+|[[Capita]]<br />キャピタ
+|Cool
+|Normal
+|Increase Blue & Purple ATK by 25%
+|Increase Blue beads appearance rate (S)
+|-
+|90
+|[[File:90s_t.png|80px]]
+|[[Capita]]<br />キャピタ
+|Cool
+|Sun
+|Increase Blue & Purple ATK by 35%
+|Increase Blue beads appearance rate (S)
+|-
+|90
+|[[File:90m_t.png|80px]]
+|[[Capita]]<br />キャピタ
+|Cool
+|Moon
+|Increase Blue & Purple ATK by 35%
+|Increase Blue beads appearance rate (S)
+|-
+|91
+|[[File:91_t.png|80px]]
+|[[Shao]]<br />シャオ
+|Gentle
+|Normal
+|Increase Green RP by 50%
+|Recover HP every turn (SS)
+|-
+|91
+|[[File:91s_t.png|80px]]
+|[[Shao]]<br />シャオ
+|Gentle
+|Sun
+|Increase Green RP by 65%
+|Recover HP instantly and every turn
+|-
+|91
+|[[File:91m_t.png|80px]]
+|[[Shao]]<br />シャオ
+|Gentle
+|Moon
+|Increase Green RP by 50% and HP by 10%
+|Recover HP every turn (SSS)
+|-
+|92
+|[[File:92_t.png|80px]]
+|[[Julius]]<br />ユリウス
+|Cool
+|Normal
+|Increase Blue ATK by 50%
+|Erase beads in cross (SS)
+|-
+|92
+|[[File:92s_t.png|80px]]
+|[[Julius]]<br />ユリウス
+|Cool
+|Sun
+|Increase Blue ATK by 65%
+|Erase beads in cross (SSS)
+|-
+|92
+|[[File:92m_t.png|80px]]
+|[[Julius]]<br />ユリウス
+|Cool
+|Moon
+|Increase Blue ATK by 50% and RP increase 15%
+|Erase beads in cross and recover HP
+|-
+|93
+|[[File:93_t.png|80px]]
+|[[Raven]]<br />レイヴン
+|Gentle
+|Normal
+|Increase Green ATK & RP by 25%
+|Erase left side beads (S)
+|-
+|93
+|[[File:93s_t.png|80px]]
+|[[Raven]]<br />レイヴン
+|Gentle
+|Sun
+|Increase Green ATK & RP by 30%
+|Erase left side beads (SS)
+|-
+|93
+|[[File:93m_t.png|80px]]
+|[[Raven]]<br />レイヴン
+|Gentle
+|Moon
+|Increase Green ATK & RP by 30%
+|Erase left side beads (SS)
+|-
+|94
+|[[File:94_t.png|80px]]
+|[[Gerber]]<br />ジェルバー
+|Passion
+|Normal
+|Increase Red RP by 25%
+|Recover HP every turn (A)
+|-
+|94
+|[[File:94s_t.png|80px]]
+|[[Gerber]]<br />ジェルバー
+|Passion
+|Sun
+|Increase Red RP by 35%
+|Recover HP every turn (S)
+|-
+|94
+|[[File:94m_t.png|80px]]
+|[[Gerber]]<br />ジェルバー
+|Passion
+|Moon
+|Increase Red RP by 35%
+|Recover HP every turn (S)
+|-
+|95
+|[[File:95_t.png|80px]]
+|[[Lyon]]<br />リオン
+|Cute
+|Normal
+|Increase Blue & Yellow HP & RP by 20%
+|Insert hearts (2)
+|-
+|95
+|[[File:95s_t.png|80px]]
+|[[Lyon]]<br />リオン
+|Cute
+|Sun
+|Increase Blue & Yellow HP & RP by 25%
+|Insert hearts (3)
+|-
+|95
+|[[File:95m_t.png|80px]]
+|[[Lyon]]<br />リオン
+|Cute
+|Moon
+|Increase Green & Yellow HP & RP by 25%
+|Insert hearts (3)
+|-
+|96
+|[[File:96_t.png|80px]]
+|[[Nepenthes]]<br />ネペンテス
+|Passion
+|Normal
+|Increase Red ATK & RP by 25%
+|Erase middle row beads (S)
+|-
+|96
+|[[File:96s_t.png|80px]]
+|[[Nepenthes]]<br />ネペンテス
+|Passion
+|Sun
+|Increase Red ATK & RP by 30%
+|Erase middle row beads (SS)
+|-
+|96
+|[[File:96m_t.png|80px]]
+|[[Nepenthes]]<br />ネペンテス
+|Passion
+|Moon
+|Increase Red ATK & RP by 30%
+|Erase middle row beads (SS)
+|-
+|97
+|[[File:97_t.png|80px]]
+|[[Dion]]<br />ディオン
+|Sexy
+|Normal
+|Increase Purple HP & RP by 25%
+|Erase top beads (SS)
+|-
+|97
+|[[File:97s_t.png|80px]]
+|[[Dion]]<br />ディオン
+|Sexy
+|Sun
+|Increase Purple HP & RP by 30%
+|Erase top beads and recover time
+|-
+|97
+|[[File:97m_t.png|80px]]
+|[[Dion]]<br />ディオン
+|Sexy
+|Moon
+|Increase Purple HP & RP by 25% and ATK by 15%
+|Erase top beads and insert bombs
+|-
+|98
+|[[File:98_t.png|80px]]
+|[[Luke (Desert)]]<br />ルーク
+|Gentle
+|Normal
+|Increase Green HP by 20%
+|Increase Green beads appearance rate (A)
+|-
+|98
+|[[File:98s_t.png|80px]]
+|[[Luke (Desert)]]<br />ルーク
+|Gentle
+|Sun
+|Increase Green HP by 30%
+|Increase Green beads appearance rate (S)
+|-
+|98
+|[[File:98m_t.png|80px]]
+|[[Luke (Desert)]]<br />ルーク
+|Gentle
+|Moon
+|Increase Green HP by 30%
+|Increase Green beads appearance rate (S)
+|-
+|99
+|[[File:99_t.png|80px]]
+|[[Sakia (Rainy Day)]]<br />サキア
+|Cute
+|Normal
+|Increase Blue, Yellow and Purple ATK by 30%
+|Appearance rate of Yellow beads is 100% in next chain
+|-
+|99
+|[[File:99s_t.png|80px]]
+|[[Sakia (Rainy Day)]]<br />サキア
+|Cute
+|Sun
+|Increase Blue, Yellow and Purple ATK by 40%
+|Appearance rate of Yellow beads is 100% in next chain
+|-
+|99
+|[[File:99m_t.png|80px]]
+|[[Sakia (Rainy Day)]]<br />サキア
+|Cute
+|Moon
+|Increase Blue, Yellow and Purple ATK by 30% and HP by 10%
+|Appearance rate of Yellow beads is 100% in next chain
+|-
+|100
+|[[File:100_t.png|80px]]
+|[[Forma (Rainy Day)]]<br />フォーマ
+|Cool
+|Normal
+|Increase Blue HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|100
+|[[File:100s_t.png|80px]]
+|[[Forma (Rainy Day)]]<br />フォーマ
+|Cool
+|Sun
+|Increase Blue HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|100
+|[[File:100m_t.png|80px]]
+|[[Forma (Rainy Day)]]<br />フォーマ
+|Cool
+|Moon
+|Increase Blue HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|101
+|[[File:101_t.png|80px]]
+|[[Apis (Rainy Day)]]<br />アピス
+|Sexy
+|Normal
+|Increase Purple ATK & RP by 15%
+|Erase random beads (A)
+|-
+|101
+|[[File:101s_t.png|80px]]
+|[[Apis (Rainy Day)]]<br />アピス
+|Sexy
+|Sun
+|Increase Purple ATK & RP by 25%
+|Erase random beads (S)
+|-
+|101
+|[[File:101m_t.png|80px]]
+|[[Apis (Rainy Day)]]<br />アピス
+|Sexy
+|Moon
+|Increase Purple ATK & RP by 25%
+|Erase random beads (S)
+|-
+|102
+|[[File:102_t.png|80px]]
+|[[Saiga]]<br />砕牙
+|Gentle
+|Normal
+|Increase Blue & Green ATK by 35%
+|Erase left & right side beads (SS)
+|-
+|102
+|[[File:102s_t.png|80px]]
+|[[Saiga]]<br />砕牙
+|Gentle
+|Sun
+|Increase Red & Green ATK by 50%
+|Erase left & right side beads (SSS)
+|-
+|102
+|[[File:102m_t.png|80px]]
+|[[Saiga]]<br />砕牙
+|Gentle
+|Moon
+|Increase Blue & Green ATK by 50%
+|Erase left & right side beads (SSS)
+|-
+|103
+|[[File:103_t.png|80px]]
+|[[Dayang]]<br />ダヤン
+|Cool
+|Normal
+|Increase Blue RP by 35%
+|Recover HP every turn (S)
+|-
+|103
+|[[File:103s_t.png|80px]]
+|[[Dayang]]<br />ダヤン
+|Cool
+|Sun
+|Increase Blue RP by 50%
+|Recover HP every turn (SS)
+|-
+|103
+|[[File:103m_t.png|80px]]
+|[[Dayang]]<br />ダヤン
+|Cool
+|Moon
+|Increase Blue RP by 50%
+|Recover HP every turn (SS)
+|-
+|104
+|[[File:104_t.png|80px]]
+|[[Avi (Bridal)]]<br />アヴィ
+|Passion
+|Normal
+|Increase Red ATK by 50%
+|Erase middle rows beads, increase own ATK for 1 turn
+|-
+|104
+|[[File:104s_t.png|80px]]
+|[[Avi (Bridal)]]<br />アヴィ
+|Passion
+|Sun
+|Increase Red ATK by 50% and HP by 10%
+|Erase middle rows beads, increase own ATK for 1 turn
+|-
+|104
+|[[File:104m_t.png|80px]]
+|[[Avi (Bridal)]]<br />アヴィ
+|Passion
+|Moon
+|Increase Red ATK by 65%
+|Erase middle rows beads, increase own ATK for 1 turn
+|-
+|105
+|[[File:105_t.png|80px]]
+|[[Crown (Bridal)]]<br />クラウン
+|Sexy
+|Normal
+|Increase Red & Purple HP & RP by 15%
+|Erase Red & Purple beads (S)
+|-
+|105
+|[[File:105s_t.png|80px]]
+|[[Crown (Bridal)]]<br />クラウン
+|Sexy
+|Sun
+|Increase Red & Purple HP & RP by 20%
+|Erase Red & Purple beads (SS)
+|-
+|105
+|[[File:105m_t.png|80px]]
+|[[Crown (Bridal)]]<br />クラウン
+|Sexy
+|Moon
+|Increase Red & Purple HP & RP by 20%
+|Erase Red & Purple beads (SS)
+|-
+|106
+|[[File:106_t.png|80px]]
+|[[Flu (Bridal)]]<br />フリュー
+|Gentle
+|Normal
+|Increase Green RP by 25%
+|Recovery of HP in accordance to RP (A)
+|-
+|106
+|[[File:106s_t.png|80px]]
+|[[Flu (Bridal)]]<br />フリュー
+|Gentle
+|Sun
+|Increase Green RP by 35%
+|Recovery of HP in accordance to RP (S)
+|-
+|106
+|[[File:106m_t.png|80px]]
+|[[Flu (Bridal)]]<br />フリュー
+|Gentle
+|Moon
+|Increase Green RP by 35%
+|Recovery of HP in accordance to RP (S)
+|-
+|107
+|[[File:107_t.png|80px]]
+|[[Perla]]<br />ペルラ
+|Cool
+|Normal
+|Increase Blue & Yellow HP & RP by 20%
+|Turn Red beads into Blue and recover HP
+|-
+|107
+|[[File:107s_t.png|80px]]
+|[[Perla]]<br />ペルラ
+|Cool
+|Sun
+|Increase Blue & Yellow HP & RP by 25%
+|Turn Purple beads into Blue and recover HP
+|-
+|107
+|[[File:107m_t.png|80px]]
+|[[Perla]]<br />ペルラ
+|Cool
+|Moon
+|Increase Blue & Purple HP & RP by 25%
+|Turn Red beads into Blue and recover HP
+|-
+|108
+|[[File:108_t.png|80px]]
+|[[Juno]]<br />ユーノ
+|Sexy
+|Normal
+|Recover HP every turn (S)
+|Erase beads in cross (S)
+|-
+|108
+|[[File:108s_t.png|80px]]
+|[[Juno]]<br />ユーノ
+|Sexy
+|Sun
+|Recover HP every turn (SS)
+|Erase beads in cross (SS)
+|-
+|108
+|[[File:108m_t.png|80px]]
+|[[Juno]]<br />ユーノ
+|Sexy
+|Moon
+|Recover HP every turn (SS)
+|Erase beads in cross (SS)
+|-
+|109
+|[[File:109_t.png|80px]]
+|[[Vega]]<br />ベガ
+|Cute
+|Normal
+|Increase Party ATK & RP by 15%
+|Erase random beads (SS)
+|-
+|109
+|[[File:109s_t.png|80px]]
+|[[Vega]]<br />ベガ
+|Cute
+|Sun
+|Increase Party ATK & RP by 20%
+|Erase random beads and insert bombs
+|-
+|109
+|[[File:109m_t.png|80px]]
+|[[Vega]]<br />ベガ
+|Cute
+|Moon
+|Increase Party ATK & RP by 15% and HP by 5%
+|Erase random beads and increase Yellow beads appearance rate
+|-
+|110
+|[[File:110_t.png|80px]]
+|[[Altair]]<br />アルタイル
+|Gentle
+|Normal
+|Increase Green HP by 30%
+|Erase middle column beads (S)
+|-
+|110
+|[[File:110s_t.png|80px]]
+|[[Altair]]<br />アルタイル
+|Gentle
+|Sun
+|Increase Green HP by 35%
+|Erase middle column beads (SS)
+|-
+|110
+|[[File:110m_t.png|80px]]
+|[[Altair]]<br />アルタイル
+|Gentle
+|Moon
+|Increase Green HP by 35%
+|Erase middle column beads (SS)
+|-
+|111
+|[[File:111_t.png|80px]]
+|[[Deneb]]<br />デネブ
+|Cool
+|Normal
+|Increase Blue ATK & HP by 15%
+|Increase Blue beads appearance rate (A)
+|-
+|111
+|[[File:111s_t.png|80px]]
+|[[Deneb]]<br />デネブ
+|Cool
+|Sun
+|Increase Blue ATK & HP by 20%
+|Increase Blue beads appearance rate (S)
+|-
+|111
+|[[File:111m_t.png|80px]]
+|[[Deneb]]<br />デネブ
+|Cool
+|Moon
+|Increase Blue ATK & HP by 20%
+|Increase Blue beads appearance rate (S)
+|-
+|112
+|[[File:112_t.png|80px]]
+|[[Castor (Star)]]<br />カストル
+|Sexy
+|Normal
+|Increase Purple ATK by 50%
+|Erase middle beads (SS)
+|-
+|112
+|[[File:112s_t.png|80px]]
+|[[Castor (Star)]]<br />カストル
+|Sexy
+|Sun
+|Increase Purple ATK by 50% and RP by 15%
+|Erase middle beads, increase Purple ATK for 1 turn
+|-
+|112
+|[[File:112m_t.png|80px]]
+|[[Castor (Star)]]<br />カストル
+|Sexy
+|Moon
+|Increase Purple ATK by 50% and reduce Purple damage by 10%
+|Erase middle beads, increase Purple ATK for 1 turn
+|-
+|113
+|[[File:113_t.png|80px]]
+|[[Shigure (Star)]]<br />紫雨
+|Gentle
+|Normal
+|Increase Green ATK & RP by 25%
+|Recovery of HP in accordance to RP (S)
+|-
+|113
+|[[File:113s_t.png|80px]]
+|[[Shigure (Star)]]<br />紫雨
+|Gentle
+|Sun
+|Increase Green ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|113
+|[[File:113m_t.png|80px]]
+|[[Shigure (Star)]]<br />紫雨
+|Gentle
+|Moon
+|Increase Green ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|114
+|[[File:114_t.png|80px]]
+|[[Hercules]]<br />ヘラクレス
+|Cute
+|Normal
+|Increase Yellow HP by 35%
+|Erase middle row beads (SS)
+|-
+|114
+|[[File:114s_t.png|80px]]
+|[[Hercules]]<br />ヘラクレス
+|Cute
+|Sun
+|Increase Yellow HP by 35% and ATK by15%
+|Erase middle row beads (SSS)
+|-
+|114
+|[[File:114m_t.png|80px]]
+|[[Hercules]]<br />ヘラクレス
+|Cute
+|Moon
+|Increase Yellow HP by 40%
+|Erase middle row beads (SS)
+|-
+|115
+|[[File:115_t.png|80px]]
+|[[Lateria]]<br />ラトリア
+|Gentle
+|Normal
+|Nulify Skill Seal
+|Recovery of HP in accordance to RP (SS)
+|-
+|115
+|[[File:115s_t.png|80px]]
+|[[Lateria]]<br />ラトリア
+|Gentle
+|Sun
+|Nulify Skill Seal and increase party HP by 10%
+|Recover HP and increase Green beads appearance rate
+|-
+|115
+|[[File:115m_t.png|80px]]
+|[[Lateria]]<br />ラトリア
+|Gentle
+|Moon
+|Nulify Skill Seal and increase party ATK by 15%
+|Recovery of HP in accordance to RP (SSS)
+|-
+|116
+|[[File:116_t.png|80px]]
+|[[Sorbge]]<br />ソルベージュ
+|Sexy
+|Normal
+|Increase Purple HP & RP by 20%
+|Restore time and recover Seal
+|-
+|116
+|[[File:116s_t.png|80px]]
+|[[Sorbge]]<br />ソルベージュ
+|Sexy
+|Sun
+|Increase Purple HP & RP by 25%
+|Restore time and recover Seal
+|-
+|116
+|[[File:116m_t.png|80px]]
+|[[Sorbge]]<br />ソルベージュ
+|Sexy
+|Moon
+|Increase Purple HP & RP by 25%
+|Restore time and recover Seal
+|-
+|117
+|[[File:117_t.png|80px]]
+|[[Juri]]<br />珠李
+|Passion
+|Normal
+|Increase Red RP by 25%
+|Recover Seal and restore HP (B)
+|-
+|117
+|[[File:117s_t.png|80px]]
+|[[Juri]]<br />珠李
+|Passion
+|Sun
+|Increase Red RP by 35%
+|Recover Seal and restore HP (A)
+|-
+|117
+|[[File:117m_t.png|80px]]
+|[[Juri]]<br />珠李
+|Passion
+|Moon
+|Increase Red RP by 35%
+|Recover Seal and restore HP (A)
+|-
+|118
+|[[File:118_t.png|80px]]
+|[[Lid (Ice)]]<br />リド
+|Cute
+|Normal
+|Increase Blue & Yellow ATK by 35%
+|Erase Blue & Yellow beads (SS)
+|-
+|118
+|[[File:118s_t.png|80px]]
+|[[Lid (Ice)]]<br />リド
+|Cute
+|Sun
+|Increase Red & Yellow ATK by 50%
+|Erase Red & Yellow beads (SSS)
+|-
+|118
+|[[File:118m_t.png|80px]]
+|[[Lid (Ice)]]<br />リド
+|Cute
+|Moon
+|Increase Blue & Yellow ATK by 50%
+|Erase Blue & Yellow beads (SSS)
+|-
+|119
+|[[File:119_t.png|80px]]
+|[[Drei (Ice)]]<br />ドライ
+|Cool
+|Normal
+|Increase Blue HP & RP by 20%
+|Erase bottom beads and insert bombs
+|-
+|119
+|[[File:119s_t.png|80px]]
+|[[Drei (Ice)]]<br />ドライ
+|Cool
+|Sun
+|Increase Blue HP & RP by 25%
+|Erase bottom beads and insert bombs
+|-
+|119
+|[[File:119m_t.png|80px]]
+|[[Drei (Ice)]]<br />ドライ
+|Cool
+|Moon
+|Increase Blue HP & RP by 25%
+|Erase bottom beads and insert bombs
+|-
+|120
+|[[File:120_t.png|80px]]
+|[[Kaede]]<br />楓
+|Sexy
+|Normal
+|Increase Party ATK by 20%
+|Erase random beads (S)
+|-
+|120
+|[[File:120s_t.png|80px]]
+|[[Kaede]]<br />楓
+|Sexy
+|Sun
+|Increase Party ATK by 20% and HP by 5%
+|Erase random beads (S)
+|-
+|120
+|[[File:120m_t.png|80px]]
+|[[Kaede]]<br />楓
+|Sexy
+|Moon
+|Increase Party ATK by 25%
+|Erase random beads (SS)
+|-
+|121
+|[[File:121_t.png|80px]]
+|[[Rege]]<br />レジェ
+|Gentle
+|Normal
+|Increase Green HP & RP by 20%
+|Increase Green beads appearance rate (S)
+|-
+|121
+|[[File:121s_t.png|80px]]
+|[[Rege]]<br />レジェ
+|Gentle
+|Sun
+|Increase Green HP & RP by 25%
+|Increase Green beads appearance rate (S)
+|-
+|121
+|[[File:121m_t.png|80px]]
+|[[Rege]]<br />レジェ
+|Gentle
+|Moon
+|Increase Green HP & RP by 25%
+|Increase Green beads appearance rate (S)
+|-
+|122
+|[[File:122_t.png|80px]]
+|[[Apollo]]<br />アポロ
+|Passion
+|Normal
+|Additional damage after attack (SS)
+|Erase top beads (SS)
+|-
+|122
+|[[File:122s_t.png|80px]]
+|[[Apollo]]<br />アポロ
+|Passion
+|Sun
+|Additional damage after attack (SSS)
+|Erase top beads(SSS)
+|-
+|122
+|[[File:122m_t.png|80px]]
+|[[Apollo]]<br />アポロ
+|Passion
+|Moon
+|Additional damage after attack (SSS)
+|Erase top beads and insert bombs
+|-
+|123
+|[[File:123_t.png|80px]]
+|[[Thinpla]]<br />ティンプラ
+|Cool
+|Normal
+|Increase Blue HP & RP by 25%
+|Increase appearance rate of Blue beads once and erases left side beads
+|-
+|123
+|[[File:123s_t.png|80px]]
+|[[Thinpla]]<br />ティンプラ
+|Cool
+|Sun
+|Increase Blue HP & RP by 30%
+|Increase appearance rate of Blue beads once and erases left side beads
+|-
+|123
+|[[File:123m_t.png|80px]]
+|[[Thinpla]]<br />ティンプラ
+|Cool
+|Moon
+|Increase Blue HP & RP by 25% and ATK by 15%
+|Increase appearance rate of Blue beads once and erases left side beads
+|-
+|124
+|[[File:124_t.png|80px]]
+|[[Oswald]]<br />オズワルド
+|Gentle
+|Normal
+|Increase Green ATK & RP by 30%
+|Turn Yellow beads into Green and inserts bombs
+|-
+|124
+|[[File:124s_t.png|80px]]
+|[[Oswald]]<br />オズワルド
+|Gentle
+|Sun
+|Increase Green ATK & RP by 30% and HP by 5%
+|Turn Yellow beads into Green and inserts bombs
+|-
+|124
+|[[File:124m_t.png|80px]]
+|[[Oswald]]<br />オズワルド
+|Gentle
+|Moon
+|Increase Green ATK & RP by 35%
+|Turn Red beads into Green and insert bombs
+|-
+|125
+|[[File:125_t.png|80px]]
+|[[Leonie]]<br />レオニー
+|Cute
+|Normal
+|Increase Yellow ATK by 35%
+|Increase ATK of Yellow for 1 turn (A)
+|-
+|125
+|[[File:125s_t.png|80px]]
+|[[Leonie]]<br />レオニー
+|Cute
+|Sun
+|Increase Yellow ATK by 50%
+|Increase ATK of Yellow for 1 turn (S)
+|-
+|125
+|[[File:125m_t.png|80px]]
+|[[Leonie]]<br />レオニー
+|Cute
+|Moon
+|Increase Yellow ATK by 50%
+|Increase ATK of Yellow for 1 turn (S)
+|-
+|126
+|[[File:126_t.png|80px]]
+|[[Gauche]]<br />ゴーシュ
+|Sexy
+|Normal
+|Increase Purple RP by 35%
+|Insert hearts (1-2)
+|-
+|126
+|[[File:126s_t.png|80px]]
+|[[Gauche]]<br />ゴーシュ
+|Sexy
+|Sun
+|Increase Purple RP by 50%
+|Insert hearts (1-2)
+|-
+|126
+|[[File:126m_t.png|80px]]
+|[[Gauche]]<br />ゴーシュ
+|Sexy
+|Moon
+|Increase Purple RP by 50%
+|Insert hearts (1-2)
+|-
+|127
+|[[File:127_t.png|80px]]
+|[[Toto]]<br />トト
+|Gentle
+|Normal
+|Increase Green HP by 20%
+|Erase right side beads (A)
+|-
+|127
+|[[File:127s_t.png|80px]]
+|[[Toto]]<br />トト
+|Gentle
+|Sun
+|Increase Green HP by 30%
+|Erase right side beads (S)
+|-
+|127
+|[[File:127m_t.png|80px]]
+|[[Toto]]<br />トト
+|Gentle
+|Moon
+|Increase Green HP by 30%
+|Erase right side beads (S)
+|-
+|128
+|[[File:128_t.png|80px]]
+|[[Droite]]<br />ドロワット
+|Cute
+|Normal
+|Reduce Yellow damage by 15%
+|Erases columns (2)
+|-
+|128
+|[[File:128s_t.png|80px]]
+|[[Droite]]<br />ドロワット
+|Cute
+|Sun
+|Reduce Yellow damage by 20%
+|Erases columns (3)
+|-
+|128
+|[[File:128m_t.png|80px]]
+|[[Droite]]<br />ドロワット
+|Cute
+|Moon
+|Reduce Yellow damage by 20%
+|Erases columns (3)
+|-
+|129
+|[[File:129_t.png|80px]]
+|[[Douglas]]<br />ダグラス
+|Sexy
+|Normal
+|Increase Purple ATK by 50%
+|Erases middle column and bottom beads
+|-
+|129
+|[[File:129s_t.png|80px]]
+|[[Douglas]]<br />ダグラス
+|Sexy
+|Sun
+|Increase Purple ATK by 50% and HP increase 10%
+|Erases middle column and bottom beads
+|-
+|129
+|[[File:129m_t.png|80px]]
+|[[Douglas]]<br />ダグラス
+|Sexy
+|Moon
+|Increase Purple ATK by 65%
+|Erases middle column and bottom beads
+|-
+|130
+|[[File:130_t.png|80px]]
+|[[Martin (Marine)]]<br />マルタン
+|Gentle
+|Normal
+|Increase Red & Green HP & RP by 20%
+|Recover time & HP
+|-
+|130
+|[[File:130s_t.png|80px]]
+|[[Martin (Marine)]]<br />マルタン
+|Gentle
+|Sun
+|Increase Red & Green HP & RP by 25%
+|Recover time & HP
+|-
+|130
+|[[File:130m_t.png|80px]]
+|[[Martin (Marine)]]<br />マルタン
+|Gentle
+|Moon
+|Increase Red & Green HP & RP by 20% and ATK by 10%
+|Recover time & HP
+|-
+|131
+|[[File:131_t.png|80px]]
+|[[Sarasa]]<br />サラサ
+|Cool
+|Normal
+|Increase Blue & Yellow HP & RP by 15%
+|Recovery of HP in accordance to RP (S)
+|-
+|131
+|[[File:131s_t.png|80px]]
+|[[Sarasa]]<br />サラサ
+|Cool
+|Sun
+|Increase Blue & Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (SS)
+|-
+|131
+|[[File:131m_t.png|80px]]
+|[[Sarasa]]<br />サラサ
+|Cool
+|Moon
+|Increase Blue & Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (SS)
+|-
+|132
+|[[File:132_t.png|80px]]
+|[[Hikage (Marine)]]<br />陽影
+|Passion
+|Normal
+|Increase Red & Purple HP by 25%
+|Erase left side beads (S)
+|-
+|132
+|[[File:132s_t.png|80px]]
+|[[Hikage (Marine)]]<br />陽影
+|Passion
+|Sun
+|Increase Red & Purple HP by 30%
+|Erase left side beads (SS)
+|-
+|132
+|[[File:132m_t.png|80px]]
+|[[Hikage (Marine)]]<br />陽影
+|Passion
+|Moon
+|Increase Red & Purple HP by 30%
+|Erase left side beads (SS)
+|-
+|133
+|[[File:133_t.png|80px]]
+|[[Corail]]<br />コライユ
+|Cute
+|Normal
+|Increase Yellow ATK by 25%
+|Erase middle row beads (A)
+|-
+|133
+|[[File:133s_t.png|80px]]
+|[[Corail]]<br />コライユ
+|Cute
+|Sun
+|Increase Yellow ATK by 35%
+|Erase middle row beads (S)
+|-
+|133
+|[[File:133m_t.png|80px]]
+|[[Corail]]<br />コライユ
+|Cute
+|Moon
+|Increase Yellow ATK by 35%
+|Erase middle row beads (S)
+|-
+|134
+|[[File:134_t.png|80px]]
+|[[Leeya]]<br />リーヤ
+|Passion
+|Normal
+|Increase Red, Blue and Green HP & RP by 15%
+|Appearance of Red, Blue and Green beads
+|-
+|134
+|[[File:134s_t.png|80px]]
+|[[Leeya]]<br />リーヤ
+|Passion
+|Sun
+|Increase Red, Blue and Green HP & RP by 20%
+|Appearance of Red, Blue and Green beads
+|-
+|134
+|[[File:134m_t.png|80px]]
+|[[Leeya]]<br />リーヤ
+|Passion
+|Moon
+|Increase Red, Yellow and Purple HP & RP by 20%
+|Appearance of Red, Yellow and Purple beads
+|-
+|135
+|[[File:135_t.png|80px]]
+|[[Carlyle]]<br />カーライル
+|Gentle
+|Normal
+|Increase Green ATK by 35% and HP increase 10%
+|Erase 10-25 beads randomly
+|-
+|135
+|[[File:135s_t.png|80px]]
+|[[Carlyle]]<br />カーライル
+|Gentle
+|Sun
+|Increase Green ATK by 35% and HP increase 20%
+|Erase 15-25 beads randomly
+|-
+|135
+|[[File:135m_t.png|80px]]
+|[[Carlyle]]<br />カーライル
+|Gentle
+|Moon
+|Increase Green ATK by 50% and HP increase 10%
+|Erase 10-30 beads randomly
+|-
+|136
+|[[File:136_t.png|80px]]
+|[[Frites]]<br />フリッツ
+|Sexy
+|Normal
+|Increase Party HP & RP by 10%
+|Increase Purple beads appearance rate (S)
+|-
+|136
+|[[File:136s_t.png|80px]]
+|[[Frites]]<br />フリッツ
+|Sexy
+|Sun
+|Increase Party HP & RP by 15%
+|Increase Purple beads appearance rate (S)
+|-
+|136
+|[[File:136m_t.png|80px]]
+|[[Frites]]<br />フリッツ
+|Sexy
+|Moon
+|Increase Party HP & RP by 15%
+|Increase Purple beads appearance rate (S)
+|-
+|137
+|[[File:137_t.png|80px]]
+|[[Azalee]]<br />アザリー
+|Passion
+|Normal
+|Increase Red ATK by 25%
+|Recover time (2s)
+|-
+|137
+|[[File:137s_t.png|80px]]
+|[[Azalee]]<br />アザリー
+|Passion
+|Sun
+|Increase Red ATK by 35%
+|Recover time (2s)
+|-
+|137
+|[[File:137m_t.png|80px]]
+|[[Azalee]]<br />アザリー
+|Passion
+|Moon
+|Increase Red ATK by 35%
+|Recover time (2s)
+|-
+|138
+|[[File:138_t.png|80px]]
+|[[Tormari (Butterfly)]]<br />トルマリ
+|Passion
+|Normal
+|Recover HP every turn (SS)
+|Erase top & bottom beads
+|-
+|138
+|[[File:138s_t.png|80px]]
+|[[Tormari (Butterfly)]]<br />トルマリ
+|Passion
+|Sun
+|Recover HP every turn (SSS)
+|Erase top & bottom beads
+|-
+|138
+|[[File:138m_t.png|80px]]
+|[[Tormari (Butterfly)]]<br />トルマリ
+|Passion
+|Moon
+|Recover HP every turn (SSS)
+|Erase top & bottom beads
+|-
+|139
+|[[File:139_t.png|80px]]
+|[[Guido (Butterfly)]]<br />グウィード
+|Sexy
+|Normal
+|Increase Red & Purple ATK by 30%
+|Turn Blue beads into Purple
+|-
+|139
+|[[File:139s_t.png|80px]]
+|[[Guido (Butterfly)]]<br />グウィード
+|Sexy
+|Sun
+|Increase Red & Purple ATK by 35%
+|Turn Blue beads into Purple and recover HP
+|-
+|139
+|[[File:139m_t.png|80px]]
+|[[Guido (Butterfly)]]<br />グウィード
+|Sexy
+|Moon
+|Increase Red & Purple ATK by 35%
+|Turn Blue beads into Purple and recover HP
+|-
+|140
+|[[File:140_t.png|80px]]
+|[[Haldine (Weapon)]]<br />ハルディーン
+|Passion
+|Normal
+|Increase Red, Blue & Green ATK by 30%
+|Erase beads in cross (SS)
+|-
+|140
+|[[File:140s_t.png|80px]]
+|[[Haldine (Weapon)]]<br />ハルディーン
+|Passion
+|Sun
+|Increase Red, Blue & Green ATK by 40%
+|Erase beads in cross (SSS)
+|-
+|140
+|[[File:140m_t.png|80px]]
+|[[Haldine (Weapon)]]<br />ハルディーン
+|Passion
+|Moon
+|Increase Red, Blue & Green ATK by 30% and HP by 10%
+|Erase beads in cross (SSS)
+|-
+|141
+|[[File:141_t.png|80px]]
+|[[Caliburn]]<br />カリバーン
+|Sexy
+|Normal
+|Increase Yellow & Purple ATK & RP by 20%
+|Erase middle column beads and recover HP
+|-
+|141
+|[[File:141s_t.png|80px]]
+|[[Caliburn]]<br />カリバーン
+|Sexy
+|Sun
+|Increase Yellow & Purple ATK & RP by 20% and HP by 5%
+|Erase middle column beads and recover HP
+|-
+|141
+|[[File:141m_t.png|80px]]
+|[[Caliburn]]<br />カリバーン
+|Sexy
+|Moon
+|Increase Yellow & Purple ATK & RP by 25%
+|Erase middle column beads and recover HP
+|-
+|142
+|[[File:142_t.png|80px]]
+|[[Sieg (Weapon)]]<br />ジーク
+|Gentle
+|Normal
+|Increase Green HP by 30%
+|Turn Yellow beads into Green
+|-
+|142
+|[[File:142s_t.png|80px]]
+|[[Sieg (Weapon)]]<br />ジーク
+|Gentle
+|Sun
+|Increase Green HP by 35%
+|Turn Yellow beads into Green and recover HP
+|-
+|142
+|[[File:142m_t.png|80px]]
+|[[Sieg (Weapon)]]<br />ジーク
+|Gentle
+|Moon
+|Increase Green HP by 35%
+|Turn Yellow beads into Green and recover HP
+|-
+|143
+|[[File:143_t.png|80px]]
+|[[Prytwen]]<br />プリトヴェン
+|Cute
+|Normal
+|Increase Yellow HP by 30%
+|Recover HP every turn (S)
+|-
+|143
+|[[File:143s_t.png|80px]]
+|[[Prytwen]]<br />プリトヴェン
+|Cute
+|Sun
+|Increase Yellow HP by 35%
+|Recover HP every turn (SS)
+|-
+|143
+|[[File:143m_t.png|80px]]
+|[[Prytwen]]<br />プリトヴェン
+|Cute
+|Moon
+|Increase Yellow HP by 35%
+|Recover HP every turn (SS)
+|-
+|144
+|[[File:144_t.png|80px]]
+|[[Carlo (Weapon)]]<br />カルロ
+|Cool
+|Normal
+|Increase Blue ATK by 25%
+|Increase own ATK for 1 turn (A)
+|-
+|144
+|[[File:144s_t.png|80px]]
+|[[Carlo (Weapon)]]<br />カルロ
+|Cool
+|Sun
+|Increase Blue ATK by 35%
+|Increase own ATK for 1 turn (S)
+|-
+|144
+|[[File:144m_t.png|80px]]
+|[[Carlo (Weapon)]]<br />カルロ
+|Cool
+|Moon
+|Increase Blue ATK by 35%
+|Increase own ATK for 1 turn (S)
+|-
+|145
+|[[File:145_t.png|80px]]
+|[[Beul]]<br />ベウル
+|Sexy
+|Normal
+|Increase Purple ATK by 35%
+|Increase Purple ATK for 1 turn (A)
+|-
+|145
+|[[File:145s_t.png|80px]]
+|[[Beul]]<br />ベウル
+|Sexy
+|Sun
+|Increase Purple ATK by 50%
+|Increase Purple ATK for 1 turn (S)
+|-
+|145
+|[[File:145m_t.png|80px]]
+|[[Beul]]<br />ベウル
+|Sexy
+|Moon
+|Increase Purple ATK by 50%
+|Increase Purple ATK for 1 turn (S)
+|-
+|146
+|[[File:146_t.png|80px]]
+|[[Miya (Literary)]]<br />ミヤ
+|Cute
+|Normal
+|Increase Yellow ATK by 50%
+|Insert Yellow beads (10)
+|-
+|146
+|[[File:146s_t.png|80px]]
+|[[Miya (Literary)]]<br />ミヤ
+|Cute
+|Sun
+|Increase Yellow ATK by 65%
+|Insert Yellow beads (12)
+|-
+|146
+|[[File:146m_t.png|80px]]
+|[[Miya (Literary)]]<br />ミヤ
+|Cute
+|Moon
+|Increase Yellow ATK by 50% and HP by 10%
+|Insert Yellow beads (10-14)
+|-
+|147
+|[[File:147_t.png|80px]]
+|[[Graham]]<br />グレアム
+|Cool
+|Normal
+|Additional damage after attack (SS)
+|Turn Yellow beads into Blue and insert bombs
+|-
+|147
+|[[File:147s_t.png|80px]]
+|[[Graham]]<br />グレアム
+|Cool
+|Sun
+|Additional damage after attack (SSS)
+|Turn Purple beads into Blue and recover HP
+|-
+|147
+|[[File:147m_t.png|80px]]
+|[[Graham]]<br />グレアム
+|Cool
+|Moon
+|Additional damage after attack (SSS)
+|Turn Yellow beads into Blue and insert bombs
+|-
+|148
+|[[File:148_t.png|80px]]
+|[[Kies (Literary)]]<br />キース
+|Cool
+|Normal
+|Reduce Red & Blue damage by 10%
+|Insert hearts and recover Seal
+|-
+|148
+|[[File:148s_t.png|80px]]
+|[[Kies (Literary)]]<br />キース
+|Cool
+|Sun
+|Reduce Red & Blue damage by 15%
+|Insert hearts and recover Seal
+|-
+|148
+|[[File:148m_t.png|80px]]
+|[[Kies (Literary)]]<br />キース
+|Cool
+|Moon
+|Reduce Red & Blue damage by 15%
+|Insert hearts and recover Seal
+|-
+|149
+|[[File:149_t.png|80px]]
+|[[Fujime]]<br />藤目
+|Gentle
+|Normal
+|Increase Green HP & RP by 20%
+|Recover HP and Seal
+|-
+|149
+|[[File:149s_t.png|80px]]
+|[[Fujime]]<br />藤目
+|Gentle
+|Sun
+|Increase Green HP & RP by 25%
+|Recover HP and Seal
+|-
+|149
+|[[File:149m_t.png|80px]]
+|[[Fujime]]<br />藤目
+|Gentle
+|Moon
+|Increase Green HP & RP by 25%
+|Recover HP and Seal
+|-
+|150
+|[[File:150_t.png|80px]]
+|[[Will (Harvest)]]<br />ウィル
+|Sexy
+|Normal
+|Increase Yellow & Purple ATK by 35%
+|Erase random beads (10-25)
+|-
+|150
+|[[File:150s_t.png|80px]]
+|[[Will (Harvest)]]<br />ウィル
+|Sexy
+|Sun
+|Increase Yellow & Purple ATK by 50%
+|Erase random beads (10-30)
+|-
+|150
+|[[File:150m_t.png|80px]]
+|[[Will (Harvest)]]<br />ウィル
+|Sexy
+|Moon
+|Increase Yellow & Purple ATK by 35% and HP by 10%
+|Erase random beads (5-35)
+|-
+|151
+|[[File:151_t.png|80px]]
+|[[Vim (Harvest)]]<br />ヴィム
+|Cool
+|Normal
+|Increase ATK by 35% when Party consists of all 5 colours
+|Recovery of HP in accordance to RP (SS)
+|-
+|151
+|[[File:151s_t.png|80px]]
+|[[Vim (Harvest)]]<br />ヴィム
+|Cool
+|Sun
+|Increase ATK by 50% when Party consists of all 5 colours
+|Recovery of HP in accordance to RP (SSS)
+|-
+|151
+|[[File:151m_t.png|80px]]
+|[[Vim (Harvest)]]<br />ヴィム
+|Cool
+|Moon
+|Increase ATK by 40% and RP by 15% when Party consists of all 5 colours
+|Recovery of HP and increase ATK
+|-
+|152
+|[[File:152_t.png|80px]]
+|[[Alfred (Harvest)]]<br />アルフレッド
+|Sexy
+|Normal
+|Increase Purple HP & RP by 20%
+|Erase random beads and recover HP
+|-
+|152
+|[[File:152s_t.png|80px]]
+|[[Alfred (Harvest)]]<br />アルフレッド
+|Sexy
+|Sun
+|Increase Purple HP & RP by 25%
+|Erase random beads and recover HP
+|-
+|152
+|[[File:152m_t.png|80px]]
+|[[Alfred (Harvest)]]<br />アルフレッド
+|Sexy
+|Moon
+|Increase Purple HP & RP by 25%
+|Erase random beads and recover HP
+|-
+|153
+|[[File:153_t.png|80px]]
+|[[Procyon (Harvest)]]<br />プロキオン
+|Cute
+|Normal
+|Increase Yellow ATK & HP by 15%
+|Erase bottom beads (A)
+|-
+|153
+|[[File:153s_t.png|80px]]
+|[[Procyon (Harvest)]]<br />プロキオン
+|Cute
+|Sun
+|Increase Yellow ATK & HP by 20%
+|Erase bottom beads (S)
+|-
+|153
+|[[File:153m_t.png|80px]]
+|[[Procyon (Harvest)]]<br />プロキオン
+|Cute
+|Moon
+|Increase Yellow ATK & HP by 20%
+|Erase bottom beads (S)
+|-
+|154
+|[[File:154_t.png|80px]]
+|[[Rolf (Harvest)]]<br />ロルフ
+|Cute
+|Normal
+|Increase Red & Yellow ATK by 25% and HP by 10%
+|Erase center beads (SS)
+|-
+|154
+|[[File:154s_t.png|80px]]
+|[[Rolf (Harvest)]]<br />ロルフ
+|Cute
+|Sun
+|Increase Red & Yellow ATK by 30% and HP by 15%
+|Erase center beads and increase own ATK
+|-
+|154
+|[[File:154m_t.png|80px]]
+|[[Rolf (Harvest)]]<br />ロルフ
+|Cute
+|Moon
+|Increase Red & Yellow ATK by 30% and HP by 15%
+|Erase center beads (SSS)
+|-
+|155
+|[[File:155_t.png|80px]]
+|[[Nepenthes (Harvest)]]<br />ネペンテス
+|Passion
+|Normal
+|Increase Red HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|155
+|[[File:155s_t.png|80px]]
+|[[Nepenthes (Harvest)]]<br />ネペンテス
+|Passion
+|Sun
+|Increase Red HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|155
+|[[File:155m_t.png|80px]]
+|[[Nepenthes (Harvest)]]<br />ネペンテス
+|Passion
+|Moon
+|Increase Red HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|156
+|[[File:156_t.png|80px]]
+|[[Tiga (Parade)]]<br />ティーガ
+|Passion
+|Normal
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Erase random beads and increase own ATK for 1 turn
+|-
+|156
+|[[File:156s_t.png|80px]]
+|[[Tiga (Parade)]]<br />ティーガ
+|Passion
+|Sun
+|Increase HP & RP by 20% and ATK by 15% when Party consists of all 5 colours
+|Erase random beads and increase own ATK for 1 turn
+|-
+|156
+|[[File:156m_t.png|80px]]
+|[[Tiga (Parade)]]<br />ティーガ
+|Passion
+|Moon
+|Increase HP & RP by 25% when Party consists of all 5 colours
+|Erase random beads and increase own ATK for 1 turn
+|-
+|157
+|[[File:157_t.png|80px]]
+|[[Deneb (Parade)]]<br />デネブ
+|Cool
+|Normal
+|Increase Blue ATK by 35%
+|Erase left side beads (S)
+|-
+|157
+|[[File:157s_t.png|80px]]
+|[[Deneb (Parade)]]<br />デネブ
+|Cool
+|Sun
+|Increase Blue ATK by 50%
+|Erase left side beads (SS)
+|-
+|157
+|[[File:157m_t.png|80px]]
+|[[Deneb (Parade)]]<br />デネブ
+|Cool
+|Moon
+|Increase Blue ATK by 50%
+|Erase left side beads (SS)
+|-
+|158
+|[[File:158_t.png|80px]]
+|[[Altair (Parade)]]<br />アルタイル
+|Gentle
+|Normal
+|Increase Blue & Green HP by 30%
+|Erase Blue & Green beads (SS)
+|-
+|158
+|[[File:158s_t.png|80px]]
+|[[Altair (Parade)]]<br />アルタイル
+|Gentle
+|Sun
+|Increase Blue & Yellow HP by 35%
+|Erase Green & Yellow beads (SSS)
+|-
+|158
+|[[File:158m_t.png|80px]]
+|[[Altair (Parade)]]<br />アルタイル
+|Gentle
+|Moon
+|Increase Blue & Green HP by 35%
+|Erase Blue & Green beads (SSS)
+|-
+|159
+|[[File:159_t.png|80px]]
+|[[Haku (Parade)]]<br />ハク
+|Sexy
+|Normal
+|Increase ATK by 25% when Party consists of all 5 colours
+|Erase right side beads (S)
+|-
+|159
+|[[File:159s_t.png|80px]]
+|[[Haku (Parade)]]<br />ハク
+|Sexy
+|Sun
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase right side beads (SS)
+|-
+|159
+|[[File:159m_t.png|80px]]
+|[[Haku (Parade)]]<br />ハク
+|Sexy
+|Moon
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase right side beads (SS)
+|-
+|160
+|[[File:160_t.png|80px]]
+|[[Dion (Briar)]]<br />ディオン
+|Sexy
+|Normal
+|Recover Skill Gauge every turn (S)
+|Increase Purple beads appearance rate once and erase random beads
+|-
+|160
+|[[File:160s_t.png|80px]]
+|[[Dion (Briar)]]<br />ディオン
+|Sexy
+|Sun
+|Recover Skill Gauge every turn (SS)
+|Increase Purple beads appearance rate once and erase random beads
+|-
+|160
+|[[File:160m_t.png|80px]]
+|[[Dion (Briar)]]<br />ディオン
+|Sexy
+|Moon
+|Recover Skill Gauge every turn and increase Purple ATK by 15%
+|Increase Purple beads appearance rate once and erase random beads
+|-
+|161
+|[[File:161_t.png|80px]]
+|[[Sirius (Briar)]]<br />シリウス
+|Passion
+|Normal
+|Increase Red ATK & HP by 20%
+|Erase upper beads (A)
+|-
+|161
+|[[File:161s_t.png|80px]]
+|[[Sirius (Briar)]]<br />シリウス
+|Passion
+|Sun
+|Increase Red ATK & HP by 25%
+|Erase upper beads (S)
+|-
+|161
+|[[File:161m_t.png|80px]]
+|[[Sirius (Briar)]]<br />シリウス
+|Passion
+|Moon
+|Increase Red ATK & HP by 25%
+|Erase upper beads (S)
+|-
+|162
+|[[File:162_t.png|80px]]
+|[[Vedy]]<br />ウェディ
+|Passion
+|Normal
+|Increase Red ATK by 50%
+|Increase ATK of party for 1 turn and increase appearance rate of Red beads (A)
+|-
+|162
+|[[File:162s_t.png|80px]]
+|[[Vedy]]<br />ウェディ
+|Passion
+|Sun
+|Increase Red ATK by 65%
+|Increase ATK of party for 1 turn and increase appearance rate of Red beads (S)
+|-
+|162
+|[[File:162m_t.png|80px]]
+|[[Vedy]]<br />ウェディ
+|Passion
+|Moon
+|Increase Red ATK by 50% aand RP increase 15%
+|Increase ATK of party for 1 turn and increase appearance rate of Red beads (A)
+|-
+|163
+|[[File:163_t.png|80px]]
+|[[Grad]]<br />グラッド
+|Cute
+|Normal
+|Increase Gold by 20%
+|Erase middle column beads (S)
+|-
+|163
+|[[File:163s_t.png|80px]]
+|[[Grad]]<br />グラッド
+|Cute
+|Sun
+|Increase Gold by 25%
+|Erase middle column beads (SS)
+|-
+|163
+|[[File:163m_t.png|80px]]
+|[[Grad]]<br />グラッド
+|Cute
+|Moon
+|Increase Gold by 25%
+|Erase middle column beads (SS)
+|-
+|164
+|[[File:164_t.png|80px]]
+|[[Micaela]]<br />ミカエラ
+|Cute
+|Normal
+|Increase Blue & Yellow HP & RP by 20%
+|Turn Green beads into Yellow and recover HP
+|-
+|164
+|[[File:164s_t.png|80px]]
+|[[Micaela]]<br />ミカエラ
+|Cute
+|Sun
+|Increase Blue & Yellow HP & RP by 25%
+|Turn Green beads into Yellow and recover HP
+|-
+|164
+|[[File:164m_t.png|80px]]
+|[[Micaela]]<br />ミカエラ
+|Cute
+|Moon
+|Increase Green & Yellow HP & RP by 25%
+|Turn Blue beads into Yellow and recover HP
+|-
+|165
+|[[File:165_t.png|80px]]
+|[[Camilo]]<br />カミロ
+|Gentle
+|Normal
+|Increase HP by 30% when Party consists of all 5 colours
+|Erase beads in cross (S)
+|-
+|165
+|[[File:165s_t.png|80px]]
+|[[Camilo]]<br />カミロ
+|Gentle
+|Sun
+|Increase HP by 35% when Party consists of all 5 colours
+|Erase beads in cross (SS)
+|-
+|165
+|[[File:165m_t.png|80px]]
+|[[Camilo]]<br />カミロ
+|Gentle
+|Moon
+|Increase HP by 35% when Party consists of all 5 colours
+|Erase beads in cross (SS)
+|-
+|166
+|[[File:166_t.png|80px]]
+|[[Dulfer]]<br />ダルファー
+|Sexy
+|Normal
+|Increase Purple RP by 25%
+|Recovery of HP in accordance to RP (A)
+|-
+|166
+|[[File:166s_t.png|80px]]
+|[[Dulfer]]<br />ダルファー
+|Sexy
+|Sun
+|Increase Purple RP by 35%
+|Recovery of HP in accordance to RP (S)
+|-
+|166
+|[[File:166m_t.png|80px]]
+|[[Dulfer]]<br />ダルファー
+|Sexy
+|Moon
+|Increase Purple RP by 35%
+|Recovery of HP in accordance to RP (S)
+|-
+|167
+|[[File:167_t.png|80px]]
+|[[Lecien]]<br />ルシアン
+|Cool
+|Normal
+|Increase Blue ATK by 50%
+|Insert Blue beads (10)
+|-
+|167
+|[[File:167s_t.png|80px]]
+|[[Lecien]]<br />ルシアン
+|Cool
+|Sun
+|Increase Blue & Yellow ATK by 50%
+|Insert Blue beads (12)
+|-
+|167
+|[[File:167m_t.png|80px]]
+|[[Lecien]]<br />ルシアン
+|Cool
+|Moon
+|Increase Blue ATK by 65%
+|Insert Blue beads (10-14)
+|-
+|168
+|[[File:168_t.png|80px]]
+|[[Adiel]]<br />アディエル
+|Passion
+|Normal
+|Increase Red & Blue HP by 25%
+|Erase Red & Blue beads (S)
+|-
+|168
+|[[File:168s_t.png|80px]]
+|[[Adiel]]<br />アディエル
+|Passion
+|Sun
+|Increase Red & Blue HP by 30%
+|Erase Red & Blue beads (S)
+|-
+|168
+|[[File:168m_t.png|80px]]
+|[[Adiel]]<br />アディエル
+|Passion
+|Moon
+|Increase Red & Blue HP by 30%
+|Erase Red & Blue beads (S)
+|-
+|169
+|[[File:169_t.png|80px]]
+|[[Ster]]<br />シュテル
+|Cool
+|Normal
+|At beginning of stage recover HP (S)
+|Repeatedly erase rows (SS)
+|-
+|169
+|[[File:169s_t.png|80px]]
+|[[Ster]]<br />シュテル
+|Cool
+|Sun
+|At beginning of stage recover HP (SS)
+|Repeatedly erase rows and recover HP
+|-
+|169
+|[[File:169m_t.png|80px]]
+|[[Ster]]<br />シュテル
+|Cool
+|Moon
+|At beginning of stage recover HP (SS)
+|Repeatedly erase rows (SSS)
+|-
+|170
+|[[File:170_t.png|80px]]
+|[[Synny (Sweets Panic)]]<br />シュニー
+|Cute
+|Normal
+|Increase Yellow & Purple HP & RP by 20%
+|Erase upper beads (SS)
+|-
+|170
+|[[File:170s_t.png|80px]]
+|[[Synny (Sweets Panic)]]<br />シュニー
+|Cute
+|Sun
+|Increase Yellow & Purple HP & RP by 25%
+|Erase upper beads and insert Yellow beads
+|-
+|170
+|[[File:170m_t.png|80px]]
+|[[Synny (Sweets Panic)]]<br />シュニー
+|Cute
+|Moon
+|Increase Yellow & Purple HP & RP by 20% and ATK by 10%
+|Erase upper beads (SSS)
+|-
+|171
+|[[File:171_t.png|80px]]
+|[[Girbert (School)]]<br />ギルバート
+|Cool
+|Normal
+|Increase all stats of Blue by 20%
+|Erase left side beads (SS)
+|-
+|171
+|[[File:171s_t.png|80px]]
+|[[Girbert (School)]]<br />ギルバート
+|Cool
+|Sun
+|Increase all stats of Blue by 25%
+|Erase left side beads (SSS)
+|-
+|171
+|[[File:171m_t.png|80px]]
+|[[Girbert (School)]]<br />ギルバート
+|Cool
+|Moon
+|Increase all stats of Blue by 25%
+|Erase left side beads and insert hearts
+|-
+|172
+|[[File:172_t.png|80px]]
+|[[Rufen (School)]]<br />ルーフェン
+|Passion
+|Normal
+|Increase HP & RP by 15% when Party consists of all 5 colours
+|Recovery of HP in accordance to RP (S)
+|-
+|172
+|[[File:172s_t.png|80px]]
+|[[Rufen (School)]]<br />ルーフェン
+|Passion
+|Sun
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Recovery of HP in accordance to RP (SS)
+|-
+|172
+|[[File:172m_t.png|80px]]
+|[[Rufen (School)]]<br />ルーフェン
+|Passion
+|Moon
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Recovery of HP in accordance to RP (SS)
+|-
+|173
+|[[File:173_t.png|80px]]
+|[[Iria (School)]]<br />イリア
+|Gentle
+|Normal
+|Increase Green ATK & RP by 30%
+|Recover HP every turn (SS)
+|-
+|173
+|[[File:173s_t.png|80px]]
+|[[Iria (School)]]<br />イリア
+|Gentle
+|Sun
+|Increase Green ATK & RP by 30% and HP by 5%
+|Recover HP instantly and every turn
+|-
+|173
+|[[File:173m_t.png|80px]]
+|[[Iria (School)]]<br />イリア
+|Gentle
+|Moon
+|Increase Green ATK & RP by 35%
+|Recover HP every turn (SSS)
+|-
+|174
+|[[File:174_t.png|80px]]
+|[[Sai (School)]]<br />サイ
+|Cool
+|Normal
+|Increase Party ATK by 15%
+|Erase right side beads and restore time
+|-
+|174
+|[[File:174s_t.png|80px]]
+|[[Sai (School)]]<br />サイ
+|Cool
+|Sun
+|Increase Party ATK by 20%
+|Erase right side beads and restore time
+|-
+|174
+|[[File:174m_t.png|80px]]
+|[[Sai (School)]]<br />サイ
+|Cool
+|Moon
+|Increase Party ATK by 20%
+|Erase right side beads and restore time
+|-
+|175
+|[[File:175_t.png|80px]]
+|[[Medi (Aurora)]]<br />メディ
+|Sexy
+|Normal
+|Increase all stats of Purple by 10%
+|Insert gold bomb (1)
+|-
+|175
+|[[File:175s_t.png|80px]]
+|[[Medi (Aurora)]]<br />メディ
+|Sexy
+|Sun
+|Increase all stats of Purple by 15%
+|Insert gold bomb (2)
+|-
+|175
+|[[File:175m_t.png|80px]]
+|[[Medi (Aurora)]]<br />メディ
+|Sexy
+|Moon
+|Increase all stats of Purple by 15%
+|Insert gold bomb (2)
+|-
+|176
+|[[File:176_t.png|80px]]
+|[[Legrange]]<br />ルグランジュ
+|Cute
+|Normal
+|Increase Red & Yellow HP & RP by 15%
+|Recovery of HP in accordance to RP (S)
+|-
+|176
+|[[File:176s_t.png|80px]]
+|[[Legrange]]<br />ルグランジュ
+|Cute
+|Sun
+|Increase Red & Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (SS)
+|-
+|176
+|[[File:176m_t.png|80px]]
+|[[Legrange]]<br />ルグランジュ
+|Cute
+|Moon
+|Increase Red & Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (SS)
+|-
+|177
+|[[File:177_t.png|80px]]
+|[[Tell]]<br />テル
+|Gentle
+|Normal
+|Increase Party HP & RP by 10%
+|Turn Blue beads into Green beads
+|-
+|177
+|[[File:177s_t.png|80px]]
+|[[Tell]]<br />テル
+|Gentle
+|Sun
+|Increase Party HP & RP by 15%
+|Turn Blue beads into Green and recover HP
+|-
+|177
+|[[File:177m_t.png|80px]]
+|[[Tell]]<br />テル
+|Gentle
+|Moon
+|Increase Party HP & RP by 15%
+|Turn Blue beads into Green and recover HP
+|-
+|178
+|[[File:178_t.png|80px]]
+|[[Vio]]<br />ヴィオ
+|Passion
+|Normal
+|Increase Red HP by 35%
+|All individual stats increase for 3 turns
+|-
+|178
+|[[File:178s_t.png|80px]]
+|[[Vio]]<br />ヴィオ
+|Passion
+|Sun
+|Increase Red HP by 40%
+|All individual stats increase for 3 turns and recover HP
+|-
+|178
+|[[File:178m_t.png|80px]]
+|[[Vio]]<br />ヴィオ
+|Passion
+|Moon
+|Increase Red HP by 35% and ATK by 15%
+|All individual stats increase for 3 turns
+|-
+|179
+|[[File:179_t.png|80px]]
+|[[Roie]]<br />ロイエ
+|Sexy
+|Normal
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase beads in cross (SS)
+|-
+|179
+|[[File:179s_t.png|80px]]
+|[[Roie]]<br />ロイエ
+|Sexy
+|Sun
+|Increase ATK by 50% when Party consists of all 5 colours
+|Erase beads in cross (SSS)
+|-
+|179
+|[[File:179m_t.png|80px]]
+|[[Roie]]<br />ロイエ
+|Sexy
+|Moon
+|Increase ATK by 40% and HP by 15% when Party consists of all 5 colours
+|Erase beads in cross and recover HP
+|-
+|180
+|[[File:180_t.png|80px]]
+|[[Volker]]<br />フォルカー
+|Gentle
+|Normal
+|Increase Green ATK by 35%
+|Erase right side beads (S)
+|-
+|180
+|[[File:180s_t.png|80px]]
+|[[Volker]]<br />フォルカー
+|Gentle
+|Sun
+|Increase Green ATK by 50%
+|Erase right side beads (SS)
+|-
+|180
+|[[File:180m_t.png|80px]]
+|[[Volker]]<br />フォルカー
+|Gentle
+|Moon
+|Increase Green ATK by 50%
+|Erase right side beads (SS)
+|-
+|181
+|[[File:181_t.png|80px]]
+|[[Theodor]]<br />テオドール
+|Cool
+|Normal
+|Increase Blue HP by 20%
+|Turn Yellow beads into Blue
+|-
+|181
+|[[File:181s_t.png|80px]]
+|[[Theodor]]<br />テオドール
+|Cool
+|Sun
+|Increase Blue HP by 30%
+|Turn Yellow beads into Blue
+|-
+|181
+|[[File:181m_t.png|80px]]
+|[[Theodor]]<br />テオドール
+|Cool
+|Moon
+|Increase Blue HP by 30%
+|Turn Yellow beads into Blue
+|-
+|182
+|[[File:182_t.png|80px]]
+|[[Chrono (Xmas)]]<br />クロノ
+|Gentle
+|Normal
+|Increase Green HP by 35%
+|Turn Red beads into Green and restore time
+|-
+|182
+|[[File:182s_t.png|80px]]
+|[[Chrono (Xmas)]]<br />クロノ
+|Gentle
+|Sun
+|Increase Green HP by 40%
+|Turn Red beads into Green and restore time
+|-
+|182
+|[[File:182m_t.png|80px]]
+|[[Chrono (Xmas)]]<br />クロノ
+|Gentle
+|Moon
+|Increase Green HP by 35% and ATK by 15%
+|Turn Purple beads into Green and restore time
+|-
+|183
+|[[File:183_t.png|80px]]
+|[[Cheshire Cat (Xmas)]]<br />チェシャ猫
+|Cute
+|Normal
+|Increase HP by 35% when Party consists of all 5 colours
+|Increase party ATK and Yellow beads appearance rate for 1 turn
+|-
+|183
+|[[File:183s_t.png|80px]]
+|[[Cheshire Cat (Xmas)]]<br />チェシャ猫
+|Cute
+|Sun
+|Increase HP by 35% and ATK by 15% when Party consists of all 5 colours
+|Increase party ATK and Yellow beads appearance rate for 1 turn
+|-
+|183
+|[[File:183m_t.png|80px]]
+|[[Cheshire Cat (Xmas)]]<br />チェシャ猫
+|Cute
+|Moon
+|Increase HP by 40% when Party consists of all 5 colours
+|Increase party ATK and Yellow beads appearance rate for 1 turn
+|-
+|184
+|[[File:184_t.png|80px]]
+|[[Hearts (Xmas)]]<br />ハーツ
+|Passion
+|Normal
+|Increase Party ATK by 65% when Max HP
+|Erase left side beads (SS)
+|-
+|184
+|[[File:184s_t.png|80px]]
+|[[Hearts (Xmas)]]<br />ハーツ
+|Passion
+|Sun
+|Increase Party ATK by 75% when max HP
+|Erase left side beads and restore HP
+|-
+|184
+|[[File:184m_t.png|80px]]
+|[[Hearts (Xmas)]]<br />ハーツ
+|Passion
+|Moon
+|Increase Party ATK by 75% when max HP
+|Erase left side beads (SSS)
+|-
+|185
+|[[File:185_t.png|80px]]
+|[[Marchia (Xmas)]]<br />マーチア
+|Passion
+|Normal
+|Increase all stats of Red by 15%
+|Reduce damage by 20% for 1 turn
+|-
+|185
+|[[File:185s_t.png|80px]]
+|[[Marchia (Xmas)]]<br />マーチア
+|Passion
+|Sun
+|Increase all stats of Red by 20%
+|Reduce damage by 25% for 1 turn
+|-
+|185
+|[[File:185m_t.png|80px]]
+|[[Marchia (Xmas)]]<br />マーチア
+|Passion
+|Moon
+|Increase all stats of Red by 20%
+|Reduce damage by 25% for 1 turn
+|-
+|186
+|[[File:186_t.png|80px]]
+|[[Mad Hatter (Xmas)]]<br />マッドハッター
+|Sexy
+|Normal
+|Increase Blue & Purple ATK by 35%
+|Recover HP every turn (SS)
+|-
+|186
+|[[File:186s_t.png|80px]]
+|[[Mad Hatter (Xmas)]]<br />マッドハッター
+|Sexy
+|Sun
+|Increase Blue & Purple ATK by 50%
+|Recover HP instantly and every turn
+|-
+|186
+|[[File:186m_t.png|80px]]
+|[[Mad Hatter (Xmas)]]<br />マッドハッター
+|Sexy
+|Moon
+|Increase Blue & Purple ATK by 35% and HP by 10%
+|Recover HP every turn (SSS)
+|-
+|187
+|[[File:187_t.png|80px]]
+|[[Capita (Xmas)]]<br />キャピタ
+|Cool
+|Normal
+|Increase Blue & Purple HP by 25%
+|Erase random beads (S)
+|-
+|187
+|[[File:187s_t.png|80px]]
+|[[Capita (Xmas)]]<br />キャピタ
+|Cool
+|Sun
+|Increase Blue & Purple HP by 30%
+|Erase random beads (SS)
+|-
+|187
+|[[File:187m_t.png|80px]]
+|[[Capita (Xmas)]]<br />キャピタ
+|Cool
+|Moon
+|Increase Blue & Purple HP by 30%
+|Erase random beads (SS)
+|-
+|188
+|[[File:188_t.png|80px]]
+|[[Hinoto]]<br />ヒノト
+|Gentle
+|Normal
+|Increase Green ATK by 50%
+|Erase bottom beads (SS)
+|-
+|188
+|[[File:188s_t.png|80px]]
+|[[Hinoto]]<br />ヒノト
+|Gentle
+|Sun
+|Increase Green ATK by 50% and HP increase 10%
+|Erase bottom beads (SSS)
+|-
+|188
+|[[File:188m_t.png|80px]]
+|[[Hinoto]]<br />ヒノト
+|Gentle
+|Moon
+|Increase Green ATK by 65%
+|Erase bottom beads and insert bombs
+|-
+|189
+|[[File:189_t.png|80px]]
+|[[Kanoto]]<br />カノト
+|Cute
+|Normal
+|Increase Party ATK & HP by 10%
+|Turn Purple beads into Yellow
+|-
+|189
+|[[File:189s_t.png|80px]]
+|[[Kanoto]]<br />カノト
+|Cute
+|Sun
+|Increase Party ATK & HP by 15%
+|Turn Purple beads into Yellow and recover HP
+|-
+|189
+|[[File:189m_t.png|80px]]
+|[[Kanoto]]<br />カノト
+|Cute
+|Moon
+|Increase Party ATK & HP by 15%
+|Turn Purple beads into Yellow and recover HP
+|-
+|190
+|[[File:190_t.png|80px]]
+|[[Kanoe]]<br />カノエ
+|Cool
+|Normal
+|Increase Blue & Green HP & RP by 20%
+|Erase all Blue beads and turn Purple beads into Blue
+|-
+|190
+|[[File:190s_t.png|80px]]
+|[[Kanoe]]<br />カノエ
+|Cool
+|Sun
+|Increase Blue & Green HP & RP by 25%
+|Erase all Blue beads and turn Purple beads into Blue
+|-
+|190
+|[[File:190m_t.png|80px]]
+|[[Kanoe]]<br />カノエ
+|Cool
+|Moon
+|Increase Blue & Yellow HP & RP by 25%
+|Erase all Blue beads and turn Red beads into Blue
+|-
+|191
+|[[File:191_t.png|80px]]
+|[[Frost (New Year)]]<br />フロスト
+|Cool
+|Normal
+|Increase Blue ATK by 35% and HP by 10%
+|Only Red & Blue beads appears (2 chains)
+|-
+|191
+|[[File:191s_t.png|80px]]
+|[[Frost (New Year)]]<br />フロスト
+|Cool
+|Sun
+|Increase Red & Blue ATK by 40% and HP by 15%
+|Only Red & Blue beads appears (2 chains)
+|-
+|191
+|[[File:191m_t.png|80px]]
+|[[Frost (New Year)]]<br />フロスト
+|Cool
+|Moon
+|Increase Blue and Yelllow ATK by 40% and HP by 15%
+|Only Blue & Yellow beads appears (2 chains)
+|-
+|192
+|[[File:192_t.png|80px]]
+|[[Eins (New Year)]]<br />アインツ
+|Passion
+|Normal
+|Increase Party HP & RP by 10%
+|Recovery of HP in accordance to party RP (S)
+|-
+|192
+|[[File:192s_t.png|80px]]
+|[[Eins (New Year)]]<br />アインツ
+|Passion
+|Sun
+|Increase Party HP & RP by 15%
+|Recovery of HP in accordance to party RP (SS)
+|-
+|192
+|[[File:192m_t.png|80px]]
+|[[Eins (New Year)]]<br />アインツ
+|Passion
+|Moon
+|Increase Party HP & RP by 15%
+|Recovery of HP in accordance to party RP (SS)
+|-
+|193
+|[[File:193_t.png|80px]]
+|[[Toni (New Year)]]<br />トニ
+|Cute
+|Normal
+|Increase Party ATK by 35% when Max HP
+|Insert gold bomb (1)
+|-
+|193
+|[[File:193s_t.png|80px]]
+|[[Toni (New Year)]]<br />トニ
+|Cute
+|Sun
+|Increase Party ATK by 50% when Max HP
+|Insert gold bomb (2)
+|-
+|193
+|[[File:193m_t.png|80px]]
+|[[Toni (New Year)]]<br />トニ
+|Cute
+|Moon
+|Increase Party ATK by 50% when Max HP
+|Insert gold bomb (2)
+|-
+|194
+|[[File:194_t.png|80px]]
+|[[Million]]<br />ミリオン
+|Cute
+|Normal
+|Increase Gold by 20% and Party ATK by 10%
+|Erase random beads (SS)
+|-
+|194
+|[[File:194s_t.png|80px]]
+|[[Million]]<br />ミリオン
+|Cute
+|Sun
+|Increase Gold by 25% and Party ATK by 15%
+|Erase random beads continuously
+|-
+|194
+|[[File:194m_t.png|80px]]
+|[[Million]]<br />ミリオン
+|Cute
+|Moon
+|Increase Gold by 30% and Party ATK by 10%
+|Erase random beads (SSS)
+|-
+|195
+|[[File:195_t.png|80px]]
+|[[Edmond (New Year)]]<br />エドモント
+|Passion
+|Normal
+|Increase Red & Blue ATK by 35%
+|Erase random beads (12-23)
+|-
+|195
+|[[File:195s_t.png|80px]]
+|[[Edmond (New Year)]]<br />エドモント
+|Passion
+|Sun
+|Increase Red & Blue ATK by 35% and HP by 10%
+|Erase random beads (12-28)
+|-
+|195
+|[[File:195m_t.png|80px]]
+|[[Edmond (New Year)]]<br />エドモント
+|Passion
+|Moon
+|Increase Red & Blue ATK by 50%
+|Erase random beads (17-23)
+|-
+|196
+|[[File:196_t.png|80px]]
+|[[Lied (New Year)]]<br />リード
+|Sexy
+|Normal
+|Increase Purple ATK & RP by 25%
+|Recover time & HP
+|-
+|196
+|[[File:196s_t.png|80px]]
+|[[Lied (New Year)]]<br />リード
+|Sexy
+|Sun
+|Increase Purple ATK & RP by 30%
+|Recover time & HP
+|-
+|196
+|[[File:196m_t.png|80px]]
+|[[Lied (New Year)]]<br />リード
+|Sexy
+|Moon
+|Increase Purple ATK & RP by 30%
+|Recover time & HP
+|-
+|197
+|[[File:197_t.png|80px]]
+|[[Koga]]<br />煌牙
+|Gentle
+|Normal
+|Increase Red & Green ATK & HP by 20%
+|Increase Green beads appearance rate to 100% once and erase upper rows beads
+|-
+|197
+|[[File:197s_t.png|80px]]
+|[[Koga]]<br />煌牙
+|Gentle
+|Sun
+|Increase Red & Green ATK & HP by 25%
+|Increase Green beads appearance rate to 100% once and erase upper rows beads
+|-
+|197
+|[[File:197m_t.png|80px]]
+|[[Koga]]<br />煌牙
+|Gentle
+|Moon
+|Increase Blue & Green ATK & HP by 25%
+|Increase Green beads appearance rate to 100% once and erase upper rows beads
+|-
+|198
+|[[File:198_t.png|80px]]
+|[[Vashti]]<br />ヴァスティ
+|Passion
+|Normal
+|Nulifies Paralysis
+|Turns beads into hearts (1-3)
+|-
+|198
+|[[File:198s_t.png|80px]]
+|[[Vashti]]<br />ヴァスティ
+|Passion
+|Sun
+|Nulifies Paralysis and increase party HP by 10%
+|Turns beads into hearts (2-3)
+|-
+|198
+|[[File:198m_t.png|80px]]
+|[[Vashti]]<br />ヴァスティ
+|Passion
+|Moon
+|Nulifies Paralysis and increase party ATK by 15%
+|Turns beads into hearts (3-4)
+|-
+|199
+|[[File:199_t.png|80px]]
+|[[Acedia]]<br />アケディア
+|Cute
+|Normal
+|Increase Yellow HP by 30%
+|Recover Paralysis & HP (A)
+|-
+|199
+|[[File:199s_t.png|80px]]
+|[[Acedia]]<br />アケディア
+|Cute
+|Sun
+|Increase Yellow HP by 35%
+|Recover Paralysis & HP (S)
+|-
+|199
+|[[File:199m_t.png|80px]]
+|[[Acedia]]<br />アケディア
+|Cute
+|Moon
+|Increase Yellow HP by 35%
+|Recover Paralysis & HP (S)
+|-
+|200
+|[[File:200_t.png|80px]]
+|[[Las]]<br />ラス
+|Sexy
+|Normal
+|Increase Green & Purple ATK by 35%
+|Erase Green & Purple beads (SS)
+|-
+|200
+|[[File:200s_t.png|80px]]
+|[[Las]]<br />ラス
+|Sexy
+|Sun
+|Increase Green & Purple ATK by 50%
+|Erase Green & Purple beads (SSS)
+|-
+|200
+|[[File:200m_t.png|80px]]
+|[[Las]]<br />ラス
+|Sexy
+|Moon
+|Increase Red & Purple ATK by 50%
+|Erase Red & Purple beads (SSS)
+|-
+|201
+|[[File:201_t.png|80px]]
+|[[Ira]]<br />イラ
+|Gentle
+|Normal
+|Increase Party ATK by 15%
+|Recover 1500 HP
+|-
+|201
+|[[File:201s_t.png|80px]]
+|[[Ira]]<br />イラ
+|Gentle
+|Sun
+|Increase Party ATK by 20%
+|Recover 2500 HP
+|-
+|201
+|[[File:201m_t.png|80px]]
+|[[Ira]]<br />イラ
+|Gentle
+|Moon
+|Increase Party ATK by 20%
+|Recover 2500 HP
+|-
+|202
+|[[File:202_t.png|80px]]
+|[[Rica (Chocolate Date)]]<br />リカ
+|Cool
+|Normal
+|Increase Blue ATK by 50%
+|Turn Green beads into Blue and erase Blue beads
+|-
+|202
+|[[File:202s_t.png|80px]]
+|[[Rica (Chocolate Date)]]<br />リカ
+|Cool
+|Sun
+|Increase Blue ATK by 50% and HP by 10%
+|Turn Green beads into Blue and erase Blue beads
+|-
+|202
+|[[File:202m_t.png|80px]]
+|[[Rica (Chocolate Date)]]<br />リカ
+|Cool
+|Moon
+|Increase Blue ATK by 65%
+|Turn Purple beads into Blue and erase Blue beads
+|-
+|203
+|[[File:203_t.png|80px]]
+|[[Toto (Chocolate Date)]]<br />トト
+|Gentle
+|Normal
+|Increase HP & RP by 15% when Party consists of all 5 colours
+|Insert gold bombs (2)
+|-
+|203
+|[[File:203s_t.png|80px]]
+|[[Toto (Chocolate Date)]]<br />トト
+|Gentle
+|Sun
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Insert gold bombs (2-3)
+|-
+|203
+|[[File:203m_t.png|80px]]
+|[[Toto (Chocolate Date)]]<br />トト
+|Gentle
+|Moon
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Insert gold bombs (2-3)
+|-
+|204
+|[[File:204_t.png|80px]]
+|[[Kaede (Chocolate Date)]]<br />楓
+|Sexy
+|Normal
+|Increase Purple HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|204
+|[[File:204s_t.png|80px]]
+|[[Kaede (Chocolate Date)]]<br />楓
+|Sexy
+|Sun
+|Increase Purple HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|204
+|[[File:204m_t.png|80px]]
+|[[Kaede (Chocolate Date)]]<br />楓
+|Sexy
+|Moon
+|Increase Purple HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|205
+|[[File:205_t.png|80px]]
+|[[Banri (Chocolate Date)]]<br />万里
+|Cute
+|Normal
+|Increase Yellow & Purple HP & RP by 20%
+|Recovery of HP and reduce damage for 1 turn
+|-
+|205
+|[[File:205s_t.png|80px]]
+|[[Banri (Chocolate Date)]]<br />万里
+|Cute
+|Sun
+|Increase Yellow & Purple HP & RP by 25%
+|Recovery of HP and reduce damage for 1 turn
+|-
+|205
+|[[File:205m_t.png|80px]]
+|[[Banri (Chocolate Date)]]<br />万里
+|Cute
+|Moon
+|Increase Blue & Yellow HP & RP by 25%
+|Recovery of HP and reduce damage for 1 turn
+|-
+|206
+|[[File:206_t.png|80px]]
+|[[Antares (Chocolate Date)]]<br />アンタレス
+|Sexy
+|Normal
+|Increase Yellow & Purple ATK by 25%
+|Erase right side beads (S)
+|-
+|206
+|[[File:206s_t.png|80px]]
+|[[Antares (Chocolate Date)]]<br />アンタレス
+|Sexy
+|Sun
+|Increase Yellow & Purple ATK by 35%
+|Erase right side beads (SS)
+|-
+|206
+|[[File:206m_t.png|80px]]
+|[[Antares (Chocolate Date)]]<br />アンタレス
+|Sexy
+|Moon
+|Increase Yellow & Purple ATK by 35%
+|Erase right side beads (SS)
+|-
+|207
+|[[File:207_t.png|80px]]
+|[[Colorer]]<br />コロレ
+|Sexy
+|Normal
+|Increase Blue & Purple HP & RP by 20%
+|Erase all Blue beads and turn Yellow beads into Purple
+|-
+|207
+|[[File:207s_t.png|80px]]
+|[[Colorer]]<br />コロレ
+|Sexy
+|Sun
+|Increase Blue & Purple HP & RP by 25%
+|Erase all Blue beads and turn Yellow beads into Purple
+|-
+|207
+|[[File:207m_t.png|80px]]
+|[[Colorer]]<br />コロレ
+|Sexy
+|Moon
+|Increase Red & Purple HP & RP by 25%
+|Erase all Red beads and turn Yellow beads into Purple
+|-
+|208
+|[[File:208_t.png|80px]]
+|[[Saiga (Your Chocolate)]]<br />砕牙
+|Gentle
+|Normal
+|Increase HP & RP by 20% when Party consists of all 5 colours
+|Recover HP in accordance to RP (SS)
+|-
+|208
+|[[File:208s_t.png|80px]]
+|[[Saiga (Your Chocolate)]]<br />砕牙
+|Gentle
+|Sun
+|Increase HP & RP by 20% and ATK by 15% when Party consists of all 5 colours
+|Recover HP in accordance to RP (SSS)
+|-
+|208
+|[[File:208m_t.png|80px]]
+|[[Saiga (Your Chocolate)]]<br />砕牙
+|Gentle
+|Moon
+|Increase HP & RP by 25% when Party consists of all 5 colours
+|Recover HP and insert hearts
+|-
+|209
+|[[File:209_t.png|80px]]
+|[[Makoto (Your Chocolate)]]<br />真琴
+|Cute
+|Normal
+|Increase Party ATK by 15%
+|Increase Yellow beads appearance rate (S)
+|-
+|209
+|[[File:209s_t.png|80px]]
+|[[Makoto (Your Chocolate)]]<br />真琴
+|Cute
+|Sun
+|Increase Party ATK by 20%
+|Increase Yellow beads appearance rate (S)
+|-
+|209
+|[[File:209m_t.png|80px]]
+|[[Makoto (Your Chocolate)]]<br />真琴
+|Cute
+|Moon
+|Increase Party ATK by 20%
+|Increase Yellow beads appearance rate (S)
+|-
+|210
+|[[File:210_t.png|80px]]
+|[[Joshua (Your Chocolate)]]<br />ジョシュア
+|Cool
+|Normal
+|Increase Red & Blue ATK by 25% and HP by 10%
+|Erase top & bottom beads
+|-
+|210
+|[[File:210s_t.png|80px]]
+|[[Joshua (Your Chocolate)]]<br />ジョシュア
+|Cool
+|Sun
+|Increase Red & Blue ATK by 35% and HP by 10%
+|Erase top & bottom beads
+|-
+|210
+|[[File:210m_t.png|80px]]
+|[[Joshua (Your Chocolate)]]<br />ジョシュア
+|Cool
+|Moon
+|Increase Blue & Yellow ATK by 35% and HP by 10%
+|Erase top & bottom beads
+|-
+|211
+|[[File:211_t.png|80px]]
+|[[Creto (Your Chocolate)]]<br />クレト
+|Passion
+|Normal
+|Increase Red ATK & RP by 25%
+|Turn Blue beads into Red
+|-
+|211
+|[[File:211s_t.png|80px]]
+|[[Creto (Your Chocolate)]]<br />クレト
+|Passion
+|Sun
+|Increase Red ATK & RP by 30%
+|Turn Blue beads into Red
+|-
+|211
+|[[File:211m_t.png|80px]]
+|[[Creto (Your Chocolate)]]<br />クレト
+|Passion
+|Moon
+|Increase Red ATK & RP by 30%
+|Turn Blue beads into Red
+|-
+|212
+|[[File:212_t.png|80px]]
+|[[Akito]]<br />アキト
+|Passion
+|Normal
+|Increase Red ATK by 50%
+|Increase Party ATK for 1 turn and turn Yellow beads into Red
+|-
+|212
+|[[File:212s_t.png|80px]]
+|[[Akito]]<br />アキト
+|Passion
+|Sun
+|Increase Red ATK by 50% and HP by 10%
+|Increase Party ATK for 1 turn and turn Yellow beads into Red
+|-
+|212
+|[[File:212m_t.png|80px]]
+|[[Akito]]<br />アキト
+|Passion
+|Moon
+|Increase Red ATK by 65%
+|Increase Party ATK for 1 turn and turn Purple beads into Red
+|-
+|213
+|[[File:213_t.png|80px]]
+|[[Rosso]]<br />ロッソ
+|Passion
+|Normal
+|Increase HP by 30% when Party consists of all 5 colours
+|Recover time (2s)
+|-
+|213
+|[[File:213s_t.png|80px]]
+|[[Rosso]]<br />ロッソ
+|Passion
+|Sun
+|Increase HP by 35% when Party consists of all 5 colours
+|Recover time (3s)
+|-
+|213
+|[[File:213m_t.png|80px]]
+|[[Rosso]]<br />ロッソ
+|Passion
+|Moon
+|Increase HP by 35% when Party consists of all 5 colours
+|Recover time (3s)
+|-
+|214
+|[[File:214_t.png|80px]]
+|[[Lid (Award)]]<br />リド
+|Cute
+|Normal
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase bottom beads (SS)
+|-
+|214
+|[[File:214s_t.png|80px]]
+|[[Lid (Award)]]<br />リド
+|Cute
+|Sun
+|Increase ATK by 50% when Party consists of all 5 colours
+|Erase bottom beads and insert gold bombs
+|-
+|214
+|[[File:214m_t.png|80px]]
+|[[Lid (Award)]]<br />リド
+|Cute
+|Moon
+|Increase ATK by 40% and HP by 15% when Party consists of all 5 colours
+|Erase bottom beads (SSS)
+|-
+|215
+|[[File:215_t.png|80px]]
+|[[Sai (Award)]]<br />サイ
+|Cool
+|Normal
+|Increase Blue and Green ATK by 35%
+|Turn Purple beads into Green and Red beads into Blue
+|-
+|215
+|[[File:215s_t.png|80px]]
+|[[Sai (Award)]]<br />サイ
+|Cool
+|Sun
+|Increase Blue and Green ATK by 50%
+|Turn Purple beads into Green and Red beads into Blue
+|-
+|215
+|[[File:215m_t.png|80px]]
+|[[Sai (Award)]]<br />サイ
+|Cool
+|Moon
+|Increase Blue and Yellow ATK by 50%
+|Turn Red beads into Yellow and Purple beads into Blue
+|-
+|216
+|[[File:216_t.png|80px]]
+|[[Tiga (Award)]]<br />ティーガ
+|Passion
+|Normal
+|Increase ATK by 60% when HP below 50%
+|Erase upper beads (S)
+|-
+|216
+|[[File:216s_t.png|80px]]
+|[[Tiga (Award)]]<br />ティーガ
+|Passion
+|Sun
+|Increase ATK by 80% when HP below 50%
+|Erase upper beads (SS)
+|-
+|216
+|[[File:216m_t.png|80px]]
+|[[Tiga (Award)]]<br />ティーガ
+|Passion
+|Moon
+|Increase ATK by 80% when HP below 50%
+|Erase upper beads (SS)
+|-
+|217
+|[[File:217_t.png|80px]]
+|[[Sieg (Award)]]<br />ジーク
+|Gentle
+|Normal
+|Increase Green ATK by 50%
+|Increase Green beads appearance rate for 10 chains (B)
+|-
+|217
+|[[File:217s_t.png|80px]]
+|[[Sieg (Award)]]<br />ジーク
+|Gentle
+|Sun
+|Increase Green ATK by 65%
+|Increase Green beads appearance rate for 10 chains (A)
+|-
+|217
+|[[File:217m_t.png|80px]]
+|[[Sieg (Award)]]<br />ジーク
+|Gentle
+|Moon
+|Increase Green ATK by 50% and HP by 10%
+|Increase Green beads appearance rate for 10 chains (A)
+|-
+|218
+|[[File:218_t.png|80px]]
+|[[Kies (Award)]]<br />キース
+|Cool
+|Normal
+|Increase Blue & Green ATK & RP by 15%
+|Erase middle rows beads (S)
+|-
+|218
+|[[File:218s_t.png|80px]]
+|[[Kies (Award)]]<br />キース
+|Cool
+|Sun
+|Increase Blue & Green ATK & RP by 20%
+|Erase middle rows beads (SS)
+|-
+|218
+|[[File:218m_t.png|80px]]
+|[[Kies (Award)]]<br />キース
+|Cool
+|Moon
+|Increase Blue & Green ATK & RP by 20%
+|Erase middle rows beads (SS)
+|-
+|219
+|[[File:219_t.png|80px]]
+|[[Douglas (Hospitality)]]<br />ダグラス
+|Sexy
+|Normal
+|Increase Purple ATK by 35% and HP by 10%
+|Increase Party ATK for 1 turn & Purple Beads appearance rate
+|-
+|219
+|[[File:219s_t.png|80px]]
+|[[Douglas (Hospitality)]]<br />ダグラス
+|Sexy
+|Sun
+|Increase Purple ATK by 35% and HP by 20%
+|Increase Party ATK for 1 turn & Purple Beads appearance rate
+|-
+|219
+|[[File:219m_t.png|80px]]
+|[[Douglas (Hospitality)]]<br />ダグラス
+|Sexy
+|Moon
+|Increase Purple ATK by 50% and HP by 10%
+|Increase Party ATK for 1 turn & Purple Beads appearance rate
+|-
+|220
+|[[File:220_t.png|80px]]
+|[[Ritz (Hospitality)]]<br />リッツ
+|Cute
+|Normal
+|Increase Yellow & Purple HP by 25%
+|Recovery of HP in accordance to Party RP (S)
+|-
+|220
+|[[File:220s_t.png|80px]]
+|[[Ritz (Hospitality)]]<br />リッツ
+|Cute
+|Sun
+|Increase Yellow & Purple HP by 30%
+|Recovery of HP in accordance to Party RP (SS)
+|-
+|220
+|[[File:220m_t.png|80px]]
+|[[Ritz (Hospitality)]]<br />リッツ
+|Cute
+|Moon
+|Increase Yellow & Purple HP by 30%
+|Recovery of HP in accordance to Party RP (SS)
+|-
+|221
+|[[File:221_t.png|80px]]
+|[[Almari (Hospitality)]]<br />アルマリ
+|Cool
+|Normal
+|Increase Blue RP by 50%
+|Recover HP per turn (SS)
+|-
+|221
+|[[File:221s_t.png|80px]]
+|[[Almari (Hospitality)]]<br />アルマリ
+|Cool
+|Sun
+|Increase Blue RP by 65%
+|Recover HP instantly and per turn
+|-
+|221
+|[[File:221m_t.png|80px]]
+|[[Almari (Hospitality)]]<br />アルマリ
+|Cool
+|Moon
+|Increase Blue RP by 50% and HP by 10%
+|Recover HP per turn (SSS)
+|-
+|222
+|[[File:222_t.png|80px]]
+|[[Jay (Hospitality)]]<br />ジェイ
+|Gentle
+|Normal
+|Increase Green HP by 30%
+|Turn Yellow beads in to Green
+|-
+|222
+|[[File:222s_t.png|80px]]
+|[[Jay (Hospitality)]]<br />ジェイ
+|Gentle
+|Sun
+|Increase Green HP by 35%
+|Turn Yellow beads in to Green
+|-
+|222
+|[[File:222m_t.png|80px]]
+|[[Jay (Hospitality)]]<br />ジェイ
+|Gentle
+|Moon
+|Increase Green HP by 35%
+|Turn Yellow beads in to Green
+|-
+|223
+|[[File:223_t.png|80px]]
+|[[Oka (Seasons)]]<br />桜花
+|Gentle
+|Normal
+|Increase Red & Green ATK by 35%
+|Erase all Red beads and turn Blue beads into Green
+|-
+|223
+|[[File:223s_t.png|80px]]
+|[[Oka (Seasons)]]<br />桜花
+|Gentle
+|Sun
+|Increase Red & Green ATK by 50%
+|Erase all Red beads and turn Blue beads into Green
+|-
+|223
+|[[File:223m_t.png|80px]]
+|[[Oka (Seasons)]]<br />桜花
+|Gentle
+|Moon
+|Increase Green & Yellow ATK by 50%
+|Erase all Yellow beads and turn Purple beads into Green
+|-
+|224
+|[[File:224_t.png|80px]]
+|[[Toya]]<br />凍哉
+|Cool
+|Normal
+|Recover Skill Gauge every turn (A)
+|Recovery of HP in accordance to RP (A)
+|-
+|224
+|[[File:224s_t.png|80px]]
+|[[Toya]]<br />凍哉
+|Cool
+|Sun
+|Recover Skill Gauge every turn (S)
+|Recovery of HP in accordance to RP (S)
+|-
+|224
+|[[File:224m_t.png|80px]]
+|[[Toya]]<br />凍哉
+|Cool
+|Moon
+|Recover Skill Gauge every turn (S)
+|Recovery of HP in accordance to RP (S)
+|-
+|225
+|[[File:225_t.png|80px]]
+|[[Kaede (Seasons)]]<br />楓
+|Sexy
+|Normal
+|Increase whole party's HP & RP by 15%
+|Erase all Purple beads and turn Green Beads into Purple
+|-
+|225
+|[[File:225s_t.png|80px]]
+|[[Kaede (Seasons)]]<br />楓
+|Sexy
+|Sun
+|Increase whole party's HP & RP by 20%
+|Erase all Purple beads and turn Green Beads into Purple
+|-
+|225
+|[[File:225m_t.png|80px]]
+|[[Kaede (Seasons)]]<br />楓
+|Sexy
+|Moon
+|Increase whole party's HP & RP by 15% and ATK by 10%
+|Erase all Purple beads and turn Red Beads into Purple
+|-
+|226
+|[[File:226_t.png|80px]]
+|[[Hikage (Seasons)]]<br />陽影
+|Passion
+|Normal
+|Increase Red ATK & RP by 25%
+|Recovery of HP in accordance to RP (S)
+|-
+|226
+|[[File:226s_t.png|80px]]
+|[[Hikage (Seasons)]]<br />陽影
+|Passion
+|Sun
+|Increase Red ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|226
+|[[File:226m_t.png|80px]]
+|[[Hikage (Seasons)]]<br />陽影
+|Passion
+|Moon
+|Increase Red ATK & RP by 30%
+|Recovery of HP in accordance to RP (SS)
+|-
+|227
+|[[File:227_t.png|80px]]
+|[[Mysterious Butler]]<br />謎の執事
+|Gentle
+|Normal
+|Increase RP by 100% when HP is lower than 20%
+|Recover skill gauge each turn
+|-
+|228
+|[[File:228_t.png|80px]]
+|[[Vicky]]<br />ビッキー
+|Gentle
+|Normal
+|Increase whole party's ATK & HP by 10%
+|Erase random beads (S)
+|-
+|228
+|[[File:228s_t.png|80px]]
+|[[Vicky]]<br />ビッキー
+|Gentle
+|Sun
+|Increase whole party's ATK, HP, RP by 10%
+|Erase random beads (SS)
+|-
+|228
+|[[File:228m_t.png|80px]]
+|[[Vicky]]<br />ビッキー
+|Gentle
+|Moon
+|Increase whole party's ATK, HP, RP by 10%
+|Erase random beads and recover HP
+|-
+|229
+|[[File:229_t.png|80px]]
+|[[Oswald (Easter)]]<br />オズワルド
+|Gentle
+|Normal
+|Increase Red, Blue & Green ATK by 30%
+|Erase Red, Blue and Green beads (SS)
+|-
+|229
+|[[File:229s_t.png|80px]]
+|[[Oswald (Easter)]]<br />オズワルド
+|Gentle
+|Sun
+|Increase Red, Blue & Green ATK by 40%
+|Erase Red, Blue and Green beads (SSS)
+|-
+|229
+|[[File:229m_t.png|80px]]
+|[[Oswald (Easter)]]<br />オズワルド
+|Gentle
+|Moon
+|Increase Green, Yellow & Purple ATK by 40%
+|Erase Green, Yellow and Purple beads (SSS)
+|-
+|230
+|[[File:230_t.png|80px]]
+|[[Thinpla (Easter)]]<br />ティンプラ
+|Cool
+|Normal
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase right side beads (SS)
+|-
+|230
+|[[File:230s_t.png|80px]]
+|[[Thinpla (Easter)]]<br />ティンプラ
+|Cool
+|Sun
+|Increase ATK by 40% and HP by 15% when Party consists of all 5 colours
+|Erase right side beads (SSS)
+|-
+|230
+|[[File:230m_t.png|80px]]
+|[[Thinpla (Easter)]]<br />ティンプラ
+|Cool
+|Moon
+|Increase ATK by 50% when Party consists of all 5 colours
+|Erase right side beads and increase own ATK for 1 turn
+|-
+|231
+|[[File:231_t.png|80px]]
+|[[Leeya (Easter)]]<br />リーヤ
+|Passion
+|Normal
+|Increase HP by 35% when Party consists of all 5 colours
+|Recover HP and insert Red beads
+|-
+|231
+|[[File:231s_t.png|80px]]
+|[[Leeya (Easter)]]<br />リーヤ
+|Passion
+|Sun
+|Increase HP by 40% when Party consists of all 5 colours
+|Recover HP and insert Red beads
+|-
+|231
+|[[File:231m_t.png|80px]]
+|[[Leeya (Easter)]]<br />リーヤ
+|Passion
+|Moon
+|Increase HP by 40% when Party consists of all 5 colours
+|Recover HP and insert Red beads
+|-
+|232
+|[[File:232_t.png|80px]]
+|[[Droite (Easter)]]<br />ドロワット
+|Cute
+|Normal
+|Increase whole party's ATK and RP by 10%
+|Turn Red beads to Yellow
+|-
+|232
+|[[File:232s_t.png|80px]]
+|[[Droite (Easter)]]<br />ドロワット
+|Cute
+|Sun
+|Increase whole party's ATK and RP by 15%
+|Turn Red beads to Yellow and recover HP
+|-
+|232
+|[[File:232m_t.png|80px]]
+|[[Droite (Easter)]]<br />ドロワット
+|Cute
+|Moon
+|Increase whole party's ATK and RP by 15%
+|Turn Red beads to Yellow and recover HP
+|-
+|233
+|[[File:233_t.png|80px]]
+|[[Leonie (Easter)]]<br />レオニー
+|Cute
+|Normal
+|Increase Yellow & Purple HP & RP by 20%
+|Erase centre beads (SS)
+|-
+|233
+|[[File:233s_t.png|80px]]
+|[[Leonie (Easter)]]<br />レオニー
+|Cute
+|Sun
+|Increase Yellow & Purple HP & RP by 25%
+|Erase centre beads (SSS)
+|-
+|233
+|[[File:233m_t.png|80px]]
+|[[Leonie (Easter)]]<br />レオニー
+|Cute
+|Moon
+|Increase Red & Yellow HP & RP by 25%
+|Erase centre beads and insert gold bomb
+|-
+|234
+|[[File:234_t.png|80px]]
+|[[Gauche (Easter)]]<br />ゴーシュ
+|Sexy
+|Normal
+|Increase Yellow & Purple ATK by 25%
+|Insert gold bombs (1-2)
+|-
+|234
+|[[File:234s_t.png|80px]]
+|[[Gauche (Easter)]]<br />ゴーシュ
+|Sexy
+|Sun
+|Increase Yellow & Purple ATK by 35%
+|Insert gold bombs (1-3)
+|-
+|234
+|[[File:234m_t.png|80px]]
+|[[Gauche (Easter)]]<br />ゴーシュ
+|Sexy
+|Moon
+|Increase Yellow & Purple ATK by 35%
+|Insert gold bombs (1-3)
+|-
+|235
+|[[File:235_t.png|80px]]
+|[[Amano]]<br />アマノ
+|Cute
+|Normal
+|Increase ATK & RP by 30% when HP is higher than 50%
+|Erase beads in cross and recover skill gauges apart from own
+|-
+|235
+|[[File:235s_t.png|80px]]
+|[[Amano]]<br />アマノ
+|Cute
+|Sun
+|Increase ATK & RP by 40% when HP is higher than 50%
+|Erase beads in cross and recover skill gauges apart from own
+|-
+|235
+|[[File:235m_t.png|80px]]
+|[[Amano]]<br />アマノ
+|Cute
+|Moon
+|Increase ATK & RP by 40% when HP is higher than 50%
+|Erase beads in cross and recover skill gauges apart from own
+|-
+|236
+|[[File:236_t.png|80px]]
+|[[Thor]]<br />トール
+|Cool
+|Normal
+|A certain chance to attack disregarding the enemy's defence
+|Erase beads in middle rows and recover time
+|-
+|236
+|[[File:236s_t.png|80px]]
+|[[Thor]]<br />トール
+|Cool
+|Sun
+|A certain chance to attack disregarding the enemy's defence
+|Erase beads in middle rows and recover time
+|-
+|236
+|[[File:236m_t.png|80px]]
+|[[Thor]]<br />トール
+|Cool
+|Moon
+|A certain chance to attack disregarding the enemy's defence
+|Erase beads in middle rows and recover time
+|-
+|237
+|[[File:237_t.png|80px]]
+|[[Gary (Brothers)]]<br />ゲイリー
+|Gentle
+|Normal
+|Increase all Green stats by 20%
+|Erase beads in middle rows and insert Green beads
+|-
+|237
+|[[File:237s_t.png|80px]]
+|[[Gary (Brothers)]]<br />ゲイリー
+|Gentle
+|Sun
+|Increase all Green stats by 25%
+|Erase beads in middle rows and insert Green beads
+|-
+|237
+|[[File:237m_t.png|80px]]
+|[[Gary (Brothers)]]<br />ゲイリー
+|Gentle
+|Moon
+|Increase all Green stats by 25%
+|Erase beads in middle rows and insert Green beads
+|-
+|238
+|[[File:238_t.png|80px]]
+|[[Girbert (Brothers)]]<br />ギルバート
+|Cool
+|Normal
+|Increase ATK by 50% when HP below 80%
+|Reduce damage by 20% for 1 turn
+|-
+|238
+|[[File:238s_t.png|80px]]
+|[[Girbert (Brothers)]]<br />ギルバート
+|Cool
+|Sun
+|Increase ATK by 65% when HP below 80%
+|Reduce damage by 25% for 1 turn
+|-
+|238
+|[[File:238m_t.png|80px]]
+|[[Girbert (Brothers)]]<br />ギルバート
+|Cool
+|Moon
+|Increase ATK by 65% when HP below 80%
+|Reduce damage by 25% for 1 turn
+|-
+|239
+|[[File:239_t.png|80px]]
+|[[Miya (Brothers)]]<br />ミヤ
+|Cute
+|Normal
+|Increase Green & Yellow HP & RP by 20%
+|Recovery of HP in accordance to RP (S)
+|-
+|239
+|[[File:239s_t.png|80px]]
+|[[Miya (Brothers)]]<br />ミヤ
+|Cute
+|Sun
+|Increase Green & Yellow HP & RP by 25%
+|Recovery of HP in accordance to RP (S)
+|-
+|239
+|[[File:239m_t.png|80px]]
+|[[Miya (Brothers)]]<br />ミヤ
+|Cute
+|Moon
+|Increase Yellow & Purple HP & RP by 25%
+|Recovery of HP in accordance to RP (SS)
+|-
+|240
+|[[File:240_t.png|80px]]
+|[[Iria (Brothers)]]<br />イリア
+|Gentle
+|Normal
+|Increase Green & Yellow ATK by 25%
+|Erase bottom beads (S)
+|-
+|240
+|[[File:240s_t.png|80px]]
+|[[Iria (Brothers)]]<br />イリア
+|Gentle
+|Sun
+|Increase Green & Yellow ATK by 35%
+|Erase bottom beads (SS)
+|-
+|240
+|[[File:240m_t.png|80px]]
+|[[Iria (Brothers)]]<br />イリア
+|Gentle
+|Moon
+|Increase Green & Yellow ATK by 35%
+|Erase bottom beads (SS)
+|-
+|241
+|[[File:241_t.png|80px]]
+|[[Graham (Park)]]<br />グレアム
+|Cool
+|Normal
+|Increase Gold by 30%
+|Increase own HP for 3 turns and recover HP
+|-
+|241
+|[[File:241s_t.png|80px]]
+|[[Graham (Park)]]<br />グレアム
+|Cool
+|Sun
+|Increase Gold by 30% and Party ATK by 10%
+|Increase own HP for 3 turns and recover HP
+|-
+|241
+|[[File:241m_t.png|80px]]
+|[[Graham (Park)]]<br />グレアム
+|Cool
+|Moon
+|Increase Gold by 35%
+|Increase own HP for 3 turns and recover HP
+|-
+|242
+|[[File:242_t.png|80px]]
+|[[Will (Park)]]<br />ウィル
+|Sexy
+|Normal
+|Increase Purple ATK by 50%
+|Turn Blue beads into Purple and increase Purple beads appearance rate
+|-
+|242
+|[[File:242s_t.png|80px]]
+|[[Will (Park)]]<br />ウィル
+|Sexy
+|Sun
+|Increase Green & Purple ATK by 50%
+|Turn Red beads into Purple and increase Purple beads appearance rate
+|-
+|242
+|[[File:242m_t.png|80px]]
+|[[Will (Park)]]<br />ウィル
+|Sexy
+|Moon
+|Increase Purple ATK by 65%
+|Turn Blue beads into Purple and increase Purple beads appearance rate
+|-
+|243
+|[[File:243_t.png|80px]]
+|[[Gerald (Park)]]<br />ジェラルド
+|Gentle
+|Normal
+|Increase ATK & RP by 25% when HP above 50%
+|Insert hearts (1-2)
+|-
+|243
+|[[File:243s_t.png|80px]]
+|[[Gerald (Park)]]<br />ジェラルド
+|Gentle
+|Sun
+|Increase ATK & RP by 30% when HP above 50%
+|Insert hearts (1-3)
+|-
+|243
+|[[File:243m_t.png|80px]]
+|[[Gerald (Park)]]<br />ジェラルド
+|Gentle
+|Moon
+|Increase ATK & RP by 30% when HP above 50%
+|Insert hearts (1-3)
+|-
+|244
+|[[File:244_t.png|80px]]
+|[[Banri (Park)]]<br />万里
+|Cute
+|Normal
+|Recover Skill Gauge every turn (A)
+|Increase Yellow beads appearance rate for 10 chains (B)
+|-
+|244
+|[[File:244s_t.png|80px]]
+|[[Banri (Park)]]<br />万里
+|Cute
+|Sun
+|Recover Skill Gauge every turn (S)
+|Increase Yellow beads appearance rate for 10 chains (B)
+|-
+|244
+|[[File:244m_t.png|80px]]
+|[[Banri (Park)]]<br />万里
+|Cute
+|Moon
+|Recover Skill Gauge every turn (S)
+|Increase Yellow beads appearance rate for 10 chains (B)
+|-
+|245
+|[[File:245_t.png|80px]]
+|[[Tell (Park)]]<br />テル
+|Gentle
+|Normal
+|Increase Green & Purple ATK by 35%
+|Erase middle rows beads (SS)
+|-
+|245
+|[[File:245s_t.png|80px]]
+|[[Tell (Park)]]<br />テル
+|Gentle
+|Sun
+|Increase Green & Purple ATK by 50%
+|Erase middle rows beads and insert bomb
+|-
+|245
+|[[File:245m_t.png|80px]]
+|[[Tell (Park)]]<br />テル
+|Gentle
+|Moon
+|Increase Red & Green ATK by 50%
+|Erase middle rows beads and recover HP
+|-
+|246
+|[[File:246_t.png|80px]]
+|[[Jet (Park)]]<br />ジェット
+|Passion
+|Normal
+|Reduce Green damage by 10%
+|Increase own ATK for 1 turn (S)
+|-
+|246
+|[[File:246s_t.png|80px]]
+|[[Jet (Park)]]<br />ジェット
+|Passion
+|Sun
+|Reduce Green damage by 15%
+|Increase own ATK for 1 turn (SS)
+|-
+|246
+|[[File:246m_t.png|80px]]
+|[[Jet (Park)]]<br />ジェット
+|Passion
+|Moon
+|Reduce Green damage by 15%
+|Increase own ATK for 1 turn (SS)
+|-
+|247
+|[[File:247_t.png|80px]]
+|[[Sakuma Rei]]<br />朔間零
+|Gentle
+|Normal
+|Reduce Party HP and increase ATK by 60%
+|Increase Party ATK for 1 turn & Green Beads appearance rate
+|-
+|247
+|[[File:247s_t.png|80px]]
+|[[Sakuma Rei]]<br />朔間零
+|Gentle
+|Sun
+|Reduce Party HP and increase ATK by 70%
+|Increase Party ATK for 1 turn & Green Beads appearance rate
+|-
+|247
+|[[File:247m_t.png|80px]]
+|[[Sakuma Rei]]<br />朔間零
+|Gentle
+|Moon
+|Reduce Party HP and increase ATK by 70%
+|Increase Party ATK for 1 turn & Green Beads appearance rate
+|-
+|248
+|[[File:248_t.png|80px]]
+|[[Wataru Hibiki]]<br />日々樹渉
+|Passion
+|Normal
+|Recover HP every turn (SS)
+|Erase random beads (10-25)
+|-
+|248
+|[[File:248s_t.png|80px]]
+|[[Wataru Hibiki]]<br />日々樹渉
+|Passion
+|Sun
+|Recover HP every turn (SSS)
+|Erase random beads (10-30)
+|-
+|248
+|[[File:248m_t.png|80px]]
+|[[Wataru Hibiki]]<br />日々樹渉
+|Passion
+|Moon
+|Recover HP every turn (SSS)
+|Erase random beads (5-35)
+|-
+|249
+|[[File:249_t.png|80px]]
+|[[Shinkai Kanata]]<br />深海奏汰
+|Cute
+|Normal
+|Increase HP by 20% when Party has more than 3 colours
+|Recover HP in accordance to RP (S)
+|-
+|249
+|[[File:249s_t.png|80px]]
+|[[Shinkai Kanata]]<br />深海奏汰
+|Cute
+|Sun
+|Increase HP by 25% when Party has more than 3 colours
+|Recover HP in accordance to RP (SS)
+|-
+|249
+|[[File:249m_t.png|80px]]
+|[[Shinkai Kanata]]<br />深海奏汰
+|Cute
+|Moon
+|Increase HP by 25% when Party has more than 3 colours
+|Recover HP in accordance to RP (SS)
+|-
+|250
+|[[File:250_t.png|80px]]
+|[[Frost (Enstars)]]<br />フロスト
+|Cool
+|Normal
+|Increase Party ATK by 65% when HP is Max
+|Erase all Red beads and turn Yellow beads into Blue
+|-
+|250
+|[[File:250s_t.png|80px]]
+|[[Frost (Enstars)]]<br />フロスト
+|Cool
+|Sun
+|Increase Party ATK by 75% when HP is Max
+|Erase all Red beads and turn Yellow beads into Blue
+|-
+|250
+|[[File:250m_t.png|80px]]
+|[[Frost (Enstars)]]<br />フロスト
+|Cool
+|Moon
+|Increase Party ATK by 75% when HP is Max
+|Erase all Yellow beads and turn Green beads into Blue
+|-
+|251
+|[[File:251_t.png|80px]]
+|[[Synny (Enstars)]]<br />シュニー
+|Cute
+|Normal
+|Increase Party ATK by 15%
+|Insert Red, Blue and Yellow beads
+|-
+|251
+|[[File:251s_t.png|80px]]
+|[[Synny (Enstars)]]<br />シュニー
+|Cute
+|Sun
+|Increase Party ATK by 20%
+|Insert Red, Blue and Yellow beads
+|-
+|251
+|[[File:251m_t.png|80px]]
+|[[Synny (Enstars)]]<br />シュニー
+|Cute
+|Moon
+|Increase Party ATK by 20%
+|Insert Red, Blue and Yellow beads
+|-
+|252
+|[[File:252_t.png|80px]]
+|[[Graysia (Enstars)]]<br />グレイシア
+|Passion
+|Normal
+|Increase ATK by 30% when Party has more than 3 colours
+|Turn Blue beads into Red and recover HP
+|-
+|252
+|[[File:252s_t.png|80px]]
+|[[Graysia (Enstars)]]<br />グレイシア
+|Passion
+|Sun
+|Increase ATK by 30% and HP by 10% when Party has more than 3 colours
+|Turn Blue beads into Red and recover HP
+|-
+|252
+|[[File:252m_t.png|80px]]
+|[[Graysia (Enstars)]]<br />グレイシア
+|Passion
+|Moon
+|Increase ATK by 40% when Party has more than 3 colours
+|Turn Yellow beads into Red and recover HP
+|-
+|253
+|[[File:253_t.png|80px]]
+|[[Lullus]]<br />ルルス
+|Sexy
+|Normal
+|Increase ATK & RP by 30% when HP above 50%
+|Purple beads appearance 100% once and erase right side beads
+|-
+|253
+|[[File:253s_t.png|80px]]
+|[[Lullus]]<br />ルルス
+|Sexy
+|Sun
+|Increase ATK & RP by 40% when HP above 50%
+|Purple beads appearance 100% once and erase right side beads
+|-
+|253
+|[[File:253m_t.png|80px]]
+|[[Lullus]]<br />ルルス
+|Sexy
+|Moon
+|Increase ATK & RP by 40% when HP above 50%
+|Purple beads appearance 100% once and erase right side beads
+|-
+|254
+|[[File:254_t.png|80px]]
+|[[Apollo (Water Mirror)]]<br />アポロ
+|Passion
+|Normal
+|Increase Red ATK by 50%
+|Insert Red beads, increase red bead appearance
+|-
+|254
+|[[File:254s_t.png|80px]]
+|[[Apollo (Water Mirror)]]<br />アポロ
+|Passion
+|Sun
+|Increase Red ATK by 65%
+|Insert Red beads, increase red bead appearance
+|-
+|254
+|[[File:254m_t.png|80px]]
+|[[Apollo (Water Mirror)]]<br />アポロ
+|Passion
+|Moon
+|Increase Red ATK by 50%, increase Party ATK by 30% when party has more than 3 colours
+|Insert Red beads, increase red bead appearance
+|-
+|255
+|[[File:255_t.png|80px]]
+|[[Ster (Water Mirror)]]<br />シュテル
+|Cool
+|Normal
+|Decrease Party RP, increase Party HP and ATK by 35%
+|Erase bottom beads (SS)
+|-
+|255
+|[[File:255s_t.png|80px]]
+|[[Ster (Water Mirror)]]<br />シュテル
+|Cool
+|Sun
+|Decrease Party RP, increase Party HP and ATK by 40%
+|Erase bottom beads (SSS)
+|-
+|255
+|[[File:255m_t.png|80px]]
+|[[Ster (Water Mirror)]]<br />シュテル
+|Cool
+|Moon
+|Decrease Party RP, increase Party HP and ATK by 40%
+|Erase bottom beads and recover HP
+|-
+|256
+|[[File:256_t.png|80px]]
+|[[Juno (Water Mirror)]]<br />ユーノ
+|Sexy
+|Normal
+|Increase Party HP by 15%
+|Recover 2500 HP
+|-
+|256
+|[[File:256s_t.png|80px]]
+|[[Juno (Water Mirror)]]<br />ユーノ
+|Sexy
+|Sun
+|Increase Party HP by 20%
+|Recover 3500 HP
+|-
+|256
+|[[File:256m_t.png|80px]]
+|[[Juno (Water Mirror)]]<br />ユーノ
+|Sexy
+|Moon
+|Increase Party HP by 20%
+|Recover 3500 HP
+|-
+|257
+|[[File:257_t.png|80px]]
+|[[Fujime (Water Mirror)]]<br />藤目
+|Gentle
+|Normal
+|At beginning of stage recover 20% HP
+|Increase party RP for 1 turn and insert hearts
+|-
+|257
+|[[File:257s_t.png|80px]]
+|[[Fujime (Water Mirror)]]<br />藤目
+|Gentle
+|Sun
+|At beginning of stage recover 25% HP
+|Increase party RP for 1 turn and insert hearts
+|-
+|257
+|[[File:257m_t.png|80px]]
+|[[Fujime (Water Mirror)]]<br />藤目
+|Gentle
+|Moon
+|At beginning of stage recover 25% HP
+|Increase party RP for 1 turn and insert hearts
+|-
+|258
+|[[File:258_t.png|80px]]
+|[[Sky (Water Mirror)]]<br />澄快
+|Passion
+|Normal
+|Increase ATK by 80% when HP below 20%
+|Increase Red beads appearance rate for 10 chains (B)
+|-
+|258
+|[[File:258s_t.png|80px]]
+|[[Sky (Water Mirror)]]<br />澄快
+|Passion
+|Sun
+|Increase ATK by 100% when HP below 20%
+|Increase Red beads appearance rate for 10 chains (B)
+|-
+|258
+|[[File:258m_t.png|80px]]
+|[[Sky (Water Mirror)]]<br />澄快
+|Passion
+|Moon
+|Increase ATK by 100% when HP below 20%
+|Increase Red beads appearance rate for 10 chains (B)
+|-
+|259
+|[[File:259_t.png|80px]]
+|[[Hercules (Rain)]]<br />ヘラクレス
+|Cute
+|Normal
+|Increase ATK by 30% when HP is above 50% and RP by 30% when HP is below 50%
+|Turn Green beads into Yellow and insert hearts
+|-
+|259
+|[[File:259s_t.png|80px]]
+|[[Hercules (Rain)]]<br />ヘラクレス
+|Cute
+|Sun
+|Increase ATK by 40% when HP is above 50% and RP by 40% when HP is below 50%
+|Turn Green beads into Yellow and insert hearts
+|-
+|259
+|[[File:259m_t.png|80px]]
+|[[Hercules (Rain)]]<br />ヘラクレス
+|Cute
+|Moon
+|Increase ATK by 40% when HP is above 50% and RP by 40% when HP is below 50%
+|Turn Red beads into Yellow and insert hearts
+|-
+|260
+|[[File:260_t.png|80px]]
+|[[Raith (Rain)]]<br />レイス
+|Sexy
+|Normal
+|Increase Purple HP by 30%
+|Insert Purple beads (6)
+|-
+|260
+|[[File:260s_t.png|80px]]
+|[[Raith (Rain)]]<br />レイス
+|Sexy
+|Sun
+|Increase Purple HP by 35%
+|Insert Purple beads (8)
+|-
+|260
+|[[File:260m_t.png|80px]]
+|[[Raith (Rain)]]<br />レイス
+|Sexy
+|Moon
+|Increase Purple HP by 35%
+|Insert Purple beads (8)
+|-
+|261
+|[[File:261_t.png|80px]]
+|[[Rica (Outings)]]<br />リカ
+|Cool
+|Normal
+|Increase HP by 35% when Party consists of all 5 colours
+|Insert hearts (2)
+|-
+|261
+|[[File:261s_t.png|80px]]
+|[[Rica (Outings)]]<br />リカ
+|Cool
+|Sun
+|Increase HP by 35% and ATK by 15% when Party consists of all 5 colours
+|Insert hearts (2-3)
+|-
+|261
+|[[File:261m_t.png|80px]]
+|[[Rica (Outings)]]<br />リカ
+|Cool
+|Moon
+|Increase HP by 40% when Party consists of all 5 colours
+|Insert hearts (1-4)
+|-
+|262
+|[[File:262_t.png|80px]]
+|[[Saiga (Outings)]]<br />砕牙
+|Gentle
+|Normal
+|Increase ATK by 50% when HP is above 50%
+|Turn Red beads into Purple and Blue beads into Green
+|-
+|262
+|[[File:262s_t.png|80px]]
+|[[Saiga (Outings)]]<br />砕牙
+|Gentle
+|Sun
+|Increase ATK by 60% when HP is above 50%
+|Turn Red beads into Purple and Blue beads into Green
+|-
+|262
+|[[File:262m_t.png|80px]]
+|[[Saiga (Outings)]]<br />砕牙
+|Gentle
+|Moon
+|Increase ATK by 60% when HP is above 50%
+|Turn Purple beads into Red and Yellow beads into Green
+|-
+|263
+|[[File:263_t.png|80px]]
+|[[Joshua (Outings)]]<br />ジョシュア
+|Cool
+|Normal
+|Increase Party ATK by 50% when HP is Max
+|Increase Blue beads appearance rate (S)
+|-
+|263
+|[[File:263s_t.png|80px]]
+|[[Joshua (Outings)]]<br />ジョシュア
+|Cool
+|Sun
+|Increase Party ATK by 65% when HP is Max
+|Increase Blue beads appearance rate (S)
+|-
+|263
+|[[File:263m_t.png|80px]]
+|[[Joshua (Outings)]]<br />ジョシュア
+|Cool
+|Moon
+|Increase Party ATK by 65% when HP is Max
+|Increase Blue beads appearance rate (S)
+|-
+|264
+|[[File:264_t.png|80px]]
+|[[Julius (Outings)]]<br />ユリウス
+|Cool
+|Normal
+|Increase Blue HP and RP by 25%
+|Increase Blue beads appearance rate for 10 chains (B)
+|-
+|264
+|[[File:264s_t.png|80px]]
+|[[Julius (Outings)]]<br />ユリウス
+|Cool
+|Sun
+|Increase Blue HP and RP by 30%
+|Increase Blue beads appearance rate for 10 chains (A)
+|-
+|264
+|[[File:264m_t.png|80px]]
+|[[Julius (Outings)]]<br />ユリウス
+|Cool
+|Moon
+|Increase Blue HP and RP by 25% and ATK by 15%
+|Increase Blue beads appearance rate for 10 chains (A)
+|-
+|265
+|[[File:265_t.png|80px]]
+|[[Akito (Outings)]]<br />アキト
+|Passion
+|Normal
+|Increase ATK by 25% when Party consists of all 5 colours
+|Erase beads in cross (S)
+|-
+|265
+|[[File:265s_t.png|80px]]
+|[[Akito (Outings)]]<br />アキト
+|Passion
+|Sun
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase beads in cross (SS)
+|-
+|265
+|[[File:265m_t.png|80px]]
+|[[Akito (Outings)]]<br />アキト
+|Passion
+|Moon
+|Increase ATK by 35% when Party consists of all 5 colours
+|Erase beads in cross (SS)
+|-
+|266
+|[[File:266_t.png|80px]]
+|[[Vega (Starlit)]]<br />ベガ
+|Cute
+|Normal
+|Increase Yellow ATK by 50%
+|Erase middle row beads (SS)
+|-
+|266
+|[[File:266s_t.png|80px]]
+|[[Vega (Starlit)]]<br />ベガ
+|Cute
+|Sun
+|Increase Green and Yellow ATK by 50%
+|Erase middle row beads (SSS)
+|-
+|266
+|[[File:266m_t.png|80px]]
+|[[Vega (Starlit)]]<br />ベガ
+|Cute
+|Moon
+|Increase Yellow ATK by 50% and RP by 10%
+|Erase middle row beads and recover HP
+|-
+|267
+|[[File:267_t.png|80px]]
+|[[Mad Hatter (Starlit)]]<br />マッドハッター
+|Sexy
+|Normal
+|Increase Purple HP by 35%
+|Recover HP in accordance to Party RP (SS)
+|-
+|267
+|[[File:267s_t.png|80px]]
+|[[Mad Hatter (Starlit)]]<br />マッドハッター
+|Sexy
+|Sun
+|Increase Purple HP by 40%
+|Recover HP in accordance to Party RP (SS)
+|-
+|267
+|[[File:267m_t.png|80px]]
+|[[Mad Hatter (Starlit)]]<br />マッドハッター
+|Sexy
+|Moon
+|Increase Purple HP by 35% and RP by 15%
+|Recover HP in accordance to Party RP and insert heart
+|-
+|268
+|[[File:268_t.png|80px]]
+|[[Altair (Starlit)]]<br />アルタイル
+|Gentle
+|Normal
+|Recover Skill Gauge every turn (S)
+|Turn Purple beads into Green and erase Green beads
+|-
+|268
+|[[File:268s_t.png|80px]]
+|[[Altair (Starlit)]]<br />アルタイル
+|Gentle
+|Sun
+|Recover Skill Gauge every turn (SS)
+|Turn Purple beads into Green and erase Green beads
+|-
+|268
+|[[File:268m_t.png|80px]]
+|[[Altair (Starlit)]]<br />アルタイル
+|Gentle
+|Moon
+|Recover Skill Gauge every turn and increase party HP by 10%
+|Turn Red beads into Green and erase Green beads
+|-
+|269
+|[[File:269_t.png|80px]]
+|[[Capita (Starlit)]]<br />キャピタ
+|Cool
+|Normal
+|Increase Blue ATK, HP, RP by 15%
+|Reduce Red damage by 20% for 1 turn
+|-
+|269
+|[[File:269s_t.png|80px]]
+|[[Capita (Starlit)]]<br />キャピタ
+|Cool
+|Sun
+|Increase Blue ATK, HP, RP by 20%
+|Reduce Red damage by 25% for 1 turn
+|-
+|269
+|[[File:269m_t.png|80px]]
+|[[Capita (Starlit)]]<br />キャピタ
+|Cool
+|Moon
+|Increase Blue ATK, HP, RP by 20%
+|Reduce Red damage by 25% for 1 turn
+|-
+|270
+|[[File:270_t.png|80px]]
+|[[Hearts (Starlit)]]<br />ハーツ
+|Passion
+|Normal
+|Reduce Party HP and increase ATK by 60%
+|Only Red and Purple beads appear for 2 chains
+|-
+|270
+|[[File:270s_t.png|80px]]
+|[[Hearts (Starlit)]]<br />ハーツ
+|Passion
+|Sun
+|Reduce Party HP and increase ATK by 70%
+|Only Red and Purple beads appear for 2 chains
+|-
+|270
+|[[File:270m_t.png|80px]]
+|[[Hearts (Starlit)]]<br />ハーツ
+|Passion
+|Moon
+|Reduce Party HP and increase ATK by 70%
+|Only Red and Blue beads appear for 2 chains
+|-
+|271
+|[[File:271_t.png|80px]]
+|[[Deneb (Starlit)]]<br />デネブ
+|Cool
+|Normal
+|Increase Blue HP by 30%
+|Turn Yellow beads into Blue
+|-
+|271
+|[[File:271s_t.png|80px]]
+|[[Deneb (Starlit)]]<br />デネブ
+|Cool
+|Sun
+|Increase Blue HP by 35%
+|Turn Yellow beads into Blue
+|-
+|271
+|[[File:271m_t.png|80px]]
+|[[Deneb (Starlit)]]<br />デネブ
+|Cool
+|Moon
+|Increase Blue HP by 35%
+|Turn Yellow beads into Blue
+|-
+|272
+|[[File:272_t.png|80px]]
+|[[Nero]]<br />ネロ
+|Cute
+|Normal
+|Increase Yellow ATK by 50%
+|Turn Purple beads to Yellow, increase Yellow beads appearance rate
+|-
+|272
+|[[File:272s_t.png|80px]]
+|[[Nero]]<br />ネロ
+|Cute
+|Sun
+|Increase Yellow ATK by 65%
+|Turn Purple beads to Yellow, increase Yellow beads appearance rate
+|-
+|272
+|[[File:272m_t.png|80px]]
+|[[Nero]]<br />ネロ
+|Cute
+|Moon
+|Increase Yellow ATK by 50%, increase Party ATK by 30% when party has more than 3 colours
+|Turn Green beads to Yellow, increase Yellow beads appearance rate
+|-
+|273
+|[[File:273_t.png|80px]]
+|[[Welger]]<br />ウェルガー
+|Passion
+|Normal
+|Increase ATK by 20% when HP is above 50%, increase RP by 20% when HP is below 50%
+|Recover HP in accordance to RP (A)
+|-
+|273
+|[[File:273s_t.png|80px]]
+|[[Welger]]<br />ウェルガー
+|Passion
+|Sun
+|Increase ATK by 30% when HP is above 50%, increase RP by 30% when HP is below 50%
+|Recover HP in accordance to RP (S)
+|-
+|273
+|[[File:273m_t.png|80px]]
+|[[Welger]]<br />ウェルガー
+|Passion
+|Moon
+|Increase ATK by 30% when HP is above 50%, increase RP by 30% when HP is below 50%
+|Recover HP in accordance to RP (S)
+|-
+|274
+|[[File:274_t.png|80px]]
+|[[Drole]]<br />ドローレ
+|Sexy
+|Normal
+|Increase Purple ATK by 50%
+|Insert gold bomb (2-3)
+|-
+|274
+|[[File:274s_t.png|80px]]
+|[[Drole]]<br />ドローレ
+|Sexy
+|Sun
+|Increase Purple ATK by 50% and HP by 10%
+|Insert gold bomb (3)
+|-
+|274
+|[[File:274m_t.png|80px]]
+|[[Drole]]<br />ドローレ
+|Sexy
+|Moon
+|Increase Purple ATK by 65%
+|Insert gold bomb (2-4)
+|-
+|275
+|[[File:275_t.png|80px]]
+|[[Morta]]<br />モルタ
+|Gentle
+|Normal
+|Recover HP every turn (S)
+|Expend own HP and erase upper beads (SS)
+|-
+|275
+|[[File:275s_t.png|80px]]
+|[[Morta]]<br />モルタ
+|Gentle
+|Sun
+|Recover HP every turn (SS)
+|Expend own HP and erase upper beads (SSS)
+|-
+|275
+|[[File:275m_t.png|80px]]
+|[[Morta]]<br />モルタ
+|Gentle
+|Moon
+|Recover HP every turn (SS)
+|Expend own HP and erase upper beads (SSS)
+|-
+|276
+|[[File:276_t.png|80px]]
+|[[Elfen]]<br />エルフェン
+|Passion
+|Normal
+|Increase Red HP by 35%
+|Increase Red beads appearance rate, recover seal and nullify for 1 turn
+|-
+|276
+|[[File:276s_t.png|80px]]
+|[[Elfen]]<br />エルフェン
+|Passion
+|Sun
+|Increase Red HP by 40%
+|Increase Red beads appearance rate, recover seal and nullify for 1 turn
+|-
+|276
+|[[File:276m_t.png|80px]]
+|[[Elfen]]<br />エルフェン
+|Passion
+|Moon
+|Increase Red HP by 35% and ATK by 15%
+|Increase Red beads appearance rate, recover seal and nullify for 1 turn
+|-
+|277
+|[[File:277_t.png|80px]]
+|[[Hinoto (Mononoke)]]<br />ヒノト
+|Gentle
+|Normal
+|Increase party ATK by 65% when max HP
+|Insert Green beads and increase Green beads appearance rate
+|-
+|277
+|[[File:277s_t.png|80px]]
+|[[Hinoto (Mononoke)]]<br />ヒノト
+|Gentle
+|Sun
+|Increase party ATK by 75% when max HP
+|Insert Green beads and increase Green beads appearance rate
+|-
+|277
+|[[File:277m_t.png|80px]]
+|[[Hinoto (Mononoke)]]<br />ヒノト
+|Gentle
+|Moon
+|Increase party ATK by 75% when max HP
+|Insert Green beads and increase Green beads appearance rate
+|-
+|278
+|[[File:278_t.png|80px]]
+|[[Byakuyo (Mononoke)]]<br />白葉
+|Sexy
+|Normal
+|Increase ATK by 10% for every 5 chain (Max is 90%)
+|Erase right & left side beads by consuming own HP
+|-
+|278
+|[[File:278s_t.png|80px]]
+|[[Byakuyo (Mononoke)]]<br />白葉
+|Sexy
+|Sun
+|Increase ATK by 10% for every 4 chain (Max is 90%)
+|Erase right & left side beads by consuming own HP
+|-
+|278
+|[[File:278m_t.png|80px]]
+|[[Byakuyo (Mononoke)]]<br />白葉
+|Sexy
+|Moon
+|Increase ATK by 10% for every 5 chain (Max is 110%)
+|Erase right & left side beads by consuming own HP
+|-
+|279
+|[[File:279_t.png|80px]]
+|[[Toya (Mononoke)]]<br />凍哉
+|Cool
+|Normal
+|Reduce party HP and increase ATK by 50%
+|Erase beads that are not Blue (S)
+|-
+|279
+|[[File:279s_t.png|80px]]
+|[[Toya (Mononoke)]]<br />凍哉
+|Cool
+|Sun
+|Reduce party HP and increase ATK by 60%
+|Erase beads that are not Blue (SS)
+|-
+|279
+|[[File:279m_t.png|80px]]
+|[[Toya (Mononoke)]]<br />凍哉
+|Cool
+|Moon
+|Reduce party HP and increase ATK by 60%
+|Erase beads that are not Blue (SS)
+|-
+|280
+|[[File:280_t.png|80px]]
+|[[Kanoe (Mononoke)]]<br />カノエ
+|Cool
+|Normal
+|Increase ATK by 25% and RP by 15% when party consists of all 5 colours
+|Recover HP and whole party ATK up for 2 turns
+|-
+|280
+|[[File:280s_t.png|80px]]
+|[[Kanoe (Mononoke)]]<br />カノエ
+|Cool
+|Sun
+|Increase ATK by 40% and RP by 15% when party consists of all 5 colours
+|Recover HP and whole party ATK up for 2 turns
+|-
+|280
+|[[File:280m_t.png|80px]]
+|[[Kanoe (Mononoke)]]<br />カノエ
+|Cool
+|Moon
+|Increase ATK by 35% and RP by 20% when party consists of all 5 colours
+|Recover HP and whole party ATK up for 2 turns
+|-
+|281
+|[[File:281_t.png|80px]]
+|[[Kanoto (Mononoke)]]<br />カノト
+|Cute
+|Normal
+|Increase HP by 30% when party consists of all 5 colours
+|Restore Paralyze and nullify it for 1 turn
+|-
+|281
+|[[File:281s_t.png|80px]]
+|[[Kanoto (Mononoke)]]<br />カノト
+|Cute
+|Sun
+|Increase HP by 35% when party consists of all 5 colours
+|Restore Paralyze and nullify it for 1 turn
+|-
+|281
+|[[File:281m_t.png|80px]]
+|[[Kanoto (Mononoke)]]<br />カノト
+|Cute
+|Moon
+|Increase HP by 35% when party consists of all 5 colours
+|Restore Paralyze and nullify it for 1 turn
+|-
+|282
+|[[File:282_t.png|80px]]
+|[[Haldine (Resort)]]<br />ハルディーン
+|Passion
+|Normal
+|Increase ATK by 50% when HP is above 50%
+|Erase all Green beads and turn Blue beads to Red
+|-
+|282
+|[[File:282s_t.png|80px]]
+|[[Haldine (Resort)]]<br />ハルディーン
+|Passion
+|Sun
+|Increase ATK by 60% when HP is above 50%
+|Erase all Green beads and turn Blue beads to Red
+|-
+|282
+|[[File:282m_t.png|80px]]
+|[[Haldine (Resort)]]<br />ハルディーン
+|Passion
+|Moon
+|Increase ATK by 60% when HP is above 50%
+|Erase all Red beads and turn Purple beads to Red
+|-
+|283
+|[[File:283_t.png|80px]]
+|[[Prytwen (Resort)]]<br />プリトヴェン
+|Cute
+|Normal
+|Increase all Yellow stats by 15%
+|Erase random beads for 11 chains
+|-
+|283
+|[[File:283s_t.png|80px]]
+|[[Prytwen (Resort)]]<br />プリトヴェン
+|Cute
+|Sun
+|Increase all Yellow stats by 20%
+|Erase random beads for 13 chains
+|-
+|283
+|[[File:283m_t.png|80px]]
+|[[Prytwen (Resort)]]<br />プリトヴェン
+|Cute
+|Moon
+|Increase all Yellow stats by 20%
+|Erase random beads for 13 chains
+|-
+|284
+|[[File:284_t.png|80px]]
+|[[Volker (Resort)]]<br />フォルカー
+|Gentle
+|Normal
+|Increase Green HP & RP by 25%
+|Reduce damage by 25% for 1 turn
+|-
+|284
+|[[File:284s_t.png|80px]]
+|[[Volker (Resort)]]<br />フォルカー
+|Gentle
+|Sun
+|Increase Green HP & RP by 25% and ATK by 15%
+|Reduce damage by 35% for 1 turn
+|-
+|284
+|[[File:284m_t.png|80px]]
+|[[Volker (Resort)]]<br />フォルカー
+|Gentle
+|Moon
+|Increase Green HP & RP by 35%
+|Reduce damage by 35% for 1 turn
+|-
+|285
+|[[File:285_t.png|80px]]
+|[[Sorbge (Resort)]]<br />ソルベージュ
+|Sexy
+|Normal
+|Increase Purple ATK & RP by 25%
+|Turn Green beads into Purple
+|-
+|285
+|[[File:285s_t.png|80px]]
+|[[Sorbge (Resort)]]<br />ソルベージュ
+|Sexy
+|Sun
+|Increase Purple ATK & RP by 30%
+|Turn Green beads into Purple
+|-
+|285
+|[[File:285m_t.png|80px]]
+|[[Sorbge (Resort)]]<br />ソルベージュ
+|Sexy
+|Moon
+|Increase Purple ATK & RP by 30%
+|Turn Green beads into Purple
+|-
+|}

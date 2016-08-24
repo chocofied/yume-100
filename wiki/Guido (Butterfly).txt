@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 139
+|name = Guido
+|name_jp = グウィード
+|attribute = Sexy
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 340
+|hp_max = 778
+|hp_break = 1034
+|atk_base = 260
+|atk_max = 406
+|atk_break = 539
+|rp_base = 223
+|rp_max = 348
+|rp_break = 462
+|lskill_name = ゲームの仕掛け
+|lskill_desc = Increase Red & Purple ATK by 30%
+|skill_name = 蝶々ゲーム
+|skill_desc = Turn Blue beads into Purple
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 11
+|lvmax_s = 60
+|hp_base_s = 701
+|hp_max_s = 1051
+|hp_break_s = 1371
+|atk_base_s = 386
+|atk_max_s = 475
+|atk_break_s = 620
+|rp_base_s = 331
+|rp_max_s = 407
+|rp_break_s = 531
+|lskill_name_s = 引き寄せられる蝶たち
+|lskill_desc_s = Increase Red & Purple ATK by 35%
+|skill_name_s = 蝶々ワルツ
+|skill_desc_s = Turn Blue beads into Purple and recover HP
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 11
+|lvmax_m = 60
+|hp_base_m = 701
+|hp_max_m = 1051
+|hp_break_m = 1371
+|atk_base_m = 386
+|atk_max_m = 475
+|atk_break_m = 620
+|rp_base_m = 331
+|rp_max_m = 407
+|rp_break_m = 531
+|lskill_name_m = 仮面の中の素顔
+|lskill_desc_m = Increase Red & Purple ATK by 35%
+|skill_name_m = 蝶々ボール
+|skill_desc_m = Turn Blue beads into Purple and recover HP
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Invitation to Butterfly Evening Party
+|original = [[Guido]]
+|desc = 舞踏の国・アイムの王子。仮面で素顔を隠している。いつも注意深く周囲を観察しているが、紳士的な振る舞いでエスコートしてくれる。今回のパーティには、ゲームの仕掛け人として招待された。
+|bg = パーティ会場でグウィードと再会したあなた。すぐどこかに行ってしまう彼に、あなたはさみしい気持ちになる。そんな中、彼が主催するゲームが始まって…
+}}
+
+== Story ==
+{{Choice
+|title2 = 飾りを結んで
+|choice21s = ありがとうございます
+|points21s = 6
+|choice21m = ビックリしました
+|points21m = 6
+|title3 = ティアラのお披露目
+|choice31m = ･･･はい
+|points31m = 3
+|choice31s = 迷惑ですか？
+|points31s = 3
+|choice32s = はい
+|points32s = 6
+|choice32m = そういうわけじゃ……
+|points32m = 6
+|title4 = 蝶を探して
+|choice41m = もしかして……
+|points41m = 12
+|choice41s = それじゃあ、何のために？
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_139s.jpg}}
+{{Still|text=Moon Still|img=Still_139m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = 
+|GUILD_jp = おや……ここは。美しい場所だね。ゆっくり過ごそうかな
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 子猫ちゃん♥　また会えたね。今夜はとびっきりの仕掛けがあるよ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = Ciao、子猫達……ふふっ　では一つ魔法をかけてあげようかな……
+|FRIEND_DETAIL_clip = 
+|DECK_en = 
+|DECK_jp = 子猫ちゃん、今宵パーティー会場で……
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 蝶の行方は僕にもわからないよ。けれど、願わくば……
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう子猫ちゃん。特別な魔法をプレゼントしよう！さ、目を閉じて……
+|BIRTHDAY_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お出かけの準備は整ったかな？　ああ、とっても可愛らしいね
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では、パーティーの続きを……
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 蝶が花にとまるように……僕は君に魅せられてしまったんだ
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = おや……僕にも魔法がかかったようだね
+|CARD_ENHANCE_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 今日の僕は、子猫ちゃんだけを特別扱いはできないんだ……ごめんね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ほら見て。パーティーホールを舞う蝶達……美しいだろう？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ふふっ、子猫ちゃん。君はいつからそんなに大胆な子になったのかな？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 子猫ちゃんがそんな無茶をするなんてね……びっくりしたよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今更そんな風に恥じらってみせても遅いよ。さあ、お手をどうぞ……
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君という花には、僕以外の蝶を寄せ付けたくないな……
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = とっておきの場所へ君をさらってしまおうかな？　いいかい？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = さ、あけてごらん？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 招かれざる客のお出ましですか
+|BATTLE_START_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 緊張しないで？　リラックスだよ、子猫ちゃん
+|CHAIN_NICE_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 軽快で、可憐なステップだ。うん、綺麗だよ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ワルツを踊るように……そう、上手だよ
+|CHAIN_GREAT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 無粋だねえ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 行きますよ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 今宵は夢のひととき、ごゆるりと……
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = たいしたことはないよ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 楽しい時間はあっという間に過ぎるもの
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 余興をご覧にいれましょう
+|SKILL_INVOKE_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだまだ仕掛けはありますよ
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあ、美しい音楽に合わせて！
+|BATTLE_FEVER_TIME_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = Ciao、子猫ちゃん。今晩は素敵な夜になるよ。準備は念入りにね
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さ、今宵は特別な夜。一夜限りの特別な魔法を子猫ちゃんにも……
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 僕はもうすべての準備を終えているよ……あとは夜のお楽しみさ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 子猫ちゃん……もちろん、君にもこの魔法は気に入ってもらえると思うよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 今宵の僕は、この会場に夢のような時間を届ける魔法使い……という役どころ
+|MAIN_TOP_TOUCH_2_clip = 
+}}

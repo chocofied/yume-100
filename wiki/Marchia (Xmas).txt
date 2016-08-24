@@ -1,0 +1,212 @@
+== Status ==
+{{Infobox
+|no = 185
+|name = Marchia
+|name_jp = マーチア
+|attribute = Passion
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 473
+|hp_max = 863
+|hp_break = 1001
+|atk_base = 307
+|atk_max = 544
+|atk_break = 631
+|rp_base = 298
+|rp_max = 529
+|rp_break = 613
+|lskill_name = 誘惑のX\\u0027masカード
+|lskill_desc = Increase all stats of Red by 15%
+|skill_name = クリスマス「Ａ」
+|skill_desc = Reduce damage by 20% for 1 turn
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 776
+|hp_max_s = 1009
+|hp_break_s = 1150
+|atk_base_s = 517
+|atk_max_s = 734
+|atk_break_s = 837
+|rp_base_s = 502
+|rp_max_s = 619
+|rp_break_s = 706
+|lskill_name_s = 勝利のブーケ
+|lskill_desc_s = Increase all stats of Red by 20%
+|skill_name_s = クレイジーベット
+|skill_desc_s = Reduce damage by 25% for 1 turn
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 776
+|hp_max_m = 975
+|hp_break_m = 1112
+|atk_base_m = 517
+|atk_max_m = 696
+|atk_break_m = 793
+|rp_base_m = 502
+|rp_max_m = 677
+|rp_break_m = 772
+|lskill_name_m = 乾杯のクラッカー
+|lskill_desc_m = Increase all stats of Red by 20%
+|skill_name_m = スイートバニー
+|skill_desc_m = Reduce damage by 25% for 1 turn
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Christmas of Wonderland
+|original = [[Marchia]]
+|desc = The prince of Wondermare of the Country of Marvel. He is of the Marchborough family of the assembly of the March hares. He has the type of personality that likes to play around with people, tell white lies, and other such mischief. Since he loves to have fun, when he heard about Christmas from you, he took great interest in it and is thinking of holding a party.
+|bg = You, who were called to Wondermare at Marchia's invitation. He, who learned about Christmas for the first time from hearing your stories. You promptly launch into talks of preparations for a party...-
+}}
+
+== Story ==
+{{Choice
+|title2 = クリスマスって？
+|choice21s = 大好き
+|points21s = 6
+|choice21m = 楽しみにしてる
+|points21m = 6
+|title3 = クリスマス準備
+|choice31s = もちろん必要
+|points31s = 3
+|choice31m = 十分賑やかだから
+|points31m = 3
+|choice32m = とろとろだね
+|points32m = 6
+|choice32s = 熱々だね
+|points32s = 6
+|title4 = クリスマスイブイブ
+|choice41s = 熱心だね
+|points41s = 12
+|choice41m = 頑張り過ぎないで
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_185s.jpg}}
+{{Still|text=Moon Still|img=Still_185m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_s_en = Hey hey, I want you to say that your body and heart are all mine... Please tell me
+|CARD_DETAIL_s_jp = ねえねえ、身も心も全部オレのものだって、言ってほしいなあ…聞かせてよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = All right, it's time for the party! What was that again, jingle bells♪ was it?
+|MAIN_TOP_EVENING_GREET_jp = さあさあ、パーティー本番！なんだっけ？ジングルベール♪だっけ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = What do you mean, there's a fun celebration? That's impossible if I'm not there!
+|MAIN_TOP_TOUCH_1_jp = なになに、楽しいお祭りがあるの？オレのいないお祭りとかあり得ないでしょ！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = If it's to prepare for a party, maybe even the agony of getting up early is nothing! Good morning!
+|MAIN_TOP_MORNING_GREET_jp = パーティーの準備のためなら、早起きも苦痛じゃないかな！おはよう！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = It's about time to have tea time♪  How would you like your scone? With cream?
+|MAIN_TOP_AFTERNOON_GREET_jp = このあたりでティータイムにしよっか♪　スコーンは何で食べる？クリーム？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = I definitely have to enter this grand contest! These really get me going♥
+|MAIN_TOP_TOUCH_s_1_jp = やっぱり、こういう大一番は盛大に勝負に出ないとね！ゾクゾクしちゃうな♥
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Look, you're the goddess of victory! You have such pull! You're the best!
+|MAIN_TOP_TOUCH_s_2_jp = ほら、君は勝利の女神だ！こんな引きが来るなんてさ！最高だよ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_2_en = Tell me properly! Because look, I don't want to lose to whatever Christmases you've had before
+|MAIN_TOP_TOUCH_2_jp = ちゃんと教えて！だって、君が過ごしたどのクリスマスにも負けたくないからね
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = So you like Christmas? Well then, that makes me all the more eager♪ fufufufu-
+|CARD_DETAIL_jp = 君もクリスマスは好きなの？なら、尚更気合いが入るね♪　ふふふふー
+|CARD_DETAIL_clip = 
+|EVENT_LOGIN_BONUS_1_en = Merry~ Christma~s! Isn't this kind of celebration nice! It's sparkly and shiny, huh!
+|EVENT_LOGIN_BONUS_1_jp = メリ～クリスマ～ス！いいじゃんこういうお祭り！キラキラピカピカだね！
+|EVENT_LOGIN_BONUS_1_clip = 
+|FRIEND_DETAIL_en = Hey, small rabbit. Will you party with us?
+|FRIEND_DETAIL_jp = あ、小ウサギちゃん　オレ達と一緒にパーティしない？
+|FRIEND_DETAIL_clip = 
+|EVENT_LOGIN_BONUS_2_en = You just have to sing "Jingle bells♪ Jingle bells♪"!
+|EVENT_LOGIN_BONUS_2_jp = ジングルベ～ル♪ジングルべ～ル♪って歌えばいいんだよね！
+|EVENT_LOGIN_BONUS_2_clip = 
+|WELCOME_PARTY_en = I guess it's 'cause it's a party! It's great, 'cause I love parties!
+|WELCOME_PARTY_jp = なんか、パーティだらけだね！いいよね、オレもパーティは大好きだよ
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = なんか自然豊かって感じでオレには合わない感じだけど……たまにはいいか
+|GUILD_clip = 
+|BIRTHDAY_en = Birthday, huh... It's boring just to hold a party, right? Maybe we should do something you've been wanting to do.
+|BIRTHDAY_jp = 誕生日かあ…ただのパーティーじゃつまらないよね？君のおねだり次第かな
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = I'm really looking forward to it... that's right! Let's prepare that! Fufu, inspiration comes easily when we're together
+|CARD_EVOLUTION_m_jp = 楽しみだなあ…そうだ！あれを用意しよう！ふふ、我ながら、いい思いつきだ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = We're obviously gonna do it! Christmas
+|DECK_jp = やるに決まってるじゃん！クリスマス！
+|DECK_clip = 
+|MAIN_TOP_TOUCH_m_1_en = What, I prepared all of this for you, though! You're not going to wear it? Hey, pleease
+|MAIN_TOP_TOUCH_m_1_jp = ええ、せっかく君のために準備したのに！着てくれないの？ねえねえ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = It's soo cute! I knew a nice round tail would look good on your butt
+|MAIN_TOP_TOUCH_m_2_jp = すっごくカワイイよ！君のお尻にはまあるい尻尾が似合うって思ってたんだぁ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RESULT_en = It's one of those things where you're excited to open it, huh
+|BATTLE_RESULT_jp = 開けてのお楽しみ！ってやつだね
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = I like it a bit more flashy
+|CHAIN_NICE_jp = もうちょっと派手な方が好みだな
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = Hey, cute, cute rabbit-chan♪Wanna go out on the town with me?
+|CARD_DETAIL_m_jp = じゃあ、かわいいかわいいウサギちゃん♪オレと一緒に夜遊びしませんか？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = Alright, first, a toast!
+|BATTLE_START_jp = では、まずカンパーイ！
+|BATTLE_START_clip = 
+|BATTLE_ATTACK_en = Take that!
+|BATTLE_ATTACK_jp = くらえ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = Not the face!
+|BATTLE_DAMAGE_jp = 顔はダメだからね！
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = That dress actually looks good on you!
+|CHAIN_GREAT_jp = 意外に、そういうドレスも似合うよね！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = Of course, the most important thing is your smile!
+|CHAIN_EXCELLENT_jp = そう、一番大事なのは君の笑顔だね！
+|CHAIN_EXCELLENT_clip = 
+|SKILL_INVOKE_en = We can't not do something this fun!
+|SKILL_INVOKE_jp = そんな楽しいこと、やらないわけがないよね！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = I'm going to bet all the coins you're holding on this
+|SKILL_INVOKE_s_jp = 手持ちのコインは全部ベットしちゃうよ
+|SKILL_INVOKE_s_clip = 
+|BATTLE_RECOVER_en = If you kiss me it'll heal better
+|BATTLE_RECOVER_jp = キスしてくれたら治るよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_TURN_END_en = Let's go lively and flashy!
+|BATTLE_TURN_END_jp = 賑やかに、派手に行こう！
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = Alright, party until morning!
+|BATTLE_CLEAR_jp = じゃあ、朝までパーティーだ！
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = Maybe we should have a cute rabbit dance tonight
+|SKILL_INVOKE_m_jp = 今夜はかわいいうさぎのダンスかな
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあ、どんどんじゃんじゃんやるよ！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_EVOLUTION_s_en = Hey, don't you think I'm the kinda guy who can't confess with a straight face?
+|CARD_EVOLUTION_s_jp = オレのこと、真正面から告白できないヤツって思ってな～い？
+|CARD_EVOLUTION_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 雪もしたたるいいうさぎっていうのは、オレのことだよ？元気にしてた？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ワンランク上の男になったってこと！？まだまだ天井知らずだからね
+|CARD_ENHANCE_clip = 
+}}

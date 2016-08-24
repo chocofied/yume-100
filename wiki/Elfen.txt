@@ -1,0 +1,115 @@
+== Status ==
+{{Infobox
+|no = 276
+|name = Elfen
+|name_jp = エルフェン
+|attribute = Passion
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 732
+|hp_max = 1219
+|hp_break = 1390
+|atk_base = 382
+|atk_max = 620
+|atk_break = 707
+|rp_base = 316
+|rp_max = 514
+|rp_break = 586
+|lskill_name = 隠れた情熱
+|lskill_desc = Increase Red HP by 35%
+|skill_name = 情熱の一滴
+|skill_desc = Increase Red beads appearance, nullify Skill Seal for 1 turn
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 1097
+|hp_max_s = 1426
+|hp_break_s = 1597
+|atk_base_s = 589
+|atk_max_s = 726
+|atk_break_s = 813
+|rp_base_s = 488
+|rp_max_s = 601
+|rp_break_s = 673
+|lskill_name_s = 新作ブレンド豆
+|lskill_desc_s = Increase Red HP by 40%
+|skill_name_s = 極上の一滴
+|skill_desc_s = Increase Red beads appearance, nullify Skill Seal for 1 turn
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 1097
+|hp_max_m = 1353
+|hp_break_m = 1515
+|atk_base_m = 589
+|atk_max_m = 800
+|atk_break_m = 896
+|rp_base_m = 488
+|rp_max_m = 571
+|rp_break_m = 640
+|lskill_name_m = 甘くて苦いコーヒー
+|lskill_desc_m = Increase Red HP by 35% and ATK by 15%
+|skill_name_m = 目覚めの一滴
+|skill_desc_m = Increase Red beads appearance, nullify Skill Seal for 1 turn
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|va = Hayami Shō
+|origin = Country of Coffee - Crema
+|age = 26
+|birth = 
+|policy =Success is a journey not a terminus 
+|likes =Making Espresso 
+|dislikes =Delicious Black Tea 
+|desc = 珈琲の国・クレマの王子。コーヒーに対して熱い思いと強いこだわりを持っている。コーヒーを広めるために国内外問わず人を集めてプレゼンテーションを行うこともあり、その手腕は相当なもの。しかし、時に強引とも呼べる手段を取ることから、街の人には彼の情熱が伝わらず気持ちがすれ違っている。
+|bg = エルフェンに招待されクレマの街を訪れたあなた。街のカフェのコーヒーを批判する彼だったものの、そこにはコーヒーに対する熱い思いやこだわりがあって…
+}}
+
+== Story ==
+{{Choice
+|title2 = 冷たい言葉
+|choice21m = 実際に飲んでみたことは？
+|points21m = 10
+|choice21s = 一口飲んでみては？
+|points21s = 10
+|title3 = 飲み比べ
+|choice31m = 目を瞬かせる
+|points31m = 6
+|choice31s = 感心する
+|points31s = 6
+|choice32s = 皆にも伝えては？
+|points32s = 9
+|choice32m = おいしさは味じゃないことも
+|points32m = 9
+|title4 = コーヒーへの情熱
+|choice41s = 昨日はすみません
+|points41s = 7
+|choice41m = 素晴らしい講演でした
+|points41m = 7
+|choice42s = わかりました
+|points42s = 8
+|choice42m = 楽しみにしています
+|points42m = 8
+|title5 = すれ違う思い
+|choice51m = お仕事中にすみません
+|points51m = 15
+|choice51s = 伺いたいことが…
+|points51s = 15
+|title6 = 向き合いたい
+|choice61s = 頷く
+|points61s = 20
+|choice61m = 何も言えない
+|points61m = 20
+}}
+{{Still|text=Sun Still|img=Still_276s.jpg}}
+{{Still|text=Moon Still|img=Still_276m.jpg}}
+== Quotes ==

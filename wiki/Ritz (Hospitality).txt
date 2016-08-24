@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 220
+|name = Ritz
+|name_jp = リッツ
+|attribute = Cute
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 457
+|hp_max = 940
+|hp_break = 1090
+|atk_base = 281
+|atk_max = 469
+|atk_break = 544
+|rp_base = 327
+|rp_max = 545
+|rp_break = 632
+|lskill_name = リッツのおもてなし
+|lskill_desc = Increase Yellow & Purple HP by 25%
+|skill_name = ブリスプラン
+|skill_desc = Recovery of HP in accordance to Party RP (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 846
+|hp_max_s = 1062
+|hp_break_s = 1211
+|atk_base_s = 446
+|atk_max_s = 600
+|atk_break_s = 684
+|rp_base_s = 518
+|rp_max_s = 697
+|rp_break_s = 795
+|lskill_name_s = オレの……お姫様
+|lskill_desc_s = Increase Yellow & Purple HP by 30%
+|skill_name_s = ディアプリンセス
+|skill_desc_s = Recovery of HP in accordance to Party RP (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 846
+|hp_max_m = 1203
+|hp_break_m = 1371
+|atk_base_m = 446
+|atk_max_m = 600
+|atk_break_m = 684
+|rp_base_m = 518
+|rp_max_m = 616
+|rp_break_m = 702
+|lskill_name_m = キミを想って
+|lskill_desc_m = Increase Yellow & Purple HP by 30%
+|skill_name_m = ペタルローズ
+|skill_desc_m = Recovery of HP in accordance to Party RP (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Hospitality of The Princes
+|original = [[Ritz]]
+|desc = 精霊の国・セクンダティの王子。雷の一族・トニトルスの王子。毎日楽しく過ごしている。おばあさんに可愛がられている。軽い性格と勘違いされやすいが、一生懸命で家族思い。プリンスアワード後、招待された記録の国のホテルに滞在することになっている彼は、主人公と一緒に過ごせたらいいなと考えている。
+|bg = プリンスアワード後、レコルドのホテルでリッツと再会したあなた。日頃の感謝に、あなたをもてなしたいと言う彼と一緒に過ごすことになって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼に似た色
+|choice21s = 明るい色で素敵
+|choice21m = 落ち着く色で素敵
+|points21s = 6
+|points21m = 6
+|title3 = 大事なものは…
+|choice31s = 選んでもらえて嬉しい
+|choice31m = 静かなお店で嬉しい
+|points31s = 3
+|points31m = 3
+|choice32s = 何かしてしまったのかも
+|choice32m = 疲れてしまったのかも
+|points32s = 6
+|points32m = 6
+|title4 = 最後の誘い
+|choice41s = 嬉しかった
+|choice41m = 楽しかった
+|points41s = 12
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_220s.jpg}}
+{{Still|text=Moon Still|img=Still_220m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = やあ、ようこそ。実はいま休暇中なんだ……また、今度遊ぼうね
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 大きな行事って緊張するし疲れちゃうよね。気楽に盛り上がろう！
+|WELCOME_PARTY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = なんかまだまだおじい様みたいに、かっこいい男になれないんだよね…
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = ね、オレと楽しい時間を過ごそうよ
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。キミにおめでとうって言える幸せ……今、噛み締めてる
+|BIRTHDAY_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 終わったね。じゃあ、お手をどうぞ！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 一番にオレのところに来たでしょ？へへっ…よかった！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 本当にかっこいい男ってさあ、どんなヤツなんだろう。君はどう思う？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = なんか急に不安になっちゃって…オレってカッコ悪いなー
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ちょっとビビビってくるかもよ？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = しびれた？
+|BATTLE_TURN_END_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = オレの考えた通りでいいの？よかったぁ……ううん、嬉しい。ありがとう
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = オレだけのお姫様になってよ？ね、いいでしょう？返事を聞かせて
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = まだまだキミを連れて行きたいところはあるんだよ。ついてきて
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 大丈夫！安心して？キミの嫌なことは絶対しないから！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = オレ、キミと楽しい時間を……あ、違う、キミをもてなしたくてさ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = キミにドレスを贈らせて！ドレスだけじゃない、アクセサリーもティアラも！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = キミに心の底から楽しんで欲しいんだ。だから、楽しみにしてて
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = オレが世界で一番かっこいい王子だって、証明したいなって思って
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 夜も一緒に過ごしていいんだよね…キミと。オレ嬉しくて…へへっ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんなところにまで…さっさと片付けよう！
+|BATTLE_START_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ！痛っ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = キミって本当に優しい
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = オレのさいっこーのおもてなしだ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 素敵なプランはまだまだ続くよ！
+|SKILL_INVOKE_s_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = あれ、なにか気になることがある？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そうそう、そうやって笑って
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = オレのほうがキミに励まされてる気がする
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ドッカーン！ってね
+|BATTLE_ATTACK_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 終わったね！じゃ、おもてなしの続きだ！
+|BATTLE_RESULT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = キミと二人っきり？いいね！
+|SKILL_INVOKE_m_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう！ぐっすり眠れた？そうだよね、ふかふかのベッドだったもんね
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = おもてなしってことだから、何から何までオレに任せてよね！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = おばあ様が昔にこの国に来たって言っててね……あれもうこんな時間！
+|MAIN_TOP_EVENING_GREET_clip = 
+|GUILD_en = 
+|GUILD_jp = ここさ、空気も綺麗でいいよね。おばあ様もきたことあるのかな
+|GUILD_clip = 
+}}

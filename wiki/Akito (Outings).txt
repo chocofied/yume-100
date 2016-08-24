@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 265
+|name = Akito
+|name_jp = アキト
+|attribute = Passion
+|rarity = 4
+|cost = 10
+|lvmax = 50
+|hp_base = 365
+|hp_max = 835
+|hp_break = 1109
+|atk_base = 287
+|atk_max = 448
+|atk_break = 595
+|rp_base = 231
+|rp_max = 361
+|rp_break = 479
+|lskill_name = 不安の花
+|lskill_desc = Increase ATK by 25% when Party consists of all 5 colours
+|skill_name = 疑心の曼珠沙華
+|skill_desc = Erase beads in cross (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 752
+|hp_max_s = 1069
+|hp_break_s = 1395
+|atk_base_s = 426
+|atk_max_s = 573
+|atk_break_s = 749
+|rp_base_s = 343
+|rp_max_s = 408
+|rp_break_s = 532
+|lskill_name_s = 海面に咲く花
+|lskill_desc_s = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name_s = 青き花弁の曼珠沙華
+|skill_desc_s = Erase beads in cross (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 752
+|hp_max_m = 1127
+|hp_break_m = 1472
+|atk_base_m = 426
+|atk_max_m = 524
+|atk_break_m = 684
+|rp_base_m = 343
+|rp_max_m = 422
+|rp_break_m = 552
+|lskill_name_m = 薬になる毒花
+|lskill_desc_m = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name_m = 深紅の曼珠沙華
+|skill_desc_m = Erase beads in cross (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|desc = 花の精の国・ヴィラスティンの曼珠沙華の一族の王子。毒のある花の一族のため周囲からはあまりよく思われていない。彼はそのことを仕方ないと考える一方で、どうにかしたいという思いを持っている。プリンスアワードで『ゴールドクラウン』の称号を得た後、新たに建造された船の進水式に招待され、海賊の国を訪れた。
+|bg = 『ゴールドクラウン』の称号を贈られたアキトと一緒にダグラスの船の進水式に招待されたあなた。けれど、そこで起きた事件の犯人としてアキトが疑われて…
+|event = Princes' Outings
+|original = [[Akito]]
+}}
+== Story ==
+{{Choice|title2 = 不穏なざわめき|choice21s = 大丈夫ですか？|points21s = 6|choice21m = 何か心配が？|points21m = 6|title3 = 疑惑の目|choice31s = 急いで駆け寄る|points31s = 3|choice31m = 様子を見る|points31m = 3|choice32s = そっと手を伸ばす|points32s = 6|choice32m = 海賊の頭領を見つめる|points32m = 6|title4 = 黒い噂|choice41s = もう片方の手を重ねる|points41s = 12|choice41m = 信じていると伝える|points41m = 12}}{{Still|text=Sun Still|img=Still_265s.jpg}}
+{{Still|text=Moon Still|img=Still_265m.jpg}}

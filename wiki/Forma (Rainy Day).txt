@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 100
+|name = Forma
+|name_jp = フォーマ
+|attribute = Cool
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 469
+|hp_max = 851
+|hp_break = 987
+|atk_base = 253
+|atk_max = 449
+|atk_break = 521
+|rp_base = 318
+|rp_max = 565
+|rp_break = 655
+|lskill_name = 紫陽花の路
+|lskill_desc = Increase Blue HP & RP by 20%
+|skill_name = ヒドランジア・シード
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 766
+|hp_max_s = 962
+|hp_break_s = 1097
+|atk_base_s = 426
+|atk_max_s = 574
+|atk_break_s = 654
+|rp_base_s = 536
+|rp_max_s = 723
+|rp_break_s = 824
+|lskill_name_s = 一つ傘の下
+|lskill_desc_s = Increase Blue HP & RP by 25%
+|skill_name_s = アンブレラ・シード
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 766
+|hp_max_m = 1089
+|hp_break_m = 1241
+|atk_base_m = 426
+|atk_max_m = 507
+|atk_break_m = 578
+|rp_base_m = 536
+|rp_max_m = 723
+|rp_break_m = 824
+|lskill_name_m = 次の約束
+|lskill_desc_m = Increase Blue HP & RP by 25%
+|skill_name_m = スウェア・シード
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Rainy Day Song
+|original = [[Forma]]
+|desc = 毒薬の国・ファルテートの王子。頭がよく知的な勤勉家。毒を吸収することができる。「普通」に憧れている。駅の反対側の道にお気に入りのベーカリーがある。
+|bg = フォーマに、紫陽花を見に行こうと誘われたあなた。紫陽花を前に、記念写真を撮ったり、楽しい時間を過ごす。けれど、途中で雨が降り出して…―。
+}}
+
+== Story ==
+{{Choice
+|title2 = お似合いの二人
+|choice21s = 似合ってるね
+|points21s = 6
+|choice21m = いつもと感じが違うね
+|points21m = 6
+|title3 = 貸切列車の旅
+|choice31m = 褒めてくれてるの？
+|points31m = 3
+|choice31s = 単純ってこと？
+|points31s = 3
+|choice32s = 強く頷く
+|points32s = 6
+|choice32m = 優しく微笑む
+|points32m = 6
+|title4 = 記念写真
+|choice41s = 物知りだね
+|points41s = 12
+|choice41m = 無言になる
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_100s.jpg}}
+{{Still|text=Moon Still|img=Still_100m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 雨の日はコンタクトレンズの方がいいかな……？眼鏡のままがいいって？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜になったら星を眺めるといい。目にもいいから
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう…それは、てるてる坊主ってやつか？
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんな時まで邪魔されるのか
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = へえ……そんなものもあるんだ
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ……ちゃんと拭いて！君は…その……無防備なんだな
+|CARD_DETAIL_m_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 雨の日限定で売り出されるパンが……食べたいんだ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ビニール傘越しに見る空は綺麗だな……水滴がキラキラして
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 電車に乗って、次は……うわ！驚いた……何か用か？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 君は突然、びっくりするようなことをするよね？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 風邪、ひいてないよね？　熱とか出てない？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ……眼鏡はちゃんと拭いたから大丈夫。壊れてないよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 一緒に記念撮影……これ何枚プリントしようかな……っ！いたのか！？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = また……どこか一緒に行きたいね。雨の降る日でも
+|CARD_DETAIL_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = この瞬間を待ってた！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだなんだろう？
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = シャッターチャンスだね
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 空が明るくなってきたよ
+|SKILL_INVOKE_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごいな……置いていかれてしまいそうな気分だ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やぁっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = いい調子だね　もうちょっと頑張ろうか
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = いいね　ほら、手をかして
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 紫陽花にも、毒があるんだ
+|SKILL_INVOKE_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = びしょ濡れだ……
+|BATTLE_RECOVER_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。この雨も、きっと君のことをお祝いしてるんだ
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 見せたい景色があるんだ……いや一緒に見たい景色があるんだ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = この透明な傘……君の綺麗な心みたいだな
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ……じゃあさっきの続きをしようか
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君と出かける計画をしているだけで　顔が緩む……
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君に感化されて、世界が穏やかに見えてる気がするよ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 雨……紫陽花を見に行かないか
+|DECK_clip = 
+|GUILD_en = 
+|GUILD_jp = こんなところで雨に降られても困るな…店もないし
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びにきてくれたのか……雨が降っているのに
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝い……じゃあ、一緒にケーキでも食べようか
+|WELCOME_PARTY_clip = 
+}}

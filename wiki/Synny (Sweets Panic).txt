@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 170
+|name = Synny
+|name_jp = シュニー
+|attribute = Cute
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 629
+|hp_max = 1237
+|hp_break = 1410
+|atk_base = 367
+|atk_max = 597
+|atk_break = 680
+|rp_base = 371
+|rp_max = 509
+|rp_break = 580
+|lskill_name = お菓子めぐり
+|lskill_desc = Increase Yellow & Purple HP & RP by 20%
+|skill_name = チョコレートスノウ
+|skill_desc = Erase upper beads (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 1113
+|hp_max_s = 1509
+|hp_break_s = 1690
+|atk_base_s = 567
+|atk_max_s = 728
+|atk_break_s = 815
+|rp_base_s = 484
+|rp_max_s = 545
+|rp_break_s = 610
+|lskill_name_s = チョコフォンデュ
+|lskill_desc_s = Increase Yellow & Purple HP & RP by 25%
+|skill_name_s = チョコレートリッカ
+|skill_desc_s = Erase upper beads and insert Yellow beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 1113
+|hp_max_m = 1373
+|hp_break_m = 1538
+|atk_base_m = 567
+|atk_max_m = 770
+|atk_break_m = 862
+|rp_base_m = 484
+|rp_max_m = 565
+|rp_break_m = 633
+|lskill_name_m = おまんじゅう作り
+|lskill_desc_m = Increase Yellow & Purple HP & RP by 20% and ATK by 10%
+|skill_name_m = チョコレートパウダー
+|skill_desc_m = Erase upper beads (SSS)
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Sweets Panic
+|original = [[Synny]]
+|desc = 雪の国・スノウフィリアの第三王子。家族に甘やかされて育ったため、生意気な性格をしている。自分より体格が大きな相手でも、平気でつっかかる。天然の毒舌なために悪気はない。今回、兄のフロストとグレイシアを驚かせるお菓子を探しにワールド・スイーツフェスティバルを訪れた。
+|bg = シュニーに呼ばれて、ワールド・スイーツフェスティバルを訪れたあなた。兄達を驚かせたいシュニーがあなたと一緒に見つけるお菓子とは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = とびきりのお菓子を求めて
+|choice21s = ありがとうございます
+|points21s = 8
+|choice21m = 昇格なんて……
+|points21m = 8
+|title3 = 黒糖のおまんじゅう
+|choice31s = 笑ってごまかす
+|points31s = 4
+|choice31m = 目をそらす
+|points31m = 4
+|choice32m = どうして？
+|points32m = 8
+|choice32s = 危ないよ
+|points32s = 8
+|title4 = 優しいご褒美
+|choice41s = 大丈夫ですか？
+|points41s = 12
+|choice41m = すみません
+|points41m = 12
+|title5 = お菓子をめぐって
+|choice51m = アイス
+|points51m = 16
+|choice51s = チョコ
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_170s.jpg}}
+{{Still|text=Moon Still|img=Still_170m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = あっちにあるおまんじゅう、美味しそうだね。早く並ぶよ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 明日はどこを見て回りたい？お前の希望を聞いてあげてもいいよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = まったく、起きるのが遅いよ。もうフェスティバルは始まってる。早くしてよね
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = お前、変わってるよね。ちょっとしたことですぐ喜ぶし…ま、悪くはないけどね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = フロ兄とグレ兄が知らないようなお菓子…絶対見つけるんだ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = お前のチョコアイス、ひとくちもらうよ…なに恥ずかしがってるの？
+|MAIN_TOP_TOUCH_2_clip = 
+|GUILD_en = 
+|GUILD_jp = 綺麗な場所…珍しいお菓子もありそうだね
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 友達？そうなんだ。あんまり僕のそばを離れるなって言っておいてくれる？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = パーティ？ふーん、僕を満足させられるお菓子はあるの？
+|WELCOME_PARTY_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 一人でどっか行かないでよね。僕の目の届くところにいてよ。わかった？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = もっともっと、試食してみないとね
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 早く次のお店に行くよ！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。僕がお前にお菓子を作ってやった。光栄に思いなよね！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ホワイトチョコレートフォンデュ…？食べさせてよ、それ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = あんこ、美味しいよね。やっぱりおまんじゅうが一番かな
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 早くチョコが食べたいのに
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = どんなお菓子かな？早く開けてみてよ
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 僕の作ったおまんじゅう、食べたいの？ふーん、じゃ。キスしてくれたらいいよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = お前の手についたあんこ、なかなか美味しかったよ
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まあ、悪くない味だね
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = うん、なかなか…お前も味見してみる？
+|CHAIN_GREAT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = お前のほっぺた、マシュマロみたいでおいしそう…食べてもいい？…冗談だよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = お前って、不器用だよね…仕方ないな。僕が手伝ってあげる
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お前は僕の友達に昇格したんだから、敬語はやめること。わかった？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ほら、口開けなよ。僕が特別に食べさせてあげる
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = なかなか良いフェスティバルだね！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さっさと次、行くよ！
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ホワイトチョコレートにつけて食べてみなよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 僕の作ったおまんじゅうが美味しくないわけないだろ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = どれもなかなかだった。買って帰ろう
+|BATTLE_CLEAR_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ふーん、食べてる姿も可愛いんじゃない
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = このおまんじゅう、美味しい…
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = フェスティバルの邪魔、しないでよね！
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ふんっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = もう！
+|BATTLE_DAMAGE_clip = 
+}}

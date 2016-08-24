@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 239
+|name = Miya
+|name_jp = ミヤ
+|attribute = Cute
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 569
+|hp_max = 1005
+|hp_break = 1278
+|atk_base = 291
+|atk_max = 424
+|atk_break = 539
+|rp_base = 299
+|rp_max = 512
+|rp_break = 650
+|lskill_name = ただいま練習中！
+|lskill_desc = Increase Green & Yellow HP & RP by 20%
+|skill_name = スパーク・フラワー
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 905
+|hp_max_s = 1076
+|hp_break_s = 1344
+|atk_base_s = 403
+|atk_max_s = 517
+|atk_break_s = 646
+|rp_base_s = 486
+|rp_max_s = 624
+|rp_break_s = 780
+|lskill_name_s = 笑顔を咲かせる魔術
+|lskill_desc_s = Increase Green & Yellow HP & RP by 25%
+|skill_name_s = イルミナル・フラワー
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 905
+|hp_max_m = 1227
+|hp_break_m = 1532
+|atk_base_m = 403
+|atk_max_m = 454
+|atk_break_m = 567
+|rp_base_m = 486
+|rp_max_m = 624
+|rp_break_m = 780
+|lskill_name_m = ぼろぼろの魔術書
+|lskill_desc_m = Increase Yellow & Purple HP & RP by 25%
+|skill_name_m = アンスタン・フラワー
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Big Brother and Little Brother
+|original = [[Miya]]
+|desc = 魔術の国・ソルシアナの双子の弟王子。明るく快活な性格で国民に親しまれている。魔術の祭典で新しい魔術を披露することになったものの、なかなか成功させられずにいる。
+|bg = ミヤに招待されソルシアナを訪れたあなたは、魔術の祭典に向けて新しい魔術に挑戦する彼と、練習のため森に向かう。その途中、とある兄弟に出会って…―
+}}
+
+== Story ==
+{{Choice|title2 = 二人だけの秘密|choice21s = すごいと言う|points21s = 8|choice21m = 楽しみと言う|points21m = 8|title3 = 人気者の王子|choice31s = ミヤの努力を話す|points31s = 4|choice31m = うつむく|points31m = 4|choice32s = 大丈夫かと聞く|points32s = 8|choice32m = じっと見つめる|points32m = 8|title4 = 彼の素敵なところ|choice41s = 声をかける|points41s = 12|choice41m = 手に触れる|points41m = 12|title5 = キミの応援|choice51s = 聞く|points51s = 16|choice51m = 聞かない|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_239s.jpg}}
+{{Still|text=Moon Still|img=Still_239m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = わっ、危ないっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 回復魔術…苦手なんだよなあ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 練習中だけど、披露しちゃおっかな
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = よし、光の刃よ駆け上がれ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = それ！
+|BATTLE_ATTACK_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ようこそ、ソルシアナへ…って！会いに来てくれてありがとう！元気にしてた？
+|CARD_TOP_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = おっっと！思ってたのと違うけど…
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まだまだこんなもんじゃないよ？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 今のうちに回復かな？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、いいリハーサルになったかな？
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = キミの前で、皆の前で、イリアよりすごい魔術……成功させたい！
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = オレのこと選んでくれたら…嬉しい
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう！ね、今から空にキミ宛のメッセージ流すから、見てて！
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = キミの応援のお陰だよ！　もっともっと、頑張るからね
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = もう少しで、コツを掴めそうな気がするんだ！　絶対成功する！大丈夫！
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = イリアは確かにすごいけど…オレも、ちゃんとやってみせるよ
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ねえ、もう一度だけ。頑張れって言ってくれないかな？　お願い！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = あっ…できた…オレ、初めて成功したよ！見てた？すごい嬉しい！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。朝早い？だって、いっぱい、練習しなきゃだからね！　
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = はあ…疲れたぁ…ちょっと休憩。差し入れ持ってきてくれたの？嬉しいな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ドキドキして眠れないな…きっと祭典が終わるまで毎日、緊張するんだろうな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = さっきは驚かせちゃって、ごめんね。魔術の勢いが止まらなくて…
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = きっと、イリアもすごい魔術を見せてくれるはず！でも、オレだって負けないよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今ならきっと言える気がするんだ…オレ、キミのこと…誰よりも好きだよ！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 心配しないでも大丈夫！オレだって、やれる限りのことをやったんだから…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 本当にイリアには困っちゃうな…おいしいとこ、持っていくんだからさ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 勢いが出てきたね！このまま行こう～♪
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごい！魔術の才能があるのかも！
+|CHAIN_EXCELLENT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = イリアがいるからオレ、頑張れるんだな…でも、キミに関しては譲らないよ
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 魔法陣に命じる！炎よいでよ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = お疲れ様！だんだん、レベルアップしていくね！
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = おっと、まだ練習中かな？
+|CHAIN_NICE_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = あ、こんなところでパーティしてる！キミも一緒に参加しようよ！
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここで魔術の練習をしたら怒られるかな…ちょっとくらいいいよね！広いし！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あ、ごめん。今日はちょっと勉強っていうか練習したくて。また来てよ！
+|FRIEND_DETAIL_clip = 
+}}

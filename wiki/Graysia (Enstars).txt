@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 252
+|name = Graysia
+|name_jp = グレイシア
+|attribute = Passion
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 520
+|hp_max = 1029
+|hp_break = 1308
+|atk_base = 302
+|atk_max = 414
+|atk_break = 526
+|rp_base = 359
+|rp_max = 583
+|rp_break = 741
+|lskill_name = 自然体の撮影
+|lskill_desc = Increase ATK by 30% when Party has more than 3 colours
+|skill_name = スノウトラップ
+|skill_desc = Turn Blue beads into Red and recover HP
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 926
+|hp_max_s = 1204
+|hp_break_s = 1504
+|atk_base_s = 393
+|atk_max_s = 484
+|atk_break_s = 605
+|rp_base_s = 554
+|rp_max_s = 682
+|rp_break_s = 851
+|lskill_name_s = 日常のピンナップ
+|lskill_desc_s = Increase ATK by 30% and HP by 10% when Party has more than 3 colours
+|skill_name_s = スノウローズ
+|skill_desc_s = Turn Blue beads into Red and recover HP
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 926
+|hp_max_m = 1256
+|hp_break_m = 1568
+|atk_base_m = 393
+|atk_max_m = 443
+|atk_break_m = 553
+|rp_base_m = 554
+|rp_max_m = 711
+|rp_break_m = 888
+|lskill_name_m = 気高さの溢れる表紙
+|lskill_desc_m = Increase ATK by 40% when Party has more than 3 colours
+|skill_name_m = スノウカラー
+|skill_desc_m = Turn Yellow beads into Red and recover HP
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = The Three Brothers and the Three Oddballs
+|original = [[Graysia]]
+|desc = 雪の国・スノウフィリアの第二王子。クールに物事をこなし、器用ではあるが、性格不器用。自分の国の血ではないものは下だと考えており、見下している。文化交流のためにアイドルの国へと招待されたものの、人前で歌やダンスなんてできるかと頑なに拒み続けている。
+|bg = アイドルの国でグレイシアと再会したあなた。アイドル体験を拒んでいた彼だったものの、あなたの説得により、しぶしぶながらも挑戦することになって…―
+}}
+
+== Story ==
+{{Choice|title2 = 王族として|choice21s = 私は見てみたい|points21s = 8|choice21m = 上手くできそうなのに|points21m = 8|title3 = アイドルレッスン|choice31s = 手を取る|points31s = 4|choice31m = 自分から立ち上がる|points31m = 4|choice32s = どうしたの？|points32s = 8|choice32m = ごめんなさい|points32m = 8|title4 = 険しい道のり|choice41s = でも本当に上手だから|points41s = 12|choice41m = そうですね|points41m = 12|title5 = 素顔の彼を撮りたい|choice51s = 写真を覗き込む|points51s = 16|choice51m = 写真の出来栄えを聞く|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_252s.jpg}}
+{{Still|text=Moon Still|img=Still_252m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BIRTHDAY_en =What? Your birthday? Wish you with a smile? ...I get it. Geez... Happy birthday! 
+|BIRTHDAY_jp = は？誕生日？…笑顔で祝えって？…わかったよ…ったく…おめでとう！
+|BIRTHDAY_clip = 
+|DECK_en =You said it yourself. You wanted to see how I look like as an idol. 
+|DECK_jp = 言ったよな？俺のアイドル姿が見たいって
+|DECK_clip = 
+|CHAIN_NICE_en =You are such a klutz... 
+|CHAIN_NICE_jp = ほんっと、不器用なやつだな…
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en =It's finally over. You shouldn't push yourself either. Let's take a short break. 
+|BATTLE_RESULT_jp = やっと終わったな。お前も無理するな、ちょっと休憩するぞ
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en =We'll do this together...Alright, you did well! 
+|CHAIN_EXCELLENT_jp = 一緒にやるぞ…よし、よくできたな！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en =Listen well, make sure to follow my steps, alright? 
+|CHAIN_GREAT_jp = いいか、ちゃんと俺の手本を見てろよ
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en =You're going to buy that magazine that had me on the cover, right? Right? ...Then that's fine. 
+|MAIN_TOP_TOUCH_m_1_jp = お前、俺が表紙の雑誌、買うんだろうな？買うよな？…ならいい
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_START_en =Everyone is always like this... 
+|BATTLE_START_jp = どいつもこいつも…
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en =Nn? What is it? That's... The photo of me that was taken earlier! 
+|CARD_DETAIL_m_jp = ん？なんだよ、それ…この前撮った俺の写真じゃねえか！いつの間にそんな…！
+|CARD_DETAIL_m_clip = 
+|BATTLE_DAMAGE_en =Damn it... 
+|BATTLE_DAMAGE_jp = クソ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en =You're in the way! 
+|BATTLE_ATTACK_jp = 邪魔だ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_RECOVER_en =This is nothing. 
+|BATTLE_RECOVER_jp = どうってことねえよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_CLEAR_en =Ah... I'm tired... 
+|BATTLE_CLEAR_jp = ああ、疲れた…
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en =I can't just smile so easily even if you tell me to. 
+|BATTLE_TURN_END_jp = 笑えって言われて、簡単に笑えるかよ
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en =As long as I keep practicing, I'll be able to do it right away. 
+|CARD_ENHANCE_jp = 練習したらすぐできるだろ、この程度なら
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en =You came to see me while I'm in a shooting? ...You're really a curious one. It's not like it's interesting or anything. 
+|CARD_TOP_jp = 俺の撮影を見に来た？…本当、物好きだよな。別に面白くもなんともねえぞ？
+|CARD_TOP_clip = 
+|SKILL_INVOKE_s_en =Even I have pride as a noble of the snow clan! 
+|SKILL_INVOKE_s_jp = 俺だって、高潔なる雪の一族のプライドを持ってるからな
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en =I've become an idol just to represent the kingdom of snow! 
+|SKILL_INVOKE_jp = アイドルをやるのは…あくまで雪の国の代表としてだ！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en =Aah, geez! Isn't it fine to just take everything?! 
+|BATTLE_FEVER_TIME_jp = ああもう、思う存分撮ればいいだろ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en =Am I nervous? Of course not, because you're here with me. 
+|SKILL_INVOKE_m_jp = 緊張？してねえよ、だってお前がいるからな
+|SKILL_INVOKE_m_clip = 
+|CARD_EVOLUTION_m_en =Somehow, I'll look like I'm glaring at the cameraman... 
+|CARD_EVOLUTION_m_jp = なんか、ついカメラマンを睨んでるみたいになるよな……
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =Even if they're taking pictures of me, this is pretty fun. This isn't so bad...is it? 
+|CARD_EVOLUTION_s_jp = 写真に撮られるってのも、結構面白いもんだな。悪くない…んじゃないか？
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_TOUCH_1_en =Oi, why are you pointing that camera at me just now? Eh? For experience...? 
+|MAIN_TOP_TOUCH_1_jp = おい、なんで俺にカメラ向けてるんだよ、今！　え、慣れろって…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en =Geez...I'm really tired. Let's go to sleep already... I didn't mean sleeping together! 
+|MAIN_TOP_EVENING_GREET_jp = まったく、疲れたよ…早く寝ようぜ…一緒にって意味じゃねえよ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en =I look like an actual idol? What? ...Of course I do. Stop spouting nonsense. 
+|CARD_DETAIL_jp = 本当のアイドルみたい？は？…突然、そんなこと言うなよ！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en =Were you unexpectedly dull? I got it, I'll teach you. Now, come here. 
+|MAIN_TOP_TOUCH_2_jp = お前…案外ドンくさいのか？わかった、教えてやる。ほら、こっち来い
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Shouldn't you take a small break? Pushing yourself won't do you any favours, after all. 
+|MAIN_TOP_AFTERNOON_GREET_jp = 少しは休憩したほうがいいぞ？無理したっていいことはないからな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en =Oi, what's with with you so early in the morning?....Ha? Dance practice? 
+|MAIN_TOP_MORNING_GREET_jp = おい、朝からなんなんだよ一体…は？ダンスの練習？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en =They filmed me at such a big shot... Wha-what's with that face?! Don't look at me... 
+|MAIN_TOP_TOUCH_s_1_jp = 俺がこんなでっかく映って…な、何だよその顔！こっち見るなって…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =I don't hate those who do their best. On the contrary, I think they should be rewarded. 
+|MAIN_TOP_TOUCH_s_2_jp = 頑張ってるやつは嫌いじゃない。報われるべきだって思うんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en =Something that only I can do... Yeah, I shouldn't be so pessimistic. 
+|MAIN_TOP_TOUCH_m_2_jp = 俺にしかできないこと…か。そうだな、ひねくれてる場合じゃねえよな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en =Whenever I'm with you, I won't feel nervous... Thank you. 
+|CARD_DETAIL_s_jp = どんな時も、お前と一緒だと緊張しなくてすむよ…ありがとな
+|CARD_DETAIL_s_clip = 
+|WELCOME_PARTY_en =Me, an idol? I'm not interested. Haa? You're coming to my concert? I didn't hear about this! 
+|WELCOME_PARTY_jp = アイドルだあ？興味がない。はあ？コンサートに行く？聞いてねえぞ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en =...Say, do you like idols too? No, nevermind... 
+|FRIEND_DETAIL_jp = …なあ、お前もアイドル、好きなのか？いや、なんでもないけど…
+|FRIEND_DETAIL_clip = 
+|GUILD_en =*sigh* I'll be able to rest easy here... Oh, I didn't realize you were there... 
+|GUILD_jp = はあ、静かに過ごせそうだな…って、お前いたのかよ…
+|GUILD_clip = 
+}}

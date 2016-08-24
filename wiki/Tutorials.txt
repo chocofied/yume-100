@@ -1,0 +1,39 @@
+== How to Download ==
+=== Android ===
+#Google search QooApp
+#Download and install QooApp but make sure to allow Unknown Sources in your phone's settings.
+#Search for Yume100 with GCREST,inc as developer in QooApp.
+#Download the game.
+=== iOS ===
+Note: In order to download Yume100 via iOS you must have a Japanese iTunes account.
+Downloading the game
+#Log in to Japanese iTunes account on your apple device.
+#Search for 夢王国と眠れる100人の王子様 or go to http://www.yume-100.com/ and click on the App store option. 
+#Press 'GET' .
+#Press on 'INSTALL' .
+#Launch the game and download extra files
+Steps on creating a Japanese iTunes account
+#Download Yume100 or any other free Japanese app
+#Press 'GET' . 
+#Press on 'INSTALL' .
+#Press on 'Create New Apple ID'
+#Choose '日本' as country/region to set the account in Japan.
+#Agree to Terms and Conditions and Apple Privacy Policy.
+#Sign up using an email address not linked to iTunes.
+#Pick 'None' for Billing Information
+#Follow the steps here http://www.deliciousjapanese.com/2013/08/20/how-to-fake-a-japanese-address-and-phone-number/ in order to create fake address and phone number.
+#Verify your account so you will be able to download the game.
+
+== Transferring Data ==
+To transfer data between devices, get your transfer code.
+<div style="text-align: center;">
+[[File:Data-transfer-1.png|inline|160px]]
+[[File:Data-transfer-2.png|inline|160px]]
+[[File:Data-transfer-3.png|inline|160px]]
+</div>
+# Go to the menu. [[File:Button_menu.png|30px]]
+# Press the data transfer button. [[File:Icon_data.png|45px]]
+# Press the second button.
+# Your transfer code will be indicated after <b>パスコード</b>.
+# On your new device, go to the title screen. Press the button on the upper right.
+# Enter the transfer code and press OK.

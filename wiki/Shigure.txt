@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 4
+|name = Shigure
+|name_jp = 紫雨
+|attribute = Gentle
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 256
+|hp_max = 513
+|hp_break = 606
+|atk_base = 183
+|atk_max = 353
+|atk_break = 417
+|rp_base = 178
+|rp_max = 344
+|rp_break = 406
+|lskill_name = ひとかけらの勇気
+|lskill_desc = Reduce Purple damage by 10%
+|skill_name = 闇時雨
+|skill_desc = Erase beads on top row (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 462
+|hp_max_s = 601
+|hp_break_s = 697
+|atk_base_s = 336
+|atk_max_s = 477
+|atk_break_s = 553
+|rp_base_s = 327
+|rp_max_s = 464
+|rp_break_s = 538
+|lskill_name_s = ひとかけらの勇気
+|lskill_desc_s = Reduce Purple damage by 15%
+|skill_name_s = 日照雨
+|skill_desc_s = Erase beads on top row (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 462
+|hp_max_m = 693
+|hp_break_m = 804
+|atk_base_m = 336
+|atk_max_m = 477
+|atk_break_m = 553
+|rp_base_m = 327
+|rp_max_m = 402
+|rp_break_m = 466
+|lskill_name_m = ひとかけらの勇気
+|lskill_desc_m = Reduce Purple damage by 15%
+|skill_name_m = 小夜時雨
+|skill_desc_m = Erase beads on top row (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Hoshi Souichirou
+|origin = Country of Darkness - Mei
+|age = 22
+|birth = September 06
+|likes = Light
+|dislikes = Strife, competition
+|policy = Don't cause trouble for anyone
+|desc = 闇の国・メイの王子。気が弱くいつもおどおどしている。心優しく争いごとを好まない。男らしさに憧れを抱いている。身を守るように腕を組むことが癖。
+|bg = 雨の中子犬を助けていた紫雨。その子犬が紫雨の大切なものをくわえて走って行ってしまう。追いかけようとするけど、紫雨は諦めたように笑っていて…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼の大切なもの
+|choice21s = 追いかけましょう
+|points21s = 6
+|choice21m = あれは何？
+|points21m = 6
+|title3 = 勇敢じゃなくても
+|choice31m = 子犬を探しましょう
+|points31m = 3
+|choice31s = 外へ出ませんか
+|points31s = 3
+|choice32s = それでもいい
+|points32s = 6
+|choice32m = そんなことない
+|points32m = 6
+|title4 = 勇気を出して
+|choice41m = 紫雨さんの大切なものだから
+|points41m = 12
+|choice41s = 紫雨さんが困ってたから
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_4s.jpg}}
+{{Still|text=Moon Still|img=Still_4m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en =Good morning. Did you rest well? I wonder if it's raining again in my country... 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。ゆっくり休めた？今日も僕の国は、雨が降ってるのかな…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =I-it's this time already? ...Perhaps I've been taking it too easy. 
+|MAIN_TOP_AFTERNOON_GREET_jp = も、もうこんな時間？…ちょっとゆっくりしすぎちゃったかな
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =It's already this late. You should rest up soon. ...Good night. 
+|MAIN_TOP_EVENING_GREET_jp = もう夜も更けてきたよ。早く休んだほうがいいよ…おやすみ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en =Eh! ...What's wrong? Don't tell me we got lost? Eeh~! 
+|MAIN_TOP_TOUCH_1_jp = えっ！…どうしたの？もしかして、道に迷った？ええ～！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =That surprised me... D-did you need something from me? 
+|MAIN_TOP_TOUCH_2_jp = びっくりした…ぼ、僕に何か用があるの？
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en =Sorry, I spaced out...What's the matter? 
+|CARD_DETAIL_jp = ごめん、ぼんやりしてた…どうしたのかな？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =What's the matter? If you're fine with it, please, tell me about it. 
+|MAIN_TOP_TOUCH_s_1_jp = どうしたの？僕でよければ、ぜひ、君の話を聞かせて
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =I-if you touch me like that, I'll feel...nervous.... 
+|MAIN_TOP_TOUCH_s_2_jp = そ…そんな風に触れられたら、緊張しちゃう…な
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en =What happened? ...Are you scared? Or maybe feeling lonely? I'll hold hands with you. 
+|CARD_DETAIL_s_jp = なにかあったの？…怖い？寂しい？僕が一緒に手をつないであげるよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =Ah...sorry. I'm unreliable, huh? I'll definitely become a man worthy of you. 
+|MAIN_TOP_TOUCH_m_1_jp = あっ…ごめん。僕、頼りないよね。必ず君に相応しい男になるよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =It's embarrassing if you keep looking at me like that...But...I feel happy, too... 
+|MAIN_TOP_TOUCH_m_2_jp = そんなに見つめられると恥ずかしいな…でも、うれしくも、あるんだ…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =Wh-why are you touching me like that? It's fine...I'm here by your side. 
+|CARD_DETAIL_m_jp = ぼ、僕にそんなに触ってどうしたの？だいじょうぶ…そばに、いるから
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =Please...give me courage...! 
+|BATTLE_START_jp = 僕に…勇気を…！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =You worked hard. I'll be sure to reward you. 
+|BATTLE_RESULT_jp = 頑張ったね。ご褒美があるよ
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en =Beautiful... I really feel reassured now. 
+|CHAIN_EXCELLENT_jp = 綺麗…すごく心強い気持ちになったよ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en =Amazing... I have to work hard too...! 
+|CHAIN_GREAT_jp = すごい…僕も頑張らないと…！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =How nice. But please don't push yourself. 
+|CHAIN_NICE_jp = いいね。でも、無理はしないで
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en =Yah! 
+|BATTLE_ATTACK_jp = ヤァ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Ugh! 
+|BATTLE_DAMAGE_jp = ウッ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =How pathetic of me...Please don't worry about me... 
+|BATTLE_RECOVER_jp = 情けないね…心配はしないで…
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =I don't...want to hurt anyone but...! 
+|SKILL_INVOKE_jp = 傷つけるのは…嫌だ。だけど…！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =I want to protect you. 
+|SKILL_INVOKE_s_jp = 君だけは、守りたいんだ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en =Please...give me the courage to fight! 
+|SKILL_INVOKE_m_jp = 僕に戦う勇気を…ください！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en =Now, it's time...! 
+|BATTLE_FEVER_TIME_jp = さあ、今のうちに…！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =Don't get careless just yet. 
+|BATTLE_TURN_END_jp = まだ、油断はしちゃだめだ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en =Thank goodness. Are you hurt? 
+|BATTLE_CLEAR_jp = 良かった。怪我はしてない？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en =Slowly close your eyes...Do you feel calm? I always do this. Come...let's go. 
+|CARD_TOP_jp = ゆっくり目を閉じて…落ち着いた？僕、いつもこうやってるんだ。さあ…行こう
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =To think I had such power...What a strange feeling. 
+|CARD_ENHANCE_jp = 僕にこんな力が…不思議な気分だ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =I was afraid of hurting anything but now, I've gathered up the courage to move forward. 
+|CARD_EVOLUTION_s_jp = 何かを傷付けるのは怖いけれど、前に進む勇気が湧いたよ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =Slowly, in my own pace, I'll become stronger. ...So stay by my side. 
+|CARD_EVOLUTION_m_jp = ゆっくり、僕らしく強くなっていく…だから、そばに居て
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =You're coming with me...? 
+|DECK_jp = 僕と、一緒に行ってくれるの…？
+|DECK_clip = 
+|BIRTHDAY_en =It's your birthday, isn't it. Happy birthday. I'm truly blessed to be able to be with you. 
+|BIRTHDAY_jp = 誕生日だよね。おめでとう。君と一緒にいられて、僕は本当に嬉しいよ
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en =Having a welcoming party just for me...I'm thankful. 
+|WELCOME_PARTY_jp = 僕なんかのためにお祝いなんて…恐縮だな
+|WELCOME_PARTY_clip = 
+|GUILD_en =I-I'm not good at work that requires a lot of strength...but will I be able to be of use? 
+|GUILD_jp = ち、力仕事は苦手だけど…何か役に立てるかな？
+|GUILD_clip = 
+|FRIEND_DETAIL_en =Y-you're her friend?! ...Welcome. Make yourself comfortable. 
+|FRIEND_DETAIL_jp = か、彼女のお友達！？…ようこそ。歓迎します
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en =I don't have any confidence...but if you choose someone else I'll... 
+|AWARD_EVENT_NOMINATED_jp = 自信なんてないけど…君が他の人を選んじゃったら…僕…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =Eh? You're choosing me...? Th-thank you! I'm so happy, I don't know what to do... 
+|AWARD_EVENT_FAVORITES_jp = え？僕に…？あ、ありがとう！すごく嬉しくて、どうしよう…
+|AWARD_EVENT_FAVORITES_clip = 
+}}

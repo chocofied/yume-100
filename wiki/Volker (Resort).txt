@@ -1,0 +1,75 @@
+== Status ==
+{{Infobox
+|no = 284
+|name = Volker
+|name_jp = フォルカー
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 567
+|hp_max = 1060
+|hp_break = 1347
+|atk_base = 310
+|atk_max = 478
+|atk_break = 607
+|rp_base = 330
+|rp_max = 509
+|rp_break = 647
+|lskill_name = 有意義な休暇
+|lskill_desc = Increase Green HP & RP by 25%
+|skill_name = ホエールウェーブ
+|skill_desc = Reduce damage by 25% for 1 turn
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 954
+|hp_max_s = 1240
+|hp_break_s = 1549
+|atk_base_s = 454
+|atk_max_s = 559
+|atk_break_s = 698
+|rp_base_s = 483
+|rp_max_s = 595
+|rp_break_s = 744
+|lskill_name_s = 小瓶に詰めた鳴り砂
+|lskill_desc_s = Increase Green HP & RP by 25% and ATK by 15%
+|skill_name_s = ホエールスプラッシュ
+|skill_desc_s = Reduce damage by 35% for 1 turn
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 954
+|hp_max_m = 1293
+|hp_break_m = 1615
+|atk_base_m = 454
+|atk_max_m = 511
+|atk_break_m = 638
+|rp_base_m = 483
+|rp_max_m = 621
+|rp_break_m = 775
+|lskill_name_m = 神秘の湖
+|lskill_desc_m = Increase Green HP & RP by 35%
+|skill_name_m = ホエールリップル
+|skill_desc_m = Reduce damage by 35% for 1 turn
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|original = [[Volker]]
+|event = Summer-Coloured Resort
+|desc = 記録の国・レコルドの王子。世界の魔法の記録を司る。仕事では自分にも人にも とても厳しいが、本来は優しい性格という二面性を持つ。今回、部下達から休みを取るよ うに言われて、豪華客船に乗ることになった。
+|bg = アンキュラの豪華客船に招待されたあなたは偶然フォルカーと再会する。休暇中の フォルカーと一緒にリゾートを満喫していたその時、彼の端末が鳴り響き…―
+}}
+== Story ==
+{{Choice|title2 = 豪華客船での過ごし方|choice21s = 来てよかったです|points21s = 8|choice21m = これからの旅が楽しみ|points21m = 8|title3 = ホエールウォッチング|choice31s = クジラ大きかったですね|points31s = 4|choice31m = すごく揺れましたね|points31m = 4|choice32s = お仕事が好きなんですね|points32s = 8|choice32m = フォルカーさんらしいです|points32m = 8|title4 = マリンスポーツ|choice41s = 少し興味があります|points41s = 12|choice41m = スポーツは得意ですか？|points41m = 12|title5 = フォルカーの悩み|choice51s = 物知りですね|points51s = 16|choice51m = 飽きませんね|points51m = 16}}{{Still|text=Sun Still|img=Still_284s.jpg}}
+{{Still|text=Moon Still|img=Still_284m.jpg}}
+== Quotes ==

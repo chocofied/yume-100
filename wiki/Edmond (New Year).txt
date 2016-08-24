@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 195
+|name = Edmond
+|name_jp = エドモント
+|attribute = Passion
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 458
+|hp_max = 835
+|hp_break = 1061
+|atk_base = 308
+|atk_max = 526
+|atk_break = 669
+|rp_base = 351
+|rp_max = 512
+|rp_break = 650
+|lskill_name = 新年の誘い
+|lskill_desc = Increase Red & Blue ATK by 35%
+|skill_name = 華咲く紅茶
+|skill_desc = Erase random beads (12-23)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 751
+|hp_max_s = 893
+|hp_break_s = 1116
+|atk_base_s = 500
+|atk_max_s = 642
+|atk_break_s = 802
+|rp_base_s = 486
+|rp_max_s = 624
+|rp_break_s = 780
+|lskill_name_s = 始まる一年
+|lskill_desc_s = Increase Red & Blue ATK by 35% and HP by 10%
+|skill_name_s = 華舞う紅茶
+|skill_desc_s = Erase random beads (12-28)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 751
+|hp_max_m = 1019
+|hp_break_m = 1272
+|atk_base_m = 500
+|atk_max_m = 642
+|atk_break_m = 802
+|rp_base_m = 486
+|rp_max_m = 548
+|rp_break_m = 684
+|lskill_name_m = 毛布の中で
+|lskill_desc_m = Increase Red & Blue ATK by 50%
+|skill_name_m = 華乱れる紅茶
+|skill_desc_m = Erase random beads (17-23)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = New Year's First Play
+|original = [[Edmond]]
+|desc = 紅茶の国・ダジルベルクの王子。真面目な性格で、王族としての務めを果たそうと日々の公務に精を出している。気持ちはストレートに伝えられるタイプ。今回、ご来光を一緒に見ようとあなたを誘い、こよみの国に訪れた。
+|bg = ご来光を見に行こうとエドモントに誘われ、九曜を訪れたあなた。街で屋台を楽しんだ後、来光山の頂上を目指してケーブルカーに乗るが…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 手袋の温もり
+|choice21s = ありがとうございます
+|points21s = 8
+|choice21m = 赤くなってしまう
+|points21m = 8
+|title3 = 待ち時間の間
+|choice31m = ちょっと苦しいです
+|points31m = 4
+|choice31s = 大丈夫です
+|points31s = 4
+|choice32s = すごいと大喜び
+|points32s = 8
+|choice32m = 言葉を失う
+|points32m = 8
+|title4 = ケーブルカーに乗って
+|choice41m = 混んでいても大丈夫です
+|points41m = 12
+|choice41s = ケーブルカーに乗ってみたかったです
+|points41s = 12
+|title5 = 混みあった車内で
+|choice51s = 怖いと言う
+|points51s = 16
+|choice51m = エドモントの腕をぎゅっと掴む
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_195s.jpg}}
+{{Still|text=Moon Still|img=Still_195m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 疲れてはいない？つい、いろいろと連れ回してしまった…休憩しようか
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝日を浴びると気持ちがいい。新年最初の朝日はより特別だね
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 供の者もつけず、他国で君と二人一緒に過ごせる…なんだか嬉しいな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 射的か…おもちゃの銃だから軽いんだな。でも、コツはつかめそうだよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = さすがに冷えるね…ほら、もうちょっとこっちへおいで。ね、暖かいだろう？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜に二人で、夜明けを待つ…なんだか胸がドキドキするな…君は？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = え？どうしたの？　…いいよ、はぐれないように手を繋ごう？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 周りは皆、自分のことに夢中だから…今、君に悪戯しても気づかれないだろうね
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = そんなに慌てなくていいよ。気をつけて。こんなに人が多いなんて驚いたな
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんな人の多いところで……
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = そうやって君に我慢させてしまうのは、俺が頼りないってことかな？
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 君が頼ってくれると、すごく嬉しいよ。君を支えられる立派な王子になりたい
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = まさか、こんなところでご来光を眺めるなんてね…寒くない？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = じゃあ、一緒に手を繋いでいよう
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 頑張る君も素敵だけど…無理はしないでね？
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 大丈夫だから。俺のこと信じてて？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 射的の景品よりいい物が入ってるかな
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = っく！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の手は、とても暖かいね
+|BATTLE_RECOVER_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあ、ご来光の時間だ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 二人で一緒に温まろうか
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 新しい年…新鮮な気持ちになれるね
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 寒い？なら、俺が温めてあげる
+|SKILL_INVOKE_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君と出会って、君と過ごせて……俺、とても幸せだなって思うよ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君と再会できて嬉しいよ。寒くなかった？　じゃあ、さっそく出かけようか
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 良かった。さ、ケーブルカーに乗ろう
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 慌てなくていいよ
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 綺麗な雪化粧だな。君と一緒に美しい景色を楽しめる…素敵な一年の始まりだ
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = じゃあ、出かけようか
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 夜明けが近づくとより冷えてきたね……大丈夫？もっと俺の側においで
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君の新しい一年、実りあるものにしてみせるよ。誕生日おめでとう、好きだよ
+|BIRTHDAY_clip = 
+|GUILD_en = 
+|GUILD_jp = いいところだよね……あのコテージにはお化けがいるって本当かな
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = いいパーティだね。俺のとっておきの紅茶を用意するよ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ご来光を一緒に見に行こうって、あの子を誘おうと思うんだけど……どうかな
+|FRIEND_DETAIL_clip = 
+}}

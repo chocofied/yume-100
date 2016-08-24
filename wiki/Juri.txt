@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 117
+|name = Juri
+|name_jp = 珠李
+|attribute = Passion
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 345
+|hp_max = 763
+|hp_break = 900
+|atk_base = 188
+|atk_max = 341
+|atk_break = 403
+|rp_base = 219
+|rp_max = 398
+|rp_break = 470
+|lskill_name = 面倒見のいい兄やん
+|lskill_desc = Increase Red RP by 25%
+|skill_name = 王道イチゴ味
+|skill_desc = Recover Seal and restore HP (B)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 11
+|lvmax_s = 50
+|hp_base_s = 687
+|hp_max_s = 893
+|hp_break_s = 1036
+|atk_base_s = 324
+|atk_max_s = 461
+|atk_break_s = 535
+|rp_base_s = 378
+|rp_max_s = 537
+|rp_break_s = 623
+|lskill_name_s = 兄妹思いの兄やん
+|lskill_desc_s = Increase Red RP by 35%
+|skill_name_s = 大人の宇治金時
+|skill_desc_s = Recover Seal and restore HP (A)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 11
+|lvmax_m = 50
+|hp_base_m = 687
+|hp_max_m = 1030
+|hp_break_m = 1195
+|atk_base_m = 324
+|atk_max_m = 461
+|atk_break_m = 535
+|rp_base_m = 378
+|rp_max_m = 466
+|rp_break_m = 541
+|lskill_name_m = 頼れる兄やん
+|lskill_desc_m = Increase Red RP by 35%
+|skill_name_m = 恋はレモン味
+|skill_desc_m = Recover Seal and restore HP (A)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kondou Takayuki
+|origin = Country of Ice Treats - Shalyart
+|age = 22
+|birth = July 25
+|likes = Novel living creatures, taste
+|dislikes = Ordinary and boring days
+|policy = Rewarding the good and punishing the evil
+|desc = 氷菓の国・シャリヤートの王子。やんちゃな江戸っ子気質だが、六人の兄妹がおり、面倒見のいい頼れるお兄ちゃんでもある。一度決めた事は必ずやり通す強さを持っている。
+|bg = 珠李と一緒にシャリヤートに訪れたあなた。降るはずのない雪が降っていて、彼の弟達は大はしゃぎ。しかしそのまま遊びに出た後、中々帰ってこなくって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 珠李の弟達
+|choice21m = 気をつけて
+|points21m = 8
+|choice21s = 帰りを待っています
+|points21s = 8
+|title3 = 猛吹雪の夜
+|choice31s = 大丈夫
+|points31s = 4
+|choice31m = 信じましょう
+|points31m = 4
+|choice32s = 待ってるだけなのは嫌
+|points32s = 8
+|choice32m = 一人でいるのは不安
+|points32m = 8
+|title4 = 吹雪の原因
+|choice41m = 珠李くんに話しかける
+|points41m = 12
+|choice41s = 苺くんに話しかける
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_117s.jpg}}
+{{Still|text=Moon Still|img=Still_117m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = 
+|GUILD_jp = ここはいい氷があるのか？　じゃあ、さっそくかき氷食べるか！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 俺のこと祝ってくれんのか……なんか恥ずいな……
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = おめさんはなんのシロップがいい？
+|FRIEND_DETAIL_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ……おおおおっ！……な、なんでぃ？！何があった！照れるじゃねえか
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = ……おめさんと一緒にいると、身体がかぁって熱くなるんだ……！恥ずかしいな
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = いつも強くてカッコイイ俺でいてえなぁ……ハハッ、ダサくてごめんなー……
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ほんっとに、あのやんちゃ小僧どもには困ってんだ……まあ、カワイイけどな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = おいおい……あんまり慌てて食べんなよ！……そんなに、かき氷好きか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ……腹が減って動けねえ。昼飯が足りなかったぜ……ウウッ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日も一日元気に働いたねえ～……おめさん、まだ働くのか？無理すんな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝だっ！　今日もスカっと元気にまわすぜぃ！　ついてこいよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 珍しい……常夏の雪ってのはなにかの前触れか？……まあ、心配すんなって
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ……弟が一人いないことに気づかない
+|MAIN_TOP_TOUCH_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その調子！もっといけるっしょ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = こりゃ！おったまげた！いい女だねえ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 疲れた時は黒蜜かなあ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = お、氷イチゴにするかい？
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ヤアッ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ぐはっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 全部まとめて削ってやらあ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = それ、なんのシロップが入ってるんだ？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 無理してるんじゃねえよ。男らしい王子でいてえじゃないか！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ……おめさんの前でだけは……王子とか兄貴だとかそういうのは忘れたい……
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = お！いいねえ！いいねえ！
+|CHAIN_NICE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = おうおう！俺のこと無視すんじゃねえ……ほら、手かせよ！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺、長男だし王子だし！結構大変なんでぃ！
+|CARD_ENHANCE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = おかわりもあるぜ？
+|BATTLE_CLEAR_clip = 
+|DECK_en = 
+|DECK_jp = 俺と行くにきまってんだろ？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = スペシャル氷用意してんぞ！天然氷に果物ゴロゴロ！山盛りで一緒に食べんぜ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = おめさんと一緒にいれば、怖いもんはねえな！まかせときな！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = おめさんのお陰で、強がってられる！恩に着る！
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = どんどん削っちゃいな！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = くー……っ！キーンってなった
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = イチゴにレモンにブルーハワイ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 渋いとこきたね！宇治金時！
+|SKILL_INVOKE_s_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = おうおう、盛り上がってんな！やっぱ祭りはこうじゃねぇと！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = おめさんが俺を選ぶなんて、びっくりしたぜ。でも、ありがとうな！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 5
+|name = Kairi
+|name_jp = カイリ
+|attribute = Cool
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 317
+|hp_max = 655
+|hp_break = 772
+|atk_base = 191
+|atk_max = 390
+|atk_break = 461
+|rp_base = 129
+|rp_max = 219
+|rp_break = 258
+|lskill_name = 精密射撃
+|lskill_desc = Increase Blue ATK by 25%
+|skill_name = ラピッドショット
+|skill_desc = Erase random beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 589
+|hp_max_s = 884
+|hp_break_s = 1025
+|atk_base_s = 371
+|atk_max_s = 527
+|atk_break_s = 611
+|rp_base_s = 208
+|rp_max_s = 256
+|rp_break_s = 297
+|lskill_name_s = 精密射撃
+|lskill_desc_s = Increase Blue ATK by 35%
+|skill_name_s = バレットストーム
+|skill_desc_s = Erase random beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 589
+|hp_max_m = 805
+|hp_break_m = 934
+|atk_base_m = 371
+|atk_max_m = 550
+|atk_break_m = 638
+|rp_base_m = 208
+|rp_max_m = 269
+|rp_break_m = 312
+|lskill_name_m = 精密射撃
+|lskill_desc_m = Increase Blue ATK by 35%
+|skill_name_m = バレットテンペスト
+|skill_desc_m = Erase random beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Miyano Mamoru
+|origin = Ruined Country - Calavina
+|age = 18
+|birth = May 10
+|likes = Being alone
+|dislikes = People who have affairs, cleaning
+|policy = Do not give anybody your heart
+|desc = 亡国・カラビナの王子。馴れ合いを嫌い常にひとりで行動している。雇われ狙撃手として街を渡り歩いて生活している。国が滅びた際、家族を全員失くしている。
+|bg = あなたを見つめるカイリの瞳が気になって彼に会いに街に来た主人公。その理由と、誰とも関わろうとしない彼の過去と思いを知って、あなたは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 闇夜の喧騒
+|choice21m = カイリの腕に触れる
+|points21m = 6
+|choice21s = 素直に従う
+|points21s = 6
+|title3 = こぼれる気持ち
+|choice31s = ありがとう
+|points31s = 4
+|choice31m = 心配しなくても大丈夫
+|points31m = 4
+|choice32s = 話しかける
+|points32s = 5
+|choice32m = 背中を見つめる
+|points32m = 5
+|title4 = 瞳が映すもの
+|choice41m = 私を助けてくれたのに？
+|points41m = 12
+|choice41s = それでも一緒にいたい
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_5s.jpg}}
+{{Still|text=Moon Still|img=Still_5m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en =Good morning. ...What's with you, staring like that? 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。…何だよ、じっと見て
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =...Don't bother with me. I'm not a kid, after all. 
+|MAIN_TOP_AFTERNOON_GREET_jp = …俺に構うな。子どもじゃないんだから
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =Don't go walking outside at night alone. If you really have to, I'll come with you. 
+|MAIN_TOP_EVENING_GREET_jp = 夜に一人で出歩くなよ。どうしてもって言うなら…ついて行ってやってもいい
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en =Don't touch me! 
+|MAIN_TOP_TOUCH_1_jp = 俺に触るな！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =Hmph. I wonder what's so fun... 
+|MAIN_TOP_TOUCH_2_jp = ふん。何が楽しいんだか
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en =Do-don't get too confident now... 
+|CARD_DETAIL_jp = あ、あんまり調子乗るなよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =Oi! ...You're not doing this kind of thing with other guys, are you?! 
+|MAIN_TOP_TOUCH_s_1_jp = おい！…他の奴にもこんなこと、してないだろうな！？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =Wha...skinship? Hmph. What the heck is that?... 
+|MAIN_TOP_TOUCH_s_2_jp = なっ…スキンシップ？ふん、なんだよそれ…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en =Are you having that much fun? I see... I really don't get it. 
+|CARD_DETAIL_s_jp = そんなに楽しい？そう…俺にはわからないな
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =Stop touching me already. I won't be able to hold back any longer... 
+|MAIN_TOP_TOUCH_m_1_jp = いい加減にしなよ？もう、我慢の限界だ…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =I really don't understand what you want to do... 
+|MAIN_TOP_TOUCH_m_2_jp = 何がしたいのか、理解に苦しむね…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =Whatever comes after this, it won't be my problem. 
+|CARD_DETAIL_m_jp = 後でどうなっても、俺知らないからね
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =Let's get this over with. 
+|BATTLE_START_jp = さっさと終わらせてやるよ
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =Are you unsatisfied with something? 
+|BATTLE_RESULT_jp = 何か不満でもあるの？
+|BATTLE_RESULT_clip = 
+|BATTLE_CLEAR_en =That was a waste of time. 
+|BATTLE_CLEAR_jp = くだらないな
+|BATTLE_CLEAR_clip = 
+|CHAIN_GREAT_en =I'll do it if you say so. 
+|CHAIN_GREAT_jp = あんたが言うなら、やるよ
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en =Don't you leave my side! 
+|CHAIN_EXCELLENT_jp = 俺の傍を離れるなよ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en =Take this! 
+|BATTLE_ATTACK_jp = くらえ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =Tch... 
+|BATTLE_DAMAGE_jp = ちっ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =I was doing just fine... 
+|BATTLE_RECOVER_jp = 別に、大丈夫だったんだけど
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =As if I'll let you escape. 
+|SKILL_INVOKE_jp = 逃がすかよ
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en =This is the end! 
+|SKILL_INVOKE_s_jp = これで終わりだ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en =You're in the way... Move it! 
+|SKILL_INVOKE_m_jp = 邪魔だよ…どけ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en =Time? I have too much of it. 
+|BATTLE_FEVER_TIME_jp = 時間？十分すぎるよ
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en =There's still more? 
+|BATTLE_TURN_END_jp = まだいるのか…
+|BATTLE_TURN_END_clip = 
+|CHAIN_NICE_en =Are you satisfied with this? 
+|CHAIN_NICE_jp = これで満足？
+|CHAIN_NICE_clip = 
+|CARD_TOP_en =...What? If you want to talk then make it short. 
+|CARD_TOP_jp = …何？話なら手短にしろよ
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =No matter how much power I gain, it won't be troubling. 
+|CARD_ENHANCE_jp = 力は、いくらあっても困らないからな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =Geez. You really can't be helped. ...I'm with you so don't make that face. 
+|CARD_EVOLUTION_s_jp = ったく。しょうがないなあんたは…ついててやるから、そんな顔しないでよ
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =You will not leave my side. Is that clear? 
+|CARD_EVOLUTION_m_jp = あんたは俺の傍から離れないこと。いいね？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =Because I'm here, there's no way we'll lose. 
+|DECK_jp = 俺がいるんだから、負けるわけないだろ
+|DECK_clip = 
+|BIRTHDAY_en =Your birthday? Hmm... Well, happy birthday. 
+|BIRTHDAY_jp = 誕生日？ふーん…まぁ、おめでとう
+|BIRTHDAY_clip = 
+|AWARD_EVENT_NOMINATED_en =I'm not interested in this. You can just choose someone else. 
+|AWARD_EVENT_NOMINATED_jp = 興味ないね。他の奴を選べばいいだろ
+|AWARD_EVENT_NOMINATED_clip = 
+|WELCOME_PARTY_en =A welcoming party for me? Hmph...if you want to celebrate, then do as you please. 
+|WELCOME_PARTY_jp = 俺のお祝い？ふん…祝いたいなら、勝手にすれば
+|WELCOME_PARTY_clip = 
+|GUILD_en =...I don't want to get along with anyone. Do whatever you like. 
+|GUILD_jp = …俺は、慣れ合うのはごめんだ。勝手にやってよ
+|GUILD_clip = 
+|FRIEND_DETAIL_en =What? She's not here right now. I don't know where she went. 
+|FRIEND_DETAIL_jp = 何？あいつなら今いない。どこ行ったんだか
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_FAVORITES_en =Sigh...You're choosing me? What a weirdo...I don't know how to react. 
+|AWARD_EVENT_FAVORITES_jp = はあ…俺を選ぶとか、本当変な奴…反応に困る
+|AWARD_EVENT_FAVORITES_clip = 
+}}

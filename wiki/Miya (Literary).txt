@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 146
+|name = Miya
+|name_jp = ミヤ
+|attribute = Cute
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 591
+|hp_max = 1122
+|hp_break = 1279
+|atk_base = 422
+|atk_max = 650
+|atk_break = 742
+|rp_base = 375
+|rp_max = 578
+|rp_break = 659
+|lskill_name = 恋まじないの本
+|lskill_desc = Increase Yellow ATK by 50%
+|skill_name = マジック・サークル
+|skill_desc = Insert Yellow beads (10)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1010
+|hp_max_s = 1369
+|hp_break_s = 1533
+|atk_base_s = 618
+|atk_max_s = 794
+|atk_break_s = 889
+|rp_base_s = 549
+|rp_max_s = 619
+|rp_break_s = 693
+|lskill_name_s = 恋の魔法の悪戯
+|lskill_desc_s = Increase Yellow ATK by 65%
+|skill_name_s = マジック・キス
+|skill_desc_s = Insert Yellow beads (12)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1010
+|hp_max_m = 1201
+|hp_break_m = 1345
+|atk_base_m = 618
+|atk_max_m = 794
+|atk_break_m = 889
+|rp_base_m = 549
+|rp_max_m = 705
+|rp_break_m = 790
+|lskill_name_m = 恋の魔法にかけられて
+|lskill_desc_m = Increase Yellow ATK by 50% and HP by 10%
+|skill_name_m = マジック・チャーム
+|skill_desc_m = Insert Yellow beads (10-14)
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Literary Love Story
+|original = [[Miya]]
+|desc = 魔術の国・ソルシアナの第二王子。双子の兄・イリアの弟。明るく快活な性格で国民に親しまれている。グレアムの著書のファンで、彼に会うために文学賞の受賞パーティにやってきた。
+|bg = 文学賞の受賞パーティの会場で、偶然ミヤと再会したあなた。彼と一緒に本を見て回っていると、恋のまじないの本を見つける。あなたはその本を開き…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 欲しい本は？
+|choice21s = 面白そうだね
+|points21s = 8
+|choice21m = どういうお話なの？
+|points21m = 8
+|title3 = 本に囲まれて
+|choice31m = 優しいね
+|points31m = 4
+|choice31s = 喜んでくれるよ
+|points31s = 4
+|choice32s = 笑い過ぎだよ
+|points32s = 8
+|choice32m = 恥ずかしいな……
+|points32m = 8
+|title4 = 意思を持つ本
+|choice41m = そんなに笑わなくても……
+|points41m = 12
+|choice41s = 変なこと言ったかな？
+|points41s = 12
+|title5 = 魔法の本
+|choice51s = 答えを教えて
+|points51s = 16
+|choice51m = なんだろう……
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_146s.jpg}}
+{{Still|text=Moon Still|img=Still_146m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = また再会できてうれしいな！話したいことがいっぱいあったんだ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 今、読んでた本がいいところでさ……キミも読んでみない？
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = へえ　図書館があるのか……グレアムの著作もおいてあるかな
+|GUILD_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 本音って出ちゃうんだね…自分が怖いな。キミのことを傷つけたくないのに
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = オレのこと、疑うの？どうして？…誰にも渡したくないんだ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = おっと、安易に触っちゃ駄目だ！証拠品だからね！
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = オレが事件を解決する…なんてね！
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = すごいね！次はどんな魔法が飛び出すのかな！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = オレの助手になる？…言ってみたかったんだ！
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 魔法にかけられたみたいな動きだね！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 転んでもタダでは起きないよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = いった！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = マジックスペル、発動！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 馬鹿らしくても、魔法は魔法ってね！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = しょうもない魔法に見えても、効果はバツグンだよ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = いよいよクライマックス！
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ドンデン返しは、これからだよ！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = こんなところでキミに会えるなんて…奇遇だね。嬉しいな！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = じゃあ、本の続きを読もうかな
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 本当にいろんな魔術書があるよね…これは、どうなるのかわからないけど
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 魔法のレベルも上がるかな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = この魔術書は……えっとー…大丈夫、おまじないって書いてあるしね
+|CARD_EVOLUTION_m_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = こうやって異国の地で迎える朝ってなんか新鮮。いつもより早く起きちゃった！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = なんか一日バタバタしてたな…でも、まあこんな一日もいいよね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = な～に～？　オレだって、たまには読書ぐらいするって！　一緒にどう？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 本を読む楽しさを知ったのは、グレアムの作品に出会ったおかげだよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = やっぱ、オレが本読んだりするって…イメージと違うって思った？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 恋のおまじないって…本気にする？　いや、ごめん…なんとなく気になってさ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = どうしたの？…うん、オレもキミと一緒に過ごせて嬉しいよ、来てよかった
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = えっ…？怒らせた？どうしよう…あのさ、どうしたら許してくれる？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ごめん！驚かせて…でも、ちょっとチャンスかな？って思ったんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ずっとオレの腕の中に閉じ込めておきたい…逃がさないよ…？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでと！物語の主人公みたいに決めたいトコだけど…今日はオレらしく
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = オレと一緒に、物語の世界に行こうよ！
+|DECK_clip = 
+}}

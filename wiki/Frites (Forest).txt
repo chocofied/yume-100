@@ -1,0 +1,76 @@
+== Status ==
+{{Infobox
+|no = 288
+|name = Frites
+|name_jp = フリッツ
+|attribute = Sexy
+<!-- Before -->
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 551
+|hp_max = 1084
+|hp_break = 1378
+|atk_base = 381
+|atk_max = 523
+|atk_break = 665
+|rp_base = 275
+|rp_max = 446
+|rp_break = 567
+|lskill_name = 宝を求めて
+|lskill_desc = Increase Purple HP & RP by 25%
+|skill_name = 光輝のドミナシオン
+|skill_desc = Recover HP in accordance to HP (S)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 975
+|hp_max_s = 1322
+|hp_break_s = 1651
+|atk_base_s = 497
+|atk_max_s = 560
+|atk_break_s = 699
+|rp_base_s = 424
+|rp_max_s = 544
+|rp_break_s = 680
+|lskill_name_s = 宝の在り処
+|lskill_desc_s = Increase Purple HP & RP by 30%
+|skill_name_s = 婉美のドミナシオン
+|skill_desc_s = Recover HP in accordance to HP (S)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 975
+|hp_max_m = 1160
+|hp_break_m = 1448
+|atk_base_m = 497
+|atk_max_m = 638
+|atk_break_m = 797
+|rp_base_m = 424
+|rp_max_m = 544
+|rp_break_m = 680
+|lskill_name_m = 宝の真相
+|lskill_desc_m = Increase Purple HP & RP by 25% and ATK by 15%
+|skill_name_m = 端麗のドミナシオン
+|skill_desc_m = Recover HP in accordance to HP (SS)
+|gold_m = 10000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|original = [[Frites]]
+|event = The Ones Who Sleep in the Forest of Light
+|desc = 威光の国・グロリアの王子。プライドが高く、自分の思う通りにならないと気が済まない性格。支配欲も強く、全てを手に入れたいと思っている。幼い頃から、そう父親に教え込まれてきた。今回、何物にも代えがたいと言われている宝を手に入れるために、森林の国を訪れる。
+|bg = フリッツに誘われて、ヒューレを訪れたあなた。この森に眠ると言われている宝を二人で探していると、目の前に小さなウリ坊が飛び出してきて…―
+}}
+
+== Story ==
+{{Still|text=Sun Still|img=Still_288s.jpg}}
+{{Still|text=Moon Still|img=Still_288m.jpg}}
+== Quotes ==

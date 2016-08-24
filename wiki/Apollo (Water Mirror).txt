@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 254
+|name = Apollo
+|name_jp = アポロ
+|attribute = Passion
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 586
+|hp_max = 1062
+|hp_break = 1211
+|atk_base = 444
+|atk_max = 759
+|atk_break = 865
+|rp_base = 347
+|rp_max = 506
+|rp_break = 577
+|lskill_name = 神からの贈り物
+|lskill_desc = Increase Red ATK by 50%
+|skill_name = ブライトヘリオス
+|skill_desc = Insert Red beads, increase Red bead appearance
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 956
+|hp_max_s = 1179
+|hp_break_s = 1320
+|atk_base_s = 721
+|atk_max_s = 979
+|atk_break_s = 1096
+|rp_base_s = 481
+|rp_max_s = 562
+|rp_break_s = 629
+|lskill_name_s = 気高く強い妃
+|lskill_desc_s = Increase Red ATK by 65%
+|skill_name_s = カーディナルブレイズ
+|skill_desc_s = Insert Red beads, increase Red bead appearance
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 956
+|hp_max_m = 1296
+|hp_break_m = 1452
+|atk_base_m = 721
+|atk_max_m = 926
+|atk_break_m = 1037
+|rp_base_m = 481
+|rp_max_m = 541
+|rp_break_m = 606
+|lskill_name_m = お前に捧げる花
+|lskill_desc_m = Increase Red ATK by 50%, increase Party ATK by 30% when party has more than 3 colours
+|skill_name_m = クレイブプロクス
+|skill_desc_m = Insert Red beads, increase Red bead appearance
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Bride Reflected on the Water Mirror
+|original = [[Apollo]]
+|desc = 紅鏡の国・フレアルージュの王子。炎を生み出す力を持ち周囲から恐れられている。胸に太陽と獅子の刺青を持つ。末弟であり、今は小さな領の統治をしているが、フレアルージュを総べる王となる者は自分だと考えている。アフロスには、フレアルージュの王子として招待された。
+|bg = アフロスで行われる婚宴の儀に招待され、アポロと再会したあなた。すると彼はあなたを強く見つめると、儀式が終わった後、俺の妃になれと言い出して…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 運命の水鏡
+|choice21s = 言い淀む
+|points21s = 8
+|choice21m = 誤魔化す
+|points21m = 8
+|title3 = 強さと弱さ
+|choice31s = いきなりだから
+|points31s = 4
+|choice31m = どうして私を？
+|points31m = 4
+|choice32m = ごめんなさい
+|points32m = 8
+|choice32s = 放してください
+|points32s = 8
+|title4 = 彼の背を追って
+|choice41s = 話がしたい
+|points41s = 12
+|choice41m = 一緒に沐浴を？
+|points41m = 12
+|title5 = 迷いを強さに変えて
+|choice51s = 抱きつく
+|points51s = 16
+|choice51m = 男達を確認する
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_254s.jpg}}
+{{Still|text=Moon Still|img=Still_254m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = 
+|GUILD_jp = 喧騒から離れて休息を取るのも悪くない……よい場所ではないか
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 運命の相手を映す水鏡か……そんなものに、このように人が集まるのか
+|WELCOME_PARTY_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 妃の誕生日、か…では、望みを言え。何でも叶えてやろう。さあ、こっちへ来い
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 俺を選ぶ以外、選択肢はないだろう
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 抗ってみせよ。己の運命に…そして俺に
+|CARD_EVOLUTION_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お前の運命を捧げろ。抗うことは許さない、俺が全て引き受ける
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 行くぞ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = そうだ、その顔だ。俺の妃にふさわしい
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 悪くはない。だが、それで満足するな
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 毅然と振る舞えと言ったはずだが？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 半端な物などいらん。よく見極めろ
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 焼き尽くしてやる
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 悪くない。可憐な姿だ。この地味な花もお前のドレスに添えれば引き立つ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 何を不安に思うことがある？…ならばその迷いも全部、俺のものとしてやる
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = どうした？今日はいやに素直じゃないか。そんなお前も嫌いではないぞ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 気高く、強くなれ。俺の隣にいる女は、お前しかいないのだからな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = くだらない運命など、信念で貫け！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 屈辱だ
+|BATTLE_RECOVER_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 運命などに頼るな。己の強さで従えてみせろ
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺は己の信念で道を切り開く
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 俺の妃となれ。何だ、その顔は。不満でもあるのか？
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = その手に貴様の運命があるだろう
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さあ、俺の手をとれ
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 紅蓮の炎よ、出でよ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 俺の手の上でもがき続けよ
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 俺の進む道を、誰にも邪魔はさせん
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ふざけるな
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 何を躊躇う？この俺の妃となることに何の不服があるというのだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = この心臓の楔にも俺は抗い続ける。フレアルージュの王は、俺だ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 運命を決めるのは己の信念だ。他者に与えられるものではない
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 姫として相応の振る舞いをしろ。俺の妃になるのだからな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちたか…無理をせずもう休め。俺も直、傍に行ってやる
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = いい日和じゃないか。この太陽の下、婚儀でも執り行うか？…無論、本気だ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おい、朝から腑抜けた顔をするな。トロイメアの姫ともあろう者が
+|MAIN_TOP_MORNING_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 何者だ？ああ、あいつの客か。驚かせた
+|FRIEND_DETAIL_clip = 
+}}

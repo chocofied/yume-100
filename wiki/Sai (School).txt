@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 174
+|name = Sai
+|name_jp = サイ
+|attribute = Cool
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 406
+|hp_max = 778
+|hp_break = 1033
+|atk_base = 240
+|atk_max = 451
+|atk_break = 599
+|rp_base = 234
+|rp_max = 366
+|rp_break = 486
+|lskill_name = 二人きりの練習
+|lskill_desc = Increase Party ATK by 15%
+|skill_name = 執事の練習
+|skill_desc = Erase right side beads and restore time
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 700
+|hp_max_s = 996
+|hp_break_s = 1300
+|atk_base_s = 429
+|atk_max_s = 578
+|atk_break_s = 754
+|rp_base_s = 348
+|rp_max_s = 413
+|rp_break_s = 539
+|lskill_name_s = 君だけの執事
+|lskill_desc_s = Increase Party ATK by 20%
+|skill_name_s = 執事喫茶
+|skill_desc_s = Erase right side beads and restore time
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 700
+|hp_max_m = 910
+|hp_break_m = 1188
+|atk_base_m = 429
+|atk_max_m = 609
+|atk_break_m = 796
+|rp_base_m = 348
+|rp_max_m = 428
+|rp_break_m = 559
+|lskill_name_m = メイドの君に囁く
+|lskill_desc_m = Increase Party ATK by 20%
+|skill_name_m = メイド喫茶
+|skill_desc_m = Erase right side beads and restore time
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = School Memory ~Cultural Festival with Him~
+|original = [[Sai]]
+|desc = 宝石の国・サフィニアの王子。温厚で思慮深い性格。どこか他人とは一線を画している。過去のある出来事から、火が苦手らしい。今回、両親や執事に勧められ、メモワール学園にやってきた。
+|bg = サイに寮の部屋へと呼び出されたあなた。突然、ぎこちない様子で執事のように振る舞う彼。どうやら彼のクラスでは執事喫茶をすることになったようで…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 執事喫茶…？
+|choice21s = 聞いてみる
+|points21s = 6
+|choice21m = 聞けない
+|points21m = 6
+|title3 = 給仕の猛特訓
+|choice31m = 一緒に悩む
+|points31m = 3
+|choice31s = 励ます
+|points31s = 3
+|choice32s = もちろんです
+|points32s = 6
+|choice32m = 私で役に立てれば
+|points32m = 6
+|title4 = 特訓の成果は…？
+|choice41s = 正直に言う
+|points41s = 12
+|choice41m = 言葉を詰まらせる
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_174s.jpg}}
+{{Still|text=Moon Still|img=Still_174m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お嬢様、こちらへどうぞ。どう？様になってきたでしょう？　
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = あれ？顔が真っ赤だけど…そんなに緊張しないで、ね？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = …わわっ！ごめん、トレイにたくさんのものを載せて歩けるように練習してて…
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = こんなことしてる姿をあの二人に見られたら…なんて言われるかな
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今まで考えたこともなかったけど、こうやって君に尽くすのって…楽しいな
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = こ、こんな姿、あの二人に見られたら、本当に全てが終わる…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = なんだか、ここで過ごしているとあっという間に一日が終わるよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = なかなか難しいよね…執事って。僕の執事ってすごい人だったんだな…
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。なんだか、いつもより早く目が覚めちゃったんだよね
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ランチは学食？　カフェテリア？　楽しそうだよね、行ってみようよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = え？君より可愛い！？そ、そんなことないよ！なんでちょっと悲しそうなの！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君まで、なんてことを言い出すんだ…褒められたって嬉しくないよ
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = お嬢様、僕にお任せください。なんてね
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = お嬢様をお守りするのは執事の役目ですから
+|CHAIN_GREAT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんなところにまで…仕方ないね
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = お疲れ様。じゃあ、準備を再開しようか
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = わっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = お茶を入れ直しましょう
+|BATTLE_RECOVER_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 仕方のないお嬢様ですね。では一緒に参ります
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 行きます！
+|BATTLE_ATTACK_clip = 
+|GUILD_en = 
+|GUILD_jp = あれ、ここは……綺麗な泉があるよね。いいところだよね
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ああ、いいところに！僕のクラス喫茶店をやるんだけど、どう思う？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = なんだか制服姿って……新鮮っていうか気恥ずかしいよね
+|WELCOME_PARTY_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = お嬢様は何もしてはなりません！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = お、おかえりなさいませ！お嬢様！！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 紅茶のおかわりはいかがですか？
+|SKILL_INVOKE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = お疲れ様でした、お嬢様
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君と同じ教室で学べるなんて…来てよかったな。文化祭も楽しみだね
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあ、開店までもう少し！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 少し…休憩してもいいかな
+|BATTLE_TURN_END_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = こ…こんなことになるなんて…お願いだから、そんなに見ないで
+|CARD_EVOLUTION_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 紅茶、ちゃんと注げるようになったからね…ほら、見て！
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 文化祭、楽しみにしててね。君を存分に楽しませてあげるから
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = お嬢様、どうぞ僕…いえ、私にお任せ下さい
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとうございます、お嬢様…ってこんな感じでどうかな？
+|BIRTHDAY_clip = 
+}}

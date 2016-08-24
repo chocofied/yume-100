@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 176
+|name = Legrange
+|name_jp = ルグランジュ
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 357
+|hp_max = 737
+|hp_break = 979
+|atk_base = 227
+|atk_max = 378
+|atk_break = 502
+|rp_base = 278
+|rp_max = 463
+|rp_break = 616
+|lskill_name = 喜びの涙
+|lskill_desc = Increase Red & Yellow HP & RP by 15%
+|skill_name = ティアノーティス
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 663
+|hp_max_s = 944
+|hp_break_s = 1231
+|atk_base_s = 359
+|atk_max_s = 427
+|atk_break_s = 557
+|rp_base_s = 440
+|rp_max_s = 593
+|rp_break_s = 774
+|lskill_name_s = 安堵の涙
+|lskill_desc_s = Increase Red & Yellow HP & RP by 20%
+|skill_name_s = ティアノート
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 663
+|hp_max_m = 833
+|hp_break_m = 1088
+|atk_base_m = 359
+|atk_max_m = 484
+|atk_break_m = 632
+|rp_base_m = 440
+|rp_max_m = 593
+|rp_break_m = 774
+|lskill_name_m = 隠す涙
+|lskill_desc_m = Increase Red & Yellow HP & RP by 20%
+|skill_name_m = ティアハイド
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kawanishi Kengo
+|origin = Country of Archive - Lecord
+|age = 23
+|birth = October 08
+|likes = The apple pie from the famous store in town
+|dislikes = Stiff tissues
+|policy = Always wish for everyone's happiness
+|desc = 記録の国・レコルドの王子。世界の系図の記録を司る。明るく優しい性格をしている。系図から読み取ることができる人の幸せに涙ぐんでしまったりと繊細な一面も持つ。泣いていることを指摘されると、意地を張ってしまう。
+|bg = ルグランジュに招待され、レコルドを訪れたあなた。一緒に過ごしている内に彼との距離が縮まる。ある日。彼がいつも通り石板の間で仕事をしていると…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼のお仕事
+|choice21s = 嬉しいことですから
+|points21s = 6
+|choice21m = おめでたいことですから
+|points21m = 6
+|title3 = 彼の心の中
+|choice31m = とりあえず座りますか？
+|points31m = 3
+|choice31s = 何か飲みますか？
+|points31s = 3
+|choice32m = 手を握る
+|points32m = 6
+|choice32s = 背中を撫でる
+|points32s = 6
+|title4 = 謎のプロポーズ
+|choice41m = 傍にいます
+|points41m = 12
+|choice41s = 話を聞きます
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_176s.jpg}}
+{{Still|text=Moon Still|img=Still_176m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = こういう賑やかなパーティって好きだな。皆、最後まで一緒に楽しもうね！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 嬉しいよ！君が誰に入れるのか、実はすごく気になってたから…
+|AWARD_EVENT_FAVORITES_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = よく頑張ったね！僕も張り切っちゃうよ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごい！君のその一生懸命なところ、好きだよ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 新しい命の誕生かな？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 頑張ったね！でも、もう少しいけるかな？
+|CHAIN_NICE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の優しさに助けられるよ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 泣き虫って言うなよなー！
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 君と一緒ならオレは負けない！
+|BATTLE_START_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = オレは気持ちを伝えるまで諦めないよ？
+|SKILL_INVOKE_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = お腹が空いたね！一緒にランチに行こう！デザートはアップルパイね？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう！今日も朝から君の顔が見られて嬉しいよ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = え？泣いてないって！そりゃ少しはうるっときたけどさ…
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 君にそういうことをされると期待しちゃうんだけどな…わかってる？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 眠くなってきたね……ん？君も？じゃあ一緒に寝ようか！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 人の幸せな報告ってすっごく嬉しいよね！心が温まるよ！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 系図の見間違え、だなんて…恥ずかしい…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = いじけてなんかないって！……ごめん嘘。だって君が…その、他の男と…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 君が他の男と結婚するなんて……オレには耐えられないよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君もオレのことを好きだったらいいなって何度も思った
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = オレとずっと一緒にいてくれないかな？いつも隣で笑っていてほしい
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = …っ！そんなことしたら…！まったく、オレにだって考えがあるからね？
+|CARD_DETAIL_m_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 君はあの子の友達なんだ！ね、あの子って本当にいい子だよね
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = パーティを開いてくれるの？ありがとう！嬉しいよ
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは綺麗なところだね……誰かが住んでるのかな？
+|GUILD_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。生まれてきてくれてありがとう。君と出会えてよかった！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君が他の男の元へ行くなんて嫌だよ…
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 今度はオレが君を元気づける番かな！
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 皆の幸せを願って！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = うーん、困ったな…
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = オレ今機嫌よくないけど…知らないよ？
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君と一緒にいるとどんどん強くなる…心も、力も…
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = オレは君がいないとだめなんだ！だから…ずっとオレの隣にいて？
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = やったね！皆でお祝いしよう！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ケーキ屋の店員さんが赤ちゃんを産んだんだ！一緒にお祝いしに行こう！
+|CARD_TOP_clip = 
+}}

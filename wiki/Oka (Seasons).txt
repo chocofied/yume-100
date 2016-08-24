@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 223
+|name = Oka
+|name_jp = 桜花
+|attribute = Gentle
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 639
+|hp_max = 1205
+|hp_break = 1373
+|atk_base = 454
+|atk_max = 700
+|atk_break = 798
+|rp_base = 335
+|rp_max = 516
+|rp_break = 588
+|lskill_name = 春を迎える準備
+|lskill_desc = Increase Red & Green ATK by 35%
+|skill_name = 春の桜模様
+|skill_desc = Erase all Red beads and turn Blue beads into Green
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1084
+|hp_max_s = 1337
+|hp_break_s = 1497
+|atk_base_s = 665
+|atk_max_s = 903
+|atk_break_s = 1011
+|rp_base_s = 490
+|rp_max_s = 572
+|rp_break_s = 641
+|lskill_name_s = 桜咲く舞
+|lskill_desc_s = Increase Red & Green ATK by 50%
+|skill_name_s = 春の桜模様
+|skill_desc_s = Erase all Red beads and turn Blue beads into Green
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1084
+|hp_max_m = 1470
+|hp_break_m = 1646
+|atk_base_m = 665
+|atk_max_m = 854
+|atk_break_m = 956
+|rp_base_m = 490
+|rp_max_m = 552
+|rp_break_m = 618
+|lskill_name_m = 花見酒の味
+|lskill_desc_m = Increase Green & Yellow ATK by 50%
+|skill_name_m = 恋の桜模様
+|skill_desc_m = Erase all Yellow beads and turn Purple beads into Green
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Changing Seasons
+|original = [[Oka]]
+|desc = 四季の国・蓬莱の春の一族の王子様。優雅で気品ある、けれどどこか儚い振る舞いは、さながら舞い散る桜の花びらのようだと言われている。承和の国での儀式を控えている中で体調を崩してしまっている。
+|bg = 体調を崩した桜花の見舞いに訪れたあなた。そこへ彼の従者の一人が部屋にやってきて、噂で聞いた温泉の話をしてくれて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 大寒波の影響で
+|choice21m = 休んでください
+|points21m = 8
+|choice21s = 大丈夫ですか？
+|points21s = 8
+|title3 = いざ、湯治の旅へ
+|choice31s = 嫌じゃないです
+|points31s = 4
+|choice31m = 言葉に詰まる
+|points31m = 4
+|choice32s = 大丈夫です
+|points32s = 8
+|choice32m = 気にしないでください
+|points32m = 8
+|title4 = 美しい波
+|choice41m = 言えない
+|points41m = 12
+|choice41s = 言う
+|points41s = 12
+|title5 = 開花の儀式に向けて……
+|choice51m = 言葉をつまらせる
+|points51m = 16
+|choice51s = 素直に話す
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_223s.jpg}}
+{{Still|text=Moon Still|img=Still_223m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 麗らかな日差しが差し込みました
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 花の命は短いといいますが…
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では、宴に戻りましょう
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あなたに会えるなんて…とても嬉しいです。すぐに元気になりますから
+|CARD_TOP_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 柔らかな手ですね
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = では湯治といきましょうか
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 私の思いを薄紅の花にのせて
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ふふ、少しいい気分です。お花見しましょう
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = そんな驚いた顔をしないでください。私だって男なんですよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = あなたが私の為に頑張ってくれる…立派に努めを果たしてみせます
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = では、花の宴とまいりますか
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = あなたのお誕生日をお祝いできることが、とても幸せです。ずっと…一緒に
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = あなたの頑張りに、私は何を返してあげたらいいのでしょう
+|CARD_EVOLUTION_m_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 日はだいぶ高くなりましたが、やや肌寒く…いえ、私の体調は大丈夫ですよ？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = お布団の準備ができたようです。では、もう休みましょうか。さあ、こちらに
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 不謹慎ですが、こうしてあなたがお見舞いに来てくださるなら…悪くないですね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 雪の下ではこうやって、植物達が春の準備を頑張っているんですよ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ああ、すっかり寝過ごしてしまいました。春眠、暁を覚えず…ですかね
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = あなたとこうして長い時間一緒に過ごせるなんて、贅沢ですね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = あなたに私の一番の晴れ舞台を見てもらえると思えば…力が湧いてきます
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = おや、見つかってしまいましたか…こっそり練習していたんですが。内緒ですよ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = これからも、ずっとあなたと一緒に新しい季節を迎えることができたら、幸せです
+|CARD_DETAIL_s_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = いざ、参ります
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 春の息吹が感じられるでしょうか
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まだまだ、私のほうが力持ちですよ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = おや、思った以上に気丈なのですね
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 一足先に二人きりで、お花見を楽しみましょう。　いかがですか？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = なんだかいい気分ですね、花を愛で、お酒をいただいて、隣にあなたがいる
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あなたに男として頼られる存在になりたいのに…なかなか前途多難です
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = そんな可愛らしい姿を見たら、力が湧きます
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = どきなさい
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …これしきの傷
+|BATTLE_DAMAGE_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 宴ですか？楽しそうですね。では、舞を一つ披露しましょうか……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 美しい場所ですね……心があらわれるよう……時間を忘れてしまいそうです
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそ。今、蓬莱は美しい季節を迎えますからゆっくりお過ごしください
+|FRIEND_DETAIL_clip = 
+}}

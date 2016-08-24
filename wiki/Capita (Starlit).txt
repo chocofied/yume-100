@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 269
+|name = Capita
+|name_jp = キャピタ
+|attribute = Cool
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 412
+|hp_max = 859
+|hp_break = 997
+|atk_base = 325
+|atk_max = 542
+|atk_break = 628
+|rp_base = 316
+|rp_max = 527
+|rp_break = 611
+|lskill_name = 星の綿菓子
+|lskill_desc = Increase Blue ATK, HP, RP by 15%
+|skill_name = 不可思議な心
+|skill_desc = Reduce Red damage by 20% for 1 turn
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 773
+|hp_max_s = 1057
+|hp_break_s = 1205
+|atk_base_s = 515
+|atk_max_s = 666
+|atk_break_s = 759
+|rp_base_s = 500
+|rp_max_s = 648
+|rp_break_s = 739
+|lskill_name_s = 星のランタン
+|lskill_desc_s = Increase Blue ATK, HP, RP by 20%
+|skill_name_s = 変化を望む勇気
+|skill_desc_s = Reduce Red damage by 25% for 1 turn
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 773
+|hp_max_m = 1100
+|hp_break_m = 1254
+|atk_base_m = 515
+|atk_max_m = 693
+|atk_break_m = 790
+|rp_base_m = 500
+|rp_max_m = 595
+|rp_break_m = 678
+|lskill_name_m = 星のブレスレット
+|lskill_desc_m = Increase Blue ATK, HP, RP by 20%
+|skill_name_m = 解いてはならない謎
+|skill_desc_m = Reduce Red damage by 25% for 1 turn
+|gold_m = 5000
+|ring_m = 40
+}}
+== Profile ==
+{{Profile
+|desc = 不思議の国・ワンダーメアの王子。フォルストの芋虫の一族。探究心が強く、ありとあらゆることに疑問を持つ。深く思想の世界を生きてきたので浮世離れしている。今回、『地上に流れる天』があると聞いて、星の国を訪れた。
+|bg = 星祭りに招待されたあなたは、ガラッシアでキャピタと再会する。『地上に流れる天』の謎を解きに来たという彼から、一緒に謎を解いて欲しいと頼まれて…―
+|event = In the Starlit Night
+|original = [[Capita]]
+}}
+== Story ==
+{{Choice|title2 = 地上に流れる天|choice21s = 何か買っていきませんか？|points21s = 6|choice21m = 『地上の天』の謎は……|points21m = 6|title3 = 散りばめられた謎|choice31s = 黙っている|points31s = 3|choice31m = 話しかける|points31m = 3|choice32s = 素敵ですね|points32s = 6|choice32m = 思いが伝わってきますね|points32m = 6|title4 = 変わるか、変わらないか|choice41s = 二つの国は違う|points41s = 12|choice41m = 難しい問題|points41m = 12}}{{Still|text=Sun Still|img=Still_269s.jpg}}
+{{Still|text=Moon Still|img=Still_269m.jpg}}

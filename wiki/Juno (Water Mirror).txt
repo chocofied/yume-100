@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 256
+|name = Juno
+|name_jp = ユーノ
+|attribute = Sexy
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 451
+|hp_max = 1029
+|hp_break = 1194
+|atk_base = 354
+|atk_max = 554
+|atk_break = 642
+|rp_base = 259
+|rp_max = 404
+|rp_break = 469
+|lskill_name = 揺れる水鏡
+|lskill_desc = Increase Party HP by 15%
+|skill_name = 迷える神官
+|skill_desc = Recover 2500 HP
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 926
+|hp_max_s = 1389
+|hp_break_s = 1583
+|atk_base_s = 526
+|atk_max_s = 648
+|atk_break_s = 739
+|rp_base_s = 384
+|rp_max_s = 473
+|rp_break_s = 539
+|lskill_name_s = 永遠の誓い
+|lskill_desc_s = Increase Party HP by 20%
+|skill_name_s = 善神に仕えし者
+|skill_desc_s = Recover 3500 HP
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 926
+|hp_max_m = 1266
+|hp_break_m = 1443
+|atk_base_m = 526
+|atk_max_m = 681
+|atk_break_m = 776
+|rp_base_m = 384
+|rp_max_m = 497
+|rp_break_m = 567
+|lskill_name_m = アネモネの花弁
+|lskill_desc_m = Increase Party HP by 20%
+|skill_name_m = 悪神に仕えし者
+|skill_desc_m = Recover 3500 HP
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = The Bride Reflected on the Water Mirror
+|original = [[Juno]]
+|desc = 泡沫の国・アフロスの王子。神の代弁者として生きている。普段は穏やかで優しい性格をしているが、神が降臨した際は口調や性格が激しく変わるという性質を持つ。アフロスで執り行われる婚宴の儀では、彼が儀式を取り仕切る神官を務めている。
+|bg = アフロスで行われる婚宴の儀に招待され、ユーノと再会したあなた。けれどその翌日、運命の相手を映し出すという水鏡が割れてしまって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ユーノの苦悩
+|choice21s = 信じる
+|points21s = 6
+|choice21m = 信じない
+|points21m = 6
+|title3 = 突然訪れた危機
+|choice31s = どうしてこんなことに？
+|points31s = 3
+|choice31m = 儀式は大丈夫でしょうか？
+|points31m = 3
+|choice32m = 何も言えない
+|points32m = 6
+|choice32s = どういうことですか？
+|points32s = 6
+|title4 = ユーノの拒絶
+|choice41m = それは本当なのですか？
+|points41m = 12
+|choice41s = そんなことありません
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_256s.jpg}}
+{{Still|text=Moon Still|img=Still_256m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 君を愛しています。たとえ、運命の人でなかったとしても
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = いっそ、壊れてしまえばいいのに…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 君に伝えたいことがあるのに…それを口にすることは立場上許されないのです
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = また君とお会いすることができて、わたしはとても嬉しいです
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = お疲れでしょう？ゆっくりお休みください…神のご加護がありますよう
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = すみません。儀式前は食事はとらない決まりで…お茶ならご一緒できます
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = お目覚めになりましたか？朝の空気は清浄ですね
+|MAIN_TOP_MORNING_GREET_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = わたしの心が揺らいでいます
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の祈りは優しい
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 神よ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 裁きを
+|BATTLE_ATTACK_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君にアフロスの地で再会できたことを、大変喜ばしく思います
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 皆、無事ですか？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 静かに…声が聞こえます
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 鉄槌が降ります
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = きみをわたしのものに…永遠に
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 神はわたしの心のままにと……
+|SKILL_INVOKE_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 祝福を君に…神の子ではない、ユーノとして伝えたい。おめでとうございます
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = では、神の導くままに
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 神よ、わたしはどうしたらいいのでしょう。教えてください…
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 心のままにいられたら、どんなに良かったか
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = わたしは神の子…神に祈りを捧げましょう。さあ…
+|CARD_ENHANCE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 花言葉は『あなたを信じて待つ』…そう、君はわたしのものになるのです
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 永遠の愛を誓った証に、口づけを許してくださいますか？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = わたしはアフロスの神官に相応しくない願いを胸に抱いたのです
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 運命を変える力…君という人は
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 君のまっすぐな心に癒されます
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 祈りが足らないと…そう仰っております
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 神のお志でしょう
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 神のお導きのままに
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君はわたしの傍に…ずっと、ずっと。永遠に愛を誓うんです
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 君の運命の相手がわたしではない…？構いません。わたしは君を想い続けます
+|MAIN_TOP_TOUCH_m_2_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 神の声が聞こえました……アフロスを訪れた者達に祝福あれと
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = この場所でなら、誰にも邪魔されずに君と過ごすことができそうです……
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 泡沫の国へようこそ。皆さまに素敵な運命が訪れますよう……
+|WELCOME_PARTY_clip = 
+}}

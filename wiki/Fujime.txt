@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 149
+|name = Fujime
+|name_jp = 藤目
+|attribute = Gentle
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 342
+|hp_max = 707
+|hp_break = 939
+|atk_base = 224
+|atk_max = 374
+|atk_break = 497
+|rp_base = 260
+|rp_max = 433
+|rp_break = 575
+|lskill_name = 擬似夫婦の恋模様
+|lskill_desc = Increase Green HP & RP by 20%
+|skill_name = 諸恋
+|skill_desc = Recover HP and Seal
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 11
+|lvmax_s = 60
+|hp_base_s = 636
+|hp_max_s = 905
+|hp_break_s = 1181
+|atk_base_s = 356
+|atk_max_s = 423
+|atk_break_s = 552
+|rp_base_s = 411
+|rp_max_s = 554
+|rp_break_s = 723
+|lskill_name_s = 想いを告げる言葉
+|lskill_desc_s = Increase Green HP & RP by 25%
+|skill_name_s = 恋文
+|skill_desc_s = Recover HP and Seal
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 11
+|lvmax_m = 60
+|hp_base_m = 636
+|hp_max_m = 799
+|hp_break_m = 1043
+|atk_base_m = 356
+|atk_max_m = 479
+|atk_break_m = 626
+|rp_base_m = 411
+|rp_max_m = 554
+|rp_break_m = 723
+|lskill_name_m = 言葉にならない恋
+|lskill_desc_m = Increase Green HP & RP by 25%
+|skill_name_m = 恋衣
+|skill_desc_m = Recover HP and Seal
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Inoue Go
+|origin = Country of Literature - Shinonome
+|age = 27
+|birth = June 23
+|likes = Dango from Koubai Country
+|dislikes = Editors in charge
+|policy = The deadline is the day I finish writing
+|desc = 文壇の国・東雲の王子。数多くの恋愛小説を世に出す、有名な恋愛小説家。創作意欲が強く、恋愛小説執筆のために人の恋の話を聞き込んだり、恋愛イベントを観察したりする。物腰は柔らかいが、頑固な一面も持つ。
+|bg = 文学賞の受賞式の場で藤目と再会したあなた。スランプに陥った自分には受賞する資格がないという彼から、結婚生活を体験させて欲しいと頼まれたあなたは…
+}}
+
+== Story ==
+{{Choice
+|title2 = 取材
+|choice21s = 戻りましょう
+|points21s = 6
+|choice21m = そっと肩に触れる
+|points21m = 6
+|title3 = 新婚生活？
+|choice31s = 街外れの小さな家
+|points31s = 3
+|choice31m = 選べない
+|points31m = 3
+|choice32m = 美味しく作りますね
+|points32m = 6
+|choice32s = 食べたことないですか？
+|points32s = 6
+|title4 = 指先から……
+|choice41s = 手を洗ったか聞く
+|points41s = 12
+|choice41m = お口に合うといいのですが
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_149s.jpg}}
+{{Still|text=Moon Still|img=Still_149m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = まるで子どもの恋文だと、揶揄する人もいるかもしれませんね
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = では、まず「奥さん」とお呼びしてもよろしいですか？密かに憧れていたのです
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝ですね…お恥ずかしながら、朝は苦手なもので。でも、朝日はいいですね
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さて、日も落ちて…夜になったら夫婦はどんな時間を過ごすものなのでしょう？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 私の奥さん…お昼ご飯はまだでしょうか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 夫婦茶碗…かわいらしいです。貴方は桃色の、私は藍色のものがいいですかね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 私の作品を読んで頂いているのですね……ありがたいことです
+|MAIN_TOP_TOUCH_2_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 作品の評価ではないのですか。これは困りました。どうしましょう奥さん
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 私を選んでくださったのですね。さすが、私の奥さんです。愛していますよ
+|AWARD_EVENT_FAVORITES_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 困りました
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 仕事中ですから
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 綿密な取材が重要です
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 原稿用紙が破けて……
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 事実…恋愛とは恐ろしいものです
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 私小説も悪くないと思います
+|SKILL_INVOKE_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = では、連載にしましょう
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 書きおろしの締切が……
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = こんなところで何をしていたのかと？自分の才の無さを嘆いていたのです
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では、落ち着いて…作業に戻ります
+|BATTLE_CLEAR_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 貴方と過ごした時間すべてが糧になるのですよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 恐ろしい事実に気づきました。なんと人間は欲深いのでしょう
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = まさに一瞬、そして落ちるという表現がこれほど嵌るものはないですね
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 美しい言葉を届ける才能が私にはありますが、貴方の前では壊れた人形以下です
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = では、一緒にまいりましょうか…「奥さん」
+|DECK_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 数多の恋愛模様を描きましたが、貴方と育んだ感情はどれとも違いました
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 私の奥さんは、万能なのですね
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 貴方に恋をすることで、私は本当に感情豊かな人間になれたのだと思いました
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 貴方への想いを作品とすることで、広く高らかに宣言したかったのですよ
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 心の中に凶暴な嵐が吹き荒れる…それをそのまま言葉にすることが躊躇われます
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 私の中にこのように、燃えたぎるような衝動があったことに驚きました…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = おや、その箱には何があるのでしょう
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 禍々しいものですね
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 存外、聞き分けのない奥さんですね
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 危ないので下がっていなさい
+|CHAIN_NICE_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = このように祝っていただけるようなことは何も……恐縮です
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそいらっしゃいました　お嬢さん……
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = 風光明媚というのでしょうか……美しい作品が書き上がりそうです
+|GUILD_clip = 
+}}

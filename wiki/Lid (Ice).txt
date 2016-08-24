@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 118
+|name = Lid
+|name_jp = リド
+|attribute = Cute
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 548
+|hp_max = 1122
+|hp_break = 1426
+|atk_base = 337
+|atk_max = 491
+|atk_break = 624
+|rp_base = 276
+|rp_max = 402
+|rp_break = 511
+|lskill_name = 王子様のアイス
+|lskill_desc = Increase Blue & Yellow ATK by 35%
+|skill_name = マスカットアイスバー
+|skill_desc = Erase Blue & Yellow beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 1010
+|hp_max_s = 1369
+|hp_break_s = 1710
+|atk_base_s = 466
+|atk_max_s = 599
+|atk_break_s = 748
+|rp_base_s = 382
+|rp_max_s = 430
+|rp_break_s = 536
+|lskill_name_s = 1スプーンのアイス
+|lskill_desc_s = Increase Red & Yellow ATK by 50%
+|skill_name_s = プリンスメロンソルベ
+|skill_desc_s = Erase Red & Yellow beads (SSS)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 1010
+|hp_max_m = 1246
+|hp_break_m = 1556
+|atk_base_m = 466
+|atk_max_m = 633
+|atk_break_m = 791
+|rp_base_m = 382
+|rp_max_m = 446
+|rp_break_m = 557
+|lskill_name_m = アイスの誘惑
+|lskill_desc_m = Increase Blue & Yellow ATK by 50%
+|skill_name_m = オン・ピスタチオ
+|skill_desc_m = Erase Blue & Yellow beads (SSS)
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = A Slight Fever That Melts The Ice
+|original = [[Lid]]
+|desc = 宝石の国・オリブレイトの王子。明るくポジティブで周りへの気配りも得意。兄を慕っているが、その一方少しコンプレックスを抱えている。アマレナと新しいアイスを共同開発するために、今回アマレナを訪れることになった。
+|bg = 新しいアイスを共同開発するためにアマレナに訪れたリドとあなた。色んなアイスを試食し、どんなものを作ろうか悩むリド。そんなリドが出す答えとは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 意気込んだ視察
+|choice21m = 見た目も大切
+|points21m = 8
+|choice21s = やっぱり味重視
+|points21s = 8
+|title3 = 青息吐息の試食会
+|choice31s = リド、ありがとう
+|points31s = 4
+|choice31m = 楽しいね
+|points31m = 4
+|choice32m = ありがとう
+|points32m = 8
+|choice32s = 恥ずかしいよ
+|points32s = 8
+|title4 = 腹痛とデート
+|choice41s = うん
+|points41s = 12
+|choice41m = でも
+|points41m = 12
+|title5 = キラキラ
+|choice51m = よかったね
+|points51m = 16
+|choice51s = アイデアが浮かんだ？
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_118s.jpg}}
+{{Still|text=Moon Still|img=Still_118m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = The stars are so twinkly and pretty~. Eh? They look like konpeitou? Haha!
+|MAIN_TOP_EVENING_GREET_jp = 星がキラキラしてキレイだな～。え？金平糖みたい？……ハハッ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = I'm bad with thinking hard about things~...Will you help me out?
+|MAIN_TOP_TOUCH_1_jp = 難しいこと考えるの、ニガテなんだよ～……手伝ってくれるか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = Yo! It sure is hot today~. That's right, there's this great ice cream shop. Let's go!
+|MAIN_TOP_MORNING_GREET_jp = よっ！今日はあっちいな～。そうだ、美味いアイスの店があるんだ。行こうぜ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = It's gotten so hot! Shall we take a break and get something cold to eat?
+|MAIN_TOP_AFTERNOON_GREET_jp = あっつくなってきたな！冷たいもんでも食べて、休憩するか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = I guess there are things that can get done especially since I'm the one doing it. Is it ok if I let it go to my head a bit?
+|MAIN_TOP_TOUCH_s_1_jp = オレがやるからこそ、できることもあるんだよな。ちょっと自信持っていいか？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = I thought about it with all my might with my brainless self. You know... I want you to eat this the most
+|MAIN_TOP_TOUCH_s_2_jp = 無い頭で一生懸命考えたんだ。その……あんたに一番に食べて欲しい
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ああ、あんたもけっこう食意地張って……って、怒らないでくれよ！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = Su~per delicious! I'll try my best to make something that makes you say that!
+|CARD_DETAIL_jp = あんたがすっげーおいしい！って言ってくれるようなヤツ、頑張って作るからな
+|CARD_DETAIL_clip = 
+|BATTLE_RESULT_en = With this, we can take our time eating!
+|BATTLE_RESULT_jp = これでゆっくり食べられるな！
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = First, the single! What flavor should we do?
+|CHAIN_NICE_jp = まずはシングルだな！味は何にする？
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = You know...I suck at saying stuff like this... but there's something stuck.. To your mouth
+|CARD_DETAIL_m_jp = あのさ……すっげえ言いにくいんだけど……ついてるぜ？口元……
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = Alright, let's do this before it melts!
+|BATTLE_START_jp = さ、溶けちまう前にやるぞ！
+|BATTLE_START_clip = 
+|BATTLE_ATTACK_en = Take that!
+|BATTLE_ATTACK_jp = そらっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = That hurts..
+|BATTLE_DAMAGE_jp = イッテ…
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = Let's challenge the double!
+|CHAIN_GREAT_jp = ダブルにチャレンジするぞ！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = We've gotten this far, so let's try the triple!
+|CHAIN_EXCELLENT_jp = ここまできたら、トリプルまで行こうぜ！
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = So, food makes people happy, right? I tried really hard because I wanted to see your smile
+|MAIN_TOP_TOUCH_m_1_jp = 三段重ねがいい？ハハッ……あんた、欲張りだな！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = Alright, open up your mouth... Say "Aaaan"... Don't make me say it again!
+|CARD_DETAIL_s_jp = ほら、口開けろよ……「あーん」って……言わせるなって！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = You want three scoops? ... You sure are greedy!
+|MAIN_TOP_TOUCH_m_2_jp = 食べ物ってさ、人を幸せにするだろ？あんたの笑顔が見たくてさ、頑張ったんだ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_TURN_END_en = Try a little harder!
+|BATTLE_TURN_END_jp = あとちょっと、頑張ろうな！
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = Alright, is it snack time?
+|BATTLE_CLEAR_jp = さーて、おやつの時間かな？
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = I'll reply to your greediness!
+|SKILL_INVOKE_m_jp = 欲張りなあんたに、応えるぜ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = Let's shine!
+|BATTLE_FEVER_TIME_jp = キラキラしようぜ！
+|BATTLE_FEVER_TIME_clip = 
+|CARD_EVOLUTION_s_en = Shall we eat it together? What, it's embarrassing.....!
+|CARD_EVOLUTION_s_jp = 一緒に食べようぜ？　何、照れてるんだよ……！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = Hey... Does this mean it's ok if we kiss?
+|CARD_EVOLUTION_m_jp = なあ……それ、キスしていいってこと？
+|CARD_EVOLUTION_m_clip = 
+|CARD_TOP_en = Oh, what's up? I'll come with you if you're alright with that
+|CARD_TOP_jp = お、どうしたんだ？オレでよかったら、付き合うよ
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = Let's keep going and going!
+|CARD_ENHANCE_jp = もっともっと、いってみようぜ！
+|CARD_ENHANCE_clip = 
+|SKILL_INVOKE_en = Even I can be decisive when I need to be!
+|SKILL_INVOKE_jp = オレだって、決める時は決めてみせるぜ？
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = You'll be the first to know!
+|SKILL_INVOKE_s_jp = あんたに一番に、届けるよ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_RECOVER_en = Yea, it's yummy!
+|BATTLE_RECOVER_jp = うん、うまい！
+|BATTLE_RECOVER_clip = 
+|DECK_en = Alright! Let's go out to eat some good ice cream!
+|DECK_jp = よっし！美味いアイス、食いに出かけるか！
+|DECK_clip = 
+|BIRTHDAY_en = How many scoops of ice cream do you want? We'll go with whatever you say today!
+|BIRTHDAY_jp = アイス、何段重ねて欲しい？今日はあんたの言う通りにしてやるよ！
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = Thanks! I'll prepare you a super delicious ice cream, yeah?
+|WELCOME_PARTY_jp = サンキュな！とびきり美味いアイス、用意してやるぜ？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = おおっ！ここは……なんか、新しい発見がありそうでワクワクするな！
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = おう！悪いな、あいつは今いねーんだ。なんか、新作アイスがどうのって……
+|FRIEND_DETAIL_clip = 
+}}

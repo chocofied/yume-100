@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 222
+|name = Jay
+|name_jp = ジェイ
+|attribute = Gentle
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 388
+|hp_max = 835
+|hp_break = 1110
+|atk_base = 240
+|atk_max = 425
+|atk_break = 565
+|rp_base = 242
+|rp_max = 352
+|rp_break = 468
+|lskill_name = 夜の街をエスコート
+|lskill_desc = Increase Green HP by 30%
+|skill_name = 二人で過ごす夜
+|skill_desc = Turn Yellow beads in to Green
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 752
+|hp_max_s = 1069
+|hp_break_s = 1395
+|atk_base_s = 404
+|atk_max_s = 544
+|atk_break_s = 710
+|rp_base_s = 335
+|rp_max_s = 398
+|rp_break_s = 520
+|lskill_name_s = 昼も夜も、そばにいて
+|lskill_desc_s = Increase Green HP by 35%
+|skill_name_s = 二人で過ごす夜
+|skill_desc_s = Turn Yellow beads in to Green
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 752
+|hp_max_m = 977
+|hp_break_m = 1276
+|atk_base_m = 404
+|atk_max_m = 574
+|atk_break_m = 749
+|rp_base_m = 335
+|rp_max_m = 412
+|rp_break_m = 538
+|lskill_name_m = まだ、星が輝く時間
+|lskill_desc_m = Increase Green HP by 35%
+|skill_name_m = 二人で過ごす夜
+|skill_desc_m = Turn Yellow beads in to Green
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Hospitality of The Princes
+|original = [[Jay]]
+|desc = 聖職者の国・ノープリーの王子。優しく穏やかな性格。昔ヴァンパイアに噛まれて、陽の当たる場所に出られない。プリンスアワードのアフターパーティの後、宿泊先のホテルであなたと再会した際に、夜の街をエスコートしようと考える。
+|bg = レコルドのホテルでジェイと再会したあなた。夜の街をエスコートさせてと言われ、彼と一緒に出かけることに。美術館を訪れた後は、バーに連れられて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ナイトミュージアム
+|choice21s = 手を取る
+|choice21m = ためらう
+|points21s = 6
+|points21m = 6
+|title3 = 光の当たる世界
+|choice31s = そんなことない
+|choice31m = この時間も素敵
+|points31s = 3
+|points31m = 3
+|choice32s = 私が絵に描きます
+|choice32m = 私が伝えます
+|points32s = 6
+|points32m = 6
+|title4 = 甘い香りのカクテル
+|choice41s = 飲みやすい
+|choice41m = 甘い
+|points41s = 12
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_222s.jpg}}
+{{Still|text=Moon Still|img=Still_222m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = んん…ああ、ごめん。寝てたよ…まだ外が明るいみたいだから
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = おはよう…君にはお帰りっていうのがいいかな。嬉しいよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 君と美術館でデートができるなんて思ってもみなかったな、特別展に感謝だ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 君の話を聞かせてほしいな。この街は陽の光を浴びると美しいんだろう？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おっと、もう俺は外に出られない時間だね…行っておいで、また夜にね
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = おや、こんなに暗いところでよく見つけたね
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = おや、少しおねむかな？
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 楽しい時間を過ごせた。嬉しいよ…あれ、君、ずいぶん顔が赤いけれども
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 困ったな…君がそんな我儘を言うなんて。ほら、起きて……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = まだ夜は終わらないよ。だから一緒にいよう。一秒だって無駄にしたくない
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = せっかくの夜を邪魔しないでくれ
+|BATTLE_START_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 眠くはなかったかな？無理やり連れ出してしまったからね…ごめんね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = もてなすって言っておきながら、君と一緒にいて癒やされてるのは俺だな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君のことを帰したくない…年甲斐もないことを言って、困らせてしまいそうだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 俺の知らない昼間の君…それを見られないことがこんなに悔しいなんてね
+|CARD_DETAIL_s_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = これからが本番…といったところかな
+|CHAIN_GREAT_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = おや、結構しつこいんだね
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 夜でも楽しめるところがあるんだ
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 朝が来なければいいのにね
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = そんな無防備でいいのかな
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 夜明けが来る前に一気にいくよ
+|BATTLE_FEVER_TIME_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = まだまだ、俺達の夜は終わらないね
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 大人をからかうなよ
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 油断したかな
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとう　うれしいよ
+|BATTLE_RECOVER_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = いらっしゃい。おっと、そんなふうに驚かれたのは初めてだな
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ライトアップされた噴水が綺麗だね……素敵な夜会だ
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 日が落ちるまではあのコテージで休むとするかな
+|GUILD_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = じゃあ、お楽しみを再開しようか
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = おや、こんな遅い時間にどうしたのかな。おかげで君と再会できた
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君は可愛いな。きっと俺にとってはずっと可愛いよ。子供扱いじゃないよ
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = これはヴァンパイアの力なのか、元々の俺の力なのか……
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 君をもてなそうって言っておきながらね……ごめんね
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = そういえば……君、顔が真っ赤だけれども……大丈夫かい？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = じゃあ、夜の散歩だと思ってくれないか
+|DECK_clip = 
+}}

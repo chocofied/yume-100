@@ -1,0 +1,96 @@
+== Status ==
+{{Infobox
+|no = 279
+|name = Toya
+|name_jp = 凍哉
+|attribute = Cool
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 544
+|hp_max = 1031
+|hp_break = 1196
+|atk_base = 271
+|atk_max = 510
+|atk_break = 591
+|rp_base = 288
+|rp_max = 450
+|rp_break = 522
+|lskill_name = 青く光る杖
+|lskill_desc = Reduce party HP and increase ATK by 50%
+|skill_name = カマイタチの薬
+|skill_desc = Erase beads that are not Blue (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 928
+|hp_max_s = 1165
+|hp_break_s = 1328
+|atk_base_s = 484
+|atk_max_s = 652
+|atk_break_s = 743
+|rp_base_s = 427
+|rp_max_s = 576
+|rp_break_s = 657
+|lskill_name_s = 吹き荒れる風
+|lskill_desc_s =  Reduce party HP and increase ATK by 60%
+|skill_name_s = 杖の効力
+|skill_desc_s = Erase beads that are not Blue (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 928
+|hp_max_m = 1206
+|hp_break_m = 1375
+|atk_base_m = 484
+|atk_max_m = 688
+|atk_break_m = 784
+|rp_base_m = 427
+|rp_max_m = 526
+|rp_break_m = 600
+|lskill_name_m = 伝説の武器
+|lskill_desc_m =  Reduce party HP and increase ATK by 60%
+|skill_name_m = 抑えきれない笑い
+|skill_desc_m = Erase beads that are not Blue (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Tales of the Mononoke Night Parade
+|original = [[Toya]]
+|desc = 四季の国・蓬莱の冬の一族の王子。笑い上戸な彼だが、笑うことで暖気を呼び込んでしまうため、冬の間は耐えている。今回、こよみの国の習わしである『物の怪神楽』に来賓として参加することになり、『カマイタチ』の仮装をしている。
+|bg = 九曜で行われる『物の怪神楽』の会場で、凍哉と再会したあなた。二人で街に訪れたその時、吹き抜けた突風により凍哉や街の人々が切り傷を負ってしまい…―
+}}
+== Story ==
+{{Choice
+|title2 = カマイタチの仕業？
+|choice21s = どうしました？
+|points21s = 6
+|choice21m = 痛いですか？
+|points21m = 6
+|title3 = 伝説の武器
+|choice31s = 皆の分の薬をもらいたい
+|points31s = 3
+|choice31m = カマイタチに会ってみたい
+|points31m = 3
+|choice32m = 手を握り返す
+|points32m = 6
+|choice32s = 照れる
+|points32s = 6
+|title4 = カマイタチの薬
+|choice41m = 彼らの仕業？
+|points41m = 12
+|choice41s = ひどい……
+|points41s = 12
+}}
+{{Still|text=Sun Still|img=Still_279s.jpg}}
+{{Still|text=Moon Still|img=Still_279m.jpg}}
+== Quotes ==

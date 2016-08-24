@@ -1,0 +1,643 @@
+<tabber>
+|-| 1-1 =
+== The beginning of an unseen dream ① ==
+<dl>
+<dt> </dt>
+<dd>……</dd>
+<dd>(My older brother......)</dd>
+<dd>(I'm scared....... But)</dd>
+<dd>(I want to save them)</dd>
+<dt>??</dt>
+<dd>"I'll come along. It'll be alright"</dd>
+<dd>"You can totally hold my hand, ok?"</dd>
+<dd>"I'm scared I'm scared I'm scared......"</dd>
+<dd>"Hey, don't scare the lady"</dd>
+<dd>"S-sorry"</dd>
+<dt> </dt>
+<dd>(Everyone, thank you......)</dd>
+<dd>At that moment...-.</dd>
+<dd>"!!"</dd>
+<dd></dd>
+<dd>Large black forms stood in front of us, blocking our way...-.</dd>
+<dt>??</dt>
+<dd>"These are some humongous Dream Eaters"</dd>
+<dt> </dt>
+<dd>I gripped the ring hanging from my necklace tightly.</dd>
+<dt>??</dt>
+<dd>"They're coming!"</dd>
+<dt> </dt>
+<dd>(Everyone!!)</dd>
+<dt>??</dt>
+<dd>"Hey!!! Run awa...-"</dd>
+<dd>"!!"</dd>
+<dt> </dt>
+<dd>My hand grasped at emptiness...-.</dd>
+<dd>(.....!!)</dd>
+<dt>??</dt>
+<dd>"You should understand now"</dd>
+<dt> </dt>
+<dd>A darkness deeper than the night swirled around us.</dd>
+<dt>??</dt>
+<dd>"Nothing good comes out of dreaming"</dd>
+<dt> </dt>
+<dd>(......!)</dd>
+<dt>??</dt>
+<dd>"..... Come"</dd>
+<dt> </dt>
+<dd>From deep, deep within the darkness, a nostalgic voice invited me in...-.</dd>
+<dd></dd>
+<dd>…</dd>
+<dd>……</dd>
+<dd>When I opened my eyes, I was on the train heading home.</dd>
+<dd>I've gotten used to seeing the shining ring hanging from my necklace resting on my chest.</dd>
+<dd>(A dream...?)</dd>
+<dd>Outside the train window, a beautiful starry sky opened up.</dd>
+<dd>I really should be used to these lights...</dd>
+<dd>(I wonder what it is)</dd>
+<dd>I looked around, sensing something wrong</dd>
+<dd>(...!?)</dd>
+<dd>The embodiment of my bad feeling... Was that there was nobody in the train but me.</dd>
+<dd>(Did I miss my stop!?)</dd>
+<dd>I stood up, flustered, the bag sitting on my lap falling onto the floor.</dd>
+<dd>(My documents...!)</dd>
+<dd>As I crouched down to gather the documents...</dd>
+<dd>(....?)</dd>
+<dd>A small boy stood in front of me.</dd>
+<dt>??</dt>
+<dd>"...Sorry"</dd>
+<dt> </dt>
+<dd>(Huh...?)</dd>
+<dd>-What sorrowful eyes....</dd>
+<dd></dd>
+<dd>As soon as I finished thinking that, the world started to fade away</dd>
+<dd>Behind my eyelids, the starry sky was twinkling...-.</dd>
+<dd>…</dd>
+<dd>……</dd>
+<dt>??</dt>
+<dd>"..... Princess!"</dd>
+<dt> </dt>
+<dd>(....?)</dd>
+<dt>??</dt>
+<dd>"Princess....!!"</dd>
+<dt> </dt>
+<dd>(Pr..incess....?)</dd>
+<dd>Feeling my shoulders being shaken, I slowly forced my eyelids open.</dd>
+<dd>(Where... am I!?)</dd>
+<dd>Around me were trees growing thickly, with blinding sunlight winding down through them.</dd>
+<dt>??</dt>
+<dd>"Thank goodness~"</dd>
+<dt> </dt>
+<dd>"!?"</dd>
+<dd>(This stuffed animal is talking!?)</dd>
+<dd>Flustered, I sat up quickly and felt some vertigo.</dd>
+<dd>Without taking my eyes off the talking stuffed animal, I felt around for the bag and documents I dropped earlier.</dd>
+<dd>(They're not there!)</dd>
+<dt>??</dt>
+<dd>"What are you looking for?"</dd>
+<dt> </dt>
+<dd>The talking stuffed animal peered at my face.</dd>
+<dd>Flustered, I backed up, and</dd>
+<dd>I grabbed the ring hanging from my necklace as I always do when I feel uneasy</dd>
+<dt>??</dt>
+<dd>"A-are you alright!?"</dd>
+<dd>"Could you possibly have gotten hit somewhere on the way to this world....!?"</dd>
+<dd>"I'm very sorry, but could you please try remembering your name?"</dd>
+<dt> </dt>
+<dd>(My name...?)</dd>
+<dt>MC</dt>
+<dd>"It's USER_NAME..."</dd>
+<dt>??</dt>
+<dd>"Great, you remember! What a wonderful name"</dd>
+<dt>MC</dt>
+<dd>"Wh-what are you...-"</dd>
+<dt>Navi</dt>
+<dd>"Sorry for introducing myself so late. I am called Navi. Princess, I am your butler"</dd>
+<dt>MC</dt>
+<dd>"Butler?"</dd>
+<dt> </dt>
+<dd>As I blinked repeatedly, the stuffed animal calling itself Navi in bowed reverently in front of me.</dd>
+<dd>(I guess this stuffed animal really does talk)</dd>
+<dt>MC</dt>
+<dd>"This must be a dream"</dd>
+<dt>Navi</dt>
+<dd>"It's not a dream!!"</dd>
+<dt>MC</dt>
+<dd>"Well, just now I was in a train going home...."</dd>
+<dt> </dt>
+<dd>(That's right.... Suddenly, I was enveloped in light)</dd>
+<dd>(I heard someone's voice)</dd>
+<dd>-Sorry-</dd>
+<dd>I definitely heard something like that.</dd>
+<dt>Navi</dt>
+<dd>"You must be full of confusion. I guess it make sense, seeing that you just returned here to this world"</dd>
+<dt>MC</dt>
+<dd>"Here? Returned? What are you talking about?"</dd>
+<dt>Navi</dt>
+<dd>"Princess... Could it be that you've forgotten?"</dd>
+<dt>MC</dt>
+<dd>"Forgotten what?"</dd>
+<dt> </dt>
+<dd>Navi stared at me sadly.</dd>
+<dd>Finally, heaving a deep sigh, Navi put his small front legs on my hand.</dd>
+<dt>Navi</dt>
+<dd>"If there's any way, please remember. Princess USER_NAME"</dd>
+<dd>"This place is the dream world"</dd>
+<dt> </dt>
+<dd>(Dream world... Then)</dd>
+<dt>MC</dt>
+<dd>"Well, then, this really is a dream"</dd>
+<dt>Navi</dt>
+<dd>"N-no, princess USER_NAME!"</dd>
+<dd>"Geez, you really don't remember"</dd>
+<dd>"Maybe as that tiny princess back then, you received too big of a shock"</dd>
+<dt>MC</dt>
+<dd>"Back then?"</dd>
+<dt> </dt>
+<dd>Navi thought for a while, and then slowly opened his mouth.</dd>
+<dt>Navi</dt>
+<dd>"...Princess USER_NAME, listen closely"</dd>
+
+[[File:Ch1-illust.png|500px]]
+
+<dt>Navi</dt>
+<dd>"In this world, people live on the power of dreams"</dd>
+<dt>MC</dt>
+<dd>"The power of dreams?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. Strong thoughts, plans for the future... If you could at least understand something like this!"</dd>
+<dd>"The people in this world cannot live without the power of dreams"</dd>
+<dd>"Also, that power is given to the people by the family called the Dream Royal Family"</dd>
+<dd>"Through prayer, dream power is portioned down from the sky and transmitted to the people of this world"</dd>
+<dd>"That dream power becomes spiritual energy, which means that it allows people to live"</dd>
+<dd>"However...."</dd>
+<dd>"Lately, monsters whose true nature we do not know have been appearing and attacking the people"</dd>
+<dd>"They've somehow gotten the name "Dream Eaters""</dd>
+<dd>"Those monsters, as their name suggests, eat peoples' dreams..."</dd>
+<dd>"And so the people who get their dreams eaten, fall into a sleep where they cannot be awakened..."</dd>
+<dd>"Eventually, they lose their lives"</dd>
+<dd>"Lose their lives!?"</dd>
+<dd>"Yes. Because in this world, it's not possible to live without the power of dreams"</dd>
+<dd>"The Dream Eaters seem to be increasing in number, so even now they are attacking many people"</dd>
+<dt>MC</dt>
+<dd>"...."</dd>
+<dd>"I can't believe this...."</dd>
+<dt>Navi</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>Navi looked at me with sad eyes.</dd>
+<dt>Navi</dt>
+<dd>"Princess, you are...-"</dd>
+<dt> </dt>
+<dd>At that moment, Navi's ears perked up.</dd>
+<dt>Navi</dt>
+<dd>"This is... I can feel the power of the royal family"</dd>
+<dt>MC</dt>
+<dd>"Huh!?"</dd>
+<dt> </dt>
+<dd>Where Navi pointed, a blinding light was expanding.</dd>
+<dt>Navi</dt>
+<dd>"Th-that light just now..... Could it be!"</dd>
+<dd>"Princess USER_NAME! Let's go see!"</dd>
+<dt>MC</dt>
+<dd>"Huh... W-wait.....!"</dd>
+</dl>
+
+|-| 1-2 =
+== The beginning of an unseen dream ② ==
+<dl>
+<dt>Navi</dt>
+<dd>"I definitely felt a presence in this area..."</dd>
+<dt>MC</dt>
+<dd>"W-wait!"</dd>
+<dt>Navi</dt>
+<dd>"!!"</dd>
+<dd>"Princess USER_NAME....Here!"</dd>
+<dt> </dt>
+<dd>A beautiful ring was scattered at the roots of a small tree.</dd>
+<dt>MC</dt>
+<dd>"This is?"</dd>
+<dt> </dt>
+<dd>Navi gathered up the ring and held it up to the light.</dd>
+<dt>Navi</dt>
+<dd>"This is, without a doubt, a ring of a royal family."</dd>
+<dt>MC</dt>
+<dd>"Royal family?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. Well, it's different than the dream royal family"</dd>
+<dd>"This ring is...-"</dd>
+<dt> </dt>
+<dd>At that moment, Navi's ears stood straight up.</dd>
+<dt>Navi</dt>
+<dd>".....Princess, Dream Eaters are coming"</dd>
+<dt>MC</dt>
+<dd>"Dream eaters? The monsters you mentioned earlier that eat up dreams?"</dd>
+<dt> </dt>
+<dd>From the shadows of the brush around where the ring fell, darkness began to swell out.</dd>
+<dd>After that......</dd>
+<dt>MC</dt>
+<dd>"!?"</dd>
+<dt> </dt>
+<dd>The quiet space began to warp.</dd>
+<dd>In the heart of the warp, darkness swelled, and the forms which appeared within it were...</dd>
+<dt>Navi</dt>
+<dd>"It's them! The Dream Eaters!!"</dd>
+<dt> </dt>
+<dd>Evil eyes gleamed in the darkness.</dd>
+<dd>Unluckily, my feet froze.</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME! Watch out!!!"</dd>
+<dt> </dt>
+<dd>Navi flew into me, knocking me to the ground.</dd>
+<dt>MC</dt>
+<dd>"....h!"</dd>
+<dt> </dt>
+<dd>(That hurt..... This isn't a dream?)</dd>
+<dt>Navi</dt>
+<dd>"Princess! Run away!! Hurry!!!"</dd>
+<dt>MC</dt>
+<dd>"......!"</dd>
+<dt> </dt>
+<dd>The evil darkness progressed towards Navi.</dd>
+<dt>MC</dt>
+<dd>"Stop!!!"</dd>
+<dt> </dt>
+<dd>Without thinking, I clasped my hands before my breast and shouted.</dd>
+<dd>At that moment...-.</dd>
+<dt>MC</dt>
+<dd>"!!"</dd>
+<dt> </dt>
+<dd>The ring resting on my chest imparted a strong light, and caused the darkness to disperse.</dd>
+<dt>Navi</dt>
+<dd>"Princess, that light is....!!"</dd>
+<dt>MC</dt>
+<dd>"Wh-what!?"</dd>
+<dt> </dt>
+<dd>As if responding to the light, the ring Navi picked up earlier began to emit a bright light.</dd>
+<dd>A young man appeared, his hair shining in the midst of the light.</dd>
+<dt>??</dt>
+<dd>"......Where am I....?"</dd>
+<dt> </dt>
+<dd>The ring from before was on his ring finger.</dd>
+<dt>Navi</dt>
+<dd>"You're Prince Avi!"</dd>
+<dt>MC</dt>
+<dd>"P-prince?"</dd>
+<dt>Navi</dt>
+<dd>"He's the prince of the country we're in now, the Country of Knights, Alstoria!"</dd>
+<dd>"Princess USER_NAME, you're definitely...-"</dd>
+<dt>Avi</dt>
+<dd>"...... Save the chitchat for later. Let's do something about these guys first"</dd>
+<dt> </dt>
+<dd>Once again, the ill-omened darkness swelled up in front of us.</dd>
+<dt>Navi</dt>
+<dd>"That's right....! Princess USER_NAME! Give your power to Prince Avi!"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Navi</dt>
+<dd>"You should be able to bestow dream power on Prince Avi!"</dd>
+<dt>MC</dt>
+<dd>"M-me!? Why!?"</dd>
+<dt>Navi</dt>
+<dd>"I beg of you! Please believe what I'm saying!"</dd>
+<dt> </dt>
+<dd>Navi turned a serious gaze on me.</dd>
+<dt>MC</dt>
+<dd>"What should I.....!?"</dd>
+<dt>Navi</dt>
+<dd>"It's alright! Just think strongly in your heart that you want Prince Avi to win...-!"</dd>
+<dt>Avi</dt>
+<dd>"Hey! Look out! ..... They're coming!"</dd>
+<dt> </dt>
+<dd>Still not fully comprehending the situation, I clasped my hands together against my chest and prayed...-.</dd>
+<dt>Avi</dt>
+<dd>".....Looks like we've defeated them"</dd>
+<dd>"Are you hurt anywhere?"</dd>
+<dt> </dt>
+<dd>The youth called Avi, still holding his sword, turned eyes of concern on me"</dd>
+<dt>MC</dt>
+<dd>"Y-yes"</dd>
+<dt>Navi</dt>
+<dd>"Prince Avi"</dd>
+<dd>"I am a butler who serves Princess USER_NAME, Navi"</dd>
+<dt> </dt>
+<dd>Navi gave a polite greeting.</dd>
+<dt>Avi</dt>
+<dd>"Th-the stuffed animal is talking....!"</dd>
+<dt> </dt>
+<dd>(So it's not just me)</dd>
+<dt>Navi</dt>
+<dd>"I-I am not a stuffed animal!"</dd>
+<dt>Avi</dt>
+<dd>"Well, no matter how I look at you..."</dd>
+<dt>Navi</dt>
+<dd>"More importantly! Thank you for saving us"</dd>
+<dt>Avi</dt>
+<dd>"Nah... It was me who got saved"</dd>
+<dd>"Once I received notice that Dream Eaters had come out, I rushed over here"</dd>
+<dd>"The number of Dream Eaters was more than I could have imagined, and I got cornered"</dd>
+<dt>Navi</dt>
+<dd>"The light we saw was definitely a light that Prince Avi's ring emitted at that time"</dd>
+<dt>Avi</dt>
+<dd>"Yeah, the moment I got done in by the Dream Eaters, this ring released an amazing light"</dd>
+<dd>"I got absorbed into the ring... No, I was sealed in it"</dd>
+<dt>Navi</dt>
+<dd>"That must have been the work of the divine protection of the Dream King"</dd>
+<dt>MC</dt>
+<dd>"Divine Protection?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. It resides in the rings of the royal family's princes so that they don't get their dreams taken away, "</dd>
+<dt> </dt>
+<dd>Thinking for a bit, then nodding, Avi returned his gaze to me.</dd>
+<dt>Avi</dt>
+<dd>I could feel stuff going on outside, but I couldn't see anything. While wandering in the pitch black darkness.... I felt your power"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"The power overflowing from that ring of yours. I could even feel it during the battle just now...."</dd>
+<dd>"I believe that it was that which pulled me out of my ring into the light"</dd>
+<dd>"What are you?"</dd>
+<dt>Navi</dt>
+<dd>Prince Avi, Princess USER_NAME is the princess of Träumere"</dd>
+<dt>MC</dt>
+<dd>"!?"</dd>
+<dt>Avi</dt>
+<dd>"Princess?"</dd>
+<dd>"I heard the princess of Träumere went missing 18 years ago, though...?"</dd>
+<dt>Navi</dt>
+<dd>"Yes... The truth is, she was moved to a parallel universe"</dd>
+<dt>Avi</dt>
+<dd>"Parallel universe? This sounds like a story from a dream"</dd>
+<dd>"The power from before is the real thing"</dd>
+<dt>MC</dt>
+<dd>"N-no, I'm just...-"</dd>
+<dt>Navi</dt>
+<dd>"Why, of course it's the real thing!"</dd>
+<dd>"Please look at this"</dd>
+<dd>Navi pointed at the ring resting on my breast.</dd>
+<dd>"This is.... the ring of the royal family of the Dream Kingdom Träumere"</dd>
+<dt>MC</dt>
+<dd>"Huh!?"</dd>
+<dd>"This is... my good luck charm I've owned and never taken off ever since I was small, though?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. This ring has been protecting you all this time"</dd>
+<dt> </dt>
+<dd>Navi touched my ring with his paw.</dd>
+<dt>Navi</dt>
+<dd>"This is, without a doubt, the ring of the Dream Rulers"</dd>
+<dd>"Princess's parents.... When the previous rulers passed on, the ring of the dream kingdom also was lost"</dd>
+<dt>MC</dt>
+<dd>"H-hold up. As for me, I have parents in the other world!"</dd>
+<dt>Navi</dt>
+<dd>"Your parents are, without a doubt, the previous rulers of the Dream Kingdom"</dd>
+<dt>MC</dt>
+<dd>"No way...-"</dd>
+<dt>Navi</dt>
+<dd>"That's right, and even an older brother...-"</dd>
+<dt>MC</dt>
+<dd>"Huh!?"</dd>
+<dt>Navi</dt>
+<dd>"...... You don't remember this either?.... Is that so"</dd>
+<dd>"In any case... Princess. You are the princess of the Dream Kingdom of Träumere"</dd>
+<dt>MC</dt>
+<dd>"Hold on...-"</dd>
+<dt>Navi</dt>
+<dd>"So many moons have passed, and I've gotten used to being separated from you"</dd>
+<dd>"But being able to meet you like this...."</dd>
+<dt> </dt>
+<dd>Navi looked at me straight on, and I became speechless.</dd>
+<dd>"Prince Avi. You are aware that the prayers of the Dream King are gathered in the ring of your royal family, correct?"</dd>
+<dd>"Yeah. The royal family governs the country justly, brings peace upon the earth, and bestwos blessings upon the people using the power of dreams.... is what they say"</dd>
+<dt>Navi</dt>
+<dd>"Yes. Having the divine protection of that ring allows your royal family to protect the citizens, and divide the dream power among them"</dd>
+<dd>"Also, the princess's ring protects the royal families, and bestows dream power upon the royal families"</dd>
+<dt>Avi</dt>
+<dd>"..... Yeah. I definitely felt a brimming power when she was praying"</dd>
+<dt>Navi</dt>
+<dd>"Yes, the princess was, probably unconsciously, binding a sign"</dd>
+<dt>MC</dt>
+<dd>"A sign? I didn't do anything like...-"</dd>
+<dt>Navi</dt>
+<dd>"Was it something like this?"</dd>
+<dt> </dt>
+<dd>Navi put his front paows together in front of his chest.</dd>
+<dd>(That's a sign?)</dd>
+<dt>Avi</dt>
+<dd>"The power to bestow dreams, huh"</dd>
+<dt> </dt>
+<dd>Avi looked at me incredulously.</dd>
+<dt>Navi</dt>
+<dd>"Yes. It's the power of the Dream Royal Family.</dd>
+<dd>"And that is the key to saving this world"</dd>
+<dt>MC</dt>
+<dd>"..... Saving the world?"</dd>
+<dt> </dt>
+<dd>"Just like before when Avi defeated the Dream Eaters..."</dd>
+<dt>Navi</dt>
+<dd>"Nobody but the people of the royal family who hold a ring with the divine power of the Dream King residing in it can defeat Dream Eaters"</dd>
+<dd>"And what magnifies that power is the ring of the dream king that the princess has"</dd>
+<dt>MC</dt>
+<dd>"W-wait!!"</dd>
+<dt> </dt>
+<dd>Dream Royal Family? Princess? Dream Eaters?</dd>
+<dd>My head was full of chaos, and I kept blinking.</dd>
+<dt>MC</dt>
+<dd>"Even if this wasn't a dream, I am not a person of this world"</dd>
+<dd>"I'm not a princess either, and I have my own parents"</dd>
+<dd>"Please tell me. How can I return to my former world!?"</dd>
+<dt> </dt>
+<dd>Avi let out a small sigh watching me speak.</dd>
+<dt>Avi</dt>
+<dd>"That's what I'm saying"</dd>
+<dt>Navi</dt>
+<dd>"Princess....."</dd>
+<dt> </dt>
+<dd>Navi gave an extremely sorrowful smile.</dd>
+<dt>Navi</dt>
+<dd>"That's right... Since you've been in a different world this entire time, and have been suddenly taken here...."</dd>
+<dt>MC</dt>
+<dd>"Transported? Then were you the one who called me?"</dd>
+<dt>Navi</dt>
+<dd>"N-no! That was just a figure of speech.....!"</dd>
+<dt>MC</dt>
+<dd>"Please! Return me to my former world!"</dd>
+<dt>Navi</dt>
+<dd>"...."</dd>
+<dd>".... I am unable do that"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Navi</dt>
+<dd>"I don't have the power to send you back to your previous world"</dd>
+<dt>MC</dt>
+<dd>"No way....!!"</dd>
+<dt>Navi</dt>
+<dd>"Princess... I completely understand if you're hesitant after suddenly coming into this world and going through all of this"</dd>
+<dd>"However, other than princess USER_NAME's power, there is no other method to save this world!"</dd>
+<dd>"I beg of you! Please lend us your strength!!"</dd>
+<dt> </dt>
+<dd>(Navi....)</dd>
+<dt>Avi</dt>
+<dd>"Shall we test this out?"</dd>
+<dt>MC</dt>
+<dd>"Avi?"</dd>
+<dt> </dt>
+<dd>Avi's gaze pointed towards the spot where the dream eaters were defeated before.</dd>
+<dd>Laying there were...</dd>
+<dt>MC</dt>
+<dd>"Rings....?"</dd>
+<dt> </dt>
+<dd>Two beautiful rings twinkled brightly, reflecting the light of the sun.</dd>
+<dt>Avi</dt>
+<dd>"They fell from the dream eaters just now"</dd>
+<dd>"There must have been royalty other than me who got done in by those guys"</dd>
+<dd>"Do you truly hold the power of the Dream Royal Family? How about trying it out one more time?"</dd>
+<dt> </dt>
+<dd>Avi gathered the rings and handed them over to me.</dd>
+<dt>MC</dt>
+<dd>"...."</dd>
+<dt>Avi</dt>
+<dd>"Try it. You may e able to save them"</dd>
+<dt> </dt>
+<dd>He took my hand.</dd>
+<dt>Avi</dt>
+<dd>"Please"</dd>
+<dt>Navi</dt>
+<dd>"All you have to do is wish.... Just like last time. Please, Princess..."</dd>
+<dt> </dt>
+<dd>(... If I just have to wish)</dd>
+<dd>Hesitantly, I grasped my hands before my chest again.</dd>
+<dd>As if responding to my ring, the two rings emitted light...-.</dd>
+</dl>
+
+|-| 1-3 =
+== The beginning of an unseen dream ③ ==
+<dl>
+<dt>??</dt>
+<dd>"Ooh....."</dd>
+<dd>"Where is this....?"</dd>
+<dt> </dt>
+<dd>In the bright light, two men were standing stock still.</dd>
+<dt>Navi</dt>
+<dd>"You two are.... Prince Luke and Prince Medi, right?"</dd>
+<dt>Medi</dt>
+<dd>"Indeed! I am the third prince of Freshian of the Country of Art, Medi!"</dd>
+<dt>??</dt>
+<dd>"....."</dd>
+<dt>Avi</dt>
+<dd>"In any case, your powers are the real thing. It's the power of Träumere to bestow dreams."</dd>
+<dt>Medi</dt>
+<dd>"Träumere? Who in the world are you?"</dd>
+<dt>Navi</dt>
+<dd>"The truth is....."</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>......</dd>
+<dt>Medi</dt>
+<dd>"I see.... Then, this young lady is Träumere's long-lost princess!"</dd>
+<dt>MC</dt>
+<dd>"I...."</dd>
+<dt> </dt>
+<dd>When I didn't say anything after that....</dd>
+<dt>Luke</dt>
+<dd>"I'm Luke. Prince of Muse of the country of music.</dd>
+<dt> </dt>
+<dd>The other prince who appeared from the ring gently said to me.</dd>
+<dt>Luke</dt>
+<dd>"For certain reasons I was away from my country, and I got assaulted by the Dream Eaters"</dd>
+<dd>"Even now, I can feel the gentle guiding power from your ring that brought me back to the light"</dd>
+<dt> </dt>
+<dd>(Is it really me? This ring....?)</dd>
+<dt>Navi</dt>
+<dd>"Princess, do you understand now?"</dd>
+<dd>"I've been hearing news of many princes all over this world who have already had their dreams devoured"</dd>
+<dd>"The hope of this world, the princes who hold the right as heir to the throne"</dd>
+<dd>"Dream Eaters don't differentiate people,.... However they do specially target princes with rings"</dd>
+<dd>"However, as we were saying earlier, in this world, after the princess, the princes also are able to oppose the Dream Eaters"</dd>
+<dd>"First we must awaken the princes who are sleeping"</dd>
+<dd>"Princess! Please, if there's any way, save this world.....!"</dd>
+<dt>MC</dt>
+<dd>"I.."</dd>
+<dt> </dt>
+<dd>An uncomfortable silence dominated the air.</dd>
+<dt>Medi</dt>
+<dd>"Ah~ In any case! Princess, you are my benefactor! I earnestly invite you to visit my country!"</dd>
+<dt> </dt>
+<dd>Medi broke the silence.</dd>
+<dt>Avi</dt>
+<dd>"You said you were from Frecian, right?"</dd>
+<dt>Medi</dt>
+<dd>"That's right! Where are we now?"</dd>
+<dt>Avi</dt>
+<dd>"Alstoria"</dd>
+<dt>Medi</dt>
+<dd>"What the! Isn't this that famed land of the country hicks!! It's so far way from the capital of the arts, my country of Frecian...."</dd>
+<dt>Avi</dt>
+<dd>"Say that again and I'll cut you"</dd>
+<dt>Navi</dt>
+<dd>"P-prince Medi! That person is Prince Avi, the prince of this country"</dd>
+<dt> </dt>
+<dd>Navi whispered into his ear.</dd>
+<dt>Medi</dt>
+<dd>"......"</dd>
+<dd>"Oh my what a wonderful country! So green and the air is so fresh!"</dd>
+<dt>Luke</dt>
+<dd>"You're a real person of convenience, huh"</dd>
+<dt>Navi</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>Suddenly Navi's ears stood up.</dd>
+<dt>Avi</dt>
+<dd>"What's wrong?"</dd>
+<dt>Navi</dt>
+<dd>"I feel an ominous presence"</dd>
+<dd>"It looks like they're heading away from this place.... But they're going towards the east"</dd>
+<dt>Avi</dt>
+<dd>"The east... That's where my castle is!!"</dd>
+<dt>Medi</dt>
+<dd>"Prince Avi!! Isn't that terrible!"</dd>
+<dt>Avi</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>Avi's eyes wavered, and he looked at me.</dd>
+<dt>Avi</dt>
+<dd>"I beg of you. Please lend me your power"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"I want you to lend me your power"</dd>
+<dd>"Lately, the number of Dream Eaters has exploded. I'm ashamed to say this, but I was also done in by them once"</dd>
+<dd>"But if we had your power"</dd>
+<dt>MC</dt>
+<dd>"Avi...."</dd>
+<dt> </dt>
+<dd>I couldn't avert my eyes from Avi's serious gaze.</dd>
+<dt>Avi</dt>
+<dd>"I won't put you in danger. I promise to protect you"</dd>
+<dd>"My country is in danger! I beg of you...."</dd>
+<dt> </dt>
+<dd>At his grave expression, my chest felt a pang.</dd>
+<dt>Navi</dt>
+<dd>"Princess, I also humbly request.... This is something only you can do"</dd>
+<dt> </dt>
+<dd>(Avi saved me earlier)</dd>
+<dd>(If I can help him in any way)</dd>
+<dd>I nodded slightly.</dd>
+<dt>Avi</dt>
+<dd>".... Thanks"</dd>
+<dt> </dt>
+<dd>Avi smiled gently at me.</dd>
+<dt>Medi</dt>
+<dd>"If it's like that, I shall help out too!"</dd>
+<dt>Luke</dt>
+<dd>".... I don't know if I'll be of any use, but I feel obliged to help"</dd>
+<dt>Navi</dt>
+<dd>"Well then, let's hurry and set off!"</dd>
+<dt> </dt>
+<dd>......</dd>
+<dd>Then, we began to head towards Alstoria's castle.</dd>
+<dd>The me at that time still didn't know</dd>
+<dd>The tragic things to come that I would soon come upon.</dd>
+<dd>Also that this was not even the beginning of this continuing dream....</dd>
+<dd>Chapter 1 end</dd>
+</dl>
+
+</tabber>

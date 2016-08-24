@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 130
+|name = Martin
+|name_jp = マルタン
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 504
+|hp_max = 995
+|hp_break = 1298
+|atk_base = 285
+|atk_max = 463
+|atk_break = 604
+|rp_base = 337
+|rp_max = 463
+|rp_break = 604
+|lskill_name = ブランデークルーズ
+|lskill_desc = Increase Red & Green HP & RP by 20%
+|skill_name = キルシュワッサー
+|skill_desc = Recover time & HP
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 895
+|hp_max_s = 1213
+|hp_break_s = 1556
+|atk_base_s = 440
+|atk_max_s = 495
+|atk_break_s = 635
+|rp_base_s = 440
+|rp_max_s = 565
+|rp_break_s = 724
+|lskill_name_s = 幻惑の夏夜
+|lskill_desc_s = Increase Red & Green HP & RP by 25%
+|skill_name_s = カルヴァドス
+|skill_desc_s = Recover time & HP
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 895
+|hp_max_m = 1064
+|hp_break_m = 1364
+|atk_base_m = 440
+|atk_max_m = 565
+|atk_break_m = 724
+|rp_base_m = 440
+|rp_max_m = 565
+|rp_break_m = 724
+|lskill_name_m = 微酔の夏夜
+|lskill_desc_m = Increase Red & Green HP & RP by 20% and ATK by 10%
+|skill_name_m = オードヴィ
+|skill_desc_m = Recover time & HP
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Marine Sand Story
+|original = [[Martin]]
+|desc = ブランデーの国・ヴァンブリュレの王子。大人の余裕と包容力を持つ。アンキュラの綺麗な海を見せたくて、あなたをリゾート地へ誘う。好きな相手を喜ばせるために意外と必死になる一面も。
+|bg = マルタンに誘われ、リゾート地へ訪れたあなた。クルーズでブランデーを楽しみながら彼と大人の海デート。だけど、あなたは大人の彼と自分を比べてしまい…
+}}
+
+== Story ==
+{{Choice
+|title2 = フルーツブランデー
+|choice21s = 船からの眺めも素敵
+|points21s = 8
+|choice21m = 大人の世界に思える
+|points21m = 8
+|title3 = イルカの恋人達
+|choice31m = うれしいです
+|points31m = 4
+|choice31s = かわいいですね
+|points31s = 4
+|choice32s = ドキドキする
+|points32s = 8
+|choice32m = どうしていいかわからなくて
+|points32m = 8
+|title4 = 人魚の涙
+|choice41s = すごい宝が出てきそう
+|points41s = 12
+|choice41m = さすが海賊の国……
+|points41m = 12
+|title5 = 船上ディナー
+|choice51m = ついはしゃいじゃって
+|points51m = 16
+|choice51s = 可愛らしいって……
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_130s.jpg}}
+{{Still|text=Moon Still|img=Still_130m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = おや、遊びにきてくれたのかい？
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここでゆっくり過ごすのも良さそうだな。あの泉にボートを浮かべてさ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = かわいい格好できたね。俺を誘惑してるのかな？
+|WELCOME_PARTY_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君のためにこの夜空にメッセージを打ち上げるから、まばたきをしちゃだめだよ
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 聞き分けのない我侭を聞かせてくれないかい……そんな君を甘やかしたいんだ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 結構無茶をするね
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 中身の確認は後でもいいかな？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = じゃあ、俺の手をとって……一緒に
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 大人しく俺の後ろにいるのは嫌かい？
+|CHAIN_GREAT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = おっと、危ない！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 大人げないね
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = せっかくの君との時間…邪魔はさせないよ
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の笑顔があればいいよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = バカンスの邪魔とはナンセンスだ
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = そんな表情もできるんだね……いいね
+|CARD_DETAIL_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = じゃあ、バカンスの続きをしよう
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 一息いれようか
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = さあ、次は何をしようか？なんでも叶えてあげるよ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = かわいい恰好だね……思わず目が眩んだよ！どこに出かけたい？
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 次は船上でディナーにしよう。君の為にとっておきを用意したよ
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = さ、プレゼントしたドレスに着替えてくれるかい？楽しみに待っているよ
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = イルカ達も羨ましそうにしているよ、ほら
+|DECK_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 最高の思い出をつくろうか？
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = じゃあ、頑張っちゃおうかな
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 忘れられない一日にしてあげるよ
+|SKILL_INVOKE_m_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ふふ……お寝坊さんなのかな？　まだ眠たそうな顔をしているよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = そんなに緊張しなくていい…ゆっくりリラックスしに、ここに来たんだからね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = いい影が出てきたかな。せっかくだし一杯どうかな？口当たりの軽いやつで
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = どうしたんだい？ちょっと背伸びをしたくなったのかな？じゃあ続きを見せて
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 大人の極上の休日……体験してみるかい？君はいつも、頑張り屋さんだからね
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 海の上ってのは、開放感が煽られるね。そんな気がしないかい？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = おや、まさか誘惑してるのかい？意地悪なんてしてないさ……かわいいね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 本当にいけないお嬢さんだ……冗談だよ。ほら、俺の手を拒むかい？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = カワイイよ。君のすべてが俺を誘惑しているように感じる……違うかな？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 大丈夫、時間はたくさんあるよ。のんびり過ごそう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+}}

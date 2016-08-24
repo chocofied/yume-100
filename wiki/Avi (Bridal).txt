@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 104
+|name = Avi
+|name_jp = アヴィ
+|attribute = Passion
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 673
+|hp_max = 1314
+|hp_break = 1498
+|atk_base = 384
+|atk_max = 623
+|atk_break = 711
+|rp_base = 338
+|rp_max = 463
+|rp_break = 528
+|lskill_name = 約束の剣
+|lskill_desc = Increase Red ATK by 50%
+|skill_name = セイブ・ザ・ブライド
+|skill_desc = Erase middle rows beads, increase own ATK for 1 turn
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 1183
+|hp_max_s = 1603
+|hp_break_s = 1795
+|atk_base_s = 592
+|atk_max_s = 761
+|atk_break_s = 852
+|rp_base_s = 440
+|rp_max_s = 496
+|rp_break_s = 556
+|lskill_name_s = 運命を紡ぐ強さ
+|lskill_desc_s = Increase Red ATK by 50% and HP by 10%
+|skill_name_s = デスティネ・ブレイド
+|skill_desc_s = Erase middle rows beads, increase own ATK for 1 turn
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 1183
+|hp_max_m = 1459
+|hp_break_m = 1634
+|atk_base_m = 592
+|atk_max_m = 804
+|atk_break_m = 900
+|rp_base_m = 440
+|rp_max_m = 514
+|rp_break_m = 576
+|lskill_name_m = 神をも恐れぬ心
+|lskill_desc_m = Increase Red ATK by 65%
+|skill_name_m = ソウル・ブレイド
+|skill_desc_m = Erase middle rows beads, increase own ATK for 1 turn
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Innocent Bridal
+|original = [[Avi]]
+|desc = 騎士の国・アルストリアの王子。国の代表として、アフロスで催される婚宴の儀に参加する。堅苦しいことは苦手。剣の腕は他国にも知れ渡っており、意外に顔が広い。
+|bg = 婚宴の儀のため、アフロスを訪れたあなたはアヴィと再会する。大勢の人の前で洗礼を受けた際、神官からこの中にあなたの運命の人がいると告げられて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ときめきと寂しさ
+|choice21s = 大丈夫
+|points21s = 8
+|choice21m = 少し疲れた
+|points21m = 8
+|title3 = 洗礼の儀
+|choice31m = 似合ってる?
+|points31m = 4
+|choice31s = 変かな?
+|points31s = 4
+|choice32s = 視線を送り続ける
+|points32s = 8
+|choice32m = 不安に視線を反らす
+|points32m = 8
+|title4 = 運命の人
+|choice41m = アヴィの名を口にする
+|points41m = 12
+|choice41s = アヴィのマントを掴む
+|points41s = 12
+|title5 = 唇が紡ぐ約束
+|choice51s = もう一度、名を呼ぶ
+|points51s = 16
+|choice51m = 微笑んで頷く
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_104s.jpg}}
+{{Still|text=Moon Still|img=Still_104m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = Do you have anywhere you wanna go?... Yeah, let's go sometime.
+|MAIN_TOP_AFTERNOON_GREET_jp = どっか行ってみたいところはあるのか？……ああ、いつか行こうぜ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Good morning. You've got bed hair, y'know? Haha.. Don't get mad at me for that
+|MAIN_TOP_MORNING_GREET_jp = おはよう。寝癖ついてるぞ？ははっ……そんな怒んなって
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = Rest well. I wanna see you healthy tomorrow.
+|MAIN_TOP_EVENING_GREET_jp = ゆっくり休めよ。明日また、元気な顔見せろ
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = Are you into that kind of thing after all? You know... That becoming a blushing bride thing
+|CARD_DETAIL_jp = お前もやっぱ、憧れるのか？　その……幸せな花嫁ってやつに
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = Whatever anyone says... I'm not planning to ever leave you.
+|MAIN_TOP_TOUCH_s_1_jp = たとえ誰が何て言ったって……俺はお前から離れるつもりはねえよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = I don't really know much about marriage and stuff... But, I do know that I want to make you smile.
+|MAIN_TOP_TOUCH_1_jp = 結婚とか……よくわかんねえよ。けど、お前には笑ってて欲しい、とは思う
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = Why are you staring at me like that. Even I'm getting embarrassed.
+|MAIN_TOP_TOUCH_2_jp = 何だよ、そんなじっと見て。俺だって、ちょっと恥ずかしいんだよ
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_START_en = Alright, I'm counting on you.
+|BATTLE_START_jp = よし、お前も頼むな
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = Make sure of it.
+|BATTLE_RESULT_jp = しっかり確認しろよ
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = It's pretty.. isn't it?
+|CHAIN_EXCELLENT_jp = 綺麗……なんじゃねえの？
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = Haa!
+|BATTLE_ATTACK_jp = はあっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = Don't get all flustered.
+|CHAIN_NICE_jp = 焦らなくて大丈夫だ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = Haha.. You're like yourself again.
+|CHAIN_GREAT_jp = ははっ……お前らしくなってきたじゃねえか
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = What's up? Are you still anxious? .... Give me a smile
+|MAIN_TOP_TOUCH_m_1_jp = どうした？　まだ何か不安か？　……笑っててくれよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = My role is to protect you. Don't forget that, alright?
+|MAIN_TOP_TOUCH_m_2_jp = お前のことを守るのは、俺の役目だ。忘れんなよ？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = I'll never forgive anyone who hurts you... So don't worry
+|MAIN_TOP_TOUCH_s_2_jp = お前を傷つける奴は、俺が絶対に許さねえ……だから、安心しろ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = Why are you touching me like that... You look great
+|CARD_DETAIL_s_jp = 何だよ、そんな触れて……綺麗だよ。その格好……
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = Proposal? Wh-what's with that!!!... One day...
+|CARD_DETAIL_m_jp = プロポーズ……？　な、何だよそれ！！　……いつかな
+|CARD_DETAIL_m_clip = 
+|BATTLE_FEVER_TIME_en = We're ready!
+|BATTLE_FEVER_TIME_jp = 準備はできてるぜ！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = Alright! Follow me properly.
+|BATTLE_TURN_END_jp = よっし！　ちゃんとついてこいよ
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = The one who will protect you is nobody else but me.
+|SKILL_INVOKE_m_jp = お前を守るのは、他の誰でもない、俺の役目だ
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = The reason for me to become strong, is just one... For your sake.
+|CARD_ENHANCE_jp = 俺が強くなる理由は、たった一つ……お前のためだ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = I don't care what God says. I'll choose my fated person for myself.
+|CARD_EVOLUTION_s_jp = 神様の言うことなんて知らねえよ。運命の相手は自分で決める
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = Great job. Let's keep working hard next time.
+|BATTLE_CLEAR_jp = お疲れ。次も頑張ろうぜ
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = Why did you come here, I was just going to go get you
+|CARD_TOP_jp = 何だよ、お前の方から来たのか。俺が迎えに行こうと思ってたのに
+|CARD_TOP_clip = 
+|SKILL_INVOKE_en = I won't forgive anyone who hurts you. Bring it!
+|SKILL_INVOKE_jp = お前を傷つける奴は許さねえ。さあ、来い！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = I care if you're a god or whatever, I won't let you get in our way!
+|SKILL_INVOKE_s_jp = 神だろうが何だろうが、俺達の邪魔はさせねえよ！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = Uhh..
+|BATTLE_DAMAGE_jp = うっ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = Thanks!
+|BATTLE_RECOVER_jp = ありがとな
+|BATTLE_RECOVER_clip = 
+|BIRTHDAY_en = Even just trying out saying it is embarrassing, but.... Happy birthday. You're beautiful
+|BIRTHDAY_jp = 改めて言うのも恥ずかしいけど……誕生日、おめでとう。綺麗……だよ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = I promise you, that I'll protect you for your whole life.
+|CARD_EVOLUTION_m_jp = 約束するよ、お前のことは一生、俺が守ってやる
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = Alright, let's go. Why, are you nervous?
+|DECK_jp = さ、行くぞ。何でちょっと緊張してるんだよ
+|DECK_clip = 
+|FRIEND_DETAIL_en = Thanks for coming... Come again next time
+|FRIEND_DETAIL_jp = よく来たな……また、遊びに来てくれよ
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = You shouldn't have... Thanks
+|WELCOME_PARTY_jp = そんなに、気を使わなくてもいいって……ありがとな
+|WELCOME_PARTY_clip = 
+|GUILD_en = It's so relaxing being out in this nice air. Can we do some training?
+|GUILD_jp = ここ空気が綺麗で、落ち着くな……鍛錬でもするか
+|GUILD_clip = 
+}}

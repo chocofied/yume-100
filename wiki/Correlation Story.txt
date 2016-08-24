@@ -1,0 +1,119 @@
+==About==
+* Correlation Stories are stories about the princes with each other.
+* There will be one key prince that unlocks the story when obtained.
+** Other princes may appear but will not unlock the story when obtained
+* Story keys are required to unlock some chapters.
+** Story keys may be obtained from the community fountain, bought at [[Shard Exchange]] for 30 shards, or the chapter may be unlocked by using a gem.
+==Characters==
+
+{|class="wikitable" style="; text-align:left;"
+| style="width:110px;" |'''Key Prince'''
+| style="width:180px;" |'''Other Related Princes'''
+|-
+|[[Jay]]
+|[[Alfred]]
+|-
+|[[Makoto]]
+|[[Sky]]
+|-
+|[[Iria]]
+|[[Miya]]
+|-
+|[[Gary]]
+|[[Girbert]]
+|-
+|[[Capita]]
+|[[Mad Hatter]]
+|-
+|[[Dion]]
+|[[Sefir]]
+|-
+|[[Tiga]]
+|[[Sai]] / [[Lid]]
+|-
+|[[Kaede]]
+|[[Oka]] / [[Hikage]]
+|-
+|[[Haldine]]
+|[[Peco]]
+|-
+|[[Gauche]]
+|[[Droite]]
+|-
+|[[Cheshire Cat]]
+|[[Marchia]]
+|-
+|[[Beul]]
+|[[Vairy]] / [[Vim]]
+|-
+|[[Tell]]
+|[[Will]]
+|-
+|[[Gerald]]
+|[[Jet]] / [[Banri]]
+|-
+|[[Rosso]]
+|[[Douglas]] / [[Orion]]
+|}
+
+==Stories==
+===Jay -Friends Like Wine are Best when Old-===
+* 5 chapters, 3 keys required.
+* Battle in chapter 4.
+{{Still|text=Correlation Still|img=Still_37g.jpg}}
+===Makoto -Master and Pet Dog-===
+* 6 chapters, 4 keys required.
+* Battle in chapter 2.
+{{Still|text=Correlation Still|img=Still_62g.jpg}}
+===Iria -The Trust Conveyed from his Back===
+* 10 chapters, 6 keys required.
+* Battles in chapters 4, 6, and 8.
+{{Still|text=Correlation Still|img=Still_40g.jpg}}
+===Gary -The Brothers of Clairboor-===
+* 10 chapters, 5 keys required.
+* Battle in chapter 1.
+{{Still|text=Correlation Still|img=Still_53g.jpg}}
+===Capita -The Seven Marvels of the Country of Marvel-===
+* 8 chapters, 3 keys required.
+* No battles.
+{{Still|text=Correlation Still|img=Still_90g.jpg}}
+===Dion -The Distance Between Heaven and Earth-===
+* 10 chapters, 5 keys required.
+* Battles in chapters 3 and 5.
+{{Still|text=Correlation Still|img=Still_97g.jpg}}
+===Tiga -Date Plan Showdown!-===
+* 8 chapters, 7 keys required.
+* No battles.
+{{Still|text=Correlation Still|img=Still_45g.jpg}}
+===Kaede -Does the Earth Harden when Rain Falls...?-===
+* 8 chapters, 7 keys required.
+* No battles.
+{{Still|text=Correlation Still|img=Still_120g.jpg}}
+===Haldine -The Two's Small Adventure-===
+* 8 chapters, 7 keys required.
+* No battles.
+{{Still|text=Correlation Still|img=Still_55g.jpg}}
+===Gauche -The Circumstances of the Magicians of East and West-===
+* 8 chapters, 5 keys required.
+* Battles in chapter 6 and 7.
+{{Still|text=Correlation Still|img=Still_126g.jpg}}
+===Cheshire Cat -The Friendship Between Cat and Rabbit-===
+* 8 chapters, 5 keys required.
+* Battles in chapters 5 and 7.
+{{Still|text=Correlation Still|img=Still_73g.jpg}}
+===Beul -It's Better with Everyone than Alone-===
+* 8 chapters, 5 keys required.
+* Battles in chapters 3 and 7.
+{{Still|text=Correlation Still|img=Still_145g.jpg}}
+===Tell -Birds of a Feather-===
+* 8 chapters, 5 keys required.
+* Battles in chapters 5 and 6.
+{{Still|text=Correlation Still|img=Still_177g.jpg}}
+===Gerald -Gerald's Special Training-===
+* 8 chapters, 5 keys required.
+* Battle in ?
+{{Still|text=Correlation Still|img=Still_84g.jpg}}
+===Rosso -The More They Fight, the Better Their Relationship-===
+* 8 chapters, 6 keys required.
+* Battle in chapter ?
+{{Still|text=Correlation Still|img=Still_213g.jpg}}

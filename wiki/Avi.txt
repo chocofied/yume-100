@@ -1,0 +1,218 @@
+== Status ==
+{{Infobox
+|no = 1
+|name = Avi
+|name_jp = アヴィ
+|attribute = Passion
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 303
+|hp_max = 704
+|hp_break = 831
+|atk_base = 173
+|atk_max = 334
+|atk_break = 394
+|rp_base = 157
+|rp_max = 248
+|rp_break = 293
+|lskill_name = 騎士の剣 (Knight's Sword)
+|lskill_desc = Increase Red ATK by 25%
+|skill_name = スラッシュレイン (Slash Rain)
+|skill_desc = Erase middle column beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 634
+|hp_max_s = 951
+|hp_break_s = 1103
+|atk_base_s = 317
+|atk_max_s = 451
+|atk_break_s = 523
+|rp_base_s = 236
+|rp_max_s = 290
+|rp_break_s = 336
+|lskill_name_s = 守護騎士の剣 (Protector Knight's Sword)
+|lskill_desc_s = Increase Red ATK by 35%
+|skill_name_s = ソルハザード (Sol Hazard)
+|skill_desc_s = Erase middle column beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 634
+|hp_max_m = 866
+|hp_break_m = 1005
+|atk_base_m = 317
+|atk_max_m = 471
+|atk_break_m = 546
+|rp_base_m = 236
+|rp_max_m = 305
+|rp_break_m = 354
+|lskill_name_m = 求道者の剣 (Wayseeker's Sword)
+|lskill_desc_m = Increase Red ATK by 35%
+|skill_name_m = ルナブレイク (Luna Break)
+|skill_desc_m = Erase middle column beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Suzumura Kenichi
+|origin = Country of Knight - Alstoria
+|age = 23
+|birth = April 01
+|policy = Simply and vigorously
+|likes = Sword practice
+|dislikes = Feminine guys, hard things
+|desc = The prince of Alstoria, country of knights. He has a brusque and serious personality. His sword arm has made a name for itself even in other countries. The lonely expression he shows sometimes is related to his past.
+|bg = You, who were reintroduced to Alstoria. However, there is a tinge of sorrow in Avi's expression. Coming across a certain portrait, his sad past is revealed.....
+}}
+== Story ==
+{{Choice
+|title2 = アヴィとフラフ
+|choice21s = 何かあったの？
+|points21s = 6
+|choice21m = アヴィの犬じゃないの？
+|points21m = 6
+|title3 = 見えない心
+|choice31m = 心配する
+|points31m = 3
+|choice31s = 笑いかける
+|points31s = 3
+|choice32m = アヴィの頬を撫でる
+|points32m = 6
+|choice32s = にっこり微笑む
+|points32s = 6
+|title4 = 仲直りをしたくて
+|choice41s = お礼を言う
+|points41s = 12
+|choice41m = 呼び止める
+|points41m = 12
+}}
+{{Still|text=Sun Still|img=Still_1s.jpg}}
+{{Still|text=Moon Still|img=Still_1m.jpg}}
+
+== Acquisition ==
+Complete tutorial
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = I can't get used to this... Well, I heard you're choosing. It got me curious.
+|AWARD_EVENT_NOMINATED_jp = こういうのは、慣れねえ…けど、お前が選ぶって聞いて。気になるだろ
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = This is kind of embarrassing.. but thanks. From now on, I'll take good care of you
+|AWARD_EVENT_FAVORITES_jp = なんか照れるけど…ありがとな。これからもお前のこと、大事にするよ
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_1_en = You're a real trouble magnet, y'know. If anything happens, let me know right away, ok?
+|MAIN_TOP_TOUCH_1_jp = お前は本当に危なっかしーからな。何かあったらすぐ俺に言えよ？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = Don't go walking outside at night, alright? If you really have to, tell me first.
+|MAIN_TOP_EVENING_GREET_jp = 夜に一人で出歩くんじゃねえぞ？どうしてもって言うなら、俺に声かけろよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = Alright, let's head out already. It'll be fine, I'm with you.
+|MAIN_TOP_AFTERNOON_GREET_jp = さ、早く出発しようぜ。大丈夫だって、俺がついてるだろ？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Good morning! Did you just wake up? I've already finished my morning sword practice, y'know?
+|MAIN_TOP_MORNING_GREET_jp = おはよう。今起きたのか？俺はもう、剣の稽古をすませてきたぞ？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = It's alright. You don't have to worry, because I'll protect you
+|MAIN_TOP_TOUCH_s_1_jp = …大丈夫だ。心配しなくても、お前は俺が守ってやるよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CHAIN_EXCELLENT_en = Wow, you're amazing! .. I won't lose, either!
+|CHAIN_EXCELLENT_jp = お前、すごいな！…俺も負けねえぞ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = That was a piece of cake. Are you hurt anywhere?
+|BATTLE_RESULT_jp = 楽勝だな。怪我はしてないか？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = Alright! I'm your opponent.
+|BATTLE_START_jp = よし！俺が相手だ
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = What is it? You want me to touch you? Well, I won't hold back, then.
+|CARD_DETAIL_m_jp = 何だよ。俺に触れてほしいのか？…なら、遠慮しねえぞ？
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = I'm telling you not to make that anxious-looking face, I'm right by your side
+|MAIN_TOP_TOUCH_m_1_jp = お前を守るために、俺はもっと強くなる。だから…傍にいろ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = I'm going to get stronger so that I can protect you. So... Stay by my side
+|MAIN_TOP_TOUCH_m_2_jp = そんな不安そうな顔すんなって言ってるだろ、傍にいてやるから
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = What's up all of a sudden? If you come up behind me like that even I'll be surprised.
+|CARD_DETAIL_s_jp = 急にどうしたんだよ。さすがに後ろから来たら、俺だって驚くだろ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = D-don't touch me like that. I won't be able to stand it..
+|MAIN_TOP_TOUCH_s_2_jp = そ、そんなに触んな。我慢できなくなるだろ…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = !! You scared me.. Wait, even you got scared?
+|CARD_DETAIL_jp = …っ！ちょっと、びっくりした…って、お前も驚いてるのかよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = There was a pretty flower? Really.. Oh, it's nothing. Stop making that face.
+|MAIN_TOP_TOUCH_2_jp = 綺麗な花があった？そうか…何でもねぇよ。そんな顔すんなって
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_ATTACK_en = Yaa!
+|BATTLE_ATTACK_jp = ヤぁ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = You're on a roll. Don't get too flustered.
+|CHAIN_NICE_jp = その調子だ。慌てなくていいぞ
+|CHAIN_NICE_clip = 
+|BATTLE_CLEAR_en = Alright! ... Are you hurt anywhere?
+|BATTLE_CLEAR_jp = よっし！…怪我はしてないか？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = Don't get careless!
+|BATTLE_TURN_END_jp = 油断するなよ？
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = Let's go!
+|BATTLE_FEVER_TIME_jp = 行くぞ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = I'll take them all on! Bring it!
+|SKILL_INVOKE_m_jp = 俺がまとめて倒してやる！かかってこい！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = I will protect the things I want to, with my own strength!
+|SKILL_INVOKE_s_jp = 守りたいものは…俺自身の力で守る！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = Do you think you can win against me?
+|SKILL_INVOKE_jp = 俺に勝てると思ってんのか？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = You saved me there!
+|BATTLE_RECOVER_jp = 助かる！
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = Ugh!
+|BATTLE_DAMAGE_jp = …っく！
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = That was great. I'll clean up after you!
+|CHAIN_GREAT_jp = いいじゃねえか。あとは俺が片付ける！
+|CHAIN_GREAT_clip = 
+|CARD_EVOLUTION_s_en = The important things.. I feel like I can protect them now.
+|CARD_EVOLUTION_s_jp = 大切なものを…今なら、守れる気がする
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = I want to become stronger.
+|CARD_ENHANCE_jp = 俺は、もっと強くなりたい
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = You're late. Everything's already ready, so let's go.
+|CARD_TOP_jp = 遅いぞ、お前。もう準備できてるから、早く行こうぜ
+|CARD_TOP_clip = 
+|BIRTHDAY_en = So it's your birthday. Congratulations. I also feel blessed.
+|BIRTHDAY_jp = 誕生日なんだってな。おめでとう。祝えて…俺もうれしい
+|BIRTHDAY_clip = 
+|DECK_en = It's no good if you don't take me along.
+|DECK_jp = お前には、俺がついてないと駄目だろ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = My strength is for protecting everyone, and you... So stay by my side
+|CARD_EVOLUTION_m_jp = 俺の力はみんな、お前を守る為の力だ…だから、傍にいろ
+|CARD_EVOLUTION_m_clip = 
+|FRIEND_DETAIL_en = You get along well with her huh. Thanks for that.
+|FRIEND_DETAIL_jp = お前、あいつと仲良くしてくれてるんだってな。ありがとうな
+|FRIEND_DETAIL_clip = 
+|GUILD_en = Quite a nice place you have here. So, let's practice swordsmanship!
+|GUILD_jp = いい場所じゃねえか。さ、剣の稽古するぞ！
+|GUILD_clip =
+|WELCOME_PARTY_en = My welcome party? You don't need to do it but... thanks.
+|WELCOME_PARTY_jp = 俺の歓迎？いいよ、そんなの…でも、ありがとうな
+|WELCOME_PARTY_clip = 
+}}

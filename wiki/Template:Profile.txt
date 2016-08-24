@@ -1,0 +1,45 @@
+<onlyinclude><dl class="profile">
+<dt>Description</dt><dd>{{{desc| }}}</dd>
+
+<dt>Background</dt><dd>{{{bg| }}}</dd>
+</dl><dl class="profile">{{#if:{{{event|}}}|
+<dt>Event</dt><dd>{{{event| }}}</dd>
+
+<dt>Original</dt><dd>{{{original| }}}</dd>
+|
+<dt>Voice Actor</dt><dd>{{{va| }}}</dd>
+
+<dt>Origin</dt><dd>{{{origin| }}}</dd>
+<dt>Age</dt><dd>{{{age| }}}</dd>
+<dt>Birthdate</dt><dd>{{{birth| }}}</dd>
+<dt>Policy</dt><dd>{{{policy| }}}</dd>
+<dt>Likes</dt><dd>{{{likes| }}}</dd>
+<dt>Dislikes</dt><dd>{{{dislikes| }}}</dd>
+}}</dl><div style="clear:both;"> </div>
+</onlyinclude>
+<noinclude>
+Prince Profile
+<pre>
+{{Profile
+|va = 
+|origin = 
+|age = 
+|policy = 
+|likes = 
+|dislikes = 
+|birth = 
+|desc = 
+|bg = 
+}}
+</pre>
+
+Other Versions
+<pre>
+{{Profile
+|event = 
+|original = 
+|desc = 
+|bg = 
+}}
+</pre>
+</noinclude>

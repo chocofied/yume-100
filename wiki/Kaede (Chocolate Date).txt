@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 204
+|name = Kaede
+|name_jp = 楓
+|attribute = Sexy
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 457
+|hp_max = 888
+|hp_break = 1030
+|atk_base = 290
+|atk_max = 453
+|atk_break = 526
+|rp_base = 322
+|rp_max = 604
+|rp_break = 701
+|lskill_name = デートの口実
+|lskill_desc = Increase Purple HP & RP by 20%
+|skill_name = チョコレートアート
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 799
+|hp_max_s = 1003
+|hp_break_s = 1143
+|atk_base_s = 430
+|atk_max_s = 580
+|atk_break_s = 661
+|rp_base_s = 574
+|rp_max_s = 773
+|rp_break_s = 881
+|lskill_name_s = 想いを込めたチョコ
+|lskill_desc_s = Increase Purple HP & RP by 25%
+|skill_name_s = チョコレートリーフ
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 799
+|hp_max_m = 1039
+|hp_break_m = 1184
+|atk_base_m = 430
+|atk_max_m = 530
+|atk_break_m = 604
+|rp_base_m = 574
+|rp_max_m = 816
+|rp_break_m = 930
+|lskill_name_m = リボンをほどく先に
+|lskill_desc_m = Increase Purple HP & RP by 25%
+|skill_name_m = チョコレートリボン
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Chocolate Date
+|original = [[Kaede]]
+|desc = 四季の国・蓬莱の秋の一族の王子。絵画・彫刻・建築など「芸術」の分野で才能を発揮する天才。気に入った相手ほど、いじめたくなる性格をしている。今回、一緒にいるとインスピレーションが湧くからとあなたをショコルーテに誘う。けれど、誘った本当の理由は別にあるらしい。
+|bg = 楓に誘われ、ショコルーテを訪れたあなた。彼と一緒に街を回り、チョコレートを眺める。あなたの意見を聞いた彼は何かを掴んだ様子で…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 愛の日
+|choice21s = とても素敵です
+|points21s = 6
+|choice21m = なんだか新鮮で……
+|points21m = 6
+|title3 = チョコレートの花束
+|choice31s = 何を思って作ったんだろう
+|points31s = 3
+|choice31m = こんな贈り物をされたら……
+|points31m = 3
+|choice32m = そんなことないです……
+|points32m = 6
+|choice32s = ありがとうございます
+|points32s = 6
+|title4 = リボンの仕掛け
+|choice41m = リボンの仕掛けの話をする
+|points41m = 12
+|choice41s = 花束の話をする
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_204s.jpg}}
+{{Still|text=Moon Still|img=Still_204m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 壊滅的に鈍い君でも…この意味くらいはわかるよね？
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 君のために俺が作るんだから…受け取ってよね
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君がいれば、俺の芸術センスももっと磨かれるのかな
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 何ボーッとしてるの？相変わらずだね…そんなだとキスするよ？ふふっ…
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。チョコレートを贈るよ。俺の想いを込めて……ね？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = ほら、早く。一緒に街を見て回るよ
+|DECK_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = まあ、俺にかかれば当然の出来だよね
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = はあ…しつこいなあ
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = いい発想だ！
+|BATTLE_FEVER_TIME_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 今、君とキスをしたらすっごく甘いだろうね。試してみようか
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 手作りチョコレートを贈ったのなんて君が初めてだよ…嘘じゃないから
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 君の目を通すと、見える世界が変わるんだ。この街並みも、全部
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 驚いたな…食べ物で芸術を表現するなんて。俺も挑戦してみようかな
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = さっさとほどきなよ、ほら。何緊張してるの？ラッピングをほどくだけでしょ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 嫉妬なんてして…そんなに俺のこと、好き？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ねえ。その胸元のリボン…ほどけば君の想いが伝わるんでしょ？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 手作りの方が気持ちが伝わる…？って、俺は何でこんなに悩んで……
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 相変わらず君は鈍いね…まあ、そんなところも可愛いんだけど
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 不躾だな。デートの邪魔をするなんて
+|BATTLE_START_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ぐっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 頑張ったご褒美をあげるよ。はい、あーん
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 君の気持ちは伝わったけど…もっと頑張れる？
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = リボンで繊細なラッピング…芸術的だね
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = チョコレートで作った楓の葉…綺麗でしょ？
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = あのチョコレート、君の目にはどう映る？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = チョコレート？ありがとう
+|BATTLE_RECOVER_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まだまだ。こんなんじゃ、伝わらないよ？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = さて。これを開けたら、何が出てくるんだろうね
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 旅先で君と迎える朝、か…俺、柄にもなく浮かれてるみたい
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 一日歩き回って疲れてるけど…まだ眠らないで君とおしゃべりもいいかもね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 甘いものばっかりで、少し飽きてきた。口直しにキスでもする？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|GUILD_en = 
+|GUILD_jp = チョコレートを渡す場所、ここでもいいかもね。ああ……いや、なんでもないよ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんなにたくさんのチョコレート、どうしたの？俺のため？ふーん、ありがとう
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あの子に、いつになったら俺の気持ちに気付くの？って言っておいてくれない？
+|FRIEND_DETAIL_clip = 
+}}

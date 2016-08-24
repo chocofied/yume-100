@@ -1,0 +1,216 @@
+== Status ==
+{{Infobox
+|no = 224
+|name = Toya
+|name_jp = 凍哉
+|attribute = Cool
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 409
+|hp_max = 804
+|hp_break = 933
+|atk_base = 316
+|atk_max = 493
+|atk_break = 572
+|rp_base = 293
+|rp_max = 551
+|rp_break = 639
+|lskill_name = 冬に見せない笑顔
+|lskill_desc = Recover Skill Gauge every turn (A)
+|skill_name = 氷霜
+|skill_desc = Recovery of HP in accordance to RP (A)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 724
+|hp_max_s = 909
+|hp_break_s = 1036
+|atk_base_s = 469
+|atk_max_s = 631
+|atk_break_s = 719
+|rp_base_s = 524
+|rp_max_s = 706
+|rp_break_s = 805
+|lskill_name_s = 月夜の花畑
+|lskill_desc_s = Recover Skill Gauge every turn (S)
+|skill_name_s = 氷柱
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 724
+|hp_max_m = 941
+|hp_break_m = 1073
+|atk_base_m = 469
+|atk_max_m = 577
+|atk_break_m = 658
+|rp_base_m = 524
+|rp_max_m = 744
+|rp_break_m = 848
+|lskill_name_m = 春の炬燵
+|lskill_desc_m = Recover Skill Gauge every turn (S)
+|skill_name_m = 氷雪
+|skill_desc_m = Recovery of HP in accordance to RP (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|va = Enoki Junya
+|origin = Country of Four Seasons - Hourai
+|age = 
+|birth = 
+|likes = Drinking sake
+|dislikes = Hangovers
+|policy = Good fortune and happiness will come to the home of those who smile
+|desc = 四季の国・蓬莱の冬の一族の王子。笑い上戸な彼だが、笑うことで暖気を呼び込んでしまうため、冬の間は耐えている。
+|bg = 凍哉を目覚めさせ、蓬莱の国を訪れたあなた。ずっと無愛想な彼の様子が心配になる。しかし、彼が笑わないのにはある理由があって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 春待ちの宴
+|choice21m = 寒くないんですか？
+|points21m = 8
+|choice21s = ありがとうございます
+|points21s = 8
+|title3 = 笑えない理由
+|choice31s = 大丈夫です
+|points31s = 4
+|choice31m = まだ少し痛みが……
+|points31m = 4
+|choice32s = どうして？
+|points32s = 8
+|choice32m = 辛くないですか？
+|points32m = 8
+|title4 = そっけない態度の理由
+|choice41m = ごめんなさい
+|points41m = 12
+|choice41s = 面白いですか？
+|points41s = 12
+|title5 = 神渡りの儀式
+|choice51m = 袖を引く
+|points51m = 16
+|choice51s = 手を繋ぐ
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_224s.jpg}}
+{{Still|text=Moon Still|img=Still_224m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = この国の景観は見ていて飽きないと思うよ。せっかくだから、街を歩こうか
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 本当、君って…いや、なんでもないよ。とりあえず行こうか
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 今まで、冬の間は我慢してきたのに…今年は君のおかげで苦しいよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 俺はすぐ笑っちゃうけど、父も母も物静かでなかなか笑わない人だよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 雪が溶けそうなくらい、いい天気だね…たまには外でご飯でも食べる？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ずっと無表情でいると、疲れるんだよね…よく眠れそうだ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = あっはっは！　笑い過ぎてお腹が痛い……っ。はー……いいね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 君の前ではずっとニコニコしちゃう…それと、君を笑わせてみたくなる
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 外、寒かったでしょ？　ほら、早くこたつに入って。ゆっくりしようよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 心おきなく笑っていいと思うと、なんともムズムズするね……フフッ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = なかなかいいんじゃない？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ああ、上手いね！楽しくなってきたよ
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = あははは…すごい、君って面白い
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はぁッ！
+|BATTLE_ATTACK_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = さ、笑って？　……ああ、だめだ！　君が笑うと俺も笑っちゃう
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 変なドジして、笑わせないでね
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 何か面白いものが入っていたら、どうしようか
+|BATTLE_RESULT_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとう、元気になった
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 凍てつく寒さを、体感するといい
+|SKILL_INVOKE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。よく眠れた？　…っ、ちょっと。君、寝癖ついてるよ……！
+|MAIN_TOP_MORNING_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = いらっしゃい。彼女、あんまり俺を笑わせるから罰ゲーム中なんだよ
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = これは賑やかな宴会だね……俺は端の方にいようかな
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは美しいところだね……それに、どれだけ笑っても大丈夫そうだ
+|GUILD_clip = 
+|DECK_en = 
+|DECK_jp = おいで……ごめん、無愛想だったよね
+|DECK_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = よく来たね。転ばないよう、気をつけて？　でないと…
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ふう…どうにか笑わずに済んだ…難儀だなあ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 本当にどうしよう…そろそろ、こらえるのも限界だ…
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 春が来たら…もう、演芸場から舞台から片っ端から見に行く…
+|CARD_EVOLUTION_m_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 春夏秋冬、いつだって…君には笑っていてほしい
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあ、思いっきり笑っちゃおうかな
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = はー……笑った笑った
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 笑い過ぎて疲れちゃったよ
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 君に見せたい景色があるんだ
+|SKILL_INVOKE_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。君といると楽しくて困っちゃう。何でもしてあげたい
+|BIRTHDAY_clip = 
+}}

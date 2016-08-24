@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 226
+|name = Hikage
+|name_jp = 陽影
+|attribute = Passion
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 391
+|hp_max = 709
+|hp_break = 942
+|atk_base = 231
+|atk_max = 410
+|atk_break = 545
+|rp_base = 245
+|rp_max = 435
+|rp_break = 577
+|lskill_name = 別れの季節に
+|lskill_desc = Increase Red ATK & RP by 25%
+|skill_name = 卒業の飾
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 639
+|hp_max_s = 802
+|hp_break_s = 1047
+|atk_base_s = 390
+|atk_max_s = 525
+|atk_break_s = 686
+|rp_base_s = 413
+|rp_max_s = 556
+|rp_break_s = 726
+|lskill_name_s = 桜折紙の木
+|lskill_desc_s = Increase Red ATK & RP by 30%
+|skill_name_s = 桜色の飾
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 639
+|hp_max_m = 830
+|hp_break_m = 1083
+|atk_base_m = 390
+|atk_max_m = 480
+|atk_break_m = 627
+|rp_base_m = 413
+|rp_max_m = 587
+|rp_break_m = 766
+|lskill_name_m = 暖かい海で
+|lskill_desc_m = Increase Red ATK & RP by 30%
+|skill_name_m = 手作りの飾
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = The Changing Seasons
+|original = [[Hikage]]
+|desc = 四季の国・蓬莱の夏の一族の王子。夏を司る王子でその季節を象徴するように明るく開放的。 面倒見がよい性格。たまたま海で面倒をみた子ども達の先生をしている。
+|bg = 陽影から花見の誘いを受け、蓬莱を訪れたあなた。到着してすぐ、急いだ様子の彼に子ども達がたくさんいる広場へ連れて行かれて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 初めて見る彼の顔
+|choice21s = そうだったんですね
+|points21s = 6
+|choice21m = すみません
+|points21m = 6
+|title3 = 今日の授業
+|choice31s = ここまでおいで
+|points31s = 3
+|choice31m = 陽影先生、頑張って
+|points31m = 3
+|choice32m = 袖を引く
+|points32m = 6
+|choice32s = どうしたんですか？
+|points32s = 6
+|title4 = 桜の代わり
+|choice41s = 笑わなくても……
+|points41s = 12
+|choice41m = 見えないですよね……
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_226s.jpg}}
+{{Still|text=Moon Still|img=Still_226m.jpg}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お、宴会か？　いいねいいね。飲めや歌えや……盛り上がろうぜ！
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここ、やっぱりいいところだよなー…！　オマエと一緒だからかな？
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれたな。いま、蓬莱はいい季節なんだぜ。ゆっくりしていけよ
+|FRIEND_DETAIL_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = おお！よく来てくれたな！あれ…もしかして手紙と入れ違いか？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレの方があいつらに教わることがあるんだよなあ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = オマエがいてくれたおかげで、賑やかに送り出してやれそうだ！ありがとな
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = あいつら喜ぶよな。よかった。オマエも一緒に来てくれよな
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = オマエまで先生って言うなよ…恥ずかしい
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう！オマエが教えてくれた紙の花、作ってみたんだ！見てくれよ
+|BIRTHDAY_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = いやいや、さすがに木登りはしなくていいぞ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = オマエにしてほしいことは、こっち！
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = オマエがいてくれてよかった。一人だったら……寂しくて泣いてたかも
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = オマエとはずっと一緒にいたい。な、ずっと一緒にいよう？　いい？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = よし、先生にまかせとけ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = さ、せいせきはっぴょー！
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = なんか…煽られるみたいな形で言っちゃったけど、本当のことだからな！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = また、オマエと二人で先生やって、子ども達と遊びたいな。楽しかっただろ？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 桜の花が咲いたらさ、一緒に見にいこう…期待してるから
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 別れの季節、か。正直寂しいよな…いや、こんな寂しいなんて想像してなかった
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = そうそう、やっぱ華やかでいいよな！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よし、片付いた！　戻るぞ
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 別に、寂しいってわけじゃねーよ…
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = オマエがいたから大丈夫！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = じゃあ、今日は鬼ごっこでもするか
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 次は読み書きの練習な
+|BATTLE_TURN_END_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = いってエ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 本物の先生みたいだな
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = じゃあ、今日は何をしようか！
+|SKILL_INVOKE_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ごめん、オマエのこと呼んでおきながら…子ども達の面倒見るので手一杯で
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 合ってる？　子どもはまあ、嫌いじゃないからなあ…自分の子どもだったら…あっ！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ちょっと柄にもなく寂しいって思ってたから、オマエが早く来てくれてよかった
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = あ、目覚めたか？　あのさ…オマエの寝顔…無防備だよな
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = じゃあ、騒がしいけど、皆で弁当でも食べるか！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = やっと…その…あれだ…二人きりになれたな。なんか意識するとダメだな
+|MAIN_TOP_EVENING_GREET_clip = 
+}}

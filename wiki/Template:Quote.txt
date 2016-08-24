@@ -1,0 +1,17 @@
+<onlyinclude><div style="display: inline-block; position: absolute; right: 10px; top: 25px; max-width: 400px;">
+<div style="background-color: #000000; border: 1px solid black; display: inline-flex; justify-content: space-between; align-items: center; border-radius: 1.5em;">
+<blockquote style="padding: .5em; background-color: #000000; color: #ffffff; margin: .5em 1em 1em .5em; border-radius: 1em; font-size: 9pt;">"{{{en|}}}"
+<br><span style="font-size: smaller;">{{{jp|}}}</span></blockquote>
+<span style="margin: 0 1em 0 0;">[[File:{{{clip|}}}]]</span>
+</div>
+<div style="margin: 0 1.5em 0 auto; border-top: 25px solid #000000; border-left: 15px solid transparent; border-right: 15px solid transparent; content:'.'; color:transparent; width: 0; height: 0;"></div>
+</div></onlyinclude>
+<noinclude>
+<pre>
+{{Quote
+|clip = 
+|en = 
+|jp = 
+}}
+</pre>
+</noinclude>

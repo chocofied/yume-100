@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 12
+|name = Sakia
+|name_jp = サキア
+|attribute = Cute
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 269
+|hp_max = 546
+|hp_break = 645
+|atk_base = 202
+|atk_max = 390
+|atk_break = 460
+|rp_base = 219
+|rp_max = 422
+|rp_break = 498
+|lskill_name = 猛毒の研究者
+|lskill_desc = Additional damage after attack (A)
+|skill_name = 幻覚のプアゾン
+|skill_desc = Increase Yellow beads appearance rate (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 492
+|hp_max_s = 737
+|hp_break_s = 855
+|atk_base_s = 370
+|atk_max_s = 456
+|atk_break_s = 529
+|rp_base_s = 401
+|rp_max_s = 570
+|rp_break_s = 661
+|lskill_name_s = 猛毒の研究者
+|lskill_desc_s = Additional damage after attack (S)
+|skill_name_s = 快楽のプアゾン
+|skill_desc_s = Increase Yellow beads appearance rate (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 492
+|hp_max_m = 639
+|hp_break_m = 741
+|atk_base_m = 370
+|atk_max_m = 526
+|atk_break_m = 610
+|rp_base_m = 401
+|rp_max_m = 570
+|rp_break_m = 661
+|lskill_name_m = 猛毒の研究者
+|lskill_desc_m = Additional damage after attack (S)
+|skill_name_m = 惑乱のプアゾン
+|skill_desc_m = Increase Yellow beads appearance rate (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Ono Kenshō
+|origin = Country of Poison - Morfan
+|age = 27
+|birth = April 06
+|likes = Research
+|dislikes = Food with no flavor
+|policy = If you fall in love do it thoroughly
+|desc = 毒薬国・モルファーンの王子。いつも前髪で表情が見えない。研究が大好きで、城にはサキア専用の研究所がある。研究に没頭して寝食を忘れることもしばしば。
+|bg = サキアの研究のお手伝いをすることになったあなた。毒の知識を教えてもらううちに、彼の人となりに触れていく。サキアのある考えを知ったあなたは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 毒薬研究者
+|choice21s = 力になれずごめんなさい
+|points21s = 6
+|choice21m = 平気です
+|points21m = 6
+|title3 = 僕自身が毒なんだ
+|choice31s = サキアはどう思ってるの？
+|points31s = 3
+|choice31m = 毒薬は全部サキアが作るの？
+|points31m = 3
+|choice32m = 薬を作ってみたら
+|points32m = 6
+|choice32s = そんなことないよ
+|points32s = 6
+|title4 = 優しい毒
+|choice41m = 毒は、毒のまま
+|points41m = 12
+|choice41s = 薬になる
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_12s.jpg}}
+{{Still|text=Moon Still|img=Still_12m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = …研究室に…戻りたいんだけど…あなたは、どう思う…？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 僕を…？そ、そっか…うーん…嬉しい、よ…ありがとう
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = あなたはー…僕に、触りたいの……？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = なんだか…恥ずかしいな……
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = く、くすぐったいよ……
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう……朝陽、まぶしいね……
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ちょっと休憩……あなたも…休む……？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = もう夜だね……僕は、まだ研究があるから…手伝ってくれるの？　嬉しいな……
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = んー……何？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = わっと……大丈夫？
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ほい……
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うわ……
+|BATTLE_DAMAGE_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ……おちつけば……だいじょうぶ…
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あなたが楽しいならー…えっと、続けてもいいよ……
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ……僕も触っていいよね……？　あなたは僕に、触ったからー……
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 急に触られると……びっくりするねー……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = どうしたのー……？　もっときてもいいよ…なんてねー……
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = がんばるよ……
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 毒の材料になるようなもの……あったら、教えて……
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = あなた、すごい……おどろいたな……
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その調子……だいじょうぶ、上手だよ…
+|CHAIN_GREAT_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 僕が強くなった……？　ありがとう…どう、かな……
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = あなたのこと…きっと、守るから…ね……？
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = フフ…これからも、協力…してね……？
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 治った……ありがとう……
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 僕自身が……毒なんだ……
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 毒を以て…毒を、制す……
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 欲しいなら、あげるよ……毒を、たっぷり……
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 今のうち…かな……？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、いけるね……
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よかった……終わった……
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = こんにちは…あ、それは毒だから…触っちゃダメ……
+|CARD_TOP_clip = 
+|DECK_en = 
+|DECK_jp = 毒の力で、あなたを…守れたら、いいな……
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日…おめでとう……あげられるもの、ないかも…僕をあげようか……？
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ありがとう……ちょっと、照れるね……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 僕でよければ……みんなに協力、するよ……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんにちは…あの子が来るまで、ここで…待つ……？
+|FRIEND_DETAIL_clip = 
+}}

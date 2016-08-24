@@ -1,0 +1,112 @@
+== Status ==
+{{Infobox
+|no = 227
+|name = Mysterious Butler
+|name_jp = 謎の執事
+|attribute = Gentle
+|rarity = 5
+|cost = 10
+|lvmax = 41
+|hp_base = 642
+|hp_max = 802
+|hp_break = 802
+|atk_base = 361
+|atk_max = 401
+|atk_break = 401
+|rp_base = 361
+|rp_max = 401
+|rp_break = 401
+|lskill_name = 姫様、お仕え致します
+|lskill_desc = Increase RP by 100% when HP is lower than 20%
+|skill_name = 執事の気持ち
+|skill_desc = Recover skill gauge each turn
+|gold = 5000
+|ring = 10
+}}
+
+== Profile ==
+{{Profile
+|event = April Fools'
+|original = [[]]
+|desc = 立派な髭を持つ年配の男性。あなたに仕える執事、らしい……身のこなしは軽く、飛び蹴りの威力も絶大。全てはあなたの傍に仕えるため。
+|bg = いつも通りの朝、あなたを起こしてくれるのはナビのはずだった…―が、目の前に居たのは、なんと立派な髭を生やした年配の男性！一体誰…―？
+}}
+
+== Quotes ==
+{{Quotes
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 一介の執事にそのような……恐縮でございます
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 姫様、どこへ行かれましたかな？まったくお転婆も過ぎると……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそいらっしゃいませ。すぐに主人を呼んでまいります
+|FRIEND_DETAIL_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 姫様の成長を見守ることが私の一番の幸せでございます
+|BIRTHDAY_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 軽食にメイプルシロップたっぷりのパンケーキでございます。姫様、どうぞ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 姫様。夜更かしはよくありません。明日のために、早くお休みくださいませ…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 姫様、どうなさったのです？まるで幼子のように甘えて……
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = そのようなことは私にお任せを。姫様のお手を煩わせるほどではありません
+|MAIN_TOP_TOUCH_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 汚れ仕事は私にお任せを
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 姫様…あなたにお仕えできて光栄です
+|CHAIN_EXCELLENT_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 姫様は本当に美しい。私のような老骨からすれば、まばゆいばかりです
+|CARD_DETAIL_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 老骨と侮ってもらっては困ります
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 姫様、私が中身を改めますゆえお待ちを
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 下がっていてください
+|CHAIN_NICE_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 目に余りますな
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがたきこと
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = おや、おかわりをご所望ですか？
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 楽しくなってまいりました
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ほっほっほ
+|BATTLE_ATTACK_clip = 
+|DECK_en = 
+|DECK_jp = 地の果てまでも、お供いたします
+|DECK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ふう、一息つきましょう
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 綺麗に片付きましたね
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 姫様、どうしたのです。私の顔に何かついておりますか？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 私もまだまだ若い者には負けませぬ
+|CARD_ENHANCE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 姫様、おはようございます。起きてください。モーニングティーはこちらに
+|MAIN_TOP_MORNING_GREET_clip = 
+}}

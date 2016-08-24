@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 152
+|name = Alfred
+|name_jp = アルフレッド
+|attribute = Sexy
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 375
+|hp_max = 706
+|hp_break = 819
+|atk_base = 318
+|atk_max = 565
+|atk_break = 655
+|rp_base = 302
+|rp_max = 536
+|rp_break = 621
+|lskill_name = ヴァンパイアの仮装
+|lskill_desc = Increase Purple HP & RP by 20%
+|skill_name = スケルトンステッキ
+|skill_desc = Erase random beads and recover HP
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 636
+|hp_max_s = 869
+|hp_break_s = 991
+|atk_base_s = 536
+|atk_max_s = 695
+|atk_break_s = 792
+|rp_base_s = 509
+|rp_max_s = 659
+|rp_break_s = 751
+|lskill_name_s = 本物のヴァンパイア
+|lskill_desc_s = Increase Purple HP & RP by 25%
+|skill_name_s = ヴァンパイアノッテ
+|skill_desc_s = Erase random beads and recover HP
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 636
+|hp_max_m = 798
+|hp_break_m = 910
+|atk_base_m = 536
+|atk_max_m = 723
+|atk_break_m = 824
+|rp_base_m = 509
+|rp_max_m = 686
+|rp_break_m = 782
+|lskill_name_m = 愛らしい猫耳
+|lskill_desc_m = Increase Purple HP & RP by 25%
+|skill_name_m = ミニヨンキャット
+|skill_desc_m = Erase random beads and recover HP
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Fear! Will’s Harvest Festival
+|original = [[Alfred]]
+|desc = ワインの国・ドミニアの王子。一通りの遊びは経験した余裕のある大人。ヴァンパイアの父と人間の母を持つ。今回収穫祭に招待されてロトリアにやってきたが、いい大人が騒ぐのもどうかと悩んでいる。
+|bg = アルフレッドに誘われて、収穫祭に訪れたあなた。彼は収穫祭の仮装パーティに参加することを悩んでいた。そんな彼に、一緒に楽しみたいとあなたが言うと…
+}}
+
+== Story ==
+{{Choice
+|title2 = アルフレッドさんの戸惑い
+|choice21s = 楽しむのが一番
+|points21s = 6
+|choice21m = 一番の吸血鬼になれる
+|points21m = 6
+|title3 = 収穫祭の夕べ
+|choice31m = 食べたいです
+|points31m = 3
+|choice31s = アルフレッドさんは？
+|points31s = 3
+|choice32m = ありがとうございます
+|points32m = 6
+|choice32s = 戸惑う
+|points32s = 6
+|title4 = 大人の対応
+|choice41s = そんなことない
+|points41s = 12
+|choice41m = 何も言えない
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_152s.jpg}}
+{{Still|text=Moon Still|img=Still_152m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = その姿で頑張っていると小さな魔女のようだね
+|CHAIN_GREAT_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = そろそろ、失礼させていただこうかな
+|BATTLE_TURN_END_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = おっと…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 少しだけ血をいただこうか
+|BATTLE_RECOVER_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 妖艶な魔女だったのかな？…美しいよ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ちょっと失礼
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = なぜか…今までにない力が発揮できる気がするよ
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ランタンに灯りが入ったね
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 半分とはいえヴァンパイアだからね
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 今夜の食事は誰にしようか…
+|SKILL_INVOKE_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = では宴に戻ろうか
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 貴女と一緒ならば、幾分は居心地も変わりそうだ。一緒に回ろう
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = では、貴女と一緒に選ぶとしようか……楽しみにしているよ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = さあ、次はどの衣装を試してみようか
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺にとっての、新しい境地かな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = まあ、あの坊やを驚かせるついでに…貴女にもとっておきの思い出を用意しよう
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = せっかくの誕生日…素敵な夜にしよう。少しだけ、背伸びできるかい？
+|BIRTHDAY_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = どうしたのかな？　何を見て…─おや、かわいらしい飴細工があるんだね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さ、準備はできたかい？そろそろ出かけるとしよう…夜だからね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = すごい盛り上がりだね…これに混ざるとなると、気後れしてしまうな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おや、夜が明けるか…では、準備をしないといけないね
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そんなに焦らなくてもいいかな…まずは二人で休憩をとろう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 仮装の為になりそうなものはさすがに入ってないだろう
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = せっかくの衣装が台無しになってしまうよ
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 夜の空気に触れると、ヴァンパイアの血が無性に騒ぎ出す…怖いかい？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 誘惑してきたのは貴女だよ…いまさら、逃げたりはしない…そうだろう？
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 貴女が楽しんでくれるならば、少しは考えないといけないね。ふふっ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ふふふっ。貴女に一番、驚いてもらえたら嬉しいと思っていたんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = いや、本当に…恥ずかしいからあまり、こちらを見ないでくれないか…
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 致し方ない。お相手しよう
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 貴女は時折、とんでもないことを言い出すね…この姿で満足かい？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 俺にこの姿をねだるのは貴女ぐらいだと思うよ…ジェイには見られたくないな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = だいぶ賑やかだね……ちょっと気恥ずかしいな
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ほう……こんな静かな場所があったんだね。月を肴にワインでも飲みたいな
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よくやってきてくれたね……存分に楽しんでおいで
+|FRIEND_DETAIL_clip = 
+}}

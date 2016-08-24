@@ -1,0 +1,219 @@
+== Status ==
+{{Infobox
+|no = 3
+|name = Byakuyo
+|name_jp = 白葉
+|attribute = Sexy
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 274
+|hp_max = 645
+|hp_break = 761
+|atk_base = 189
+|atk_max = 365
+|atk_break = 431
+|rp_base = 164
+|rp_max = 259
+|rp_break = 306
+|lskill_name = 勇猛端麗
+|lskill_desc = Increase Purple ATK by 25%
+|skill_name = 紅梅舞
+|skill_desc = Increase Purple beads appearance rate (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 580
+|hp_max_s = 870
+|hp_break_s = 1009
+|atk_base_s = 347
+|atk_max_s = 493
+|atk_break_s = 572
+|rp_base_s = 246
+|rp_max_s = 303
+|rp_break_s = 351
+|lskill_name_s = 勇猛端麗
+|lskill_desc_s = Increase Purple ATK by 35%
+|skill_name_s = 猛将剣舞
+|skill_desc_s = Increase Purple beads appearance rate (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 580
+|hp_max_m = 793
+|hp_break_m = 920
+|atk_base_m = 347
+|atk_max_m = 515
+|atk_break_m = 597
+|rp_base_m = 246
+|rp_max_m = 319
+|rp_break_m = 370
+|lskill_name_m = 勇猛端麗
+|lskill_desc_m = Increase Purple ATK by 35%
+|skill_name_m = 鸞鳥乱舞
+|skill_desc_m = Increase Purple beads appearance rate (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Morikubo Shoutarou
+|origin = Koubai Country
+|age = ?
+|birth = April 04
+|likes = Beautiful things
+|dislikes = Indecisive men
+|policy = Beauty can't be attained in one day
+|desc = 紅梅国の王子。美しいものを好み、普段は女言葉を使う頼れるオネエ王子様。強く・気高く・美しくを信条としている。戦の最中は荒々しく口調も変わることがある。
+|bg = 白葉に呼ばれ国を訪れたあなた。そこであなたは白葉の婚約者のふりをすることに……さらにそれを取り巻く陰謀に巻き込まれていって…！？
+}}
+
+== Story ==
+{{Still|text=Sun|img=Still_3s.jpg}}
+{{Still|text=Moon|img=Still_3m.jpg}}
+{{Choice
+|title2 = 偽りの許嫁
+|choice21s = 話を合わせる
+|points21s = 6
+|choice21m = 否定する
+|points21m = 6
+|title3 = お見合いを妨害しろ
+|choice31m = 白葉を褒める
+|points31m = 3
+|choice31s = にっこりと微笑む
+|points31s = 3
+|choice32m = 自信がない
+|points32m = 6
+|choice32s = 任せて下さい
+|points32s = 6
+|title4 = 黒い思惑
+|choice41s = 言う
+|points41s = 12
+|choice41m = 言わない
+|points41m = ＋12
+}}
+
+{{Still|text=Sun Still|img=Still_3s.jpg}}
+{{Still|text=Moon Still|img=Still_3m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en =A beauty contest? Then I definitely won't lose! Oh, I'm wrong? 
+|AWARD_EVENT_NOMINATED_jp = 美を競う催し？なら、負けるわけにいかないわ！！あら、違うの？
+|AWARD_EVENT_NOMINATED_clip = 
+|MAIN_TOP_MORNING_GREET_en =Good morning... Don't make such a tired face so early in the morning! Keep your back straight! 
+|MAIN_TOP_MORNING_GREET_jp = おはよう…って、朝から疲れた顔してんじゃないわよ！しゃきっとおし！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Keep your back straight! That's right. If you change your posture, you'll be more calm. 
+|MAIN_TOP_AFTERNOON_GREET_jp = しゃきっとしなさい！そう。姿勢を変えれば気が引きしまるってものよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en =You should sleep early. Staying up late is bad for the skin! How scary~ 
+|MAIN_TOP_EVENING_GREET_jp = 早く寝るわよ。夜更かしはお肌の大敵なんだから！怖いわ～
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en =Whaaat is it? Did you need something from me? 
+|MAIN_TOP_TOUCH_1_jp = なーに？あたしに何か？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =You do strange things at times... 
+|MAIN_TOP_TOUCH_2_jp = あんたって時々おかしなことするわね
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en =Wh-what is it?! Even I can get surprised! 
+|CARD_DETAIL_jp = な、何よ！あたしだってびっくりすることあるわよ！？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en =You really...have far too many openings! 
+|MAIN_TOP_TOUCH_s_1_jp = あんたってほんと…隙がありすぎるわ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en =O-oh? What's the matter? 
+|MAIN_TOP_TOUCH_s_2_jp = あ、あら？どうしたの？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en =Hey now, did you forget that I'm a guy? 
+|CARD_DETAIL_s_jp = あのね、あたしが男ってこと忘れてない？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en =You shouldn't do such things with other guys. It'll cause a misunderstanding, after all! 
+|MAIN_TOP_TOUCH_m_1_jp = そういうこと、他の男にしちゃダメよ？勘違いさせる原因なんだから！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =You are surprisingly mischievous. I don't dislike that part of you though. 
+|MAIN_TOP_TOUCH_m_2_jp = あんたって意外とお茶目よね。嫌いじゃないわよ？そういうの
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en =Whaaat is it? You want to be spoiled? It can't be helped... Come here? 
+|CARD_DETAIL_m_jp = なぁに、甘えてるの？仕方ないわねぇ…来なさい？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en =So who was it that wanted to be in pain!? 
+|BATTLE_START_jp = 痛い目会いたい子はどこかしら！？
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en =As long as I get to see that face of yours, I don't mind. 
+|BATTLE_RESULT_jp = あんたのその顔が見れたなら、ま、いいかしらね
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en =I'll show you how good I am! 
+|CHAIN_NICE_jp = あたしの腕、見せてあげるわ！
+|CHAIN_NICE_clip = 
+|SKILL_INVOKE_s_en =Only those who have the resolve shall follow me! 
+|SKILL_INVOKE_s_jp = 覚悟のあるやつだけついて来い！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_FEVER_TIME_en =Everyone, follow me! 
+|BATTLE_FEVER_TIME_jp = みんな、あたしについてきなさい！
+|BATTLE_FEVER_TIME_clip = 
+|AWARD_EVENT_FAVORITES_en =Because you chose me, I have to show you my cool side. 
+|AWARD_EVENT_FAVORITES_jp = あんたに選んでもらったのなら、カッコいいとこ見せないとね
+|AWARD_EVENT_FAVORITES_clip = 
+|BATTLE_ATTACK_en =Ha! 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en =You're pretty good! 
+|BATTLE_DAMAGE_jp = やるじゃない！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en =Oh my, isn't this lovely♪ Thank you♪ 
+|BATTLE_RECOVER_jp = あら、いいじゃない♪ありがと♪
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en =Take this! 
+|SKILL_INVOKE_jp = くらいなさい！
+|SKILL_INVOKE_clip = 
+|CHAIN_EXCELLENT_en =I won't let you lay even a finger on her. 
+|CHAIN_EXCELLENT_jp = この子には指一本触れさせないわよ
+|CHAIN_EXCELLENT_clip = 
+|SKILL_INVOKE_m_en =You're an eyesore; begone! 
+|SKILL_INVOKE_m_jp = 目障りよ、消えなさい！
+|SKILL_INVOKE_m_clip = 
+|CHAIN_GREAT_en =Somehow, the mood has gone up! 
+|CHAIN_GREAT_jp = 何やら気分が高まってきたわ！
+|CHAIN_GREAT_clip = 
+|BATTLE_TURN_END_en =They're still there? It can't be helped. 
+|BATTLE_TURN_END_jp = まだいるの？しょうがないわねぇ
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en =As expected of myself! You did quite well yourself! 
+|BATTLE_CLEAR_jp = さすがあたし！あんたもよくがんばったわねー！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en =Dear me, don't make such a gloomy face. No matter female or male, the most important thing is; a smile! 
+|CARD_TOP_jp = あら、しけた顔してんじゃないわよ。女も男も大事なのは笑顔よ、笑顔！
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en =I don't think training is necessary... 
+|CARD_ENHANCE_jp = 鍛錬は欠かせないわよね
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en =I'll be the one protecting you, so rest assured. 
+|CARD_EVOLUTION_s_jp = あんたはあたしが守ってあげるから、安心しなさい
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en =You're useless without me, after all. 
+|CARD_EVOLUTION_m_jp = あんたはあたしがいないと、ダメなんだから
+|CARD_EVOLUTION_m_clip = 
+|DECK_en =You've got quite a good sense of style♪ 
+|DECK_jp = なかなかいいセンスしてるじゃない♪
+|DECK_clip = 
+|BIRTHDAY_en =Happy birthday! Look forward to your present after this♪ 
+|BIRTHDAY_jp = 誕生日おめでとー！プレゼントはこの後のお楽しみ♪
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en =Oh? You're having a celebration for me? Fufu, why, thank you♪ 
+|WELCOME_PARTY_jp = あら、あたしを祝ってくれるの？ふふ、ありがと♪
+|WELCOME_PARTY_clip = 
+|GUILD_en =I wonder if there is anything that is good for beauty. Will you look together with me? 
+|GUILD_jp = 美容にいいもの、何かあるかしら？あんたも一緒に探す？
+|GUILD_clip = 
+|FRIEND_DETAIL_en =You're pretty cute yourself♪ Let's get along. 
+|FRIEND_DETAIL_jp = あんたもなかなかカワイイじゃない♪仲良くしてね
+|FRIEND_DETAIL_clip = 
+}}

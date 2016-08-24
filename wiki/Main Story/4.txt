@@ -1,0 +1,1459 @@
+<tabber>
+|-| 4-1 =
+== A beautiful prince ==
+<dl>
+<dt> </dt>
+<dd>Led by the moonlight, we came to the next country.</dd>
+<dt> </dt>
+<dd>(Ah......)</dd>
+<dt> </dt>
+<dd>When we had taken a step off of Moon Road,</dd>
+<dt> </dt>
+<dd>Cherry blossom petals fluttered softly around us.</dd>
+<dt>Medi</dt>
+<dd>"Cherry blossoms have a certain charm, don't they"</dd>
+<dt>Avi</dt>
+<dd>"Cherry blossoms......? What are those"</dd>
+<dt>Hinata</dt>
+<dd>"Jeez, you're such a sword maniac you don't even look at plants?"</dd>
+<dt>Hinata</dt>
+<dd>"Cherry blossoms grow on trees like that one. Aren't their pink petals so pretty?"</dd>
+<dt>Avi</dt>
+<dd>"...... Gotta calm down. He's just a kid"</dd>
+<dt> </dt>
+<dd>Avi balled up his hands into fists.</dd>
+<dt>Navi</dt>
+<dd>"This is the country of Koubai. I hear they don't engage in diplomacy very often, which may be why their culture is a bit different.</dd>
+<dt>MC</dt>
+<dd>"Cherry blossoms...... That makes me nostalgic"</dd>
+<dt>Avi</dt>
+<dd>"Y-you know about them, too!?"</dd>
+<dt> </dt>
+<dd>Leaving Avi behind us reeling in shock, we happily explored the village until...-.</dd>
+<dt>MC</dt>
+<dd>"......!"</dd>
+<dt>Luke</dt>
+<dd>"...... It looks like a hurricane went through here"</dd>
+<dt> </dt>
+<dd>In contrast to the beautiful cherry blossom trees, the town was enveloped in a solemn aura.</dd>
+<dt> </dt>
+<dd>A shiny object caused the air around us to stagnate into dead silence.</dd>
+<dt>Avi</dt>
+<dd>"Could it be, the Dream Eaters got him......?"</dd>
+<dt>Navi</dt>
+<dd>"Those who have hope will be put to sleep......"</dd>
+<dt>Navi</dt>
+<dd>"People sing praises of the dauntless courage of the country of Koubai. They may have been targeted because of that"</dd>
+<dt>Luke</dt>
+<dd>"Look over there"</dd>
+<dt> </dt>
+<dd>Following Luke's gaze, there were many people holding flowers lined up next to each other.</dd>
+<dt>Hinata</dt>
+<dd>"I wonder what they're doing. Let's go see"</dd>
+<dt> </dt>
+<dd>Hinata ran off, all fired up.</dd>
+<dt>MC</dt>
+<dd>"Hinata! Wait up!"</dd>
+<dt>Medi</dt>
+<dd>"What a rowdy boy"</dd>
+<dt>Avi</dt>
+<dd>"Let's go, too"</dd>
+<dt>MC</dt>
+<dd>"Yeah"</dd>
+<dt>Avi</dt>
+<dd>"...... Wait!"</dd>
+<dt> </dt>
+<dd>Our outset checked by Avi, we looked back and...-.</dd>
+<dt>Navi</dt>
+<dd>"H-hurry!"</dd>
+<dt>Luke</dt>
+<dd>"There's quite a number of them"</dd>
+<dt> </dt>
+<dd>As if they had been waiting to ambush us, the Dream Eaters began to assault us...-.</dd>
+<dt>Medi</dt>
+<dd>”Whew...... That surprised me~"</dd>
+<dt>Avi</dt>
+<dd>"Alright, let's go"</dd>
+<dt> </dt>
+<dd>After safely defeating the Dream Eaters, we ran up towards the people.</dd>
+<dt>Avi</dt>
+<dd>"...... What are they offering those flowers to"</dd>
+<dt>Villager</dt>
+<dd>"...... This country's prince, Prince Byakuyo"</dd>
+<dt>Avi</dt>
+<dd></dd>
+<dt> </dt>
+<dd>Absorbing the villager's words, everyone looked forward, and a ring was set there.</dd>
+<dt>Villager</dt>
+<dd>"Prince Byakuyo loved beautiful things, so we are bringing him any flowers we find.</dd>
+<dt>Luke</dt>
+<dd>"A prince who loves flowers...... Sounds like we'd get along"</dd>
+<dt>Medi</dt>
+<dd>"The prince is a cultured man who loves beauty this time!?"</dd>
+<dt>Avi</dt>
+<dd>".... What are you trying to say?"</dd>
+<dt>Hinata</dt>
+<dd>"You already know the answer"</dd>
+<dt>Navi</dt>
+<dd>"Everyone! There are still Dream Eaters!"</dd>
+<dt> </dt>
+<dd>Turning towards Navi's voice, a black shadow once more appeared among the people.</dd>
+<dt>Medi</dt>
+<dd>"They're so stubborn!"</dd>
+<dt> </dt>
+<dd>After safely defeating the Dream Eaters, Avi gently supported my back with his hand.</dd>
+<dt>Avi</dt>
+<dd>"MC, go for it"</dd>
+<dt>MC</dt>
+<dd>"Yes"</dd>
+<dt> </dt>
+<dd>At Avi's urging, I stood before the ring surrounded by flowers.</dd>
+<dt> </dt>
+<dd>With my own ring in my hand, I made the signs with my fingers in prayer, and</dd>
+<dt> </dt>
+<dd>Emitting a strong light, what appeared from it was..-.</dd>
+<dt> </dt>
+<dd></dd>
+<dt>Byakuyo</dt>
+<dd>"......"</dd>
+<dt>Byakuyo</dt>
+<dd>"...... Oh my? I....."</dd>
+<dt>Byakuyo</dt>
+<dd>"U~gh. Why, my hair is a mess!"</dd>
+<dt> </dt>
+<dd>"Huh.....?"</dd>
+<dt> </dt>
+<dd>"Pr..... Prince Byakuyo! You're safe!"</dd>
+<dt> </dt>
+<dd>"You're beautiful even after just being awakened!"</dd>
+<dt> </dt>
+<dd>"Please use this mirror!"</dd>
+<dt>Byakuyo</dt>
+<dd>"I must have worried you all. How thoughtless of me"</dd>
+<dt> </dt>
+<dd>Byakuyo took the mirror and closely examined his reflection.</dd>
+<dt>Byakuyo</dt>
+<dd>"Yes, my makeup also seems to be in disarray. Well, my skin could also use some moisturizing"</dd>
+<dt>Byakuyo</dt>
+<dd>"There IS some beauty balm left at the castle, isn't there?"</dd>
+<dt>Luke</dt>
+<dd>"A prince who loves beautiful things...."</dd>
+<dt>Medi</dt>
+<dd>"One of those fashionable older sisters, huh?"</dd>
+<dt>Hinata</dt>
+<dd>"He's like a really strong-willed girl"</dd>
+<dt>Avi</dt>
+<dd>"He's a prince...... right?"</dd>
+<dt>Byakuyo</dt>
+<dd>"I can hear everything you're saying"</dd>
+<dt> </dt>
+<dd>With that, he directed a pointed look at us.</dd>
+<dt>Byakuyo</dt>
+<dd>"Are you the ones who awakened me?"</dd>
+<dt>Hinata</dt>
+<dd>"It was this girl. How about thanking her?"</dd>
+<dt>Byakuyo</dt>
+<dd>".... Ahh, so it was you"</dd>
+<dt> </dt>
+<dd>His beautiful hair rustling, he turned to look at me.</dd>
+<dt>MC</dt>
+<dd>"Uh.....Um"</dd>
+<dt>Byakuyo</dt>
+<dd>"My♪ Aren't you adorable"</dd>
+<dt> </dt>
+<dd>Byakuyo grabbed my face and took hold of my cheeks.</dd>
+<dt> </dt>
+<dd>"......!"</dd>
+<dt>Byakuyo</dt>
+<dd>"Hmm~, I guess she could use a bit more appeal. Well, that's alright♪She's an uncut jewel"</dd>
+<dt>Byakuyo</dt>
+<dd>"My name is Byakuyo, Bya-ku-yo-o! You don't need to use any honorifics. What is your name?"</dd>
+<dt>MC</dt>
+<dd>"...... I'm MC"</dd>
+<dt>Byakuyo</dt>
+<dd>"What a lovely name. In any case, please come to my castle"</dd>
+<dt>Byakuyo</dt>
+<dd>"As thanks for awakening me from my ring, I'm inviting you to my castle"</dd>
+<dt>MC</dt>
+<dd>"Oh no, it's fine, we didn't do much....."</dd>
+<dt>Byakuyo</dt>
+<dd>"Well! Are you implying that awakening me is not a big deal!?"</dd>
+<dt> </dt>
+<dd>Pressured by his vigor, I......</dd>
+<dt>Avi</dt>
+<dd>"MC, I'm also curious about the state of this country. Let's go, if at least to hear the details"</dd>
+<dt>MC</dt>
+<dd>"...... True"</dd>
+<dt>Byakuyo</dt>
+<dd>"Are you coming or not?"</dd>
+<dt>Hinata</dt>
+<dd>"I'm gonna go play~!"</dd>
+<dt>MC</dt>
+<dd>"Ah.... Hinata!"</dd>
+<dt>Hinata</dt>
+<dd>"You're going anyway, right? Let's just hurry up and go~ I'm tired~!"</dd>
+<dt>Avi</dt>
+<dd>"If you're that tired, just shut up"</dd>
+<dt>Hinata</dt>
+<dd>"You're so noisy, you hillbilly who doesn't even know what cherry blossoms are"</dd>
+<dt>Avi</dt>
+<dd>".... Being from the country and not knowing about flowers isn't even related!"</dd>
+<dt>Byakuyo</dt>
+<dd>"Isn't it wonderful, how honest that boy is? Alright! If we're all decided, please follow me!"</dd>
+<dt>MC</dt>
+<dd>"...... Yes!"</dd>
+<dt>Medi</dt>
+<dd>"Why has he taken a liking to such a boy who doesn't understand aesthetics?"</dd>
+<dt>Avi</dt>
+<dd>"Just leave people who say troublesome things behind"</dd>
+<dt>Hinata</dt>
+<dd>"That's right~♪ Let's leave Medi behind~"</dd>
+<dt>Medi</dt>
+<dd>"Who was the one who let you come along!"</dd>
+<dt>Luke</dt>
+<dd>"Medi, you're being immature. Let's go"</dd>
+<dt> </dt>
+<dd>Byakuyo led us towards his castle..-.</dd>
+<dt> </dt>
+<dd>Section 1 End</dd>
+</dl>
+|-| 4-2 =
+== A powerless princess ==
+<dl>
+<dt> </dt>
+<dd>When we had arrived at Byakuyo's castle, waiting for us was...</dd>
+<dt>Navi</dt>
+<dd>"Of course there are Dream Eaters here!"</dd>
+<dt>Medi</dt>
+<dd>"Isn't this a bit much!"</dd>
+<dt>Avi</dt>
+<dd>"Stop whining, let's do this!"</dd>
+<dt>Byakuyo</dt>
+<dd>"You guys are good"</dd>
+<dt>Byakuyo</dt>
+<dd>"Be beautiful even in war.... That's this country's motto"</dd>
+<dt>Medi</dt>
+<dd>"I am definitely compatible with this country!"</dd>
+<dt>Hinata</dt>
+<dd>"Medi's aesthetics are u~gly"</dd>
+<dt>Avi</dt>
+<dd>"Hey! Don't let your guard down! They're still coming!"</dd>
+<dt>Byakuyo</dt>
+<dd>"That looked like the last of them"</dd>
+<dt>Byakuyo</dt>
+<dd>"It's getting late. Let's talk tomorrow"</dd>
+<dt> </dt>
+<dd>Finally, I was able to rest my body in a room they prepared.</dd>
+<dt> </dt>
+<dd>(I can't believe there are this many Dream Eaters....)</dd>
+<dt> </dt>
+<dd>Even as I succumbed to the unease, I eventually dozed off.</dd>
+<dt> </dt>
+<dd>...</dd>
+<dt> </dt>
+<dd>......</dd>
+<dt> </dt>
+<dd>And the next day...-.</dd>
+<dt> </dt>
+<dd>We gathered in Byakuyo's room, and talked about what had happened until now.</dd>
+<dt>Byakuyo</dt>
+<dd>".... I see. So you're heading to Träumere"</dd>
+<dt>Byakuyo</dt>
+<dd>"But seeing you all fighting, I really felt that we have to do something about the Dream Eaters"</dd>
+<dt>Avi</dt>
+<dd>"I'm glad you understand"</dd>
+<dt>Byakuyo</dt>
+<dd>"Most of the citizens of this country have also been done in by the Dream Eaters, and it's come to such destruction"</dd>
+<dt>Byakuyo</dt>
+<dd>"..... It was such a beautiful country before"</dd>
+<dt>MC</dt>
+<dd>"Byakuyo...."</dd>
+<dt>Byakuyo</dt>
+<dd>"I can't believe I woke up to such a fretful task! I'll get them!"</dd>
+<dt>Avi</dt>
+<dd>"We have to do something to save this country, too"</dd>
+<dt>MC</dt>
+<dd>"Yes, that's right"</dd>
+<dt> </dt>
+<dd>I nodded at Avi, and then...-.</dd>
+<dt>Navi</dt>
+<dd>"MC! Get back!"</dd>
+<dt> </dt>
+<dd></dd>
+<dt> </dt>
+<dd>Darkness spread through the inside of the castle, and the Dream Eaters appeared once again.</dd>
+<dt>Hinata</dt>
+<dd>"U~gh! Get it together!!"</dd>
+<dt>Avi</dt>
+<dd>"Damn...... Get back, MC!"</dd>
+<dt>Avi</dt>
+<dd>"We barely got to this country and this many Dream Eaters showed up....."</dd>
+<dt>Luke</dt>
+<dd>"It's more than we could have imagined"</dd>
+<dt>MC</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>(I wonder if I can save a country in such a state with my power....)</dd>
+<dt> </dt>
+<dd>At that time, we heard a loud voice from outside.</dd>
+<dt>Hinata</dt>
+<dd>"So noisy~ Who is it?"</dd>
+<dt>Avi</dt>
+<dd>"It's the cult of Magna....!"</dd>
+<dt>Byakuyo</dt>
+<dd>"The cult of Magna!?"</dd>
+<dt>Luke</dt>
+<dd>"We mentioned it before, but it's the society doing research on the Dream Eaters"</dd>
+<dt>Byakuyo</dt>
+<dd>"Normally I'd totally be behind that. But they have a dodgy air to them"</dd>
+<dt>Byakuyo</dt>
+<dd>"A society like that, coming to the castle......?"</dd>
+<dt> </dt>
+<dd>Byakuyo opened the window and looked outside.</dd>
+<dt>Byakuyo</dt>
+<dd>"Father... Mother!?"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>Byakuyo's gaze led to a man and woman going towards the cult of Magna from within the castle.</dd>
+<dt>Byakuyo</dt>
+<dd>"Father! Mother! Where are you going? Come back!"</dd>
+<dt> </dt>
+<dd>(Byakuyo's parents are in the cult of Magna!?)</dd>
+<dt>Medi</dt>
+<dd>"Did they come to take in the king and queen!"</dd>
+<dt>Luke</dt>
+<dd>"How dare they....."</dd>
+<dt>Hinata</dt>
+<dd>"What do we do~!"</dd>
+<dt>Kasa</dt>
+<dd>"If you submit to us, this country will not come under any more destruction"</dd>
+<dt>Byakuyo</dt>
+<dd>"Father, mother, don't believe his words!"</dd>
+<dt> </dt>
+<dd>He called out with all his might, but the two turned their backs and walked, unhearing.</dd>
+<dt> </dt>
+<dd>(What should we do....)</dd>
+<dt>Avi</dt>
+<dd>"They're done for! Get it together!"</dd>
+<dt>Luke</dt>
+<dd>"That society is phony!"</dd>
+<dt>Medi</dt>
+<dd>"That's right! We're more beautiful anyway!"</dd>
+<dt>Hinata</dt>
+<dd>"We'll protect you!"</dd>
+<dt> </dt>
+<dd>Feeling pressed by everyone's words, I also thrust out my voice.</dd>
+<dt>MC</dt>
+<dd>"Byakuyo's mother and father, please don't throw your dreams aside, and come back!"</dd>
+<dt> </dt>
+<dd>At that time, a bold smile spread across Kasa's face.</dd>
+<dt>Kasa</dt>
+<dd>"Seeing you all making such carefree statements, have you all still not found out?"</dd>
+<dt>MC</dt>
+<dd>"What do you mean?"</dd>
+<dt>Kasa</dt>
+<dd>"The boy you wanted to save is no longer in this world"</dd>
+<dt> </dt>
+<dd>(That boy... Could he mean)</dd>
+<dt>Emil</dt>
+<dd>"If you have dreams... The Dream Eaters will come?"</dd>
+<dt>MC</dt>
+<dd>"You mean Emil!?"</dd>
+<dt>Kasa</dt>
+<dd>"That's right. The boy that you couldn't save even with your ring"</dd>
+<dt>MC</dt>
+<dd>"Emil has....?"</dd>
+<dt>Avi</dt>
+<dd>"What do you mean!!"</dd>
+<dt>Kasa</dt>
+<dd>"Shall I express it more obviously?"</dd>
+<dt> </dt>
+<dd>With a bold laugh, the atmosphere notably turned into one of unrest.</dd>
+<dt>Kasa</dt>
+<dd>"You all can't even save a single child"</dd>
+<dt> </dt>
+<dd>At that, my face turned completely white.....</dd>
+<dt>MC</dt>
+<dd>"It can't be....."</dd>
+<dt> </dt>
+<dd>I whispered in a fading voice, and suddenly everyone was supporting my body.</dd>
+<dt> </dt>
+<dd>Byakuyo who had come to my side gave a pointed look outside.</dd>
+<dt>Byakuyo</dt>
+<dd>"Give back my father and mother! Leave this country at once! We don't need your help!"</dd>
+<dt> </dt>
+<dd>"Please restrain yourself, Byakuyo. Our side has a better chance of saving this country"</dd>
+<dt>Byakuyo</dt>
+<dd>"......!"</dd>
+<dt> </dt>
+<dd>Byakuyo became uable to move from his spot, as his parents went together to the cult of Magna.</dd>
+<dt> </dt>
+<dd>(Emil.... is no more)</dd>
+<dt> </dt>
+<dd>Avi looked over towards the cult of Magna while still watching my condition.</dd>
+<dt>Avi</dt>
+<dd>"Navi, do you know what that is in the direction of the cult of Magna?"</dd>
+<dt> </dt>
+<dd>At the end of Avi's gaze stood a huge mountain.</dd>
+<dt>Navi</dt>
+<dd>"I heard that the temple where the people of the cult of Magna are gathered is there"</dd>
+<dt>Navi</dt>
+<dd>"That may be the cult of Magna's new headquarters......"</dd>
+<dt>Avi</dt>
+<dd>"Is that so...... Byakuyo, I have a favor to ask"</dd>
+<dt>Avi</dt>
+<dd>"Can you have one of your people check if that kid we were talking about is safe?"</dd>
+<dt>Avi</dt>
+<dd>"His name is Emil. He was assaulted by Dream Eaters in my country and fell into a deep sleep....."</dd>
+<dt>Byakuyo</dt>
+<dd>"Gotcha. Leave it to me"</dd>
+<dt>Avi</dt>
+<dd>"Alright, then let's go follow into the mountains."</dd>
+<dt>Luke</dt>
+<dd>"Yup"</dd>
+<dt>Medi</dt>
+<dd>"We're going to be trekking on mountain paths, huh...... This will make for good subject material"</dd>
+<dt>Avi</dt>
+<dd>"....... Let's leave him behind"</dd>
+<dt>Medi</dt>
+<dd>"R-rude! Are you mocking beauty"</dd>
+<dt>Luke</dt>
+<dd>"Let it be"</dd>
+<dt>Hinata</dt>
+<dd>"We have to hurry and chase after Byakuyo's mommy and daddy to bring them back, right♪"</dd>
+<dt>Byakuyo</dt>
+<dd>"I'm really causing everyone trouble......"</dd>
+<dt>Avi</dt>
+<dd>"Don't worry about it"</dd>
+<dt>Avi</dt>
+<dd>"MC, right now let's focus on chasing after Kasa...... Can you do it?"</dd>
+<dt> </dt>
+<dd>Avi's warm hand gently touched my back.</dd>
+<dt>MC</dt>
+<dd>"Yes...... Let's go"</dd>
+<dt>Byakuyo</dt>
+<dd>"Alright, we're heading off! I'll lead us to the temple!!"</dd>
+<dt> </dt>
+<dd>We headed towards the mountain under Byakuyo's guidance.</dd>
+<dt> </dt>
+<dd>(I can't believe what that person said is true)</dd>
+<dt> </dt>
+<dd>As I was thinking that.....</dd>
+<dt> </dt>
+<dd>I felt the unrest whirling in my chest slowly taking over my body...-.</dd>
+<dt> </dt>
+<dd>Section 2 End</dd>
+</dl>
+|-| 4-3 =
+== Byakuyo's idea ==
+<dl>
+<dt> </dt>
+<dd>We started climbing the mountain, aiming to reach the shrine where the cult of Magna was congregated.</dd>
+<dt>Byakuyo</dt>
+<dd>"I can see it, that shrine!"</dd>
+<dt> </dt>
+<dd>At that moment...-.</dd>
+<dt>MC</dt>
+<dd>"!"</dd>
+<dt> </dt>
+<dd></dd>
+<dt> </dt>
+<dd>When we had taken a step into the place, darkness appeared.</dd>
+<dt>Navi</dt>
+<dd>"The Dream Eaters have appeared!"</dd>
+<dt>Luke</dt>
+<dd>"Can't they just simply let us go in......!"</dd>
+<dt>Medi</dt>
+<dd>"It's ridiculous how we make just a tiny little move and they come to attack us"</dd>
+<dt>Luke</dt>
+<dd>"I know right......"</dd>
+<dt>Hinata</dt>
+<dd>"I'm tired, too~"</dd>
+<dt>Avi</dt>
+<dd>"...... Be quiet. I hear something"</dd>
+<dt> </dt>
+<dd>We cocked our ears, and heard a choir-like singing.</dd>
+<dt>Navi</dt>
+<dd>"It looks like the cult of Magna is really in this temple"</dd>
+<dt>Avi</dt>
+<dd>"Yup"</dd>
+<dt> </dt>
+<dd>The eerie choir-like singing we were listening to was at a jarring contrast with the mountain range surrounded by beautiful scenery.</dd>
+<dt>MC</dt>
+<dd>"It's kind of like a church or something......"</dd>
+<dt>Byakuyo</dt>
+<dd>"They did this to make it possible to worship here. Dunno why they're worshipping at a place of study, though"</dd>
+<dt>Hinata</dt>
+<dd>"Hey~ Let's go in already"</dd>
+<dt>Luke</dt>
+<dd>"Not yet, it's too dangerous"</dd>
+<dt>Medi</dt>
+<dd>"The kid will stick next to me"</dd>
+<dt>Hinata</dt>
+<dd>"Being next to Medi would be even more dangerous"</dd>
+<dt>Luke</dt>
+<dd>"Hm, true"</dd>
+<dt>Medi</dt>
+<dd>"Luke, when did you start hating me so much......"</dd>
+<dt>Avi</dt>
+<dd>"Hey, everyone shut up!"</dd>
+<dt>Byakuyo</dt>
+<dd>"At the moment, nobody is out hear......"</dd>
+<dt>Avi</dt>
+<dd>"Let's just watch and see for now"</dd>
+<dt>MC</dt>
+<dd>"Yeah"</dd>
+<dt> </dt>
+<dd>Staying carefully hidden, we watched and waited.</dd>
+<dt> </dt>
+<dd>...</dd>
+<dt> </dt>
+<dd>......</dd>
+<dt>MC</dt>
+<dd>"They haven't made any movements......"</dd>
+<dt>Hinata</dt>
+<dd>"They've just been singing this whole time. Are these people really the ones doing research on Dream Eaters~?"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>While we were waiting around, my chest felt crushed as I thought of Emil again.</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>At that moment, Navi's ears perked up.</dd>
+<dt>Navi</dt>
+<dd>"...... Everyone, they're coming again!"</dd>
+<dt>Medi</dt>
+<dd>"It can't be helped! We're basically living personifications of hope!"</dd>
+<dt>Avi</dt>
+<dd>"Don't look so gratified! Let's go!!"</dd>
+<dt>Hinata</dt>
+<dd>"They're still coming~!"</dd>
+<dt> </dt>
+<dd>Even after defeating some, different Dream Eaters would immediately appear and assault us.</dd>
+<dt>Avi</dt>
+<dd>"Damn...... Why are there so many"</dd>
+<dt>MC</dt>
+<dd>"......!"</dd>
+<dt> </dt>
+<dd>After we had somewhat repelled the Dream Eaters......</dd>
+<dt>Luke</dt>
+<dd>"They were tough, as usual"</dd>
+<dt>Avi</dt>
+<dd>"Yup. MC, are you alright?"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt> </dt>
+<dd>Once we had finished fighting, the same words came back into my head...-.</dd>
+<dt>Kasa</dt>
+<dd>"You all can't even save a single child"</dd>
+<dt>Navi</dt>
+<dd>"Everything will turn out alright"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"Your face shows exactly what you're thinking"</dd>
+<dt> </dt>
+<dd>Avi gently pinched my cheek.</dd>
+<dt>Luke</dt>
+<dd>"Let's believe that kid is alright"</dd>
+<dt>Medi</dt>
+<dd>"A beautiful person shouldn't be making such a face"</dd>
+<dt>Hinata</dt>
+<dd>"MC-chan......"</dd>
+<dt> </dt>
+<dd>(Yeah, everything will be alright. I'll believe he's alright)</dd>
+<dt>MC</dt>
+<dd>"Thanks everyone!"</dd>
+<dt> </dt>
+<dd>At that moment......</dd>
+<dt>Navi</dt>
+<dd>"A group of the cult of Magna is coming out!"</dd>
+<dt> </dt>
+<dd>A huge swarm of people appeared from inside the building, faced the temple, and began to worship.</dd>
+<dt>Hinata</dt>
+<dd>"Byakuyo's papa and mama are there, too!"</dd>
+<dt>Byakuyo</dt>
+<dd>"Father, mother......"</dd>
+<dt> </dt>
+<dd>Byakuyo's father and mother's eyes had no light in them, and a deep darkness dwelled within them.</dd>
+<dt>Byakuyo</dt>
+<dd>"......"</dd>
+<dt>Avi</dt>
+<dd>"Strategically, we have the upper hand. We should go in right now and get them out of there"</dd>
+<dt>Medi</dt>
+<dd>"That is such a wretched way to put it"</dd>
+<dt>Avi</dt>
+<dd>"I ain't wrong, though"</dd>
+<dt>Medi</dt>
+<dd>"True...... But put it in a more beautiful way"</dd>
+<dt>Byakuyo</dt>
+<dd>"Hey"</dd>
+<dt>Avi</dt>
+<dd>"What's wrong?"</dd>
+<dt>Byakuyo</dt>
+<dd>"Sorry for being selfish...... But let's just go back"</dd>
+<dt>Luke</dt>
+<dd>"Byakuyo?"</dd>
+<dt>Medi</dt>
+<dd>"We can totally save them right now, though?"</dd>
+<dt>Hinata</dt>
+<dd>"Yeah! We gotta take your papa and mama back!"</dd>
+<dt>Byakuyo</dt>
+<dd>"When I saw those darkened eyes, this is what I thought"</dd>
+<dt>Byakuyo</dt>
+<dd>"Even if I restore my father and mother back to this ruined country, I'm sure the same thing will continue to happen"</dd>
+<dt>MC</dt>
+<dd>"That's......"</dd>
+<dt>Byakuyo</dt>
+<dd>"My father is a military man known for his dauntless courage. For that to turn out this way is......"</dd>
+<dt>Byakuyo</dt>
+<dd>"If we don't do something about the root of this problem, this country will be in great danger"</dd>
+<dt>Byakuyo</dt>
+<dd>"I must restore this country to its former beauty, and make it so my father and mother can truly awaken"</dd>
+<dt>Byakuyo</dt>
+<dd>"Thanks for taking me all this way"</dd>
+<dt>Byakuyo</dt>
+<dd>(Byakuyo......)</dd>
+<dt>Avi</dt>
+<dd>"......Alright, let's go back to the castle this time!"</dd>
+<dt>Luke</dt>
+<dd>"Yeah. If we save this country from the Dream Eaters, Byakuyo's parents will definitely wake up"</dd>
+<dt>Medi</dt>
+<dd>"I better bestow some of my beauty upon this country!"</dd>
+<dt>Hinata</dt>
+<dd>"Alright then, let's head back to the castle~♪"</dd>
+<dt>Avi</dt>
+<dd>"MC...... Let's go"</dd>
+<dt>MC</dt>
+<dd>"Yeah......"</dd>
+<dt> </dt>
+<dd>Avi's gently squeezed my hand.</dd>
+<dt> </dt>
+<dd>That warmth unconsciously made my eyes moisten.</dd>
+<dt> </dt>
+<dd>(Please, let Emil be safe)</dd>
+<dt>Navi</dt>
+<dd>"Alright then, let us return to Prince Byakuyo's castle"</dd>
+<dt> </dt>
+<dd>And so we left that place behind......</dd>
+<dt> </dt>
+<dd>Section 3 End</dd>
+</dl>
+|-| 4-4 =
+== Lost hope ==
+<dl>
+<dt> </dt>
+<dd>When we had arrived back at Byakuyo's castle......</dd>
+<dt>Navi</dt>
+<dd>"MC, there are Dream Eaters!"</dd>
+<dt>Medi</dt>
+<dd>"What a warm welcome"</dd>
+<dt>Hinata</dt>
+<dd>"I just wanna rest~!"</dd>
+<dt>Luke</dt>
+<dd>"MC, are you ready?"</dd>
+<dt>MC</dt>
+<dd>"Yes!"</dd>
+<dt> </dt>
+<dd>After we had safely defeated the Dream Eaters,</dd>
+<dt> </dt>
+<dd>A retainer approached us from across the hallway.</dd>
+<dt>Byakuyo</dt>
+<dd>"My. In any case, it looks like we've found about that boy"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>(Emil...... Please be safe!)</dd>
+<dt> </dt>
+<dd>The beating in my chest thumped quickly.</dd>
+<dt>Retainer</dt>
+<dd>"About the requested matter"</dd>
+<dt>Byakuyo</dt>
+<dd>"Have you confirmed the safety of the boy?"</dd>
+<dt>Retainer</dt>
+<dd>"That is...... Apparently he had died a number of days ago......"</dd>
+<dt> </dt>
+<dd>(......!!!)</dd>
+<dt>Byakuyo</dt>
+<dd>"Really...... Thanks"</dd>
+<dt>Retainer</dt>
+<dd>"Yes"</dd>
+<dt> </dt>
+<dd>The retainer slowly walked back across the hallway.</dd>
+<dt> </dt>
+<dd>(Emil died......!?)</dd>
+<dt>MC</dt>
+<dd>"......No...... Way"</dd>
+<dt> </dt>
+<dd>My body went heavy as lead, and my vision went pitch black.</dd>
+<dt> </dt>
+<dd>My chest tightened crushingly, and it became difficult to breathe.</dd>
+<dt>Navi</dt>
+<dd>"Princess......"</dd>
+<dt> </dt>
+<dd>(......Princess?)</dd>
+<dt> </dt>
+<dd>Those words echoed emptily inside my head.</dd>
+<dt> </dt>
+<dd>(...... I may be a princess on the outside, but the real me is powerless)</dd>
+<dt> </dt>
+<dd>(No matter how many princes I can awaken, I can't even save a single child)</dd>
+<dt>Avi</dt>
+<dd>"...... Damn!!!"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>I have no words.</dd>
+<dt>Avi</dt>
+<dd>"MC......"</dd>
+<dt>MC</dt>
+<dd>"...... Sorry, can you all leave me alone for a bit, possibly"</dd>
+<dt> </dt>
+<dd>Saying those words with a strangled voice, holding back tears, I rushed out of that place...-.</dd>
+<dt> </dt>
+<dd>...</dd>
+<dt> </dt>
+<dd>......</dd>
+<dt> </dt>
+<dd>The sky I could see from the window gradually darkened.</dd>
+<dt> </dt>
+<dd>(Emil......)</dd>
+<dt> </dt>
+<dd>(It's definitely impossible for me to continue on this journey in this state)</dd>
+<dt> </dt>
+<dd>(There's nothing I can do)</dd>
+<dt>Byakuyo</dt>
+<dd>"I'm coming in"</dd>
+<dt> </dt>
+<dd>Opening the sliding screen, Byakuyo quietly entered into the room.</dd>
+<dt>MC</dt>
+<dd>"...... Thank you very much for looking into Emil's whereabouts for me"</dd>
+<dt>Byakuyo</dt>
+<dd>"Don't worry about it"</dd>
+<dt>MC</dt>
+<dd>"Avi and them are......"</dd>
+<dt>Byakuyo</dt>
+<dd>"They're currently resting in a separate room"</dd>
+<dt> </dt>
+<dd>(Everyone...... I wonder what they're feeling)</dd>
+<dt>Byakuyo</dt>
+<dd>"Are you worried about how you came back to your room as if you were running away?"</dd>
+<dt>MC</dt>
+<dd>"...... Yes"</dd>
+<dt>Byakuyo</dt>
+<dd>"Please don't worry about it. Although I don't know all the details about this Emil"</dd>
+<dt>Byakuyo</dt>
+<dd>"As far as I can see, everyone de-finitely gets how you're feeling"</dd>
+<dt> </dt>
+<dd>Byakuyo's words naturally warmed my heart.</dd>
+<dt>Byakuyo</dt>
+<dd>"More importantly, what a state your face is in. Look at this mirror"</dd>
+<dt>MC</dt>
+<dd>"...... I'm sorry"</dd>
+<dt>Byakuyo</dt>
+<dd>"I can't really speak for the others, but"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Byakuyo</dt>
+<dd>"This country is, as it seems, completely wrecked. I wonder if it can ever be returned to its original state......"</dd>
+<dt> </dt>
+<dd>Byakuyo's gaze went towards the window, as if looking into the distance.</dd>
+<dt>MC</dt>
+<dd>"...... Byakuyo"</dd>
+<dt>Byakuyo</dt>
+<dd>"Ah-! Nono! I really can't stand this depressing stuff!"</dd>
+<dt>Byakuyo</dt>
+<dd>"That's right! Look at this!"</dd>
+<dt> </dt>
+<dd>Byakuyo opened up a cloth wrapper he was holding to reveal a beautiful pale peach-colored kimono.</dd>
+<dt> </dt>
+<dd>Plum blossoms were arranged delicately on it, and it was quite glamorous, but the quality was very high.</dd>
+<dt>MC</dt>
+<dd>"It's beautiful......"</dd>
+<dt>Byakuyo</dt>
+<dd>"This is my hospitality to you"</dd>
+<dt>MC</dt>
+<dd>"But what is this for?"</dd>
+<dt>Byakuyo</dt>
+<dd>"What are you saying. It's for you to wear, obviously!"</dd>
+<dt> </dt>
+<dd>"Me!?"</dd>
+<dt> </dt>
+<dd>Byakuyo narrowed his elegant eyes and winked.</dd>
+<dt>Byakuyo</dt>
+<dd>"That's right. Getting dressed up all pretty will also brighten your mood, you know"</dd>
+<dt>Byakuyo</dt>
+<dd>"Alright, you're getting changed, no buts! You all!"</dd>
+<dt> </dt>
+<dd>Byakuyo lifted his voice, and a multitude of girls came into the room and started changing my clothes.</dd>
+<dt>Byakuyo</dt>
+<dd>"Once you've put on the kimono, I'll be applying your makeup for you♪"</dd>
+<dt> </dt>
+<dd>Having said that, Byakuyo fluttered away.</dd>
+<dt> </dt>
+<dd>...</dd>
+<dt> </dt>
+<dd>......</dd>
+<dt> </dt>
+<dd>After I'd finished changing, Byakuyo called Avi and the rest into the room.</dd>
+<dt>MC</dt>
+<dd>"This is extremely...... embarrassing"</dd>
+<dt>Byakuyo</dt>
+<dd>"Don't worry"</dd>
+<dt> </dt>
+<dd>Saying that, his lips approached my ear.</dd>
+<dt>Byakuyo</dt>
+<dd>"Princess...... You are breathtaking"</dd>
+<dt>MC</dt>
+<dd>"......!"</dd>
+<dt> </dt>
+<dd>(Th, that surprised me)</dd>
+<dt> </dt>
+<dd>His deep voice rang in my ear, and my heart skipped a beat.</dd>
+<dt> </dt>
+<dd>When Avi and the rest set their eyes on me, their faces went into shock, and they all went stiff.</dd>
+<dt>Byakuyo</dt>
+<dd>"Hey, you lot, what are you getting all flustered for! Say something!"</dd>
+<dt>Hinata</dt>
+<dd>"It goes even without saying! It's soooo beautiful!"</dd>
+<dt>MC</dt>
+<dd>"Hinata, thank you"</dd>
+<dt> </dt>
+<dd>At Hinata's words, my cheeks unconsciously began to heat up.</dd>
+<dt>Luke</dt>
+<dd>"It suits you quite well......"</dd>
+<dt>Medi</dt>
+<dd>"Dazzling......! It's like I've been blessed by the goddess of beauty!!"</dd>
+<dt>MC</dt>
+<dd>"Y, you're exaggerating"</dd>
+<dt> </dt>
+<dd>My face heated up at the happiness from everyone's words and my embarrassment.</dd>
+<dt> </dt>
+<dd>However, only Avi had been averting his gaze from me.</dd>
+<dt>MC</dt>
+<dd>"...... Avi, does it look strange?"</dd>
+<dt>Byakuyo</dt>
+<dd>"He's just shy. Hey, if you're a man, come and say it out loud"</dd>
+<dt>Avi</dt>
+<dd>"It...... It looks fine?"</dd>
+<dt> </dt>
+<dd>Avi said brusquely, with his eyes still turned away.</dd>
+<dt>MC</dt>
+<dd>"Thank you"</dd>
+<dt>Avi</dt>
+<dd>"Na, Navi! You say something too"</dd>
+<dt>Navi</dt>
+<dd>"It's...... It's...... Beautiful!"</dd>
+<dt> </dt>
+<dd>Navi, somehow brought to tears, praised my kimono look with all his heart.</dd>
+<dt>MC</dt>
+<dd>"Thank you, I'm very happy"</dd>
+<dt> </dt>
+<dd>Enveloped in the beautiful kimono, I felt like that place, and also my own feelings naturally brightened.</dd>
+<dt> </dt>
+<dd>(It's just as Byakuyo said)</dd>
+<dt>Byakuyo</dt>
+<dd>"That's right. Getting dressed up all pretty will also brighten your mood, you know"</dd>
+<dt> </dt>
+<dd>At that moment......</dd>
+<dt>Navi</dt>
+<dd>"I apologize to interrupt when we have managed to have a wonderful time......"</dd>
+<dt>Avi</dt>
+<dd>"Dream Eaters?!"</dd>
+<dt>Navi</dt>
+<dd>"Yes!"</dd>
+<dt> </dt>
+<dd>Dream Eaters appeared, shattering the bright mood.</dd>
+<dt>Byakuyo</dt>
+<dd>"How dare the Dream Eaters appear while we're having dress-up time!"</dd>
+<dt>Avi</dt>
+<dd>"It can't be helped...... Let's go"</dd>
+<dt> </dt>
+<dd>We caught our breaths after safely defeating the Dream Eaters.</dd>
+<dt>Byakuyo</dt>
+<dd>"This may be out of line to say, but you fighting in a kimono was a beautiful sight to behold"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Medi</dt>
+<dd>"It was certainly bewitching. Right, Avi"</dd>
+<dt>Avi</dt>
+<dd>"M, more importantly, is it just me? Or does it seem noisy outside......"</dd>
+<dt>Medi</dt>
+<dd>"Avi, are you still shy about MC's appearance? Really, men like you are...-"</dd>
+<dt>Avi</dt>
+<dd>"Sh, Shut up! For real though, can't you hear it!?"</dd>
+<dt> </dt>
+<dd>At Avi's words, everyone cocked their ears at once.</dd>
+<dt>Medi</dt>
+<dd>"It's true"</dd>
+<dt>Hinata</dt>
+<dd>"There's a scary clangy sounding noise~!"</dd>
+<dt>Luke</dt>
+<dd>"What a lovely sound"</dd>
+<dt> </dt>
+<dd>(This is the sound of something breaking......)</dd>
+<dt>Avi</dt>
+<dd>"I'll go and check it out"</dd>
+<dt>Byakuyo</dt>
+<dd>"I'm going too. I have to go confirm if something's come up"</dd>
+<dt>MC</dt>
+<dd>"I'm going, too"</dd>
+<dt>Navi</dt>
+<dd>"In that case, I will guide us all towards the noise. This way!"</dd>
+<dt> </dt>
+<dd>Navi's ears strained.</dd>
+<dt> </dt>
+<dd>(What's come up this time?)</dd>
+<dt> </dt>
+<dd>We headed out of the castle to where Navi was taking us...-.</dd>
+<dt> </dt>
+<dd>Section 4 End</dd>
+</dl>
+|-| 4-5 =
+== Let's do what we can now ==
+<dl>
+<dt> </dt>
+<dd>The place Navi took us to was...-.</dd>
+<dt>Byakuyo</dt>
+<dd>"This is the wish flame shrine. Originally, it was a building where the citizens of this country came to pray for peace"</dd>
+<dt>Byakuyo</dt>
+<dd>"Everyone has been protecting this flame which is a symbol of the peace and harmony of this country"</dd>
+<dt>Navi</dt>
+<dd>"Right now...... The flame has gone out"</dd>
+<dt>Byakuyo</dt>
+<dd>"Since this shrine was built, this kind of thing has never happened before......"</dd>
+<dt>MC</dt>
+<dd>"How could this happen......"</dd>
+<dt> </dt>
+<dd>The once beautiful shrine had been destroyed at the hands of the villagers and was already in ruins.</dd>
+<dt> </dt>
+<dd>The crimson fragments that had made up the frame of the shrine fluttered in the air, and the the shrine crumbled down.</dd>
+<dt> </dt>
+<dd>The people in the area all began to riot.</dd>
+<dt>Luke</dt>
+<dd>"They've probably gone mad from being menaced by the Dream Eaters this whole time......"</dd>
+<dt>Hinata</dt>
+<dd>"With everyone quarreling, it's kind of scary......"</dd>
+<dt> </dt>
+<dd>(The anxiety of the villagers is clear)</dd>
+<dt> </dt>
+<dd>As if to fan the flames of their anxiety......</dd>
+<dt>Luke</dt>
+<dd>"Dream Eaters......"</dd>
+<dt> </dt>
+<dd>Dream Eaters appeared in front of our eyes.</dd>
+<dt>Avi</dt>
+<dd>"At a time like this...... Let's get 'em!"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt>Avi</dt>
+<dd>"...... Damn, there are so many!"</dd>
+<dt> </dt>
+<dd>No matter how many times we defeated the Dream Eaters, they kept appearing.</dd>
+<dt>Hinata</dt>
+<dd>"They're soo stubborn~!"</dd>
+<dt>Medi</dt>
+<dd>"Hinata, I will protect you splendidly!"</dd>
+<dt>Hinata</dt>
+<dd>"No thanks"</dd>
+<dt>Medi</dt>
+<dd>"Wh, what did you say!?"</dd>
+<dt>Luke</dt>
+<dd>"Anyway, shall we do this"</dd>
+<dt> </dt>
+<dd>We safely defeated the Dream Eaters.</dd>
+<dt> </dt>
+<dd>Byakuyo gazed at the busted shrine, and headed towards the villagers.</dd>
+<dt>Byakuyo</dt>
+<dd>"Please stop!"</dd>
+<dt>Villager</dt>
+<dd>"Prince Byakuyo......"</dd>
+<dt>Byakuyo</dt>
+<dd>"What are you doing! This shrine is...-"</dd>
+<dt>Villager</dt>
+<dd>"Wish, schmish......! No matter how much we wished, the Dream Eaters didn't go away!"</dd>
+<dt>Villager</dt>
+<dd>"Even we have this shrine, it's completely pointless!"</dd>
+<dt>Byakuyo</dt>
+<dd>"How dare you say that!"</dd>
+<dt>Villager</dt>
+<dd>"This country is already over!"</dd>
+<dt>Byakuyo</dt>
+<dd>"That's not true!"</dd>
+<dt>Villager</dt>
+<dd>"Then, how do you plan on protecting this country! Do you have any sort of plan!?"</dd>
+<dt>Byakuyo</dt>
+<dd>"......h"</dd>
+<dt>Byakuyo</dt>
+<dd>"...... Even if we don't, then we just have to find one, right!"</dd>
+<dt> </dt>
+<dd>As if reacting to Byakuyo's voice...-.</dd>
+<dt>Avi</dt>
+<dd>"Again!"</dd>
+<dt> </dt>
+<dd>The Dream Eaters appeared once again...-.</dd>
+<dt> </dt>
+<dd>Although we safely defeated the Dream Eaters, the villagers once again began to break down the wish flame shrine, and continued to riot.</dd>
+<dt>Byakuyo</dt>
+<dd>"Everyone! Stop this!!"</dd>
+<dt>Villager</dt>
+<dd>"Dreams or whatever, having them is meaningless!"</dd>
+<dt>??</dt>
+<dd>"Exactly"</dd>
+<dt> </dt>
+<dd>A voice we knew repeated back at us, the source being...-.</dd>
+<dt>Kasa</dt>
+<dd>"You can't use things like wishes and hopes against the Dream Eaters"</dd>
+<dt>Kasa</dt>
+<dd>"We shall be the ones to offer salvation to this country"</dd>
+<dt>Avi</dt>
+<dd>"Your timing is too convenient......!"</dd>
+<dt>Kasa</dt>
+<dd>"That very despair is what will save you"</dd>
+<dt> </dt>
+<dd>Echoing like a magic spell, he paraded down through the anxious villagers.</dd>
+<dt> </dt>
+<dd>(Despair couldn't possibly be our salvation)</dd>
+<dt> </dt>
+<dd>Those dark words whirling around in my head, before I knew it, I was tightly clutching the hem of my kimono.</dd>
+<dt>Byakuyo</dt>
+<dd>"Princess...... You are breathtaking"</dd>
+<dt> </dt>
+<dd>I looked at the kimono that Byakuyo let me wear.</dd>
+<dt> </dt>
+<dd>(Byakuyo called someone like me a princess)</dd>
+<dt> </dt>
+<dd>(He saved...... my heart)</dd>
+<dt> </dt>
+<dd>I looked at the villagers' lifeless faces.</dd>
+<dt> </dt>
+<dd>No matter how much they destroyed the wish flame shrine, their expressions just filled with even more misery.</dd>
+<dt> </dt>
+<dd>(The only thing I can do now is)</dd>
+<dt> </dt>
+<dd>I began to gather the falling fragments at my feet.</dd>
+<dt>Byakuyo</dt>
+<dd>"MC?...... What are you doing?"</dd>
+<dt>MC</dt>
+<dd>"I thought it was such a beautiful shrine, so"</dd>
+<dt>MC</dt>
+<dd>"If we fix it up nicely once more, and light the lamp, maybe everyone's heart will become brighter"</dd>
+<dt>MC</dt>
+<dd>"If the shrine went back to its former beauty...... If the country became beautiful again"</dd>
+<dt>MC</dt>
+<dd>"I believe that everyone's hearts will also become bright"</dd>
+<dt>MC</dt>
+<dd>"Just like how Byakuyo did for me"</dd>
+<dt>Byakuyo</dt>
+<dd>I rolled up the sleeves of my kimono, and went back to gathering up the fragments of the shrine.</dd>
+<dt>Byakuyo</dt>
+<dd>"MC......"</dd>
+<dt> </dt>
+<dd>When I reached out my hand to gather up the next fragment, someone's foot stepped on my hand.</dd>
+<dt>MC</dt>
+<dd>"......h"</dd>
+<dt> </dt>
+<dd>When I lifted my head, Kasa's gaze looking down at me clashed with mine.</dd>
+<dt>Kasa</dt>
+<dd>"What are you doing. When these people have finally accepted despair"</dd>
+<dt>MC</dt>
+<dd>"No, everyone is sure to notice!"</dd>
+<dt> </dt>
+<dd>Facing towards the cult of Magna, the voice I shouted out surprised even myself.</dd>
+<dt>Byakuyo</dt>
+<dd>"...... Please move your foot"</dd>
+<dt>MC</dt>
+<dd>"Byakuyo!"</dd>
+<dt> </dt>
+<dd>Byakuyo took an imposing stance in front of Kasa and glared sharply at him.</dd>
+<dt>Kasa</dt>
+<dd>"How foolish"</dd>
+<dt>Byakuyo</dt>
+<dd>"Move your foot!!"</dd>
+<dt>Kasa</dt>
+<dd>!!</dd>
+<dt> </dt>
+<dd>Kasa, surprised at Byakuyo's voice, fell back slightly.</dd>
+<dt>Hinata</dt>
+<dd>"Wo~w. Just like a man"</dd>
+<dt>Byakuyo</dt>
+<dd>"I am a man! And quite a superior one at that!"</dd>
+<dt>Avi</dt>
+<dd>"...... Why is he the one acting all cool"</dd>
+<dt>Byakuyo</dt>
+<dd>"Rude, I was born this way"</dd>
+<dt>Luke</dt>
+<dd>"Cult of Magna people, if you have some time, how about collecting these fragments together with us?"</dd>
+<dt>Medi</dt>
+<dd>"If we put all these fragments together, my art can increase by one!"</dd>
+<dt>Hinata</dt>
+<dd>"This is the first time I've ever cleaned up anything~♪"</dd>
+<dt>MC</dt>
+<dd>"Everyone......"</dd>
+<dt> </dt>
+<dd>(Thank you)</dd>
+<dt>Kasa</dt>
+<dd>"This cleaning up is so stupid. Do you really think that something like that will save this country?"</dd>
+<dt>Kasa</dt>
+<dd>"I'll tell it to you straight. The only thing that will save this country is despair"</dd>
+<dt>MC</dt>
+<dd>"That's not true"</dd>
+<dt> </dt>
+<dd>As Avi and the rest began to gather fragments, the people stared curiously at them.</dd>
+<dt>MC</dt>
+<dd>"I understand...... the anxious feelings of everbody"</dd>
+<dt>MC</dt>
+<dd>"The miserable feeling of losing a special person, too"</dd>
+<dt>MC</dt>
+<dd>"The feeling of not knowing what to do, too"</dd>
+<dt>Emil</dt>
+<dd>"Sis, if you want to cry, you can cry"</dd>
+<dt>Emil</dt>
+<dd>"I said this last time, right? That I'd protect you next time"</dd>
+<dt>MC</dt>
+<dd>"But...... even if you ruin the shrine, that doesn't mean the country will be saved"</dd>
+<dt>MC</dt>
+<dd>"To change this country back to its beautiful former self...... First of all, how about trying to do what we can do ourselves"</dd>
+<dt>Kasa</dt>
+<dd>"It's pointless"</dd>
+<dt>Byakuyo</dt>
+<dd>"...... MC"</dd>
+<dt> </dt>
+<dd>I once again rolled up the sleeves of my kimono, and began gathering fragments.</dd>
+<dt>Villagers</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>As I continued to put my focus into gathering the fragments......</dd>
+<dt>Avi</dt>
+<dd>"MC, look"</dd>
+<dt>MC</dt>
+<dd>"Huh......?"</dd>
+<dt> </dt>
+<dd>When I lifted my head, the villagers had all started to collect fragments.</dd>
+<dt>MC</dt>
+<dd>"Ah......"</dd>
+<dt> </dt>
+<dd>From the adults to the children, everyone was getting their hands smeared with mud, diligently gathering the fragments of the shrine.</dd>
+<dt>Avi</dt>
+<dd>"It got through. Your feelings"</dd>
+<dt> </dt>
+<dd>(Everything will be alright......!)</dd>
+<dt> </dt>
+<dd>Before I knew it, my kimono had gotten muddy, but the cult of Magna had gone.</dd>
+<dt>Byakuyo</dt>
+<dd>"You, how could you do that to such a nice kimono!"</dd>
+<dt>MC</dt>
+<dd>"I...... I'm sorry!"</dd>
+<dt>Byakuyo</dt>
+<dd>"Just kidding. I'm even muddier than you are!"</dd>
+<dt> </dt>
+<dd>Saying that, Byakuyo cheerfully went back to cleaning around the shrine.</dd>
+<dt> </dt>
+<dd>The gentle sunlight began to softly illuminate the villagers...-.</dd>
+<dt> </dt>
+<dd>Section 5 End</dd>
+</dl>
+|-| 4-6 =
+== True beauty ==
+<dl>
+<dt> </dt>
+<dd>A few days later...-.</dd>
+<dt> </dt>
+<dd>Sitting at the bench next to the window, I observed the lively hustle and bustle of the people of the castle.</dd>
+<dt> </dt>
+<dd>(Everyone's faces look quite well)</dd>
+<dt> </dt>
+<dd>Blessed by the weather, Byakuyo's country had also begun to shine hope's light.</dd>
+<dt> </dt>
+<dd>Without any of the conflict from before, everyone in the country is cooperating for the country's reconstruction, hand in hand.</dd>
+<dt> </dt>
+<dd>(I'm so relieved)</dd>
+<dt> </dt>
+<dd>As if to violate the peacefulness......</dd>
+<dt>MC</dt>
+<dd>"......!"</dd>
+<dt> </dt>
+<dd>Suddenly, Dream Eaters showed up.</dd>
+<dt>Avi</dt>
+<dd>"They're here! Dream Eaters!"</dd>
+<dt> </dt>
+<dd>Avi and the rest rushed vigorously over from their rooms.</dd>
+<dt>Navi</dt>
+<dd>"Following the Dream Eaters' presence, we came here"</dd>
+<dt>Hinata</dt>
+<dd>"Doesn't it seem like the Dream Eaters' numbers are growing, instead~?"</dd>
+<dt>Luke</dt>
+<dd>"Probably because the country is brimming with hope"</dd>
+<dt>Medi</dt>
+<dd>"Alright, let us fight splendidly once again!"</dd>
+<dt>Avi</dt>
+<dd>"MC, let's go"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt> </dt>
+<dd>After somehow defeating the Dream Eaters, I sat down in one of the chairs in the room.</dd>
+<dt>Avi</dt>
+<dd>"That's right. I've got good news!"</dd>
+<dt>MC</dt>
+<dd>"What is it?"</dd>
+<dt>Avi</dt>
+<dd>"That is...-"</dd>
+<dt>Navi</dt>
+<dd>"Prince Avi! ...... There are still more Dream Eaters!"</dd>
+<dt>MC</dt>
+<dd>"Again!?"</dd>
+<dt>Avi</dt>
+<dd>"These guys are stubborn!"</dd>
+<dt>MC</dt>
+<dd>"We just defeated a bunch of them already......"</dd>
+<dt> </dt>
+<dd>Once again, Dream Eaters appeared within the room.</dd>
+<dt> </dt>
+<dd>"There are a large amount this time, too......"</dd>
+<dt>Hinata</dt>
+<dd>"I hate stubborn things~!"</dd>
+<dt>Medi</dt>
+<dd>"Boy, you haven't seen anything. Beauty is born out of persistence."</dd>
+<dt>Avi</dt>
+<dd>"Who cares about that, let's just finish them off!"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt> </dt>
+<dd>After somehow being able to defeat the Dream Eaters, we stopped to catch our breaths.</dd>
+<dt>MC</dt>
+<dd>"No matter how many times we defeat them, the Dream Eaters keep coming......"</dd>
+<dt>Avi</dt>
+<dd>"Even so...... This country is definitely heading in a good direction"</dd>
+<dt>Avi</dt>
+<dd>"Looking at the faces of the countrypeople, you could say this is great"</dd>
+<dt>MC</dt>
+<dd>"Avi, what was that good news you were talking about before?"</dd>
+<dt>Avi</dt>
+<dd>"Ahh. It looks like the cult of Magna abandoned their shrine and disappeared"</dd>
+<dt>MC</dt>
+<dd>"They disappeared?"</dd>
+<dt>Avi</dt>
+<dd>"Dunno where they went, but that's their business. Maybe they're moving their headquarters"</dd>
+<dt>Hinata</dt>
+<dd>"Then I wonder if they're concocting some kind of evil plan again?"</dd>
+<dt>Avi</dt>
+<dd>"The possibility of that is high"</dd>
+<dt> </dt>
+<dd>(Would they be trying to spread their way of thinking again in a different place......)</dd>
+<dt>Luke</dt>
+<dd>"Somehow...... More than a research society, their actions are more like a religious society"</dd>
+<dt>Navi</dt>
+<dd>"The claims of that sect are recently spreading through the people at an incredible speed"</dd>
+<dt>MC</dt>
+<dd>"No way!"</dd>
+<dt>Hinata</dt>
+<dd>"Well, of course. It's a lot easier to just accept despair and do nothing"</dd>
+<dt> </dt>
+<dd>Hinata's words caused a bizarre silence to spread through the room, and everyone's expressions clouded up.</dd>
+<dt>Byakuyo</dt>
+<dd>"What's with those gloomy expressions!"</dd>
+<dt> </dt>
+<dd>Opening the door to the room, Byakuyo let out a bright voice.</dd>
+<dt>Byakuyo</dt>
+<dd>"We've still got a mountain of problems to tend to...... But thanks to the country heading towards recovery, my father and mother have returned!"</dd>
+<dt> </dt>
+<dd>At Byakuyo's report, something warm began to fill my chest.</dd>
+<dt>MC</dt>
+<dd>"I'm so glad!"</dd>
+<dt>Byakuyo</dt>
+<dd>"It's all thanks to you. You have my gratitude. Thank you so much"</dd>
+<dt>MC</dt>
+<dd>"Your gratitude......."</dd>
+<dt>Byakuyo</dt>
+<dd>"Just accept it"</dd>
+<dt> </dt>
+<dd>Byakuyo's large hand gently caressed my cheek.</dd>
+<dt>Byakuyo</dt>
+<dd>"Please have more faith in yourself as a princess"</dd>
+<dt>MC</dt>
+<dd>"Faith in myself...... As a princess?"</dd>
+<dt>Byakuyo</dt>
+<dd>"I will never forget how you looked in that beautiful kimono gathering up the fragments of the shrine on our behalf"</dd>
+<dt>MC</dt>
+<dd>"How muddy and gross I looked?"</dd>
+<dt> </dt>
+<dd>Narrowing his eyes, Byakuyo's arms were wrapped around me, and I was being warmly embraced.</dd>
+<dt>MC</dt>
+<dd>"Uh, um......."</dd>
+<dt>Byakuyo</dt>
+<dd>"You just don't get it"</dd>
+<dt> </dt>
+<dd>Being strongly embraced, I buried my face into Byakuyo's chest.</dd>
+<dt> </dt>
+<dd>Byakuyo, being clearly much taller than me, made my heartbeat speed up with his body temperature.</dd>
+<dt>Byakuyo</dt>
+<dd>"How you looked at that time was more noble and beautiful than anyone else"</dd>
+<dt>Byakuyo</dt>
+<dd>"You were undoubtedly the one that moved the hearts of the citizens of Koubai...... my country that admires beauty"</dd>
+<dt> </dt>
+<dd>Byakuyo's deep, echoing voice was filled with broad-mindedness and persuasive power.</dd>
+<dt>Hinata</dt>
+<dd>"Byakuyo, that's chea~ting! Don't hog MC-chan all for yourself!"</dd>
+<dt>Medi</dt>
+<dd>"This is the only time I'll agree with that kid! Even I desire to reward honey with an embrace!!"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>Avi also opened his mouth as if he wanted to say something, but...-.</dd>
+<dt>Byakuyo</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>Byakuyo instead hugged me even harder.</dd>
+<dt>Everyone</dt>
+<dd>"!!!"</dd>
+<dt>Byakuyo</dt>
+<dd>"Well then, I'm going to head back to the village"</dd>
+<dt>MC</dt>
+<dd>"...... Yes"</dd>
+<dt> </dt>
+<dd>Byakuyo released me from his hold, and left the room as if nothing had happened...-.</dd>
+<dt> </dt>
+<dd>...</dd>
+<dt> </dt>
+<dd>......</dd>
+<dt> </dt>
+<dd>The room was enveloped in darkness, and the cold air of the night sky began to fill it.</dd>
+<dt> </dt>
+<dd>I gently closed my eyes, and in that silence, I slowly dozed off...-.</dd>
+<dt> </dt>
+<dd>In the darkness, my brother was gazing at me worriedly.</dd>
+<dt> </dt>
+<dd>(Older brother?)</dd>
+<dt>Older Brother</dt>
+<dd>"MC, has your heart decided?"</dd>
+<dt>Older Brother</dt>
+<dd>"Whether you will return to your former world, or remain in this world"</dd>
+<dt> </dt>
+<dd>(I......)</dd>
+<dt>Older Brother</dt>
+<dd>"The only thing that's certain is that thanks to you, a country was saved"</dd>
+<dt> </dt>
+<dd>(Saved...... By me)</dd>
+<dt>Older Brother</dt>
+<dd>"MC, I'm truly thankful"</dd>
+<dt> </dt>
+<dd>(Older brother...... But after all, I'm still anxious)</dd>
+<dt> </dt>
+<dd>In the darkness, at the moment I reached my hand out to my brother...-.</dd>
+<dt> </dt>
+<dd>Suddenly, out of nowhere a pitch-black darkness came and took away my older brother.</dd>
+<dt> </dt>
+<dd>(That darkness...... What's going on!?)</dd>
+<dt> </dt>
+<dd>(Older brother!!)</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>(That dream just now......)</dd>
+<dt>Navi</dt>
+<dd>"Did you have a nightmare, just now?"</dd>
+<dt>MC</dt>
+<dd>"Navi...... Just now, I dreamed this"</dd>
+<dt>MC</dt>
+<dd>"What was that darkness? Is my older brother alright?"</dd>
+<dt>Navi</dt>
+<dd>"Darkness!? But...... Are you ok? Princess MC"</dd>
+<dt> </dt>
+<dd>While thinking deeply, Navi gently came to comfort me, as I was frightened out of my wits.</dd>
+<dt> </dt>
+<dd>It was mysteriously like something large was enveloping me, and it felt comforting.</dd>
+<dt>Navi</dt>
+<dd>"It's alright...... You're fine, princess"</dd>
+<dt>MC</dt>
+<dd>"Navi......"</dd>
+<dt>Navi</dt>
+<dd>"But really, it looks like we don't have much time......."</dd>
+<dt>Navi</dt>
+<dd>"A strong power is trying to swallow up your older brother"</dd>
+<dt>MC</dt>
+<dd>"A strong power!?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. If it manages to do it, we will no longer be able to stop the destruction of the world"</dd>
+<dt> </dt>
+<dd>(This world will fall into an even worse situation than now?)</dd>
+<dt>Navi</dt>
+<dd>"You are the only one who is able to save this world"</dd>
+<dt>MC</dt>
+<dd>"Me, save the world......"</dd>
+<dt> </dt>
+<dd>The cooperation of the country people in reconstruction, and the evil operations of the cult of Magna crossed my mind...-.</dd>
+<dt> </dt>
+<dd>(If there's anything I can do at all for these people)</dd>
+<dt> </dt>
+<dd>(I don't want any more sacrifices to happen like Emil......!)</dd>
+<dt>MC</dt>
+<dd>"...... I will continue this journey!"</dd>
+<dt>Navi</dt>
+<dd>"Princess......"</dd>
+<dt>MC</dt>
+<dd>"Navi, will you come with me?"</dd>
+<dt>Navi</dt>
+<dd>"I was waiting for those words"</dd>
+<dt> </dt>
+<dd>In the next moment, the sliding door to the room opened, and everyone came in at once.</dd>
+<dt>Hinata</dt>
+<dd>"We can all travel together again!"</dd>
+<dt>Luke</dt>
+<dd>"You are very brave"</dd>
+<dt>Avi</dt>
+<dd>"MC...... It's alright, we will also come along"</dd>
+<dt>MC</dt>
+<dd>"Yeah!"</dd>
+<dt>Byakuyo</dt>
+<dd>"How wonderful~, then I'll also have to make preparations for the journey"</dd>
+<dt> </dt>
+<dd>His voice and smile filled the room at the same time.</dd>
+<dt>MC</dt>
+<dd>"Byakuyo!? You're planning to come with us?"</dd>
+<dt>Byakuyo</dt>
+<dd>"That's right? Is there an issue?"</dd>
+<dt>MC</dt>
+<dd>"Doesn't this country need you......"</dd>
+<dt>Byakuyo</dt>
+<dd>"That's not a problem. The country is heading towards recovery, and my father and mother have also returned, so there's nothing to worry about"</dd>
+<dt>Byakuyo</dt>
+<dd>"Although it was troublesome when father was so apalled that he became like that he was in a fever trying to commit seppuku"</dd>
+<dt>MC</dt>
+<dd>"Seppuku......"</dd>
+<dt>Byakuyo</dt>
+<dd>"Well, it's all good. With my father like this, even if the Dream Eaters come, he can get rid of them"</dd>
+<dt>Byakuyo</dt>
+<dd>"More importantly, stay on guard so that you're not all whining again. Right?"</dd>
+<dt>MC</dt>
+<dd>"Byakuyo...... Yes, we'll be counting on you!"</dd>
+<dt>Navi</dt>
+<dd>"If that's all decided, then let's leave quickly"</dd>
+<dt>Navi</dt>
+<dd>"Tonight, Moon Road is supremely beautiful"</dd>
+<dt>Navi</dt>
+<dd>"Let's go, princess!"</dd>
+<dt>MC</dt>
+<dd>"Yes!"</dd>
+<dt> </dt>
+<dd>At that time, outside my window, the night wind blew pale pink flower petals down.</dd>
+<dt> </dt>
+<dd>The view illuminated by moonlight was breathtakingly beautiful......</dd>
+<dt>MC</dt>
+<dd>"Beautiful......"</dd>
+<dt>Avi</dt>
+<dd>"Sakura, huh"</dd>
+<dt>Hinata</dt>
+<dd>"Hey, you learned something"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt>Byakuyo</dt>
+<dd>"At around this time, the citizens of this country must also be looking at this view"</dd>
+<dt>Byakuyo</dt>
+<dd>"With very beautiful emotions"</dd>
+<dt> </dt>
+<dd>And then we began to walk to the next country in the moonlight...-.</dd>
+<dt> </dt>
+<dd>Chapter 4 End</dd>
+</dl>

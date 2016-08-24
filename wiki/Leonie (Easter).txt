@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 233
+|name = Leonie
+|name_jp = レオニー
+|attribute = Cute
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 508
+|hp_max = 962
+|hp_break = 1222
+|atk_base = 352
+|atk_max = 543
+|atk_break = 690
+|rp_base = 303
+|rp_max = 468
+|rp_break = 594
+|lskill_name = 卵からヒヨコ！？
+|lskill_desc = Increase Yellow & Purple HP & RP by 20%
+|skill_name = ヒヨコ・パニック
+|skill_desc = Erase centre beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 866
+|hp_max_s = 1125
+|hp_break_s = 1406
+|atk_base_s = 516
+|atk_max_s = 635
+|atk_break_s = 793
+|rp_base_s = 444
+|rp_max_s = 547
+|rp_break_s = 683
+|lskill_name_s = アンタを守るためなら
+|lskill_desc_s = Increase Yellow & Purple HP & RP by 25%
+|skill_name_s = ヒヨコ・ブレイド
+|skill_desc_s = Erase centre beads (SSS)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 866
+|hp_max_m = 1173
+|hp_break_m = 1465
+|atk_base_m = 516
+|atk_max_m = 662
+|atk_break_m = 828
+|rp_base_m = 444
+|rp_max_m = 500
+|rp_break_m = 625
+|lskill_name_m = 皆が大きくなるまで
+|lskill_desc_m = Increase Red & Yellow HP & RP by 25%
+|skill_name_m = ヒヨコ・ランブル
+|skill_desc_m = Erase centre beads and insert gold bomb
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Leonie]]
+|desc = 虹の国・オズの王子。粗暴やワイルドさに憧れを抱く。オズに勇気をもらったはずが、その時確かにあったはずの勇気を失くしてしまった。感謝祭に向けて国中を卵で飾りつけをしてほしいとオズワルドに頼まれる。
+|bg = シンヴァ領を訪れたあなたは、荷馬車を引くレオニーと再会する。彼に事情を尋ねると、感謝祭に向けて国中を飾りつけるよう頼まれたんだと言っていて…―
+}}
+
+== Story ==
+{{Choice|title2 = 大魔法使いみたいに|choice21s = とりあえず拾い集める|points21s = 8|choice21m = よく見比べる|points21m = 8|title3 = 皆の笑顔のために|choice31s = レオ二ーはすごいね|points31s = 4|choice31m = 無理しないでね|points31m = 4|choice32s = レオニーだってすごい|points32s = 8|choice32m = 一緒に頑張ろうね|points32m = 8|title4 = ヒヨコのお母さん|choice41s = 動かないで！|points41s = 12|choice41m = 落ち着いて！|points41m = 12|title5 = レオニーの親心|choice51s = 頑張ろう？|points51s = 16|choice51m = 私も手伝うから|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_233s.jpg}}
+{{Still|text=Moon Still|img=Still_233m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレもオズワルドみたいに、皆を笑顔にしたいんだ…できるかな
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = アンタに手を出すヤツは…オレが許さねえんだからな！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 勇気があればって思ってたけど…アンタがいれば、オレ、なんでもできるよ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 街を飾りつけに行くんだ。一緒に行かねえか？
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = お、オレがお母さん？！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あれ、ヒヨコ、どこに行った？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ど、どうにか皆無事だった……
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = …っ！びびった…アンタか。違う、ちょっと驚いただけだ！…会えて嬉しい
+|CARD_TOP_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ヒヨコがあっちこっちに…ま、待て－！
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめ…その…おめで……おめでとう！勇気はねえけど、ちゃんと伝えたいんだ！
+|BIRTHDAY_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = な、なんでヒヨコが？！　うあっ。なんか、小さくて柔らかいから……怖い！
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 本当にたくさんの人がいるな…あっ！迷子にならないように、気をつけろよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = うわあ！犬だ！怖い…！！でも、アンタを守らないと…うおおおおっ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = なんか、無我夢中でさ…アンタのおかげで勇気があるってことがわかったよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 小さい動物ってさ…踏んじゃいそうで怖いんだよな…大丈夫かな…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 虹の国、全体に卵を飾り付けるって…終わりが見えねえけど、頑張らないと
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 細かい作業は得意なんだ。手芸とか…あっ！　男らしくない…か？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = なんか街の皆が、オレに優しくしてくれる…もっと、頑張らないとな！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = どうして…こんなことになったんだ？　おお…ぴよぴよついてくる
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = アンタがいれば、なんだってできる気がする。勇気がなくても、オレ…
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ほらな！大丈夫だっただろ…って、うわっ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = オレだって！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ひいいいい！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 痛くねえよ！
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = あ、危ない！　さ、下がってろ－！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = もしかして、この後ヒヨコが出てくるとか？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = うわあああ……びっくりしたぁ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = な、なんでもない！ま、任せとけ…
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = えっ？なんか出てきた…ヒヨコお！？
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 怖くなんかねえ！アンタはオレが守るんだ！
+|SKILL_INVOKE_s_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = うーん…卵が…卵に襲われる…むにゃっ！　あ、朝？夢か…よかった
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = もうそろそろ餌の時間かな？　へ？　オレじゃなくて、ヒヨコだって！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = わああ！びっくりした……なんでパーティをしてるんだ？感謝……祭？
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = あの泉の中に「勇気」落ちてないかな……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あ、ちょっと、いまヒヨコの世話でいっぱいいっぱいでさ……悪い
+|FRIEND_DETAIL_clip = 
+}}

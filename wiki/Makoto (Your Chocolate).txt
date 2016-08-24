@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 209
+|name = Makoto
+|name_jp = 真琴
+|attribute = Cute
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 441
+|hp_max = 863
+|hp_break = 1001
+|atk_base = 281
+|atk_max = 529
+|atk_break = 613
+|rp_base = 348
+|rp_max = 544
+|rp_break = 631
+|lskill_name = デート、しようか？
+|lskill_desc = Increase Party ATK by 15%
+|skill_name = チョコレートブラック
+|skill_desc = Increase Yellow beads appearance rate (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 776
+|hp_max_s = 1009
+|hp_break_s = 1150
+|atk_base_s = 502
+|atk_max_s = 714
+|atk_break_s = 814
+|rp_base_s = 517
+|rp_max_s = 636
+|rp_break_s = 725
+|lskill_name_s = 君を縛るチョコレート
+|lskill_desc_s = Increase Party ATK by 20%
+|skill_name_s = チョコレートチャッチ
+|skill_desc_s = Increase Yellow beads appearance rate (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 776
+|hp_max_m = 1164
+|hp_break_m = 1327
+|atk_base_m = 502
+|atk_max_m = 619
+|atk_break_m = 706
+|rp_base_m = 517
+|rp_max_m = 636
+|rp_break_m = 725
+|lskill_name_m = 甘い罠にかかった蝶
+|lskill_desc_m = Increase Party ATK by 20%
+|skill_name_m = チョコレートバタフライ
+|skill_desc_m = Increase Yellow beads appearance rate (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Whom does your chocolate belong to
+|original = [[Makoto]]
+|desc = 王制から大統領制へ移行した魔法科学の国・ダテンの元王子。他人の苦しむ顔を見ることが何よりの楽しみ。大統領制移行の際に、陰謀で家族を失い、復讐のためだけに生きている。今回、チョコレート試食会に招待を受けた彼は、この試食会をあなたと会うためのいい口実だと思ってる。\\n
+|bg = 真琴に誘われ、ショコルーナを訪れたあなた。元王子の彼の元へも、チョコレート試食会の招待状が届いていて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 冷たい笑顔
+|choice21s = ロマンチックだね
+|points21s = 6
+|choice21m = 誘ってくれたお祭りってそれだったんだ
+|points21m = 6
+|title3 = 二人の迷子
+|choice31s = 真琴君！
+|points31s = 3
+|choice31m = 顔を背ける
+|points31m = 3
+|choice32m = 待って
+|points32m = 6
+|choice32s = えっ……
+|points32s = 6
+|title4 = 冷たい瞳
+|choice41s = 探してきてくれてありがとう
+|points41s = 12
+|choice41m = 怒ってない？
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_209s.jpg}}
+{{Still|text=Moon Still|img=Still_209m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = もっともっともっと……苦しんで！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = あははっ、僕から逃げられるとでも思ってるの…！？
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ねえ、約束だよ？ずっと僕の隣にいるって…
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = まあ、君で遊べるならいいかな
+|SKILL_INVOKE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 思ったよりあっけなかったな
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 逃がさないよ
+|BATTLE_TURN_END_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = え？こんなときにチョコ？
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 何だよ…っ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 消えてよ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = あははっ！いいね、もっと踊ってみせて
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ああ、騒がしいな。ねえ、もっと静かな所に行って二人きりになろうよ？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 手違いで招待されたとか本当信じられない。君が楽しませてくれるならいいけど
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = そんな顔してたら、ますますいじめたくなっちゃうなあ…ふふっ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 愛を伝える日、ねえ…君は僕に何をくれるの？僕はね…ふふ、何にしようかな
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 街全体が浮かれきってる…お気楽な奴らばかりなんだね
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ふわあ…疲れた。もう今日は寝るよ。そういうことだから、君もこっちへ来て
+|MAIN_TOP_EVENING_GREET_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 煩わしいったらないね
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 口を開けて？ほら、早く。甘～いチョコを、たっぷりあげるから…
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = いいよね。僕の元から離れないって、言ってごらんよ。ほら、早く
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = そんなに予想通りの反応じゃつまらないからさ、もっとさらけ出してみせてよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 面白くなってきたよ！ね、もっと頑張って♪
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = へえ…君の僕への愛は、その程度なんだ？
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = そんなもの拾わなくてもいいんじゃない？
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 君は本当に可愛いよ。ねえ、もっと僕の為に悩んで、困ってくれないかなあ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 何でもしますとか、簡単に言わない方がいいよ。僕…手加減できないしさ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君は、お人好し過ぎるんだよ。だから僕みたいな人間につけ込まれる
+|MAIN_TOP_TOUCH_s_2_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 呑気にパーティとかしてる場合？まあいいや、好きにしなよ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 暇そうな顔をしてるね。こっちは暇じゃないんだけど
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここってさあ……綺麗な蝶、いないかな？
+|GUILD_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君のその困った顔が、僕の力になるんだ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 元王子に招待状出すなんて、失礼な話だよ。僕、少し落ち込んだよ…なーんてね
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日？それ、祝う必要あるの？…言って欲しいなら言ってあげる、おめでとう
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = チョコレートなんて、どうでもいいよ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = そうか…どうやって思い知らせてあげようかな。楽しみだな
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 本当、僕を置いていくなんて…君、本当に何もわかってないんだね
+|CARD_EVOLUTION_s_clip = 
+}}

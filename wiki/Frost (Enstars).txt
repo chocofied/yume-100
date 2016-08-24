@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 250
+|name = Frost
+|name_jp = フロスト
+|attribute = Cool
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 508
+|hp_max = 941
+|hp_break = 1073
+|atk_base = 433
+|atk_max = 741
+|atk_break = 845
+|rp_base = 409
+|rp_max = 596
+|rp_break = 680
+|lskill_name = 一緒にレッスン
+|lskill_desc = Increase Party ATK by 65% when HP is Max
+|skill_name = スノウライズ
+|skill_desc = Erase all Red beads and turn Yellow beads into Blue
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 847
+|hp_max_s = 1045
+|hp_break_s = 1170
+|atk_base_s = 704
+|atk_max_s = 956
+|atk_break_s = 1071
+|rp_base_s = 566
+|rp_max_s = 662
+|rp_break_s = 741
+|lskill_name_s = 思いを歌詞にのせて
+|lskill_desc_s = Increase Party ATK by 75% when HP is Max
+|skill_name_s = スノウライズ
+|skill_desc_s = Erase all Red beads and turn Yellow beads into Blue
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 847
+|hp_max_m = 1149
+|hp_break_m = 1287
+|atk_base_m = 704
+|atk_max_m = 904
+|atk_break_m = 1012
+|rp_base_m = 566
+|rp_max_m = 638
+|rp_break_m = 715
+|lskill_name_m = 最前列のお前へ
+|lskill_desc_m = Increase Party ATK by 75% when HP is Max
+|skill_name_m = スノウノート
+|skill_desc_m = Erase all Yellow beads and turn Green beads into Blue
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Three Brothers and the Three Oddballs
+|original = [[Frost]]
+|desc = 雪の国・スノウフィリアの第一王子。家柄や名誉を大事にしている。プライドがとても高く万能。何事においても自分が最も優れていると思っている。見聞を広めるために訪れたアイドルの国で、初めて見たアイドルのライブに感銘を受け、アイドルに挑戦してみようと思い立った。
+|bg = 見聞を広めたいというフロストと一緒に、アイドルの国へとやってきたあなた。すると、アイドルのことを知らない彼があなたに教えを乞うと言い出して…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 見たことのない景色
+|choice21s = 楽しみましょう
+|points21s = 8
+|choice21m = 大丈夫ですか？
+|points21m = 8
+|title3 = 恵まれた美声
+|choice31m = 意外だけど似合います
+|points31m = 4
+|choice31s = 応援します
+|points31s = 4
+|choice32m = 話しかける
+|points32m = 8
+|choice32s = 目を逸らす
+|points32s = 8
+|title4 = 別格の存在
+|choice41s = 皆が元気になりますね
+|points41s = 12
+|choice41m = なんでもない
+|points41m = 12
+|title5 = 惹きつけられる魅力
+|choice51s = 緊張する
+|points51s = 16
+|choice51m = 自信がない
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_250s.jpg}}
+{{Still|text=Moon Still|img=Still_250m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まだまだレッスンを続ける必要がありそうだ
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なんだそれは？　差し入れか？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = かわいらしいぞ。その顔をもっと見せろ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ほう…悪くないが、まだ表情が硬い。笑え
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 未だかつてない体験をさせてやろう
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = どこまでも俺についてこい
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = テンポがずれたか…！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 聴かせてやろう
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 俺にできないことはない！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = いい声援だな
+|BATTLE_RECOVER_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 感想を言え
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだまだ終わらんぞ
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ふ……歌とは、思っていた以上に心躍るものだな
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お前、アイドルについて詳しいのか？ならば、俺についてこい
+|CARD_TOP_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = ほう、アンコールか
+|BATTLE_FEVER_TIME_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 誇り高き雪の一族の力を見せつけてやらねばならないな
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ステージか。この俺の実力を皆に披露してやろう。楽しみだ
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = ではお前の為だけに、ステージで一曲歌ってやろう。どうだ、悪くないだろう？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = おい、お前もレッスンに付き合え
+|DECK_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = お前も来ていると聞いていた。変わった国だが、なかなかに興味深い
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 心地よい疲労感だ…明日も早い。今日はゆっくり休むとしよう
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = よし、レッスンの前に一緒に食事をとるとしよう…弁当？お前が俺に、か？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ふむ…あの光る棒には、さまざまな色を発する仕組みがあるんだな
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 俺がアイドルになったら、お前はどう思う？素直に言ってみろ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = アイドルか。歌いながら踊るとなると、並の体力では務まらんな
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = お前が俺のステージを見て喜んでいる様はよかった。満足だ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = アイドルに熱狂する人々はこんなにも多くいるのだな。皆、いい顔をしている
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = では俺のステージ、しかと見届けてもらおう
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お前が嫉妬したり、拗ねたりしてる様子はなかなか興味深かった
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 悪くないな。スノウフィリアの民にもアイドルコンサートを見せてやるか
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 雪の一族の力を見せてやろう。最高のステージをお前に…皆に見せてやろう
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = そんな顔をして…抱きしめてやりたくなるだろう。放せと言われても放せないな
+|CARD_DETAIL_s_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来たな。お前も俺のステージを見たいと言うのか。では、たっぷり味わえ
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは随分とのどかな場所だな。こういうところで野外ライブも悪くない
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 何だ？これからアイドルのコンサートがあるだと…よし。鑑賞していこう
+|WELCOME_PARTY_clip = 
+}}

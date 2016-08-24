@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 196
+|name = Lied
+|name_jp = リード
+|attribute = Sexy
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 309
+|hp_max = 581
+|hp_break = 772
+|atk_base = 255
+|atk_max = 453
+|atk_break = 602
+|rp_base = 255
+|rp_max = 453
+|rp_break = 602
+|lskill_name = 新年を祝う音色
+|lskill_desc = Increase Purple ATK & RP by 25%
+|skill_name = 書き初め、君の名前
+|skill_desc = Recover time & HP
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 523
+|hp_max_s = 657
+|hp_break_s = 857
+|atk_base_s = 430
+|atk_max_s = 580
+|atk_break_s = 757
+|rp_base_s = 430
+|rp_max_s = 580
+|rp_break_s = 757
+|lskill_name_s = 君を想う音色
+|lskill_desc_s = Increase Purple ATK & RP by 30%
+|skill_name_s = 新年よりも君
+|skill_desc_s = Recover time & HP
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 523
+|hp_max_m = 744
+|hp_break_m = 971
+|atk_base_m = 430
+|atk_max_m = 512
+|atk_break_m = 668
+|rp_base_m = 430
+|rp_max_m = 580
+|rp_break_m = 757
+|lskill_name_m = 幸福ダルマ
+|lskill_desc_m = Increase Purple ATK & RP by 30%
+|skill_name_m = 叶った願い
+|skill_desc_m = Recover time & HP
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = New Year's First Play
+|original = [[Lied]]
+|desc = 声の国・ヴォックスの王子。シュティマ達の従兄。とても優秀だが、それゆえ少し変わったものの見方をしている。気づくといつも作曲している。今回、九曜の国王に依頼され、新年を祝うコンサートでヴァイオリンを演奏することになった。
+|bg = 新年を祝うコンサートをするリードから招待され、九曜を訪れたあなた。彼の素晴らしい演奏を聴いた後、一緒に九曜の街を回って凧あげやお詣りをして…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 書き初め
+|choice21m = 一日一善
+|points21m = 6
+|choice21s = 健康第一
+|points21s = 6
+|title3 = 凧揚げ
+|choice31s = バランスが悪いのかな
+|points31s = 3
+|choice31m = コツを教えて
+|points31m = 3
+|choice32m = ごめんなさい
+|points32m = 6
+|choice32s = 楽しかった
+|points32s = 6
+|title4 = 人込みの中で
+|choice41s = 帰りましょうか？
+|points41s = 12
+|choice41m = 疲れちゃったと言う
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_196s.jpg}}
+{{Still|text=Moon Still|img=Still_196m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = 
+|GUILD_jp = いい曲がつくれそうだな……ん～♪……あ！いつから聞いてたの？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ここでもパーティ？まあ、いいんじゃないかな。皆が楽しいなら
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来たね……とくに何もないけど、好きなだけいていいよ
+|FRIEND_DETAIL_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごくいい。じゃあ、俺と合わせてみようか？
+|CHAIN_EXCELLENT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 祝いの曲か…こんなメロディはどう？
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = こんなの大したことないよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …痛い
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ
+|BATTLE_ATTACK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ここでちょっと小休止
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = じゃ、曲に合わせていこうか
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = このダルマを投げて……嘘だよ
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 見たことのない楽器か…まあ、悪くないね
+|SKILL_INVOKE_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = さ、邪魔者はいなくなったね
+|BATTLE_CLEAR_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = あ、メロディを思いついた……聞きたい？　
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = わざわざ俺のためにこんな所まで来たの？いや、喜んでるよ
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君に曲を贈るのは簡単だから…今日は、別のことをおねだりしてみてよ。ね？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = さ、君は何がしたい？何でもいいよ、言って
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = この曲に込めたもの…君にわかるかな？
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 君がしたいことをしたらいい。俺は君に楽しんで欲しいだけだから
+|CARD_EVOLUTION_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 月の光はいいね…借りた太陽の光を律儀に映し出しているところかな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = あ、ちょっといい曲を思い付いたよ…今から歌うから君が覚えておいて
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝日…いつだって同じように綺麗だから、いつ見たっていいんじゃない？
+|MAIN_TOP_MORNING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = え？何？いい曲だった？そうやって君に褒めてもらえるのは嬉しいけど…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = でも、そもそも新年ってお祝いなのかな？って思ったらちょっと大変だったよ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 新年の祝いってことで、曲をつくってくれって言われたんだけど…どうかな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ダルマ…？何て言ったらいいのかな？愛嬌がある？いや、ちょっとブサイク？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 物悲しくも聞こえるし、力強くも聞こえる不思議な曲調だな。君はどう思う？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 何でもいいよ、君が笑ってたら…今年もできる限り、そういう顔してて？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 外に出るのも、まあ無駄にはならないね。こんな変わった楽器と出会えた
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = はあ……疲れた。適当に開けておいて？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こんなところまでついてくるんだ……
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君といると、世界が違って見える。だから、一緒にいたいと思うよ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 願いごとが叶わないと、目がないままか…描いちゃえばいいんじゃない？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = へえ…上手いじゃん。じゃあ、次のフレーズね
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = いい調子だね、もうちょっと大きな声で
+|CHAIN_NICE_clip = 
+}}

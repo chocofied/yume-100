@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 270
+|name = Hearts
+|name_jp = ハーツ
+|attribute = Passion
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 659
+|hp_max = 1120
+|hp_break = 1276
+|atk_base = 422
+|atk_max = 685
+|atk_break = 781
+|rp_base = 365
+|rp_max = 593
+|rp_break = 676
+|lskill_name = 祭りの屋台巡り
+|lskill_desc = Reduce Party HP and increase ATK by 60%
+|skill_name = 宵風に舞う短冊
+|skill_desc = Only Red and Purple beads appear for 2 chains
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1008
+|hp_max_s = 1198
+|hp_break_s = 1342
+|atk_base_s = 651
+|atk_max_s = 836
+|atk_break_s = 936
+|rp_base_s = 563
+|rp_max_s = 723
+|rp_break_s = 810
+|lskill_name_s = ガラス細工の灯火
+|lskill_desc_s = Reduce Party HP and increase ATK by 70%
+|skill_name_s = 宵風に舞う短冊
+|skill_desc_s = Only Red and Purple beads appear for 2 chains
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1008
+|hp_max_m = 1310
+|hp_break_m = 1467
+|atk_base_m = 651
+|atk_max_m = 802
+|atk_break_m = 898
+|rp_base_m = 563
+|rp_max_m = 694
+|rp_break_m = 777
+|lskill_name_m = カッコいい男への一歩
+|lskill_desc_m = Reduce Party HP and increase ATK by 70%
+|skill_name_m = 夜嵐に踊る短冊
+|skill_desc_m = Only Red and Blue beads appear for 2 chains
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|desc = 不思議の国・ワンダーメアの王子。ハートの女王の流れを組む一族。盛り上がると、人の話を聞かずに暴走してしまう一面も。小さな頃からアリスにとても興味がある。今回、尊敬するマッドハッターが星祭りに行くと聞いて、一緒にガラッシアを訪れていた。
+|bg = 星祭りに招待され訪れた来たガラッシアで、ハーツと再会したあなた。二人で楽しく星祭りを一緒に回っている途中、耳まで真っ赤にした彼が口にしたのは…―
+|event = In the Starlit Night
+|original = [[Hearts]]
+}}
+== Story ==
+{{Choice|title2 = 子どものように|choice21s = 嬉しい|points21s = 8|choice21m = 照れくさい|points21m = 8|title3 = 大人のエスコート|choice31s = 憧れなんだね|points31s = 4|choice31m = 目標なんだね|points31m = 4|choice32s = 素敵だと思う|points32s = 8|choice32m = 変ではないけど……|points32m = 8|title4 = 変化を望む者|choice41s = 怒ってるの？|points41s = 12|choice41m = 大丈夫？|points41m = 12|title5 = 星の国の王子達|choice51s = 祭りの成功のため|points51s = 16|choice51m = 国民のため|points51m = 16}}{{Still|text=Sun Still|img=Still_270s.jpg}}
+{{Still|text=Moon Still|img=Still_270m.jpg}}

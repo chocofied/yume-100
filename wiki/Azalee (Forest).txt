@@ -1,0 +1,76 @@
+== Status ==
+{{Infobox
+|no = 287
+|name = Azalee
+|name_jp = アザリー
+|attribute = Passion
+<!-- Before -->
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 520
+|hp_max = 994
+|hp_break = 1153
+|atk_base = 282
+|atk_max = 441
+|atk_break = 511
+|rp_base = 299
+|rp_max = 562
+|rp_break = 652
+|lskill_name = 何事も挑戦あるのみ！
+|lskill_desc = Increase Red HP & RP by 20%
+|skill_name = 動物に愛されし、僕！
+|skill_desc = Recover HP & Poison beads (A)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 17
+|lvmax_s = 60
+|hp_base_s = 895
+|hp_max_s = 1123
+|hp_break_s = 1280
+|atk_base_s = 418
+|atk_max_s = 564
+|atk_break_s = 643
+|rp_base_s = 534
+|rp_max_s = 719
+|rp_break_s = 820
+|lskill_name_s = 僕と君とで得た宝
+|lskill_desc_s = Increase Red HP & RP by 25%
+|skill_name_s = 天に愛されし、僕！
+|skill_desc_s = Recover HP & Poison beads (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 17
+|lvmax_m = 60
+|hp_base_m = 895
+|hp_max_m = 1163
+|hp_break_m = 1326
+|atk_base_m = 418
+|atk_max_m = 515
+|atk_break_m = 587
+|rp_base_m = 534
+|rp_max_m = 759
+|rp_break_m = 865
+|lskill_name_m = 君といたからこその宝
+|lskill_desc_m = Increase Red HP & RP by 25%
+|skill_name_m = 自然に愛されし、僕！
+|skill_desc_m = Recover HP & Poison beads (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+== Profile ==
+{{Profile
+|original = [[Azalee]]
+|event = The Ones Who Sleep in the Forest of Light
+|desc = 金砂の国・サリューシャの王子。自由奔放で全て自分の良いように解釈する前向きな性格。金で何事も解決しようとするが、決してそこに嫌味はない。何かと羊を贈る習慣がある。今回、森の中にあるという宝を探すためにヒューレを訪れた。
+|bg = アザリーに誘われて、ヒューレを訪れたあなた。この森のどこかに眠るという宝を彼と一緒に探していたその時、観光客が森を汚していることを知り…―
+}}
+
+== Story ==
+{{Still|text=Sun Still|img=Still_287s.jpg}}
+{{Still|text=Moon Still|img=Still_287m.jpg}}
+== Quotes ==

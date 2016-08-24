@@ -1,0 +1,78 @@
+== Status ==
+{{Infobox
+|no = 274
+|name = Drole
+|name_jp = ドローレ
+|attribute = Sexy
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 497
+|hp_max = 991
+|hp_break = 1260
+|atk_base = 344
+|atk_max = 559
+|atk_break = 711
+|rp_base = 351
+|rp_max = 482
+|rp_break = 612
+|lskill_name = 痛いのは好き？
+|lskill_desc = Increase Purple ATK by 50%
+|skill_name = クイック・シザー
+|skill_desc = Insert gold bomb (2-3)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 892
+|hp_max_s = 1100
+|hp_break_s = 1374
+|atk_base_s = 531
+|atk_max_s = 722
+|atk_break_s = 902
+|rp_base_s = 458
+|rp_max_s = 535
+|rp_break_s = 668
+|lskill_name_s = 痛みの矛先
+|lskill_desc_s = Increase Purple ATK by 50% and HP by 10%
+|skill_name_s= ラピッド・シザー
+|skill_desc_s = Insert gold bomb (3)
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 892
+|hp_max_m = 1209
+|hp_break_m = 1510
+|atk_base_m = 531
+|atk_max_m = 683
+|atk_break_m = 852
+|rp_base_m = 458
+|rp_max_m = 515
+|rp_break_m = 644
+|lskill_name_m = 純粋な痛み
+|lskill_desc_m = Increase Purple ATK by 65%
+|skill_name_m = ファスト・シザー
+|skill_desc_m = Insert gold bomb (2-4)
+|gold_m = 10000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|va = Shirai Yusuke
+|origin =Country of Aspiration- Circo 
+|age = 16
+|birth = 
+|policy =It's okay to laugh even when it's painful 
+|likes =Pain 
+|dislikes =Loneliness 
+|desc = 憧憬の国・チルコの第四王子。兄であるネロが率いるサーカス団に所属しており、落ちたらどれぐらい痛いだろうという興味から綱渡りに出演している。面倒見がよく、子ども達のまとめ役を務めるという意外な一面を持つ。
+|bg = 目覚めさせたドローレは、ピアスを開けることが大好きな一風変わった王子だった。そんなドローレが所属するサーカスで綱渡りの練習をする彼を見ていると…
+}}
+== Story ==
+{{Choice|title2 = ピアス好き|choice21s = 目を逸らす|points21s = 8|choice21m = 止める|points21m = 8|title3 = 子どもだけの世界|choice31s = 怖い|points31s = 4|choice31m = 痛そう|points31m = 4|choice32s = 子どもだけなの？|points32s = 8|choice32m = 大人はいないの？|points32m = 8|title4 = サーカスの練習|choice41s = 頼りにされているんだ|points41s = 12|choice41m = いいお兄さんなんだね|points41m = 12|title5 = 命綱のない綱渡り|choice51s = 駆け寄る|points51s = 16|choice51m = 目を覆う|points51m = 16}}{{Still|text=Sun Still|img=Still_274s.jpg}}
+{{Still|text=Moon Still|img=Still_274m.jpg}}

@@ -1,0 +1,41 @@
+<onlyinclude><table class="wikitable" style="display:inline-block; vertical-align: top; width: calc(100% - 400px - 4em); margin: 0; border: none;">{{#if: {{{title2|}}} |<tr><td><b>{{{title2|}}}</b></td><td><b>Ch 1</b></td></tr>|}}{{#if: {{{choice21s|}}} |<tr><td>{{{choice21s|}}}</td><td>Sun +{{{points21s|}}}</td></tr>|}}{{#if: {{{choice21m|}}} |<tr><td>{{{choice21m|}}}</td><td>Moon +{{{points21m|}}}</td></tr>|}}{{#if: {{{choice22s|}}} |<tr><td>{{{choice22s|}}}</td><td>Sun +{{{points22s|}}}</td></tr>|}}{{#if: {{{choice22m|}}} |<tr><td>{{{choice22m|}}}</td><td>Moon +{{{points22m|}}}</td></tr>|}}{{#if: {{{title3|}}} |<tr><td><b>{{{title3|}}}</b></td><td><b>Ch 2</b></td></tr>|}}{{#if: {{{choice31s|}}} |<tr><td>{{{choice31s|}}}</td><td>Sun +{{{points31s|}}}</td></tr>|}}{{#if: {{{choice31m|}}} |<tr><td>{{{choice31m|}}}</td><td>Moon +{{{points31m|}}}</td></tr>|}}{{#if: {{{choice32s|}}} |<tr><td>{{{choice32s|}}}</td><td>Sun +{{{points32s|}}}</td></tr>|}}{{#if: {{{choice32m|}}} |<tr><td>{{{choice32m|}}}</td><td>Moon +{{{points32m|}}}</td></tr>|}}{{#if: {{{title4|}}} |<tr><td><b>{{{title4|}}}</b></td><td><b>Ch 3</b></td></tr>|}}{{#if: {{{choice41s|}}} |<tr><td>{{{choice41s|}}}</td><td>Sun +{{{points41s|}}}</td></tr>|}}{{#if: {{{choice41m|}}} |<tr><td>{{{choice41m|}}}</td><td>Moon +{{{points41m|}}}</td></tr>|}}{{#if: {{{choice42s|}}} |<tr><td>{{{choice42s|}}}</td><td>Sun +{{{points42s|}}}</td></tr>|}}{{#if: {{{choice42m|}}} |<tr><td>{{{choice42m|}}}</td><td>Moon +{{{points42m|}}}</td></tr>|}}{{#if: {{{title5|}}} |<tr><td><b>{{{title5|}}}</b></td><td><b>Ch 4</b></td></tr>|}}{{#if: {{{choice51s|}}} |<tr><td>{{{choice51s|}}}</td><td>Sun +{{{points51s|}}}</td></tr>|}}{{#if: {{{choice51m|}}} |<tr><td>{{{choice51m|}}}</td><td>Moon +{{{points51m|}}}</td></tr>|}}{{#if: {{{title6|}}} |<tr><td><b>{{{title6|}}}</b></td><td><b>Ch 5</b></td></tr>|}}{{#if: {{{choice61s|}}} |<tr><td>{{{choice61s|}}}</td><td>Sun +{{{points61s|}}}</td></tr>|}}{{#if: {{{choice61m|}}} |<tr><td>{{{choice61m|}}}</td><td>Moon +{{{points61m|}}}</td></tr>|}}</table></onlyinclude><noinclude>
+<pre>{{Choice
+|title2 = 
+|choice21s = 
+|choice21m = 
+|points21s = 0
+|points21m = 0
+|choice22s = 
+|choice22m = 
+|points22s = 0
+|points22m = 0
+|title3 = 
+|choice31s = 
+|choice31m = 
+|points31s = 0
+|points31m = 0
+|choice32s = 
+|choice32m = 
+|points32s = 0
+|points32m = 0
+|title4 = 
+|choice41s = 
+|choice41m = 
+|points41s = 0
+|points41m = 0
+|choice42s = 
+|choice42m = 
+|points42s = 0
+|points42m = 0
+|title5 = 
+|choice51s = 
+|choice51m = 
+|points51s = 0
+|points51m = 0
+|title6 = 
+|choice61s = 
+|choice61m = 
+|points61s = 0
+|points61m = 0
+}}</pre>
+</noinclude>

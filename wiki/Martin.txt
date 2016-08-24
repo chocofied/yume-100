@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 72
+|name = Martin
+|name_jp = マルタン
+|attribute = Gentle
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 310
+|hp_max = 666
+|hp_break = 1046
+|atk_base = 175
+|atk_max = 310
+|atk_break = 487
+|rp_base = 213
+|rp_max = 310
+|rp_break = 487
+|lskill_name = エクストラクラス
+|lskill_desc = Reduce Green damage by 15%
+|skill_name = ベリーオールド
+|skill_desc = Turn Purple beads into Green
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 600
+|hp_max_s = 853
+|hp_break_s = 1316
+|atk_base_s = 295
+|atk_max_s = 350
+|atk_break_s = 540
+|rp_base_s = 295
+|rp_max_s = 397
+|rp_break_s = 612
+|lskill_name_s = アルマニャックエイジ
+|lskill_desc_s = Reduce Green damage by 20%
+|skill_name_s = ブランデフレグランス
+|skill_desc_s = Turn Purple beads into Green
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 600
+|hp_max_m = 853
+|hp_break_m = 1316
+|atk_base_m = 295
+|atk_max_m = 397
+|atk_break_m = 612
+|rp_base_m = 295
+|rp_max_m = 350
+|rp_break_m = 540
+|lskill_name_m = コニャックスタイル
+|lskill_desc_m = Reduce Green damage by 20%
+|skill_name_m = ハットトリック
+|skill_desc_m = Turn Purple beads into Green
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Fujiwara Keiji
+|origin = Country of Brandy - Vanbileur
+|age = 40
+|birth = June 20
+|likes = Sake and drinking sake
+|dislikes = Bugs (the ones with lots of legs)
+|policy = Turn your falls into profit (but don't fall too rashly♪)
+|desc = ブランデーの国・ヴァンブリュレの王子。人当たりがよくて、茶目っ気のある性格。大人の余裕と包容力がある。勝負強いところがあり、ゲームなどスポーツなどが得意。特にダーツは負けなし。
+|bg = マルタンを目覚めさせたあなたは、彼とヴァン・ブリュレで極上の体験をすることに。大人の余裕を見せる彼に、あなたの心が揺さぶられて……！？
+}}
+
+== Story ==
+{{Choice
+|title2 = ブランデー・ケーキ
+|choice21m = あります
+|points21m = 6
+|choice21s = ありません
+|points21s = 6
+|title3 = プレシャス・タイム
+|choice31m = 着る機会がなくて…
+|points31m = 3
+|choice31s = 似合う自信がなくて…
+|points31s = 3
+|choice32s = ありがとうございます
+|points32s = 6
+|choice32m = 距離が近いです……
+|points32m = 6
+|title4 = ダーツに魅せられて
+|choice41s = どうしましたか？
+|points41s = 12
+|choice41m = じっと見つめる
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_72s.jpg}}
+{{Still|text=Moon Still|img=Still_72m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 君みたいな子に選ばれたら…って、ハハッ、おじさん夢見ちゃったかな
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = おや？夢が叶ったみたいだね。君は本当に俺を喜ばせるのが上手なんだから
+|AWARD_EVENT_FAVORITES_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = こんなオジサンがいいのかい？…俺は嬉しいけどね
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 俺も君くらいの年ごろ……いやせめてあと10年若かったら……ね
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = なんだい？ダーツに連れて行って？いつでも歓迎だよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 昼にブランデーを飲むのも、粋だとは思わない？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = やぁ！いい朝だね。散歩日和だ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = おやおや。オジサンを困らせてどうする気？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 女の子なんだから。夜の一人歩きは危ないから、気をつけるんだよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 俺も君に触れたら若返り効果でももらえるかな？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = こんな可愛いお嬢さんに触れられるなんて嬉しいな
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 君に変な虫がつかないか……俺はすごく心配だよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 積極的だね。こっちからも触れていいのかな？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 助かるよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ…
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ど真ん中を狙うよ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = さぁ的は誰かな？
+|SKILL_INVOKE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = さて、いいところを見せようかな。
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = そんな風に触れられると、流石の俺でも大人ではいられないかもね？
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = よし、頑張ったね
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = そんな顔して…何かいいものでもあったかい？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 驚いた！俺も本気を出そう
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = い～い調子じゃないか
+|CHAIN_GREAT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = よっ・・・と！
+|BATTLE_ATTACK_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 男が女に香水をプレゼントする意味がわかるかい？
+|CARD_EVOLUTION_s_clip = 
+|DECK_en = 
+|DECK_jp = 久々に腕が鳴るねえ。まあ、みてなって
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君は可愛いね。からかい甲斐がある
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう。そんな風に背伸びをしている君も可愛い。いつでも君は愛しいよ
+|BIRTHDAY_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 見せ場を頂戴するよ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 最高得点を狙おうか
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = スマートに決まっただろう？
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだまだ大丈夫だよ
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 君のお蔭で少し若返った気がするよ…なんてね
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 来てくれたんだね。嬉しいよ。ありがとう
+|CARD_TOP_clip = 
+|GUILD_en = 
+|GUILD_jp = ダーツバーなんてどう？…冗談だよ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんなに歓迎してもらえるとは……ありがとう。嬉しいよ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あの子のお友達かな？これからも仲良くしてあげて。ね
+|FRIEND_DETAIL_clip = 
+}}

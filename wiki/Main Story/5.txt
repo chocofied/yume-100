@@ -1,0 +1,49 @@
+<div class="mw-collapsible mw-collapsed">5-1: The meeting under the rainy sky
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">5-2: The people of the country of darkness
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">5-3: The people of the country of darkness
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">5-4: Thoughts swirling in the sky
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>
+
+<div class="mw-collapsible mw-collapsed">5-5: Now is the time for courage
+<div class="mw-collapsible-content">
+{|class="article-table"
+!Speaker
+!Dialogue
+|-
+
+|}
+</div></div>

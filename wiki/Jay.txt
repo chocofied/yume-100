@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 37
+|name = Jay
+|name_jp = ジェイ
+|attribute = Gentle
+|rarity = 3
+|cost = 6
+|lvmax = 40
+|hp_base = 290
+|hp_max = 619
+|hp_break = 731
+|atk_base = 217
+|atk_max = 369
+|atk_break = 435
+|rp_base = 213
+|rp_max = 436
+|rp_break = 514
+|lskill_name = 大人の遊び
+|lskill_desc = Recover HP every turn (A)
+|skill_name = ヴァンプ・ブレス
+|skill_desc = Recovery of HP in accordance to RP (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 11
+|lvmax_s = 50
+|hp_base_s = 557
+|hp_max_s = 799
+|hp_break_s = 927
+|atk_base_s = 350
+|atk_max_s = 476
+|atk_break_s = 552
+|rp_base_s = 414
+|rp_max_s = 562
+|rp_break_s = 652
+|lskill_name_s = 大人の遊び
+|lskill_desc_s = Recover HP every turn (S)
+|skill_name_s = ヴァンプ・レジスタ
+|skill_desc_s = Recovery of HP in accordance to RP (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 11
+|lvmax_m = 50
+|hp_base_m = 557
+|hp_max_m = 762
+|hp_break_m = 884
+|atk_base_m = 350
+|atk_max_m = 453
+|atk_break_m = 525
+|rp_base_m = 414
+|rp_max_m = 614
+|rp_break_m = 712
+|lskill_name_m = 大人の遊び
+|lskill_desc_m = Recover HP every turn (S)
+|skill_name_m = ヴァンプ・ホールド
+|skill_desc_m = Recovery of HP in accordance to RP (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Mukugehara Masaru
+|origin = Country of Clergyman - Norpli
+|age = 39
+|birth = November 26
+|likes = Books and coffee
+|dislikes = Communication
+|policy = Will never aggravate matters
+|desc = 聖職者の国・ノープリーの王子。優しく穏やかな性格。昔ヴァンパイアに噛まれて、陽の当たる場所に出られない。国の人々は、彼に冷たいようだ。
+|bg = ジェイと夜の街へ繰り出したあなたは、そこで彼の秘密や諦めた夢を知っていくことになる。彼の諦めた夢と二人に迫る影とは…？
+}}
+
+== Story ==
+{{Choice
+|title2 = 向けられる悪意
+|choice21s = 手を取る
+|points21s = 6
+|choice21m = 遠慮する
+|points21m = 6
+|title3 = 何者にもなれなくて……
+|choice31s = 椅子に座る
+|points31s = 4
+|choice31m = 部屋を出ようとする
+|points31m = 4
+|choice32m = 迷う
+|points32m = 5
+|choice32s = 描いてみたい
+|points32s = 5
+|title4 = 月夜のキャンバス
+|choice41s = 黙ってみつめる
+|points41s = 12
+|choice41m = まだ大丈夫です
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_37s.jpg}}
+{{Still|text=Moon Still|img=Still_37m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜は早めに寝た方がいいよ。危ないからね…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = やぁ。気分はどうだい。俺はまぁ…いつも通りだよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ふわぁ…朝は弱いんだよなぁ
+|MAIN_TOP_MORNING_GREET_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 何かいいこと、あったかい？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 俺はこういうの、向いてないんだけどなぁ
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 君といると、どうも調子が狂うなぁ…イヤじゃないよ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = あんまりからかうと、お仕置きするぞ…なんてね
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 君は怖いもの知らずだね、ほんと
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = はは、くすぐったいじゃないか
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ぼーっとしてないよ。ほんとほんと。で、なんの話だっけ？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 俺も君に触るよ？…冗談だよ。そんな顔しなさんなって
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 俺なんか触っても、面白くないだろうに
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = おっと、ごめん。聞いてなかった。何か言ったか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ん？俺に何か用かな？
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = さーて、次つぎ
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = これで片を付けよう
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 失せろ
+|SKILL_INVOKE_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = やってやるよ、君のためにね
+|CHAIN_EXCELLENT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 君がいいなら、俺はそれでいいよ
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = もう少しがんばるか
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = よっと
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 邪魔だよ、ユメクイども
+|SKILL_INVOKE_s_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = たまにはやるよ、俺だって
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = やれやれ。一仕事しますか
+|CHAIN_NICE_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとう。いい一年になるといいね
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = あぁ、俺は君の言う通りにするよ
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = もし俺がバケモノでも…君は受け入れてくれるのか？
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = これで少しは、君の役にも立てるといいけどね
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 俺が強くなったって？そりゃよかった
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 今日はどこに行くんだ？…昨日言った？ごめんごめん、忘れちゃってね。
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = これで終わりか？そりゃよかった
+|BATTLE_CLEAR_clip = 
+|GUILD_en = 
+|GUILD_jp = やぁ。調子はどうだい？…まぁ良くない日もあるさ、うん
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 歓迎されるってのは慣れないけど…ありがとうな
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あの子の友達かい？よろしくな
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 俺が出場しても…とは思うんだけど、君が喜ぶなら考えようか
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = 年甲斐もなくはしゃいでしまいそうだ。ありがとう、その気持ちが嬉しいよ
+|AWARD_EVENT_FAVORITES_clip = 
+}}

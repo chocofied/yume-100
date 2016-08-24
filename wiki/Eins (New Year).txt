@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 192
+|name = Eins
+|name_jp = アインツ
+|attribute = Passion
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 363
+|hp_max = 849
+|hp_break = 985
+|atk_base = 268
+|atk_max = 419
+|atk_break = 486
+|rp_base = 379
+|rp_max = 592
+|rp_break = 687
+|lskill_name = 世界一の彼女
+|lskill_desc = Increase Party HP & RP by 10%
+|skill_name = 初詣デート
+|skill_desc = Recovery of HP in accordance to party RP (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 764
+|hp_max_s = 994
+|hp_break_s = 1133
+|atk_base_s = 398
+|atk_max_s = 490
+|atk_break_s = 559
+|rp_base_s = 563
+|rp_max_s = 800
+|rp_break_s = 912
+|lskill_name_s = 年初めの運命
+|lskill_desc_s = Increase Party HP & RP by 15%
+|skill_name_s = 羽子板の贈り物
+|skill_desc_s = Recovery of HP in accordance to party RP (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 764
+|hp_max_m = 1087
+|hp_break_m = 1239
+|atk_base_m = 398
+|atk_max_m = 474
+|atk_break_m = 540
+|rp_base_m = 563
+|rp_max_m = 758
+|rp_break_m = 864
+|lskill_name_m = 見えない返事
+|lskill_desc_m = Increase Party HP & RP by 15%
+|skill_name_m = 羽根つき大作戦
+|skill_desc_m = Recovery of HP in accordance to party RP (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = New Year's First Play
+|original = [[Eins]]
+|desc = 時の国・フォーラントの熱血王子。自信家だが、憎めない性格。自分の事を永遠の二十歳だと言い張ることをやめない。明るく社交的なため、周りに人が集まってくる。今回、公務で訪れた九曜であなたと偶然出会う。
+|bg = 九曜で偶然アインツと再会したあなた。一緒に街を回ることになったものの、お詣りをした後、忘れ物をしたという彼がどこかに行ってしまい…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ローリングショット！
+|choice21s = ありがとうございます
+|points21s = 6
+|choice21m = いえ、私は……
+|points21m = 6
+|title3 = 一緒の時間
+|choice31m = 欲しいです
+|points31m = 3
+|choice31s = 悩む
+|points31s = 3
+|choice32s = 楽しいです
+|points32s = 6
+|choice32m = 何も言えない
+|points32m = 6
+|title4 = 楽しい時間はもうすぐ……
+|choice41m = 大丈夫ですか？
+|points41m = 12
+|choice41s = 一緒に行きます
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_192s.jpg}}
+{{Still|text=Moon Still|img=Still_192m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 輪投げとは興味深い遊戯だ。オレの必殺技にかかればたいしたことはないがな！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 偶然だな！決して迷子とかではないぞ！オマエに会える運命に従ったまでだ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が沈んだ…こ…これからオレと…あ、ああ！早寝早起きは大事だ、おやすみ…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 何？　お手製の料理…縁起物…いや、是非食べさせてもらおう
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = オレと一緒の未来を生きてほしい。オマエはオレの運命の女だ！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 待たせてすまない。こっそり用意したいものがあった。ああ！言ってしまった！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = これは何と美しい…羽子板というのか。ぜひ、贈りたい…オマエに
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 女子の…縁起物か…いや、何でもない…縁起のいい日だなあ…っと
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 新しい朝が来た！さあ、今日もオマエと希望溢れる一日を過ごそうじゃないか！
+|MAIN_TOP_MORNING_GREET_clip = 
+|DECK_en = 
+|DECK_jp = お参りに行くぞ！オレについてくるといい！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = オレ……オマエに……いや、やりたいことがある！待っててくれ！
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 今日は運命の日。オマエという天使が生まれた日なんだ。おめでとう！
+|BIRTHDAY_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ぐふおっ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = てやあっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = オレとオマエの仲が試されているのか！？
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = なかなか難しいな……羽根つき。それに羽根つきしてるオマエが可愛い！
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ぬううっ！聞こえていただと！？一回だけ忘れてくれないか！頼む！
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = オマエに勝ったら…オレは好きだって伝える…待っていろ！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 何！！なんて可憐なんだ！もう一回見せてくれ！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = このオレの華麗な姿を見ていろ！はああーー！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = あぶなーーーーい！オマエは下がっているんだ
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = お年玉？それってどんな玉なんだ？
+|BATTLE_RESULT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = な、なんてことないさ
+|BATTLE_RECOVER_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ちょ、ちょっと待っててくれ！オレはオマエにどうしても贈りたいものがある
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = オレはいまノリにのっている！来い！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = いざ、勝負！ハンデをくれてやる
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = この日ここでオマエに会ったのは、運命というやつだ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = オレはオマエの瞳に恋している！
+|SKILL_INVOKE_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = おおお！体が熱くなっているぞ！今のオレには何でもできる！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 偶然会えるなんて…オマエはオレの運命の人だ。誰が何と言おうと確定だ
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ふふふ、余裕余裕…汗一つかいてないぞー
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = オレの第七感が告げる…もうすぐだと！
+|BATTLE_TURN_END_clip = 
+|GUILD_en = 
+|GUILD_jp = ここで一緒に羽根つきをしよう！正々堂々と勝負だ
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = いい！　オレもパーティーは大好きだ！さあ、楽しくすごそう！
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よくきてくれた！　そんなオマエ達にもお年玉を用意しているんだ！
+|FRIEND_DETAIL_clip = 
+}}

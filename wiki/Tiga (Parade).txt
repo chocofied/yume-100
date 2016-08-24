@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 156
+|name = Tiga
+|name_jp = ティーガ
+|attribute = Passion
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 577
+|hp_max = 1152
+|hp_break = 1314
+|atk_base = 411
+|atk_max = 669
+|atk_break = 762
+|rp_base = 395
+|rp_max = 542
+|rp_break = 618
+|lskill_name = 豪快な魔王
+|lskill_desc = Increase HP & RP by 20% when Party consists of all 5 colours
+|skill_name = バーストジェム
+|skill_desc = Erase random beads and increase own ATK for 1 turn
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1037
+|hp_max_s = 1279
+|hp_break_s = 1432
+|atk_base_s = 635
+|atk_max_s = 862
+|atk_break_s = 965
+|rp_base_s = 515
+|rp_max_s = 602
+|rp_break_s = 674
+|lskill_name_s = 魔王のティーガ様
+|lskill_desc_s = Increase HP & RP by 20% and ATK by 15% when Party consists of all 5 colours
+|skill_name_s = パンプキンジェム
+|skill_desc_s = Erase random beads and increase own ATK for 1 turn
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1037
+|hp_max_m = 1406
+|hp_break_m = 1575
+|atk_base_m = 635
+|atk_max_m = 816
+|atk_break_m = 914
+|rp_base_m = 515
+|rp_max_m = 580
+|rp_break_m = 650
+|lskill_name_m = 今宵の魔王
+|lskill_desc_m = Increase HP & RP by 25% when Party consists of all 5 colours
+|skill_name_m = デビルジェム
+|skill_desc_m = Erase random beads and increase own ATK for 1 turn
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Parade is a Love Gimmick?
+|original = [[Tiga]]
+|desc = 宝石の国・ガルティナの王子。明朗快活で欲望には忠実な性格。その行動にいつも誰かが巻き込まれていくけれど、憎めない。今回、収穫祭で一番目立つために気合を入れて仮装をしてきた。
+|bg = ティーガと収穫祭に参加をすることになったあなた。収穫祭で一番目立ちたいという彼の仮装を一緒に考えることに。当日の仮装は一体どんなものに…？
+}}
+
+== Story ==
+{{Choice
+|title2 = サイコーのセンス
+|choice21m = どんな衣装？
+|points21m = 8
+|choice21s = で、でも……
+|points21s = 8
+|title3 = とにかく一番！
+|choice31s = 一番じゃなくても素敵
+|points31s = 4
+|choice31m = 十分目立ってる
+|points31m = 4
+|choice32m = もっと怖い魔王
+|points32m = 8
+|choice32s = ティーガ君らしいもの
+|points32s = 8
+|title4 = とことん悩むぞ！
+|choice41m = 私もしてみたい…
+|points41m = 12
+|choice41s = ちょっと怖い
+|points41s = 12
+|title5 = 仮装のテーマ
+|choice51s = アイデアが出てよかった
+|points51s = 16
+|choice51m = ティーガ君の言った通りだね
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_156s.jpg}}
+{{Still|text=Moon Still|img=Still_156m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = さ、今夜ばかりは「夜」が本番…なんだよな！すっげーわくわくするな！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よし、準備は完璧だ。オレが収穫祭で一番かっこ良くて…一番目立つ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = もうこんな時間か。せっかくだし、収穫祭らしく…肉でもたべるか！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 魔王のティーガ様だ！
+|BATTLE_START_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = くらえ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = こんなもん！
+|BATTLE_DAMAGE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = いいぜ！よし、褒めてつかわす！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = さてはオマエ…魔女の末裔だな！
+|CHAIN_EXCELLENT_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 夜通しいくぜ！サイコーの時間だ！！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = オレの支配からは逃れられないぜ？
+|SKILL_INVOKE_m_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = カボチャうまいな！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = さあ、魔王の力、とくとみやがれ！
+|SKILL_INVOKE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = おっ、魔王への貢物か？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 魔王の妃なら、もっと目立ってもらわねえと！
+|CHAIN_NICE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = とにかく一番かっこよく、そんで、サイッコーに楽しくだ！
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = オマエに一番かっこいいって言われたかったんだよ
+|CARD_EVOLUTION_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 収穫祭、楽しみだよな！オレの雄姿、ちゃんとその目に焼き付けろよ！？
+|CARD_TOP_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレが一番かっこいい仮装だって、当たり前だろ
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 魔王だぜ？仲間にしないワケないよな？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = この魔王が、オマエの誕生日を祝ってやろう…ってどう？　かっこいいか？
+|BIRTHDAY_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ふっふっふ……まだまだあ！
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = このティーガ様にとっちゃ、造作も無い…だろ？
+|BATTLE_CLEAR_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 力の解放だ！
+|BATTLE_FEVER_TIME_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = いいんだよ楽しけりゃ！肩の力抜けよ、祭なんだからさ！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = こういう時はオレが先頭で引っ張っていかないとな！遅れるなよ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = すげえな…収穫祭って！何もかも規模がでかいな！カボチャもでかいな！
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = オマエももっと目立ったほうがよくないか？　せっかく可愛いんだからさ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 魔王のオレに向かうところ敵なし！オマエもオレの前にひれ伏せ！…なんてな
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ん？いつもと雰囲気が違う？そりゃ、当たり前だろ！ぼうっとしてどうした？
+|CARD_DETAIL_m_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 何だよ？そんな引っ張って…はぐれそうだった？ったく、ほら、手！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 暗い顔はなしだ！このオレといるんだからな！　…な、そうだろ？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 怖すぎるのはダメなのか？…そうか、どういう方向で目立ってやろうかな
+|MAIN_TOP_TOUCH_2_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは収穫祭の会場じゃないよな？　あれ、なんか見覚えのある奴がいる
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よお！オレのこの格好はどうだ？怖いか？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 魔王ってどんな格好すればいいんだろうな……あ、久し振りだな！
+|WELCOME_PARTY_clip = 
+}}

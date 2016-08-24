@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 105
+|name = Crown
+|name_jp = クラウン
+|attribute = Sexy
+|rarity = 4
+|cost = 12
+|lvmax = 50
+|hp_base = 428
+|hp_max = 789
+|hp_break = 916
+|atk_base = 315
+|atk_max = 558
+|atk_break = 647
+|rp_base = 290
+|rp_max = 514
+|rp_break = 596
+|lskill_name = 貴女に似合うドレス
+|lskill_desc = Increase Red & Purple HP & RP by 15%
+|skill_name = ウェディングステージ
+|skill_desc = Erase Red & Purple beads (S)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 16
+|lvmax_s = 60
+|hp_base_s = 710
+|hp_max_s = 892
+|hp_break_s = 1017
+|atk_base_s = 530
+|atk_max_s = 714
+|atk_break_s = 814
+|rp_base_s = 488
+|rp_max_s = 658
+|rp_break_s = 750
+|lskill_name_s = 人形に恋した道化
+|lskill_desc_s = Increase Red & Purple HP & RP by 20%
+|skill_name_s = ブライダルダンス
+|skill_desc_s = Erase Red & Purple beads (SS)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 16
+|lvmax_m = 60
+|hp_base_m = 710
+|hp_max_m = 1010
+|hp_break_m = 1151
+|atk_base_m = 530
+|atk_max_m = 630
+|atk_break_m = 718
+|rp_base_m = 488
+|rp_max_m = 658
+|rp_break_m = 750
+|lskill_name_m = 花嫁の貴女と…
+|lskill_desc_m = Increase Red & Purple HP & RP by 20%
+|skill_name_m = トリックブーケ
+|skill_desc_m = Erase Red & Purple beads (SS)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Innocent Bridal
+|original = [[Crown]]
+|desc = 道化の国・カルナバーラの王子。どんな人でも笑わせようとする。アフロスで催される婚宴の儀で演目を披露する。その演目は、脚本も演出も彼が手がける。
+|bg = クラウンから「婚宴の儀で披露する演目に、一緒に出演してくれないか？」と頼まれたあなた。出演することになったあなたが着る衣装は…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 和らげる微笑み
+|choice21m = できるような気がします
+|points21m = 6
+|choice21s = 少し安心しました
+|points21s = 6
+|title3 = 目まぐるしい採寸
+|choice31s = クラウンに問いかける
+|points31s = 3
+|choice31m = なされるがまま
+|points31m = 3
+|choice32m = なんだか不安で…
+|points32m = 6
+|choice32s = 頭に入らなくて…
+|points32s = 6
+|title4 = 輝くドレス
+|choice41s = どうしても上手くできなくて
+|points41s = 12
+|choice41m = もっと上手くできると思ったのに
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_105s.jpg}}
+{{Still|text=Moon Still|img=Still_105m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日はここまでにしよう。これは本番が楽しみだね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = そんなに不安に思わないでいい。私が付いているから
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = いい朝だね。それではさっそく、二人で練習をしよう。昨日の続きからだよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = ひと休みしよう……無理をするのは良くない。ほら、眉間に皺が寄っているよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 美しいウェディングドールだ……胸が張り裂けそうだよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 君と一緒の舞台に立てる……なんて贅沢なことだろう！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ……緊張しているのかな？そういう時はね、私にぎゅっとしがみついて
+|CARD_DETAIL_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 皆の笑い声が聞こえますよ
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = さあ、一緒にステージへ
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ……君のその笑顔が答えだと、そう思ってもいいですね？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = さあスペシャルステージのはじまりです
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = ステージの上では堂々と！
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = このステージからはじめましょう
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 哀れな道化……それはステージの上だけではないのですよ……
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = どんなに長い台詞や演目でもスラスラとこなせるのに……たった一言が……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 人形師とは罪深いですね。自らの手で理想を作り上げる…っと入り込んでいた
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = ふふっ……君のような人形がいたら、誰の目にも触れさせません
+|CARD_DETAIL_s_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ふふ、種も仕掛けもございません
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = アンコールの声が聞こえますね
+|BATTLE_CLEAR_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 時に仮面を脱ぎ捨てるのです
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = さあクライマックスです
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = おや……見つかってしまいました。秘密の練習をしていました
+|CARD_TOP_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = ヤア！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 一夜限りの特別プログラムです
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = みなさんもステップを！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ウッ・・・
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ナイスフォローです
+|BATTLE_RECOVER_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 新しい衣装ができあがりました！　いかがです？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = ほら、美しい……スポットライトには魔法の力があります
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 取り出したるこの帽子、種も仕掛けもございません…あなたに愛を贈ります
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = スポットライトの下、君に永遠の愛を誓います
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 共にステージへ参りましょう
+|DECK_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝いですか……ならば私も1つ披露しましょう
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = なんと美しい場所でしょう。あとは訪れる人の笑顔があれば完璧です
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくださいました。ちょっと練習をしていて……内容は秘密です
+|FRIEND_DETAIL_clip = 
+}}

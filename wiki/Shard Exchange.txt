@@ -1,0 +1,154 @@
+==Current Exchangeables==
+===Limited-time===
+{|class="wikitable" style="; text-align:left;"
+| style="width:180px; text-align:center" |'''Name'''
+| style="width:100px; text-align:center" |'''Shards Required'''
+| style="width:300px; text-align:center" |'''Exchange Period'''
+|-
+|[[Mad Hatter]]
+|400
+|2016/08/01 00:00 to 2016/08/31 23:59
+|-
+|[[Leeya]]
+|400
+|2016/08/01 00:00 to 2016/08/31 23:59
+|-
+|[[Altair (Starlit)]]
+|400
+|2016/07/01 00:00 to 2016/08/31 23:59
+|-
+|}
+
+===Permanent===
+{|class="wikitable" style="; text-align:left;"
+| style="width:180px; text-align:center" |'''Name'''
+| style="width:100px; text-align:center" |'''Shards Required'''
+| style="width:300px; text-align:center" |'''Exchange Conditions'''
+|-
+|[[Avi]]
+|100
+|Clear Chapter 2 of the Main Story
+|-
+|[[Hinata]]
+|100
+|Clear Chapter 3 of the Main Story
+|-
+|[[Byakuyo]]
+|100
+|Clear Chapter 4 of the Main Story
+|-
+|[[Shigure]]
+|100
+|Clear Chapter 5 of the Main Story
+|-
+|[[Kairi]]
+|100
+|Clear Chapter 6 of the Main Story
+|-
+|[[Luke (Desert)]]
+|100
+|Clear Chapter 7 of the Main Story
+|-
+|[[Medi (Aurora)]]
+|100
+|Clear Chapter 8 of the Main Story
+|-
+|Gacha Ticket
+|100
+|Limited to 3 times per month
+|-
+|Master Trainer (Red)
+|50
+|
+|-
+|Master Trainer (Blue)
+|50
+|
+|-
+|Master Trainer (Green)
+|50
+|
+|-
+|Master Trainer (Yellow)
+|50
+|
+|-
+|Master Trainer (Purple)
+|50
+|
+|-
+|Sun Potion (Small)
+|30
+|
+|-
+|Moon Potion (Small)
+|30
+|
+|-
+|Story Key
+|30
+|
+|-
+|}
+
+==Shard Exchange History==
+{|class="wikitable" style="; text-align:left;"
+| style="width:180px; text-align:center" |'''Name'''
+| style="width:100px; text-align:center" |'''Shards Required'''
+| style="width:300px; text-align:center" |'''Exchange Period'''
+|-
+|[[Joshua]]
+|400
+|From release to 2015/04/30 14:59<br />2015/08/01 00:00 to 2015/08/31 23:59<br />2015/11/01 00:00 to 2015/12/31 23:59<br />2016/04/01 00:00 to 2016/04/30 23:59
+|-
+|[[Edmond]]
+|400
+|2015/03/31 13:00 to 2015/05/31 23:59<br />2015/08/01 00:00 to 2015/08/31 23:59<br />2015/11/01 00:00 to 2015/12/31 23:59<br />2016/04/01 00:00 to 2016/04/30 23:59
+|-
+|[[Mad Hatter]]
+|400
+|2015/04/30 16:00 to 2015/06/30 13:00<br />2015/11/01 00:00 to 2015/12/31 23:59<br />2016/03/01 00:00 to 2016/03/31 23:59
+|-
+|[[Shao]]
+|400
+|2015/06/01 00:00 to 2015/07/31 23:59<br />2015/11/01 00:00 to 2015/12/31 23:59<br />2016/03/01 00:00 to 2016/03/31 23:59<br />2016/06/01 00:00 to 2016/06/30 23:59
+|-
+|[[Hercules]]
+|400
+|2015/07/01 00:00 to 2015/08/31 23:59<br />2015/11/01 00:00 to 2015/12/31 23:59<br />2016/03/01 00:00 to 2016/03/31 23:59<br />2016/06/01 00:00 to 2016/06/30 23:59
+|-
+|[[Leeya]]
+|400
+|2015/09/01 00:00 to 2015/10/31 23:59<br />2016/03/01 00:00 to 2016/03/31 23:59
+|-
+|[[Will (Harvest)]]
+|400
+|2015/10/01 00:00 to 2015/11/30 23:59
+|-
+|[[Chrono (Xmas)]]
+|400
+|2015/12/10 12:00 to 2016/01/31 23:59
+|-
+|[[Million]]
+|400
+|2016/01/01 05:00 to 2016/02/29 23:59
+|-
+|[[Colorer]]
+|400
+|2016/02/10 12:00 to 2016/03/31 23:59
+|-
+|[[Oswald (Easter)]]
+|400
+|2016/04/01 00:00 to 2016/05/31 23:59
+|-
+|[[Graham (Park)]]
+|400
+|2016/05/01 00:00 to 2016/06/30 23:59
+|-
+|}
+==How to obtain shards==
+* <s>From the ring gacha (5 gems give between 12 to 100 shards).</s> Feature removed 2016/07/21.
+* Daily Score Challenge missions give 10 shards.
+* From quest clear rewards (Main Story, Free Quests etc).
+* Saying farewell to princes (3* and above give at least 10 shards).
+* Community Fountain may give a random number of shards (between 1 to 5 shards at max level)

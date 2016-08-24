@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 98
+|name = Luke
+|name_jp = ルーク
+|attribute = Gentle
+|rarity = 3
+|cost = 4
+|lvmax = 40
+|hp_base = 328
+|hp_max = 715
+|hp_break = 844
+|atk_base = 171
+|atk_max = 310
+|atk_break = 366
+|rp_base = 155
+|rp_max = 281
+|rp_break = 332
+|lskill_name = 励ましの音色
+|lskill_desc = Increase Green HP by 20%
+|skill_name = 金色の笛
+|skill_desc = Increase Green beads appearance rate (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 8
+|lvmax_s = 50
+|hp_base_s = 643
+|hp_max_s = 965
+|hp_break_s = 1119
+|atk_base_s = 295
+|atk_max_s = 419
+|atk_break_s = 486
+|rp_base_s = 267
+|rp_max_s = 329
+|rp_break_s = 382
+|lskill_name_s = 夕空に響く音色
+|lskill_desc_s = Increase Green HP by 30%
+|skill_name_s = 夕笛
+|skill_desc_s = Increase Green beads appearance rate (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 8
+|lvmax_m = 50
+|hp_base_m = 643
+|hp_max_m = 836
+|hp_break_m = 970
+|atk_base_m = 295
+|atk_max_m = 419
+|atk_break_m = 486
+|rp_base_m = 267
+|rp_max_m = 379
+|rp_break_m = 440
+|lskill_name_m = 空に弾む音色
+|lskill_desc_m = Increase Green HP by 30%
+|skill_name_m = 共奏笛
+|skill_desc_m = Increase Green beads appearance rate (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Desert Land's Road
+|original = [[Luke]]
+|desc = 音楽の国・ミューゼの王子。今は国を離れて旅をしている。厳格な父王と自分を比較し、自信が持てないでいる。彼が奏でる楽器の音色は、誰もが聞き惚れる。
+|bg = 遺跡の呪いが解かれたルークは、あなたとみんなに迷惑をかけてしまったと落ち込む。そんなルークを元気づけたいと思ったあなたは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = やっとの微笑み
+|choice21s = 声をかける
+|points21s = 6
+|choice21m = そっと寄り添う
+|points21m = 6
+|title3 = 再びのため息
+|choice31s = 余計なこと言いましたか？
+|points31s = 3
+|choice31m = 何も言わない
+|points31m = 3
+|choice32m = 手を握る
+|points32m = 6
+|choice32s = 両肩を掴む
+|points32s = 6
+|title4 = 一番の相棒
+|choice41m = 聞く
+|points41m = 12
+|choice41s = 聞かない
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_98s.jpg}}
+{{Still|text=Moon Still|img=Still_98m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = どうしましたか？　私でも出来ることなら何でも相談にのりますよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = あなたのリクエストとあらば奏でましょう……ですが、緊張しますね
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……気がつけば、この笛とはだいぶ長い付き合いです
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = あなたの住んでいたところにはどんな楽器がありましたか？奏でてみたいです
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = …っ。私の演奏で、そんなに喜んでいただけるなんて……
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = おや？もうこんな時間ですか。ゆっくりし過ぎてしまいましたね
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちて、ちょっと物悲しい気持ちになりますね。人恋しいというか
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = いい朝ですね。こういう時はちょっと静かな曲を奏でてみたくなります
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = あなたのおかげで私も頑張れそうです
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 二人でゆっくりといきましょう
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = いいですか？　無理はしないでくださいね
+|CHAIN_GREAT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 夕陽がこんなに綺麗なのは、きっとあなたが…あ、いえ、何でもありません…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = そんなに緊張しないでください……ほら肩の力を抜いて
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = あなたを守らせてください
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = お怪我はないですか？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 心配そうな顔をしないでください。あなたには、元気でいて欲しい
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 笛を教えて欲しい……？　か、構いませんが、私でいいのですか？
+|CARD_DETAIL_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 一歩一歩ですが前に進んでいると信じています
+|CARD_ENHANCE_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 無事、守りきれて良かったです
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 私なりにあなたのお役に立ちたいと思います
+|CARD_TOP_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 本当にお優しい……
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 私にできることを！
+|SKILL_INVOKE_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うっ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = このリズムを逃しません
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = しつこい方々ですね
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = この笛の音色に誓って
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = あなたの心に誓って
+|SKILL_INVOKE_m_clip = 
+|DECK_en = 
+|DECK_jp = 私と一緒に……行ってくれますか？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとうございます。あなたの特別な日にこうしてお祝いができるだけで……
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 私の奏でる笛の音、聴いてくれますか？
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = いつかあなたと一緒に笛を奏でるのもいいかもしれません
+|CARD_EVOLUTION_m_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ようこそ。私でよければ話し相手に……
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = お祝いしてくださるんですね。お礼に一曲……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = 素敵なところですね。美しい音楽があると更にいいのではないでしょうか
+|GUILD_clip = 
+}}

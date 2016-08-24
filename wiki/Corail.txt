@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 133
+|name = Corail
+|name_jp = コライユ
+|attribute = Cute
+|rarity = 3
+|cost = 7
+|lvmax = 40
+|hp_base = 270
+|hp_max = 557
+|hp_break = 657
+|atk_base = 239
+|atk_max = 461
+|atk_break = 544
+|rp_base = 233
+|rp_max = 449
+|rp_break = 530
+|lskill_name = 桃色珊瑚の笑顔
+|lskill_desc = Increase Yellow ATK by 25%
+|skill_name = レッドコーラル
+|skill_desc = Erase middle row beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 13
+|lvmax_s = 50
+|hp_base_s = 501
+|hp_max_s = 652
+|hp_break_s = 756
+|atk_base_s = 438
+|atk_max_s = 623
+|atk_break_s = 723
+|rp_base_s = 427
+|rp_max_s = 607
+|rp_break_s = 704
+|lskill_name_s = 君と海底遊覧
+|lskill_desc_s = Increase Yellow ATK by 35%
+|skill_name_s = ピンクコーラル
+|skill_desc_s = Erase middle row beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 13
+|lvmax_m = 50
+|hp_base_m = 501
+|hp_max_m = 685
+|hp_break_m = 795
+|atk_base_m = 438
+|atk_max_m = 650
+|atk_break_m = 754
+|rp_base_m = 427
+|rp_max_m = 553
+|rp_break_m = 641
+|lskill_name_m = 珊瑚の守り人
+|lskill_desc_m = Increase Yellow ATK by 35%
+|skill_name_m = ホワイトコーラル
+|skill_desc_m = Erase middle row beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Kagura Hiroyuki
+|origin = Country of Coral - Coralia
+|age = 19
+|birth = March 05
+|likes = Whoever treats me well
+|dislikes = A heart that wants to keep beautiful things to itself
+|policy = There's nothing you can't do if you try it
+|desc = 珊瑚の国･コラリアの王子。明るく、無邪気な性格。その無邪気さに小悪魔な部分が見え隠れすることもある。しかし、本人はあまり自覚がない。王子としての責任感は強く、珊瑚と魚たちを守らなければと思っている。
+|bg = コラリアを訪れたあなた。無邪気なコライユに振り回されつつも、一緒に珊瑚鑑賞を楽しむ。そんな時、怪しい男が話しかけてきて…―？
+}}
+
+== Story ==
+{{Choice
+|title2 = 海中散歩
+|choice21m = 首を横にふる
+|points21m = 6
+|choice21s = 目をぎゅっとつむる
+|points21s = 6
+|title3 = 珊瑚の国
+|choice31s = ダメだよ
+|points31s = 3
+|choice31m = えっ！？
+|points31m = 3
+|choice32s = 頬に手を当てる
+|points32s = 6
+|choice32m = そっとうつむく
+|points32m = 6
+|title4 = 珊瑚の薬
+|choice41m = 手を伸ばす
+|points41m = 12
+|choice41s = 思わずため息をつく
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_133s.jpg}}
+{{Still|text=Moon Still|img=Still_133m.jpg}}
+
+== Quotes ==
+{{Quotes
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 君、あの子の友達なんだ！あの子のこと何か聞いちゃおうかな！
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = わー！海の中も綺麗だけど、ここも素敵だね！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = わあ！僕のためにパーティーを開いてくれたの？ありがとう！
+|WELCOME_PARTY_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 珊瑚と魚のショータイムだよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 珊瑚の魅力、すごいでしょう！？
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 大きな波がくるよ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 海を汚すやつを、僕は許さない！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あれ？まだいるの？
+|BATTLE_TURN_END_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = わあ！いい感じ！
+|CHAIN_GREAT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = へへ！君ってばすごいねー！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 君の手、温かいね
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = わっ
+|BATTLE_DAMAGE_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = おめでとう！君のお誕生日、お祝いさせて！今から海の中でデートしよ？ね？
+|BIRTHDAY_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 準備できた？じゃあ一緒に行こうか！
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 君と僕で力を合わせたもんね！
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 珊瑚と魚たち……この海は僕が守る！
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = へへ！僕、強くなったかな？
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 選んでくれてありがとう！僕、頑張るね！
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君は安心して、僕に任せて。ね？
+|CARD_EVOLUTION_m_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 珊瑚礁を見ながら食事が出来るカフェがあるんだ！ね、一緒に行こう！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おっはよー！今日はどんな1日になるかな？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = キスしちゃだめ？　うーん…じゃあ、手をつなごっか！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = あれ！眠れないの？じゃあ一緒に夜の海をお散歩する？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = あはは！そんなところ触ったらくすぐったいよ～！もう、仕返ししちゃうよ！
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 夜の珊瑚礁に君と二人っきり…これってチャンスかな？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 珊瑚と魚を守るのが僕の役目だから…悪いやつは絶対許さない！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 珊瑚礁を汚すなんて許さない！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = …っ！不意打ちって、ちょっとずるいよー！
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = その調子！その調子！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なにかな、なにかな！？海賊のお宝かな？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 僕は、珊瑚たちの魅力を皆にいっぱいに伝えたいんだ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = そんなに僕のこと好きなの？……へへ！冗談だよー！嬉しい！
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 君のほっぺた、エンジェル・スキンと同じ色してるね！すっごく可愛い！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 海底船でお散歩デートしない？もちろん、二人きりだよ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = １位になったら、珊瑚の国のこと、いろんな人に知ってもらえるかなぁ？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = ありがとう、とっても嬉しいよ！　　ねえ、キスしちゃダメ？
+|AWARD_EVENT_FAVORITES_clip = 
+}}

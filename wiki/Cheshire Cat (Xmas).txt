@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 183
+|name = Cheshire Cat
+|name_jp = チェシャ猫
+|attribute = Cute
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 658
+|hp_max = 1235
+|hp_break = 1408
+|atk_base = 430
+|atk_max = 663
+|atk_break = 756
+|rp_base = 346
+|rp_max = 534
+|rp_break = 609
+|lskill_name = くりすますってなに？
+|lskill_desc = Increase HP by 35% when Party consists of all 5 colours
+|skill_name = 歌うローストターキー
+|skill_desc = Increase party ATK and Yellow beads appearance rate for 1 turn
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1112
+|hp_max_s = 1594
+|hp_break_s = 1785
+|atk_base_s = 630
+|atk_max_s = 736
+|atk_break_s = 824
+|rp_base_s = 507
+|rp_max_s = 593
+|rp_break_s = 664
+|lskill_name_s = 二人きりのくりすます
+|lskill_desc_s = Increase HP by 35% and ATK by 15% when Party consists of all 5 colours
+|skill_name_s = 愉快なショートケーキ
+|skill_desc_s = Increase party ATK and Yellow beads appearance rate for 1 turn
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1112
+|hp_max_m = 1507
+|hp_break_m = 1688
+|atk_base_m = 630
+|atk_max_m = 809
+|atk_break_m = 906
+|rp_base_m = 507
+|rp_max_m = 571
+|rp_break_m = 640
+|lskill_name_m = 赤いお鼻のアリス
+|lskill_desc_m = Increase HP by 40% when Party consists of all 5 colours
+|skill_name_m = 踊るキャンディケーン
+|skill_desc_m = Increase party ATK and Yellow beads appearance rate for 1 turn
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Christmas of Wonderland
+|original = [[Cheshire Cat]]
+|desc = 不思議の国・ワンダーメアの不思議な王子。自由奔放な性格。あなたのことを『アリス』と呼んで、連れ回す。遊んでほしくてあなたを呼び出したことがきっかけで、クリスマスに興味を持つ。
+|bg = チェシャ猫に招待され、ワンダーメアを訪れたあなた。クリスマスの話をするあなたに、それは何かと尋ねる彼。そしてクリスマスをやってみたいと言い始め…
+}}
+
+== Story ==
+{{Choice
+|title2 = やりたいやりたい！クリスマス！
+|choice21s = たぶんやった
+|points21s = 8
+|choice21m = わからない
+|points21m = 8
+|title3 = ローストターキーを探して
+|choice31m = お店で買えないの？
+|points31m = 4
+|choice31s = 七面鳥はワンダーメアにいる？
+|points31s = 4
+|choice32m = ……ありがとう
+|points32m = 8
+|choice32s = 違う
+|points32s = 8
+|title4 = イタズラはやめられないにゃ
+|choice41s = 嘘だよね？
+|points41s = 12
+|choice41m = またからかっている？
+|points41m = 12
+|title5 = クリスマスって楽しい！
+|choice51m = じっと見つめる
+|points51m = 16
+|choice51s = どうして私を呼んだの？
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_183s.jpg}}
+{{Still|text=Moon Still|img=Still_183m.jpg}}
+
+== Quotes ==
+{{Quotes
+|GUILD_en = Where ameow I……What’s that weird building meow……A monster infested area？
+|GUILD_jp = ここはどこにゃあ……なんか変わった建物があるにゃ……お化け屋敷？
+|GUILD_clip = 
+|WELCOME_PARTY_en = Party meow！　Let’s hurry up and eat cake！ Then chicken！
+|WELCOME_PARTY_jp = パーティにゃ！　はやくケーキが食べたい！あとチキン！
+|WELCOME_PARTY_clip = 
+|EVENT_LOGIN_BONUS_1_en = We even have turkey, sake, and cookies? Christmas is just too awesomeow！
+|EVENT_LOGIN_BONUS_1_jp = ターキーもお酒もクッキーもあるの？クリスマスって素敵すぎるにゃ！
+|EVENT_LOGIN_BONUS_1_clip = 
+|EVENT_LOGIN_BONUS_2_en = Merry Christmas, you say！？How fun meow～♪meow meow meoow♪
+|EVENT_LOGIN_BONUS_2_jp = メリークリスマスって言うんだ！？楽しいにゃ～♪にゃんにゃんにゃーん♪
+|EVENT_LOGIN_BONUS_2_clip = 
+|FRIEND_DETAIL_en = Let’s play together until Alice gets here！
+|FRIEND_DETAIL_jp = アリスが来るまでいっしょに遊ぼうよ！
+|FRIEND_DETAIL_clip = 
+|BIRTHDAY_en = Birthday？It’s good to do parties for those too！Congratulations meow！！
+|BIRTHDAY_jp = お誕生日？それもパーティーしていいやつだ！おめでとうだにゃ！！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = As soon as we finish setting up, all we have to do is write everyone the invitationsー！I wonder how the party will turn out meow
+|CARD_EVOLUTION_m_jp = 準備ができたらみんなに招待状を書くだけー！どんなパーティーになるかにゃ
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = Having a party with Alice！
+|DECK_jp = アリスと一緒にパーティーする！
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = Cookies, candy, what else？
+|BATTLE_FEVER_TIME_jp = クッキーとキャンディーとあとはなあに？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = Let me give this a taste, meow
+|BATTLE_TURN_END_jp = ちょっと味見するにゃ
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = Alice’s most precious person is me？
+|SKILL_INVOKE_m_jp = アリスの一番大切な人はぼく？
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = Is it turning into the Christmas you know and love, meow？Fufu……
+|CARD_ENHANCE_jp = だんだんきみの知ってるクリスマスらしくなってきたにゃ？ふふっ……
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = Alright, let’s start this party meowー！Ehh！There’s still something left to prepare？
+|CARD_EVOLUTION_s_jp = さ、パーティーを始めるにゃー！ええ！まだ準備することあるの？
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = Let’s hurry up and have Christmas meowー！
+|BATTLE_CLEAR_jp = 早くクリスマスするにゃー！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = Alice, you’re slo~w！I waited so long！Jeez！What were you doing？
+|CARD_TOP_jp = アリスおーそーいー！待ちくたびれたにゃあ！まったく！何してたの？
+|CARD_TOP_clip = 
+|MAIN_TOP_TOUCH_m_1_en = I’m excited for the party！I’m excited to see the look on everyone’s faces meow！Do you think they’re coming soon
+|MAIN_TOP_TOUCH_m_1_jp = パーティー楽しみだにゃ！皆の驚く顔、楽しみだにゃ！早く来ないかなあ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = I want to become Alice’s precious person？Is that ok？…Do I sound serious？I’m serious
+|MAIN_TOP_TOUCH_m_2_jp = アリスの大切な人になりたいにゃあ？いい？…本気に聞こえない？本気だよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = Christmas tree.. sounds delicious, meow…Can I eat it？This cookie
+|MAIN_TOP_TOUCH_s_1_jp = くりすますつりーって美味しそうなんだにゃあ…食べていい？このクッキー
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = The sight of you getting ready from behind… Makes me want to sink my teeth right into that bottom, meow…Meow！I was joking, meow
+|CARD_DETAIL_s_jp = 準備してるきみの後ろ姿…お尻にかじりついてもいいかにゃ…にゃ！冗談にゃあ
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = Ehh、why isn’t anyone coming！…Is it my fault？No way〜……
+|CARD_DETAIL_m_jp = ええ、なんで皆来ないにゃあ！…ぼくの失敗だって？そんなあ〜……
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_EVENING_GREET_en = Wow…It was so much funner than I thought♪Can we do this every day？Would we get sick of it？
+|MAIN_TOP_EVENING_GREET_jp = すごい…思ったより楽しかったにゃあ♪毎日やったら駄目？飽きちゃう？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = Turkey？Turkey？Haven’t heard of it, meow…As long as it’s a bird, I’m good？
+|CARD_DETAIL_jp = ターキー？七面鳥？よくわからないにゃあ…鳥ならなんでもいい？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Hey、 pay more attention to me, meow！I’m against neglect, meow！
+|MAIN_TOP_TOUCH_s_2_jp = ねえ、もっと構ってほしいにゃ！ぼくを放置するなんて、反対にゃ！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_1_en = How does Alice spend Christmas？With lots of fun? More fun than now？
+|MAIN_TOP_TOUCH_1_jp = アリスはクリスマスってどんな風にすごしたの？楽しい？それって今より？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = As long as it seems fun, let’s do it！We’re free, anyway meow！
+|MAIN_TOP_TOUCH_2_jp = 楽しそうなことはなんでもやるよ！だって暇だったんだにゃあ！
+|MAIN_TOP_TOUCH_2_clip = 
+|SKILL_INVOKE_en = Let’s have Christmas now！
+|SKILL_INVOKE_jp = クリスマス、さっそくやるにゃ！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = Instead of looking at the Christmas tree, look at me
+|SKILL_INVOKE_s_jp = クリスマスツリーより、ぼくを見るにゃあ
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = Migyaー！
+|BATTLE_DAMAGE_jp = みぎゃー！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = Even my tail is reacting, meow
+|BATTLE_RECOVER_jp = 尻尾まで痺れたにゃ
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = Those pesky bugs are coming out, meow〜
+|BATTLE_START_jp = おじゃま虫の登場にゃあ〜
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = Alice〜you said that box is Christmas？
+|BATTLE_RESULT_jp = アリス〜その箱にクリスマスはいってた？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = This is Christmas？Wow, it’s shining, meow！
+|CHAIN_EXCELLENT_jp = これがクリスマス？すっごい、キラキラにゃ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = Unyaaー！
+|BATTLE_ATTACK_jp = うにゃー！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = Hey hey〜Hurry up meowー
+|CHAIN_NICE_jp = ほらほら〜もっと急ぐにゃあー
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = Christmas！Can I do an imitation of you？
+|CHAIN_GREAT_jp = クリスマスっ！きみの真似すればいいの？
+|CHAIN_GREAT_clip = 
+|MAIN_TOP_MORNING_GREET_en = I want to sleep more meow〜…Blergh…Ah！Something smells nice！
+|MAIN_TOP_MORNING_GREET_jp = もっと寝ていたいにゃあ〜…ごろごろ…あっ！なんかいい匂いがする！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = I’m sick of doing prep…Let’s take a break！Let’s, let’s!
+|MAIN_TOP_AFTERNOON_GREET_jp = 準備飽きちゃった…休憩しよう！ねえねえ、いいでしょ？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+}}

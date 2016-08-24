@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 230
+|name = Thinpla
+|name_jp = ティンプラ
+|attribute = Cool
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 660
+|hp_max = 1297
+|hp_break = 1478
+|atk_base = 408
+|atk_max = 663
+|atk_break = 756
+|rp_base = 362
+|rp_max = 497
+|rp_break = 567
+|lskill_name = 司会という任務
+|lskill_desc = Increase ATK by 35% when Party consists of all 5 colours
+|skill_name = インビジブル・ハート
+|skill_desc = Erase right side beads (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1167
+|hp_max_s = 1439
+|hp_break_s = 1612
+|atk_base_s = 630
+|atk_max_s = 855
+|atk_break_s = 958
+|rp_base_s = 472
+|rp_max_s = 552
+|rp_break_s = 618
+|lskill_name_s = イノセントラビット
+|lskill_desc_s = Increase ATK by 40% and HP by 15% when Party consists of all 5 colours
+|skill_name_s = ハッチング・ハート
+|skill_desc_s = Erase right side beads (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1167
+|hp_max_m = 1582
+|hp_break_m = 1772
+|atk_base_m = 630
+|atk_max_m = 809
+|atk_break_m = 906
+|rp_base_m = 472
+|rp_max_m = 532
+|rp_break_m = 596
+|lskill_name_m = デートの申し込み
+|lskill_desc_m = Increase ATK by 50% when Party consists of all 5 colours
+|skill_name_m = フリット・ハート
+|skill_desc_m = Erase right side beads and increase own ATK for 1 turn
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Thinpla]]
+|desc = 虹の国・オズの王子。体の半分が機械で出来ているサイボーグ。そのため、国を守る役目を負って兵器として生きている。こんな自分には、心がないと思っている。オズワルドから、感謝祭の開催式で司会をやるようにと言われている。
+|bg = ウッドマン領を訪れ、ティンプラと再会したあなた。感謝祭の開催式で司会をすることになった彼は、司会に必要な心がないと悩んでいて…―
+}}
+
+== Story ==
+{{Choice|title2 = 楽しい』がわからない|choice21s = 楽しいをわかればいい|points21s = 8|choice21m = 難しく考えなくていい|points21m = 8|title3 = サンプルを探して|choice31s = 戸惑いながら手を握る|points31s = 4|choice31m = すぐに手を握る|points31m = 4|choice32s = 笑顔だから？|points32s = 8|choice32m = 一生懸命だから？|points32m = 8|title4 = 必要なのは臨機応変？|choice41s = 自分から声をかける|points41s = 12|choice41m = 話出すまで待つ|points41m = 12|title5 = ボクらしさ…？|choice51s = そんなことない|points51s = 16|choice51m = 失敗しても大丈夫|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_230s.jpg}}
+{{Still|text=Moon Still|img=Still_230m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 予行演習ですね。ではボクも
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = Practicing together.... As you wish
+|CHAIN_GREAT_jp = 二人で練習…了解しました
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 想定以上の効果。良好
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_m_1_en = The impulse to desire to hold your hand... Could this feeling be.. an order of my heart?
+|MAIN_TOP_TOUCH_m_1_jp = キミと手を繋ぎたいと思うこの衝動は…感情…心の命令なのでしょうか？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 自分でも驚いています。「司会」に挑戦してよかったです
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 戦闘フィールド展開
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 安全性確認　問題なし
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_s_1_en = If this thing you call cute is amusing, there is no problem. We will go with this.
+|MAIN_TOP_TOUCH_s_1_jp = キミが言うかわいいが、面白いのであれば問題ありません。これでいきます
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_s_en = When I wear this, everyone's reactions are so different... It makes me uncomfortable
+|CARD_DETAIL_s_jp = この格好をしていると、皆さんの反応が違いすぎて…居心地が悪いです
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = I am doing this seriously... Why are you laughing so hard?
+|MAIN_TOP_TOUCH_m_2_jp = ボクは真面目にやっているのに…キミはなんでそんなに笑うのですか？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 一つ疑問があるのですが、王子自らが司会をするというのは普通でしょうか？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 街もよく見るといろんな人がいるのですね。皆、楽しんでいる…そうですよね
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = キミと一緒にいると、次々と新しい情報が入ってきます。有意義な時間です
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Besides the rabbit, they also sell lots of weird clothes. Horse, and... what is this?
+|MAIN_TOP_TOUCH_s_2_jp = うさぎの他にも、変わった服がたくさん売っていますね。馬と…これは？何？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 規則正しい呼吸を確認。ですが…起床時間は過ぎています。起きてください。
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = キミもエネルギーを補給する時間です。手を休め、こちらへどうぞ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は慣れないことをして疲労が蓄積しています。早く休んでください
+|MAIN_TOP_EVENING_GREET_clip = 
+|WELCOME_PARTY_en = ..... As long as everyone is having fun, it's fine. I don't really know.
+|WELCOME_PARTY_jp = ……皆が楽しいのならいいと思います。ボクは、よくわかりません
+|WELCOME_PARTY_clip = 
+|GUILD_en = This place is very peaceful and quiet. You also look like you are relaxed.
+|GUILD_jp = ここはとても平和そして静かです。キミもリラックスしているように見えます
+|GUILD_clip = 
+|FRIEND_DETAIL_en = Welcome. So you are a friend of this girl. I am called Thinpla
+|FRIEND_DETAIL_jp = ようこそ。キミはあの子のお友達ですね。ボクはティンプラといいます
+|FRIEND_DETAIL_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ボクは、ボクらしく…キミが言うなら、そうなのかもしれません
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = I am always ready
+|DECK_jp = いつでも準備はできています
+|DECK_clip = 
+|BIRTHDAY_en = Today is the day your heart began to move. Could the mind and the heart be related?
+|BIRTHDAY_jp = キミの心臓が動き始めた日。心臓と心は繋がっているのでしょうか？
+|BIRTHDAY_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 戦闘任務ではない…わかりませんが、分析を繰り返しいい結果を
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 長い耳…聴覚を研ぎ澄ませることができそうです。えっ、違うのですか？
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ダメージ計算中…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = I will have to change out my parts after this
+|BATTLE_RECOVER_jp = 後でパーツを替えなければ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 思考開始…面白い、の分析を始めます
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = Cute and funny.... What a mystery
+|SKILL_INVOKE_s_jp = かわいいと面白い…本当に不思議です
+|SKILL_INVOKE_s_clip = 
+|BATTLE_ATTACK_en = Ha!
+|BATTLE_ATTACK_jp = ハアッ！
+|BATTLE_ATTACK_clip = 
+|CARD_TOP_en = I am soliciting your advice. Will you hear me out?
+|CARD_TOP_jp = キミに相談したいことがあります。話を聞いてもらえますか？
+|CARD_TOP_clip = 
+|SKILL_INVOKE_m_en = P.. Please do not laugh...! I'm trying seriously
+|SKILL_INVOKE_m_jp = わ、笑わないでください…！真面目なのに…
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = まずは練習あるのみです
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 作戦変更ですか？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 戦闘終了。損傷報告…問題なし
+|BATTLE_CLEAR_clip = 
+}}

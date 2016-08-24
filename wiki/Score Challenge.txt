@@ -1,0 +1,252 @@
+== Mechanics ==
+
+==Daily Missions==
+Score challenge missions give 10 ring shards upon completion and reset daily at 12:00AM JST. The types of missions are as follows:
+* Obtain a cumulative score above 5 million.
+* Swipe 1200 pieces in challenge quests.
+* Send 10 orbs.
+* Play 6 challenge quests.
+Upon completion, ring shards are sent to your inbox.
+== Ranks ==
+{|class="article-table"
+|Rank
+|Title
+|Points to Rank
+|Bonus Rate
+|Reward
+|-
+|0
+|Owner of The Ring<br>指輪の持ち主
+|0
+|
+|
+|-
+|1
+|User of The Ring<br>指輪の使い手
+|300
+|1%
+|1 Gem
+|-
+|2
+|The One Chosen by The Ring<br>指輪に選ばれし者
+|800
+|1%
+|2000 Friend Coins
+|-
+|3
+|Lady of The Ring<br>指輪のお嬢様
+|1500
+|2%
+|30 Shards
+|-
+|4
+|Popular Lady<br>人気のお嬢様
+|2500
+|2%
+|50000 Coins
+|-
+|5
+|Famous Lady<br>評判のお嬢様
+|4200
+|2%
+|1 Gem
+|-
+|6
+|Wise Lady<br>聡明なレディー
+|6800
+|3%
+|2500 Friend Coins
+|-
+|7
+|Graceful Lady<br>気品あるレディー
+|10000
+|3%
+|30 Shards
+|-
+|8
+|High Society Lady<br>社交界のレディー
+|15000
+|3%
+|100000 Coins
+|-
+|9
+|Lady Bronze<br>レディ・ブロンズ
+|21000
+|4%
+|1 Gem
+|-
+|10
+|Lady Silver<br>レディ・シルバー
+|29000
+|4%
+|3000 Friend Coins
+|-
+|11
+|Lady Gold<br>レディ・ゴールド
+|39000
+|4%
+|30 Shards
+|-
+|12
+|Lady Platinum<br>レディ・プラチナ
+|51000
+|5%
+|200000 Coins
+|-
+|13
+|Lady Jewel<br>レディ・ジュエル
+|64000
+|5%
+|1 Gem
+|-
+|14
+|Milady Bronze<br>ミレディ・ブロンズ
+|80000
+|6%
+|5000 Friend Coins
+|-
+|15
+|Milady Silver<br>ミレディ・シルバー
+|97000
+|6%
+|50 Shards
+|-
+|16
+|Milady Gold<br>ミレディ・ゴールド
+|110000
+|6%
+|250000 Coins
+|-
+|17
+|Milady Platinum<br>ミレディ・プラチナ
+|130000
+|7%
+|2 Gems
+|-
+|18
+|Milady Jewel<br>ミレディ・ジュエル
+|160000
+|7%
+|50 Shards
+|-
+|19
+|Celeb Bronze<br>セレブ・ブロンズ
+|190000
+|8%
+|300000 Coins
+|-
+|20
+|Celeb Silver<br>セレブ・シルバー
+|220000
+|8%
+|2 Gems
+|-
+|21
+|Celeb Gold<br>セレブ・ゴールド
+|260000
+|8%
+|50 Shards
+|-
+|22
+|Celeb Platinum<br>セレブ・プラチナ
+|300000
+|9%
+|500000 Coins
+|-
+|23
+|Celeb Jewel<br>セレブ・ジュエル
+|340000
+|9%
+|1 [[Zero]]
+|-
+|24
+|Noble Bronze<br>ノーブル・ブロンズ
+|390000
+|10%
+|50 Shards
+|-
+|25
+|Noble Silver<br>ノーブル・シルバー
+|450000
+|10%
+|500000 Coins
+|-
+|26
+|Noble Gold<br>ノーブル・ゴールド
+|510000
+|10%
+|2 Gems
+|-
+|27
+|Noble Platinum<br>ノーブル・プラチナ
+|580000
+|10%
+|1 [[Zero]]
+|-
+|28
+|Noble Jewel<br>ノーブル・ジュエル
+|660000
+|10%
+|50 Shards
+|-
+|29
+|Royal Bronze<br>ロイヤル・ブロンズ
+|750000
+|11%
+|500000 Coins
+|-
+|30
+|Royal Silver<br>ロイヤル・シルバー
+|860000
+|11%
+|2 Gems
+|-
+|31
+|Royal Gold<br>ロイヤル・ゴールド
+|1000000
+|11%
+|4 [[Zero]]
+|-
+|32
+|Royal Platinum<br>ロイヤル・プラチナ
+|1160000
+|11%
+|50 Shards
+|-
+|33
+|Royal Jewel<br>ロイヤル・ジュエル
+|1340000
+|11%
+|500000 Coins
+|-
+|34
+|Fairy Bronze<br>フェアリー・ブロンズ
+|1550000
+|12%
+|2 Gems
+|-
+|35
+|Fairy Silver<br>フェアリー・シルバー
+|1790000
+|12%
+|4 [[Zero]]
+|-
+|36
+|Fairy Gold<br>フェアリー・ゴールド
+|2060000
+|12%
+|50 Shards
+|-
+|37
+|Fairy Platinum<br>フェアリー・プラチナ
+|2370000
+|12%
+|500000 Coins
+|-
+|38
+|Fairy Jewel<br>フェアリー・ジュエル
+|2720000
+|12%
+|1 Love Up Trainer
+|-
+|}

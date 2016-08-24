@@ -1,0 +1,215 @@
+== Status ==
+{{Infobox
+|no = 68
+|name = Byakuyo
+|name_jp = 白葉
+|attribute = Sexy
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 592
+|hp_max = 1172
+|hp_break = 1336
+|atk_base = 408
+|atk_max = 664
+|atk_break = 757
+|rp_base = 344
+|rp_max = 472
+|rp_break = 538
+|lskill_name = 見習い菓子職人
+|lskill_desc = Increase Yellow & Purple ATK by 35%
+|skill_name = 春色のお菓子づくり
+|skill_desc = Turn Red beads into Purple and insert hearts
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 1055
+|hp_max_s = 1430
+|hp_break_s = 1602
+|atk_base_s = 631
+|atk_max_s = 810
+|atk_break_s = 907
+|rp_base_s = 448
+|rp_max_s = 505
+|rp_break_s = 566
+|lskill_name_s = 究極の菓子職人
+|lskill_desc_s = Increase Blue & Purple ATK by 50%
+|skill_name_s = 春色のお菓子づくり
+|skill_desc_s = Turn Red beads into Purple and insert hearts
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 1055
+|hp_max_m = 1301
+|hp_break_m = 1457
+|atk_base_m = 631
+|atk_max_m = 856
+|atk_break_m = 959
+|rp_base_m = 448
+|rp_max_m = 524
+|rp_break_m = 587
+|lskill_name_m = 拘りの陶芸職人
+|lskill_desc_m = Increase Yellow & Purple ATK by 50%
+|skill_name_m = 熱意の皿づくり
+|skill_desc_m = Turn Red beads into Purple and insert hearts
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Sweets Panic
+|original = [[Byakuyo]]
+|desc = 紅梅国の王子。武芸全般に秀でていて、手先も器用だけど料理はしたことがない。やると決めたことには、とことん拘りを見せる。
+|bg = 年に一度行われるお菓子の祭典に、自分の創作菓子を出展しようと意気込む白葉。彼を手伝うことになったあなただけど、お菓子作りは意外な展開に…！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 出品準備
+|choice21s = にっこり笑う
+|points21s = 8
+|choice21m = 目を輝かせる
+|points21m = 8
+|title3 = 桜色のお菓子を
+|choice31m = お花のイメージを勧める
+|points31m = 4
+|choice31s = 季節の素材を勧める
+|points31s = 4
+|choice32m = 私も大好きです
+|points32m = 4
+|choice32s = とっても楽しみです！
+|points32s = 4
+|title4 = 最高級の素材を求めて
+|choice41s = 一番大切なものから
+|points41s = 4
+|choice41m = 白葉さんにお任せ
+|points41m = 4
+|choice42s = 白葉さんの手を取る
+|points42s = 4
+|choice42m = どうしたのかと聞く
+|points42m = 4
+|title5 = ふたりで作るお菓子
+|choice51m = いいと思います
+|points51m = 16
+|choice51s = よくわからない
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_68s.jpg}}
+{{Still|text=Moon Still|img=Still_68m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 外の美しい風景を見ていると、なんだか創作意欲が湧いてきたわ！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = あら、おはよう。ね、いい天気だから、街一番の甘味所へ行かない？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = お菓子作り、初めてなのよね。上手くできるかしら？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 明日はどんなものを作るか、あんたも一緒に部屋で考えてくれる？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = うう～ん、力の加減が難しいわね。お菓子作りって思ったより大変なものね
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = あら？一緒に創作菓子、考えてくれるの？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ねえ。手が汚れちゃってるけど……あんたに触れていいかしら？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = なぁに？ちょっと待ちなさいな。もうすぐ陶器ができるから！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = さぁ、究極の技をみせてあげるわ！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 完璧なものを作るのって難しいわね。でも、だからこそやりがいがあるわ！
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まだまだ、お互い腕を磨いていきましょっ！
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なぁに？お菓子の材料でも手に入れた？
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = すごいじゃない！これこそが、究極の技ね！！
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = なかなかいいわね。美味しそうにできそうだわ
+|CHAIN_GREAT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あら、また一緒に和菓子が食べたいの？…ほら、準備するわよ！
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = お菓子作りって難しいけど、あんたがいるから楽しいわ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = あんたのおかげでいいものが作れたわ。ありがと！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = あら、これ砂糖じゃなくて塩だったわ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 羊羹、大福、だんご、どれがいいかしら？
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 本領発揮といこうじゃないの！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = これが美を追求する力よ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = さ、帰ったらさっそくお菓子作りよ！
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = しつこいわね！お菓子作りの邪魔よ！
+|BATTLE_TURN_END_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = お菓子は、もちろん味も大切だけれど、見た目も大切よね
+|CARD_TOP_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やあっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = あったかいお茶みたいね♪
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = くっ！
+|BATTLE_DAMAGE_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = お誕生日おめでとう。あんたに特製のお菓子を作ったのよ。食べてくれる？
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = さあ、美味しいお菓子作り、頑張るわよ！
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = あんたのおかげで創作意欲が湧いてきたわ！
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = 皆で創作菓子の案出しでもしてくれるの？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = とことん美を、追求して最高のものを作るわよ！
+|CARD_EVOLUTION_m_clip = 
+|GUILD_en = 
+|GUILD_jp = あんこには塩を少しだけいれるとおいしいらしいわよ
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれたわね。お茶でも飲むかしら？
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 歓迎してくれるの？お礼に私がお菓子を奮ってあげるわ！
+|WELCOME_PARTY_clip = 
+}}

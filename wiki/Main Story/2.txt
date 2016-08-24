@@ -1,0 +1,1745 @@
+<tabber>
+|-| 2-1 =
+== Memories from a far-off day ==
+<dl>
+<dt> </dt>
+<dd>Following Avi's lead, we set off towards Alstoria Castle.</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt>Medi</dt>
+<dd>"This is!"</dd>
+<dt> </dt>
+<dd>As soon as we arrived, there were people collapsed, unconscious all over the ground.</dd>
+<dt>Soldier 1</dt>
+<dd>"...."</dd>
+<dt>Avi</dt>
+<dd>"So their dreams got devoured, huh...! Hey! Wake up!"</dd>
+<dt>Soldier 2</dt>
+<dd>"Prince Avi!"</dd>
+<dt>Avi</dt>
+<dd>"What's the situation!?"</dd>
+<dt>Soldier 2</dt>
+<dd>"Yes... Dream Eaters appeared at the castle, and have already devoured the dreams of over half of us......!"</dd>
+<dt>Avi</dt>
+<dd>"Over half!?"</dd>
+<dt>Soldier 2</dt>
+<dd>"If only we at least knew where they were!"</dd>
+<dt>MC</dt>
+<dd>"You don't know where the Dream Eaters are?"</dd>
+<dt>Navi</dt>
+<dd>"As long as there's darkness, the Dream Eaters can move between those spaces....."</dd>
+<dt>Avi</dt>
+<dd>"Night has almost fallen! Listen up, use as many torches as possible to light everything up! Dream Eaters won't get near the light!"</dd>
+<dd>"And father!?"</dd>
+<dt>Soldier 2</dt>
+<dd>"He evacuated together with the chief of defense, but who knows if they have been attacked or not...."</dd>
+<dt>Avi</dt>
+<dd>".....!!"</dd>
+<dt> </dt>
+<dd>At the moment Avi was about to dash off..-.</dd>
+<dt>Navi</dt>
+<dd>"Prince Avi! The Dream Eaters!!"</dd>
+<dt> </dt>
+<dd>As if they were searching for the three princes, Dream Eaters began to appear one by one.</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME....."</dd>
+<dt> </dt>
+<dd>I gripped my ring tightly, clasped my hands together, and prayed.</dd>
+<dt>Avi</dt>
+<dd>".....!"</dd>
+<dt>Medi</dt>
+<dd>"Wonderful! What a beautiful power!!"</dd>
+<dt> </dt>
+<dd>A blinding light enveloped us.</dd>
+<dd>And then...-.</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME!"</dd>
+<dt> </dt>
+<dd>Avi's strong arms pulled me close.</dd>
+<dd>In the next moment...-.</dd>
+<dd>As if being beckoned by the light, a gargantuan Dream Eater appeared in front of us from the darkness of the night.</dd>
+<dt>Luke</dt>
+<dd>"H-huge....!"</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt> </dt>
+<dd>I felt like the Dream Eaters were staring at me, and took a step back in fear.</dd>
+<dt>Medi</dt>
+<dd>"Are you scared? Princess is really adorable. There, hide behind me instead of Prince Avi"</dd>
+<dt>Avi</dt>
+<dd>"Don't forget you were done in last time"</dd>
+<dt> </dt>
+<dd>Avi stepped in front of me as if to shield me with his back.</dd>
+<dt>Avi</dt>
+<dd>"Don't let down your guard... Let's go!"</dd>
+<dt> </dt>
+<dd>The Dream Eaters disappeared with a sound like a groan..-.</dd>
+<dt>Medi</dt>
+<dd>"Their screams are death are really not beautiful"</dd>
+<dt>Avi</dt>
+<dd>"So we've defeated them..."</dd>
+<dt>Luke</dt>
+<dd>"Is anyone hurt?"</dd>
+<dt>Avi</dt>
+<dd>"Are you alright?"</dd>
+<dt> </dt>
+<dd>Avi turned his head to look at me, sword still unsheathed.</dd>
+<dt>MC</dt>
+<dd>"Th-thank you"</dd>
+<dt> </dt>
+<dd>He smiled and sheathed his sword.</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME, are you hurt anywhere!?"</dd>
+<dt> </dt>
+<dd>Navi turned worried eyes upon me.</dd>
+<dt>MC</dt>
+<dd>"Yes, I'm fine"</dd>
+<dt>Medi</dt>
+<dd>"But for Dream Eaters to appear all the way out here..."</dd>
+<dt>Avi</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>Avi's hand flew back to his sword.</dd>
+<dt>Medi</dt>
+<dd>".....But for Dream Eaters to come to devastate such a lush and quiet country!"</dd>
+<dt> </dt>
+<dd>Medi, flustered, revised his words.</dd>
+<dt>Medi</dt>
+<dd>"These Dream Eaters are tough customers! Right, Navi?"</dd>
+<dt>Navi</dt>
+<dd>"P-please don't drag me into this!"</dd>
+<dt> </dt>
+<dd>Watching this exchange, Avi's eyes twinkled.</dd>
+<dt>Avi</dt>
+<dd>"Father!"</dd>
+<dt> </dt>
+<dd>From the direction of the castle, a kingly looking man surrounded by soldiers was moving toward us.</dd>
+<dd>"Avi!! So you've come back!"</dd>
+<dt>Avi</dt>
+<dd>"I apologize for my tardiness. It is wonderful to see that father is safe"</dd>
+<dt> </dt>
+<dd>Avi and the King began to talk with each other.</dd>
+<dd>You could tell that they were truly worried for each other from their expressions.</dd>
+<dd>(Dad....)</dd>
+<dd>(You must be worried about me)</dd>
+<dd>My dad's kind smile came to mind.</dd>
+<dd>"So, this person is Träumere's...?"</dd>
+<dd>The king who was talking with Avi moved his gaze on me.</dd>
+<dt>MC</dt>
+<dd>"I am..-"</dd>
+<dt>Navi</dt>
+<dd>"It has been a long time, King Leonard. This is Princess USER_NAME"</dd>
+<dt> </dt>
+<dd>".... You are?"</dd>
+<dt>Navi</dt>
+<dd>"Ah... I am the butler who serves the royal family of Träumere"</dd>
+<dt> </dt>
+<dd>"I'm sorry, but where did we meet?"</dd>
+<dt>Navi</dt>
+<dd>"Ah, well... Prince Avi, King Leonard must be quite exhausted"</dd>
+<dt>Avi</dt>
+<dd>"Yes. Father, please leave the rest to me."</dd>
+<dt> </dt>
+<dd>"Is that so.... Princess of Träumere, for saving my son, from the bottom of my heart I lift my thanks to you"</dd>
+<dt>MC</dt>
+<dd>"Oh, no, I...."</dd>
+<dt> </dt>
+<dd>"It's already late. I'll have a room prepared for you, so please rest as much as you need"</dd>
+<dt>MC</dt>
+<dd>".... Thank you"</dd>
+<dt>Medi</dt>
+<dd>"Avi, could you be bothered to take care of us too?"</dd>
+<dt>Avi</dt>
+<dd>"How about going back to your countries as soon as possible? You won't be able to rest well in this hillbilly country, right?"</dd>
+<dt>Medi</dt>
+<dd>"..... Looks like he salty"</dd>
+<dt>Luke</dt>
+<dd>"I don't really mind. I was on a journey anyway, so I'm used to camping"</dd>
+<dt>Medi</dt>
+<dd>"C-camping! Isn't it dangerous what with Dream Eaters coming out at any time!!"</dd>
+<dt>Avi</dt>
+<dd>"Geez. Just follow me"</dd>
+<dt> </dt>
+<dd>After we were guided to our rooms by the castle servants....</dd>
+<dd>Maybe we were just so tired, that the moment our heads hit the pillow we fell asleep.</dd>
+<dd>......</dd>
+<dd>......</dd>
+<dd>(..... Who?)</dd>
+<dt>MC</dt>
+<dd>"....h!"</dd>
+<dt> </dt>
+<dd>A blinding light overflowed, and there...-.</dd>
+<dt>MC</dt>
+<dd>"You're..."</dd>
+<dt> </dt>
+<dd>I recognized them from somewhere.</dd>
+<dd>It was a boy in the train I was on before coming to this world.</dd>
+<dt>??</dt>
+<dd>"I really didn't mean to get you involved"</dd>
+<dd>"You've been holding onto that ring, huh"</dd>
+<dd>"It's so nostalgic.. of that time"</dd>
+<dt> </dt>
+<dd>(What time?)</dd>
+<dd>(Who are you....?)</dd>
+<dt>??</dt>
+<dd>"Are you crying again? Look, try holding on tight to this ring"</dd>
+<dt>MC</dt>
+<dd>"But older brother said this is a really precious thing..."</dd>
+<dt>??</dt>
+<dd>"It's fine. You're more precious to your me than the ring, so I'm lending it to you"</dd>
+<dd>"You feel better now, right?"</dd>
+<dt>MC</dt>
+<dd>"Yeah! This ring is like older brother. It makes me feel better"</dd>
+<dt>??</dt>
+<dd>"Then you can have it. It means I'll always be by your side"</dd>
+<dt> </dt>
+<dd>(I know... Who you are)</dd>
+<dd>Unexpectedly, the boy's eyebrows scrunched together in sadness.</dd>
+<dd>The next moment, the boy's appearance began to waver.</dd>
+<dd>(Wait......)</dd>
+<dd>The image of the boy began to dim.</dd>
+<dd>(Don't go!)</dd>
+<dt>MC</dt>
+<dd>"Older brother!!"</dd>
+<dt> </dt>
+<dd>My voice rang out in the room filled with morning light.</dd>
+<dt>Navi</dt>
+<dd>"Princess....."</dd>
+<dt> </dt>
+<dd>Navi's large eyes gazed at me.</dd>
+<dd>(A dream....?)</dd>
+<dd>The boy's sorrowful smile was still etched into the back of my eyelids.</dd>
+<dd>(That boy was... My older brother?)</dd>
+<dt>Navi</dt>
+<dd>"Princess?"</dd>
+<dt> </dt>
+<dd>At Navi's voice, I came to myself.</dd>
+<dt>MC</dt>
+<dd>"Navi.... Good morning"</dd>
+<dt>Navi</dt>
+<dd>"Is something the matter?"</dd>
+<dt> </dt>
+<dd>Navi took my face in his hands worriedly.</dd>
+<dt>MC</dt>
+<dd>".....Nope. The weather's great today, huh"</dd>
+<dt> </dt>
+<dd>I put on a smile.</dd>
+<dd>But in my heart still remained my older brother from the dream.</dd>
+<dt>MC</dt>
+<dd>"Hey, Navi. What kind of person is my older brother?"</dd>
+<dt>Navi</dt>
+<dd>"Your older brother?"</dd>
+<dt>MC</dt>
+<dd>"Yes..... I have an older brother in this world, too, right?"</dd>
+<dt>Navi</dt>
+<dd>"Your older brother... always cared greatly about you"</dd>
+<dt>MC</dt>
+<dd>"About me.....?"</dd>
+<dt>Navi</dt>
+<dd>"From the day you had to part, always....."</dd>
+<dt>MC</dt>
+<dd>"I want to meet him...."</dd>
+<dt>Navi</dt>
+<dd>"Princess.... I'm sure your brother also wants to meet you"</dd>
+<dt>MC</dt>
+<dd>"If I go to that Träumere place maybe I can meet him"</dd>
+<dt>Navi</dt>
+<dd>"Yes... That may be"</dd>
+<dt> </dt>
+<dd>Navi looked his toes.</dd>
+<dt>MC</dt>
+<dd>"Navi, what's wrong?"</dd>
+<dt>Navi</dt>
+<dd>"N-nothing!"</dd>
+<dd>"I was just thinking about if princess will agree to save this world"</dd>
+<dt>MC</dt>
+<dd>"Ah....."</dd>
+<dd>"I'm sorry... I'm still not...."</dd>
+<dt>Navi</dt>
+<dd>"Is that so....."</dd>
+<dt> </dt>
+<dd>Navi smiled gently.</dd>
+<dt>MC</dt>
+<dd>"I'm sorry....."</dd>
+<dt> </dt>
+<dd>At that moment..-.</dd>
+<dt>Avi</dt>
+<dd>"Listen here, Chivalric Order of Alstoria!"</dd>
+<dt> </dt>
+<dd>We could hear Avi's gallant voice from outside.</dd>
+<dd>Going out to the balcony to see what was going on....</dd>
+<dd>Avi stood in front of a tremendous number of knights, touting his sword.</dd>
+<dt>Avi</dt>
+<dd>"Even moreso that the citizens are in an uproar, we must be a support to this country!"</dd>
+<dt> </dt>
+<dd>To match Avi's words, the gallant voices of the knights also rose up.</dd>
+<dd>Luke and Medi, while yawning, also came out onto the neighboring balcony.</dd>
+<dt>Medi</dt>
+<dd>"All that noise woke me up"</dd>
+<dt>Luke</dt>
+<dd>"Could it be practice for a military parade? What a spectacle"</dd>
+<dt>MC</dt>
+<dd>"Military parade?"</dd>
+<dt>Luke</dt>
+<dd>"A ceremony to show the glories of the discipline of the army"</dd>
+<dt> </dt>
+<dd>Making our way to the courtyard, Avi who had just finished commanding noticed us coming and walked toward us.</dd>
+<dt>Avi</dt>
+<dd>"So you're finally up"</dd>
+<dt>Luke</dt>
+<dd>"Practice for the military parade, huh? It was amazing"</dd>
+<dt>Avi</dt>
+<dd>"Yeah. Due to the Dream Eaters, this country's also in a panic. We gotta raise the morale."</dd>
+<dt> </dt>
+<dd>After saying that, Avi called a horse with his whistle, and gallantly mounted it.</dd>
+<dt>Navi</dt>
+<dd>"Prince Avi, where are you going?"</dd>
+<dt>Avi</dt>
+<dd>"Going to inspect the town. It's yesterday's today, and the citizens are in fear"</dd>
+<dd>"What are you going to do?"</dd>
+<dt> </dt>
+<dd>Avi directed his gaze towards me.</dd>
+<dt>Avi</dt>
+<dd>"Would you like to come with me?"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"Here"</dd>
+<dt> </dt>
+<dd>Avi held out his hand.</dd>
+<dt>MC</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>As I was hesitating, Avi grabbed me and pulled me up onto the horse.</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME! Prince Avi, treat her a little more...-"</dd>
+<dt>MC</dt>
+<dd>"Navi, it's fine"</dd>
+<dt>Avi</dt>
+<dd>"Hold on tight to me"</dd>
+<dt> </dt>
+<dd>"Sitting behind Avi who was holding the reins, I grabbed Avi's jacket tightly.</dd>
+<dt>Medi</dt>
+<dd>"Just the two of you is so unfair! I want to go too!"</dd>
+<dt>Luke</dt>
+<dd>"I'm also interested to see how other countries do things"</dd>
+<dt>Avi</dt>
+<dd>"I didn't say you guys couldn't come. You two can at least ride a horse, right?"</dd>
+<dt>Medi</dt>
+<dd>"No problem! Beautifully and gracefully! How could you even ask that"</dd>
+<dt>Avi</dt>
+<dd>"Then it's fine. Let's go, USER_NAME"</dd>
+<dt> </dt>
+<dd>Before Medi had even finished speaking, Avi was pulling the reins.</dd>
+<dt>Navi</dt>
+<dd>"Princess, I'll go on ahead"</dd>
+<dt> </dt>
+<dd>Navi flew ahead in front of us.</dd>
+<dd>I grabbed the fluffy figure and perched him on my shoulder.</dd>
+<dt>Navi</dt>
+<dd>"Wa.... Princess, that kind of thing is!"</dd>
+<dt>Avi</dt>
+<dd>"Let's go!"</dd>
+<dt> </dt>
+<dd>Avi had the horse break into a gallop.</dd>
+<dt>Medi</dt>
+<dd>"W-wait up there!"</dd>
+<dt>Luke</dt>
+<dd>"Looks like the prince of the country of knights is strict on men"</dd>
+<dt> </dt>
+<dd>The view blew by like the wind...-.</dd>
+<dd>Section 1 End</dd>
+</dl>
+
+|-| 2-2 =
+== The power of awakening ==
+<dl>
+<dt> </dt>
+<dd>Then, Avi and the others arrived in the town closest to the castle.</dd>
+<dt>Luke</dt>
+<dd>"It's quiet. You wouldn't have thought Dream Eaters came out at the castle yesterday"</dd>
+<dt>Avi</dt>
+<dd>"...."</dd>
+<dt>MC</dt>
+<dd>"Avi?"</dd>
+<dt>Avi</dt>
+<dd>"..... I don't hear the sound of the bell"</dd>
+<dt>MC</dt>
+<dd>"Bell?"</dd>
+<dt>Avi</dt>
+<dd>"There's a girl named Marie who is in charge of the bell. She is supposed to ring the bell at this hour every day....."</dd>
+<dt> </dt>
+<dd>(Could it be....)</dd>
+<dd>Nobody said it, but everyone was conveying the same uneasy feeling.</dd>
+<dt>Avi</dt>
+<dd>"Let's go check Marie's house"</dd>
+<dt> </dt>
+<dd>And then..-.</dd>
+<dt>Avi</dt>
+<dd>"Marie!"</dd>
+<dt> </dt>
+<dd>Arriving at a small house on the outskirts of town, we found a small girl sleeping, her face pale.</dd>
+<dt>Marie's Father</dt>
+<dd>"At the time when she always goes to ring the bell... The Dream Eaters....!"</dd>
+<dt>Marie's Mother</dt>
+<dd>"Her body is slowly getting cold"</dd>
+<dd>"Prince Avi.... Is Marie going to die!?"</dd>
+<dt>Avi</dt>
+<dd>"....Navi, do you know anything?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. People who get their dreams devoured by Dream Eaters go into a coma... And I hear that some even lose their lives"</dd>
+<dt>Marie's Father</dt>
+<dd>"No!!"</dd>
+<dt> </dt>
+<dd>(Such a small child... that something like this could happen)</dd>
+<dd>I touched both hands to my breast, and at that time...-.</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt> </dt>
+<dd>The ring suspended on my chest was tinged slightly with light.</dd>
+<dd>(Could it be!?)</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME, that ring!"</dd>
+<dt> </dt>
+<dd>Even while Navi was urging, I clasped my hands together in front of my chest.</dd>
+<dd>When I did that, a strong light emitted from my ring...-.</dd>
+<dt>Marie</dt>
+<dd>"....n"</dd>
+<dt>Avi</dt>
+<dd>"Marie!?"</dd>
+<dt> </dt>
+<dd>"Marie!!!!"</dd>
+<dd>As if reacting to my ring, Marie woke up.</dd>
+<dt>Navi</dt>
+<dd>"Thank goodness!"</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME... Your power is...."</dd>
+<dt> </dt>
+<dd>(So I can not only awaken sealed princes, but also people put to sleep by Dream Eaters....?)</dd>
+<dd>Marie's parents were weeping with joy at her awakening.</dd>
+<dt>Marie's Father</dt>
+<dd>"Is there anything we could do to thank you!!"</dd>
+<dt>Marie's mother</dt>
+<dd>"Thank you so much!!"</dd>
+<dt>MC</dt>
+<dd>"N-no, I just..."</dd>
+<dt> </dt>
+<dd>Going outside, many people who saw the light and gathered were all looking at me and whispering amongst themselves.</dd>
+<dt>Villager 1</dt>
+<dd>"Marie woke up?"</dd>
+<dt>Villager 2</dt>
+<dd>"That girl did!?"</dd>
+<dt> </dt>
+<dd>"They can do that kind of thing...! She must be a goddess!"</dd>
+<dt>MC</dt>
+<dd>"W-wait!"</dd>
+<dt>Medi</dt>
+<dd>"Goddess! That has a wonderful ring to it! It fits you perfectly"</dd>
+<dt> </dt>
+<dd>Flustered, I felt a small hand grasp my right hand.</dd>
+<dt>Marie</dt>
+<dd>"Sis, thanks"</dd>
+<dt>MC</dt>
+<dd>"Marie...."</dd>
+<dt>Marie</dt>
+<dd>"With this, I can ring the bell again!"</dd>
+<dt> </dt>
+<dd>My heart grew warm at her cute smile.</dd>
+<dd>At that time..-.</dd>
+<dd>Suddenly, the shadows of the buildings in the village warped strangely.</dd>
+<dt>Avi</dt>
+<dd>".....! Get down!!"</dd>
+<dt> </dt>
+<dd>Dream Eaters appeared in front of us.</dd>
+<dd>Avi quickly unsheathed his sword and stood in front of Marie.</dd>
+<dt>Luke</dt>
+<dd>"Wh-why so suddenly.. And this many"</dd>
+<dt>Medi</dt>
+<dd>"What party poopers. They have no sense"</dd>
+<dt>Avi</dt>
+<dd>"Do they think we're gonna let them devour her dreams again after we just got her to wake up!"</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME, just like yesterday, give Prince Avi your power!"</dd>
+<dt>MC</dt>
+<dd>"Y-yes...!"</dd>
+<dt> </dt>
+<dd>I clasped my hands in front of my chest...-.</dd>
+<dt>Avi</dt>
+<dd>"This time we got all of them. Are you ok?"</dd>
+<dt>MC</dt>
+<dd>"Y-yes"</dd>
+<dt>Villager 1</dt>
+<dd>"Prince Avi, there are more Dream Eaters!!"</dd>
+<dt>Villager 2</dt>
+<dd>"What should we do"</dd>
+<dt> </dt>
+<dd>As the Dream Eaters came out, the villagers fell into confusion and disarray.</dd>
+<dt>Avi</dt>
+<dd>"Everyone, it's all going to be ok!"</dd>
+<dt>Medi</dt>
+<dd>"That's right! Now, look at my art and calm your hearts!"</dd>
+<dt> </dt>
+<dd>Medi took out his sketchbook and opened it up.</dd>
+<dt>Village Children</dt>
+<dd>"Eek!! It's scary~~!!"</dd>
+<dt>Avi</dt>
+<dd>"Medi! Get rid of that repulsive drawing!"</dd>
+<dt>Medi</dt>
+<dd>"What!!!!?"</dd>
+<dt>Luke</dt>
+<dd>"I wonder if it's possible for someone's warped sense of beauty to be fixed...."</dd>
+<dt>Medi</dt>
+<dd>"How could they not understand this aesthetic! It must be because they're country hicks"</dd>
+<dt>Avi</dt>
+<dd>"What did you just say?"</dd>
+<dt>Navi</dt>
+<dd>"Calm down, everyone"</dd>
+<dt> </dt>
+<dd>At Avi and the others' exchange, the children began to smile a little, and then...-.</dd>
+<dt>??</dt>
+<dd>"Where there is light, there is darkness"</dd>
+<dt> </dt>
+<dd>(Huh....?)</dd>
+<dd>Looking in the direction of the voice, an ominous-looking man stood there looking at us.</dd>
+<dt>??</dt>
+<dd>"Because you have hope, despair appears"</dd>
+<dd>"It looks like despair has also appeared in the neighboring town..... Please hurry"</dd>
+<dt> </dt>
+<dd>The man laughed ominously and left the place.</dd>
+<dd>(Despair will appear? What did he mean....?)</dd>
+<dd>Section 2 End</dd>
+</dl>
+
+|-| 2-3 =
+== Words of unrest ==
+<dl>
+<dt>??</dt>
+<dd>"Where there is light, there is darkness"</dd>
+<dd>"Because you have hope, despair appears"</dd>
+<dd>"It looks like despair has also appeared in the neighboring town..... Please hurry"</dd>
+<dt> </dt>
+<dd>(I wonder what that was?)</dd>
+<dd>With ominous thoughts, we headed towards the next town..-.</dd>
+<dt>Child 1</dt>
+<dd>"Dream Eaters-!"</dd>
+<dt>Child 2</dt>
+<dd>"Scary! Save me!!"</dd>
+<dt> </dt>
+<dd>At that very moment the Dream Eaters were already beginning to attack the children.</dd>
+<dd>(Watch out!)</dd>
+<dd>Avi stood between them and the children.</dd>
+<dt>Avi</dt>
+<dd>"It's going to be okay. Stay behind me"</dd>
+<dt>Child 3</dt>
+<dd>"Prince Avi!"</dd>
+<dt>Luke</dt>
+<dd>"Let's kill em dead!"</dd>
+<dt>Medi</dt>
+<dd>"All of you, watch my beautiful fighting!"</dd>
+<dd>"Did you see!? My splendid..-"</dd>
+<dt>Luke</dt>
+<dd>"Are you alright?"</dd>
+<dt>Child 1</dt>
+<dd>"Thank you!"</dd>
+<dt>Medi</dt>
+<dd>"Hey...-!"</dd>
+<dt>Navi</dt>
+<dd>"..."</dd>
+<dt> </dt>
+<dd>Navi still seemed to be in a nervous state.</dd>
+<dt>MC</dt>
+<dd>"Navi?"</dd>
+<dt>Navi</dt>
+<dd>"Please be careful... There are still more!"</dd>
+<dt>MC</dt>
+<dd>"..!"</dd>
+<dt>Avi</dt>
+<dd>"So many...! Damn!"</dd>
+<dt> </dt>
+<dd>The Dream Eaters lifted up a jarring groan and disappeared into the darkness.</dd>
+<dt>Avi</dt>
+<dd>"We got em good"</dd>
+<dt>Medi</dt>
+<dd>"They were unexpectedly tough"</dd>
+<dt> </dt>
+<dd>Smiles gradually returned to the faces of the crying children.</dd>
+<dt>MC</dt>
+<dd>"Are you all okay? Is anybody injured?"</dd>
+<dt>Child 1</dt>
+<dd>"We're ok!"</dd>
+<dt>Child 2</dt>
+<dd>"Wow, sis, you're amazing! You're so strong!"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"! Emil! Are you hurt anywhere?"</dd>
+<dt> </dt>
+<dd>The boy called Emil looked happily up at Avi.</dd>
+<dt>Emil</dt>
+<dd>"Yes, Prince Avi!"</dd>
+<dd>"Prince Avi is so cool! I want to get stronger too!"</dd>
+<dt>Avi</dt>
+<dd>"Yeah. If you train hard, you'll definitely become strong"</dd>
+<dt> </dt>
+<dd>Avi fondly put his hand on Emil's head.</dd>
+<dt>MC</dt>
+<dd>"Is he someone you know?</dd>
+<dt>Avi</dt>
+<dd>"Sometimes, I lead the kids in sword training at the castle"</dd>
+<dt> </dt>
+<dd>Saying all that, Avi roughly wrapped his arm around the boy's shoulders.</dd>
+<dt>Avi</dt>
+<dd>"I don't know what's up witht his time, but hopefully the others haven't gotten attacked or anything"</dd>
+<dd>"...You"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"What do you really plan to do from here on out?"</dd>
+<dt>MC</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>I couldn't find an answer, and gulped.</dd>
+<dt>Medi</dt>
+<dd>"Well well. Princess, it's fine if you just think it over slowly. Let the wind carry it, with a beautiful love"</dd>
+<dt>MC</dt>
+<dd>"Yes....."</dd>
+<dt>Emil</dt>
+<dd>"Thank you so much, sis. Next time I'll be the one protecting you"</dd>
+<dt> </dt>
+<dd>Emil's small hand grasped mine tightly.</dd>
+<dd>His gaze straight at me pierced into my breast...-.</dd>
+<dd>...</dd>
+<dd>.....</dd>
+<dd>That night...-.</dd>
+<dt>??</dt>
+<dd>"Sis, can I come in?"</dd>
+<dt> </dt>
+<dd>Emil knocked on the door and poked his head in.</dd>
+<dt>MC</dt>
+<dd>"Emil! What's wrong?"</dd>
+<dt>Emil</dt>
+<dd>"I got Prince Avi to show me his night training"</dd>
+<dt> </dt>
+<dd>Emil sat down next to me.</dd>
+<dd>His cheeks melted into an innocent smile.</dd>
+<dt>Emil</dt>
+<dd>"Huh, are you studying? Am I bothering you?"</dd>
+<dt>MC</dt>
+<dd>"No, it's fine. I couldn't find a single thing, so I was about to take a rest anyway"</dd>
+<dt>Emil</dt>
+<dd>"You couldn't find it? Are you looking for something, then?"</dd>
+<dt>MC</dt>
+<dd>"Ah... Yes"</dd>
+<dt>Emil</dt>
+<dd>"I'll look for it with you! What were you looking for?"</dd>
+<dt> </dt>
+<dd>(I was wondering if there were any books with a method written on how to go back....)</dd>
+<dt>MC</dt>
+<dd>"Hmm.... I was wondering how I could see my mom and dad again"</dd>
+<dt>Emil</dt>
+<dd>"Sis, were you separated from your mom and dad?"</dd>
+<dt>MC</dt>
+<dd>"Yeah...."</dd>
+<dt> </dt>
+<dd>Emil grasped my hand with his two small ones.</dd>
+<dt>Emil</dt>
+<dd>"My mom and dad also don't come home very often these days"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>Emil grinned brightly.</dd>
+<dt>Emil</dt>
+<dd>"But I'm fine. If I get stronger, I can make everyone smile again"</dd>
+<dd>"More than that, let's look for a way for sis to meet your mom and dad! Family is the most important thing"</dd>
+<dt>MC</dt>
+<dd>"Emil....."</dd>
+<dt>Emil</dt>
+<dd>"Are your mom and dad in a place you can't get to, even by Moon Road?"</dd>
+<dt>MC</dt>
+<dd>"Moon Road?"</dd>
+<dt>Emil</dt>
+<dd>"Yeah.... Huh, could it be that sis doesn't know?"</dd>
+<dt>MC</dt>
+<dd>"Yeah... I came from a faraway place, so"</dd>
+<dt>Emil</dt>
+<dd>"Really? You must be lonely"</dd>
+<dt> </dt>
+<dd>At the kindness of this innocent child, the corners of my eyes pricked.</dd>
+<dt>Emil</dt>
+<dd>"When the moon rises, a path comes into existence, though"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Emil</dt>
+<dd>"Look, it's beautiful"</dd>
+<dt> </dt>
+<dd>Emil opened the window and drew the curtains.</dd>
+<dt>MC</dt>
+<dd>"No way....!"</dd>
+<dt> </dt>
+<dd>Outside the window was a show of light so beautiful I couldn't believe my eyes.</dd>
+<dd>The moonlight poured like droplets, forming a distinct path to the earth.</dd>
+<dt>Emil</dt>
+<dd>"When the moon shines on the sea, paths to other countries also come into being"</dd>
+<dt>MC</dt>
+<dd>"Amazing!"</dd>
+<dt>Emil</dt>
+<dd>"I wonder which countries we could go to now"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Emil</dt>
+<dd>"The ends of the paths change with the waning of the moon. I've heard even time changes!"</dd>
+<dd>"I've never gone to another country before.... But one day, I'd like to travel the world"</dd>
+<dt> </dt>
+<dd>Emil looked at the far off moon.</dd>
+<dt>Emil</dt>
+<dd>"Hey, sis. If you cross over Moon Road, you'll definitely be able to go home"</dd>
+<dt>MC</dt>
+<dd>"..... Yeah. Thanks"</dd>
+<dt> </dt>
+<dd>Different than the moon I was used to, I stared up at this one which was like a kaleidoscope.</dd>
+<dt>Emil</dt>
+<dd>"Sis, why do you look so sad..?"</dd>
+<dt> </dt>
+<dd>Emil peered into my face.</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>Emil hugged my head.</dd>
+<dt>Emil</dt>
+<dd>"My little sister is such a crybaby, so I always do this to make her stop"</dd>
+<dd>"Sis, if you want to cry, you can cry"</dd>
+<dt>MC</dt>
+<dd>"Emil....."</dd>
+<dt> </dt>
+<dd>His small hands patted my back.</dd>
+<dd>(I... Want to go home)</dd>
+<dt>MC</dt>
+<dd>"I'm sorry. I'm supposed to be an adult"</dd>
+<dt>Emil</dt>
+<dd>"Nah. I said this last time, right? That I'd protect you next time"</dd>
+<dd>"When you feel better, let's go search for what you're looking for together"</dd>
+<dt> </dt>
+<dd>(Emil is so small, but he's this strong and gentle)</dd>
+<dd>(For the first time since coming to this world, I could be honest from my heart.....)</dd>
+<dt>MC</dt>
+<dd>"Thanks, Emil"</dd>
+<dt> </dt>
+<dd>I gave him a smile.</dd>
+<dd>(I also want to become a gentle and strong person like Emil)</dd>
+<dd>Emil smiled happily, and as if a soft wind was blowing in my heart, my chest got lighter.</dd>
+<dd>...</dd>
+<dd>Navi peeked into USER_NAME's room through the cracked open door.</dd>
+<dt>Navi</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>In his gaze, he saw USER_NAME and Emil sitting next to each other, with a book open in their laps.</dd>
+<dd>...</dd>
+<dd>The next morning...-.</dd>
+<dd>We followed Avi back into the town.</dd>
+<dt>Avi</dt>
+<dd>"What's up? You don't look so good"</dd>
+<dt> </dt>
+<dd>Avi said this as he put his hands up to stop me from falling off the horse.</dd>
+<dt>MC</dt>
+<dd>"No, it's nothing"</dd>
+<dt> </dt>
+<dd>(My head is blank from staying up late reading last night....)</dd>
+<dt>Medi</dt>
+<dd>"The princess has been taken in by the beauty of the morning sunlight, Avi"</dd>
+<dt> </dt>
+<dd>At that time...-.</dd>
+<dt>Luke</dt>
+<dd>"!!"</dd>
+<dt> </dt>
+<dd>When I got down, the shadow of the tree next to me began to warp and a dark form protruded.....</dd>
+<dt>MC</dt>
+<dd>"!!"</dd>
+<dt> </dt>
+<dd>(Dream Eaters!?)</dd>
+<dt>Medi</dt>
+<dd>"Look out!"</dd>
+<dt> </dt>
+<dd>With tremendous speed, the Dream Eaters approached me.</dd>
+<dt>Navi</dt>
+<dd>"Princess!!"</dd>
+<dt> </dt>
+<dd>At the same time Navi's small and soft body flew in front of me...-.</dd>
+<dt>Avi</dt>
+<dd>"Get down"</dd>
+<dt> </dt>
+<dd>A broad back separated Navi and the Dream Eaters.</dd>
+<dd>A strong hand unsheathed a sword and the Dream Eaters were bisected.</dd>
+<dt>Medi</dt>
+<dd>"Ahh, you took the chance! Avi, next time I'm going to protect the princess!"</dd>
+<dt>Luke</dt>
+<dd>"How about saying that after getting off your horse"</dd>
+<dt>Avi</dt>
+<dd>"Enough with the jesting. In any case, it looks like a whole swarm is coming out"</dd>
+<dt> </dt>
+<dd>Looking towards where Avi was pointing, an evil darkness was gushing out of the building's shadow.</dd>
+<dt>Avi</dt>
+<dd>"We're counting on you"</dd>
+<dt> </dt>
+<dd>Avi stared at me.</dd>
+<dt>MC</dt>
+<dd>"...!!"</dd>
+<dt> </dt>
+<dd>Nodding furiously, I shut my eyes tightly and clasped my hands together.</dd>
+<dt>Avi</dt>
+<dd>"Thank you"</dd>
+<dt>MC</dt>
+<dd>"Avi, everyone.... I thank you all, too"</dd>
+<dt>Medi</dt>
+<dd>"Well?"</dd>
+<dt>Village child</dt>
+<dd>"...."</dd>
+<dt> </dt>
+<dd>A village child was staring at us.</dd>
+<dt>Avi</dt>
+<dd>"What's wrong? It's all okay now"</dd>
+<dt> </dt>
+<dd>Avi gently said, about to pat his head, when ....</dd>
+<dt>Village Child</dt>
+<dd>"We must not have dreams"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Village Child</dt>
+<dd>"My dad said if you have hopes and dreams, the Dream Eaters will get you"</dd>
+<dd>"He said if you have despair, it'll be alright"</dd>
+<dt>Avi</dt>
+<dd>"What.. Are you saying...-"</dd>
+<dt> </dt>
+<dd>I noticed Avi gulp deeply after peering into the kid's eyes.</dd>
+<dd>(He has no energy... What dark eyes)</dd>
+<dt>Avi</dt>
+<dd>"Where are your parents?"</dd>
+<dt>Village child</dt>
+<dd>"At church. there's someone teaching people how to not get attacked by Dream Eaters"</dd>
+<dt>Avi</dt>
+<dd>"Church....."</dd>
+<dt>Luke</dt>
+<dd>"Shall we check it out?"</dd>
+<dt>Avi</dt>
+<dd>"Yeah"</dd>
+<dt> </dt>
+<dd>The words of the man we met in town yesterday floated through my head.</dd>
+<dt>??</dt>
+<dd>"Where there is light, there is darkness"</dd>
+<dd>"Because we have hopes, despair appears"</dd>
+<dt> </dt>
+<dd>In the atmosphere of unrest, we headed toward the church on the outskirts of the village...-.</dd>
+<dd>Section 3 End</dd>
+</dl>
+
+|-| 2-4 =
+==  Hope and despair ==
+<dl>
+<dt> </dt>
+<dd>When we had arrived at the church...-.</dd>
+<dd>Many people were sitting in chairs and listening to someone speak.</dd>
+<dt>Avi</dt>
+<dd>"They're...."</dd>
+<dt> </dt>
+<dd>At the end of Avi's gaze, there were many children.</dd>
+<dd>However, every one of their expressions were gloomy and pale.</dd>
+<dt>Medi</dt>
+<dd>"Do you know them?"</dd>
+<dt>Avi</dt>
+<dd>"Yeah. Just like Emil, they were all under my tutelage for sword training"</dd>
+<dd>"I thought they were just not coming to sword training for the time being, but I guess they were here"</dd>
+<dt> </dt>
+<dd>Avi dashed up to the children.</dd>
+<dt>Child 1</dt>
+<dd>"P-prince Avi....."</dd>
+<dt>Avi</dt>
+<dd>"How come you're here instead of coming to sword training?"</dd>
+<dt>Child 2</dt>
+<dd>"We... Are quitting sword training"</dd>
+<dt>Avi</dt>
+<dd>"Why?"</dd>
+<dt>??</dt>
+<dd>"If we do that kind of stuff, we're going to get attacked by the Dream Eaters"</dd>
+<dt>MC</dt>
+<dd>"!"</dd>
+<dt> </dt>
+<dd>Turning to look at the source of the voice, we found a man in black standing there.</dd>
+<dt>Avi</dt>
+<dd>"Who are you?"</dd>
+<dt> </dt>
+<dd>(That person is...)</dd>
+<dt>??</dt>
+<dd>"Where there is light, there is darkness"</dd>
+<dd>"Because you have hope, despair will also appear"</dd>
+<dd>"Nice to meet you. I am Kasa, doing experiments under the agency of science Magna."</dd>
+<dt>Kasa</dt>
+<dd>"I am pleased to make your acquaintance"</dd>
+<dt>Avi</dt>
+<dd>"Magna...?"</dd>
+<dt>Medi</dt>
+<dd>"I've heard of them. It's an organization of collected scholars formed in order to find ways to combat the Dream Eaters"</dd>
+<dt>Avi</dt>
+<dd>"Then, Kasa. What are you doing in my country?"</dd>
+<dt>Kasa</dt>
+<dd>"I heard that the damage done here by the Dream Eaters is relatively small, and so I came to save these people"</dd>
+<dt>Avi</dt>
+<dd>"Came to save....?"</dd>
+<dt> </dt>
+<dd>Looking at the pale faces of the children, Avi's voice began to build anger.</dd>
+<dt>Kasa</dt>
+<dd>"Prince Avi. Your patriotism is sweet, but it would be best to turn your eyes to the rest of the world sometimes, too"</dd>
+<dt>Avi</dt>
+<dd>"What are you trying to say"</dd>
+<dt>Kasa</dt>
+<dd>"At this very moments, there are countries that the Dream Eaters are annihilating"</dd>
+<dd>"You don't want something like that to happen to Alstoria, right"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt>Kasa</dt>
+<dd>"We have come to one conclusion"</dd>
+<dd>"What the Dream Eaters are targeting are things like "dreams" and "hope." If you throw away those things, you can avoid danger"</dd>
+<dt>Avi</dt>
+<dd>"That's ridiculous....!"</dd>
+<dt> </dt>
+<dd>(It's possible that if you don't have dreams)</dd>
+<dd>(The Dream Eaters won't attack you...?)</dd>
+<dd>At that, Kasa transferred his gaze to me.</dd>
+<dt>Kasa</dt>
+<dd>"It looks like you have very strong dream power"</dd>
+<dd>"But not you yourself.... but that ring?"</dd>
+<dt> </dt>
+<dd>Without thinking, I hid my ring from Kasa's searching gaze.</dd>
+<dt>Kasa</dt>
+<dd>"At any rate, if we had something like that...-"</dd>
+<dt> </dt>
+<dd>Kasa began to walk over to me.</dd>
+<dt>Avi</dt>
+<dd>"Don't get close to her"</dd>
+<dt> </dt>
+<dd>Avi came out in front of me as if to hide me from Kasa.</dd>
+<dd>Medi and Luke also lined up on his sides.</dd>
+<dt>Avi</dt>
+<dd>"On top of that, living without hopes and dreams is foolish!"</dd>
+<dd>"All of you, open your eyes!"</dd>
+<dt>Kasa</dt>
+<dd>"You are as the rumors say, Prince Avi. You are beautiful in your heroism. However, that will bring the darkness of despair."</dd>
+<dd>"....Look, it's come already. Despair"</dd>
+<dt>Luke</dt>
+<dd>"Dream Eaters!"</dd>
+<dt> </dt>
+<dd>Dream Eaters large and small appeared in front of us...-.</dd>
+<dd>The cries of children and strange groans of the Dream Eaters echoed throughout the area....-.</dd>
+<dd>At the shrieks of the congregation, the Dream Eaters appeared one by one....-.</dd>
+<dt>Kasa</dt>
+<dd>"The darkness is gathering in response to your hope"</dd>
+<dd>"It's better not to have hopes and dreams"</dd>
+<dt>Avi</dt>
+<dd>"Shut up!"</dd>
+<dt>Little boy</dt>
+<dd>"H....."</dd>
+<dt> </dt>
+<dd>The darkness of the Dream Eaters enveloped the litlte boy.</dd>
+<dt>MC</dt>
+<dd>"Look out...-!"</dd>
+<dt> </dt>
+<dd>Trying to protect the boy with my body...-.</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME!"</dd>
+<dt> </dt>
+<dd>With great speed, Avi changed direction and slashed the Dream Eaters away from us.</dd>
+<dt>Avi</dt>
+<dd>"Are you ok!?"</dd>
+<dt>MC</dt>
+<dd>"Y-yes...."</dd>
+<dt> </dt>
+<dd>As the boy's body shivered, he stared at us with frightened eyes.</dd>
+<dt>Little boy</dt>
+<dd>"I'm scared...... If I have dreams, the Dream Eaters will come get me"</dd>
+<dd>"Don't get near me...-"</dd>
+<dt>MC</dt>
+<dd>".....!"</dd>
+<dt>Avi</dt>
+<dd>"Hey!"</dd>
+<dt>Medi</dt>
+<dd>"Avi, help us out over here!!"</dd>
+<dt>Avi</dt>
+<dd>"Damn.....!"</dd>
+<dd>"We've defeated them all. Is everyone alright?"</dd>
+<dt>MC</dt>
+<dd>"Yes...."</dd>
+<dt>Kasa</dt>
+<dd>"It's over. Where hopes and dreams overflow, Dream Eaters will visit upon"</dd>
+<dt> </dt>
+<dd>At Kasa's words, the villagers' heads nodded one by one.</dd>
+<dt>Villager 1</dt>
+<dd>"Yes... That's right"</dd>
+<dt>Villager 2</dt>
+<dd>"Prince Avi, it's your fault the Dream Eaters appeared!"</dd>
+<dt>Avi</dt>
+<dd>"....!"</dd>
+<dt> </dt>
+<dd>(No way!!)</dd>
+<dt>Kasa</dt>
+<dd>"You have called the Dream Eaters here. Can you please leave immediately"</dd>
+<dt> </dt>
+<dd>When the villagers had started to chase us out, at that time...-.</dd>
+<dt>Emil</dt>
+<dd>"Prince Avi!"</dd>
+<dt> </dt>
+<dd>Emil opened the door and dashed over to us.</dd>
+<dt>Avi</dt>
+<dd>"Emil! Why are you here!?"</dd>
+<dt>Emil</dt>
+<dd>"When I saw your horse outside, I thought maybe..."</dd>
+<dt> </dt>
+<dd>A man and woman within the people who were listening to Kasa stood up.</dd>
+<dt>Man</dt>
+<dd>"Emil! You always duck out from church... You must receive Kasa's teachings today!"</dd>
+<dt>Woman</dt>
+<dd>"That's right, Emil. Because you were like that, Rena...-"</dd>
+<dt>Emil</dt>
+<dd>"Father, mother, you were here again...?"</dd>
+<dt> </dt>
+<dd>(Emil's parents!?"</dd>
+<dd>(Then, could that be)</dd>
+<dt>Emil</dt>
+<dd>"These days, my mom and dad don't come home very much."</dd>
+<dd>"But, I'm fine. If I get stronger, I can make everyone smile again"</dd>
+<dd>"More than that, let's find out a way for sis to see your mom and dad! Family is the most important thing"</dd>
+<dd>"My little sister... Rena got attacked by the Dream Eaters, and my mom and dad come here every day...."</dd>
+<dt>Avi</dt>
+<dd>"What did you say!?"</dd>
+<dt>Emil</dt>
+<dd>"Prince Avi..... It's not true that we can't have dreams, rght!?"</dd>
+<dd>"I won't believe something like that!"</dd>
+<dt>Emil's mother</dt>
+<dd>"Stop! Rena was attacked by the Dream Eaters because you had hope!"</dd>
+<dt>Emil</dt>
+<dd>"You're wrong....h!"</dd>
+<dt>Kasa</dt>
+<dd>"That won't do... Please take him"</dd>
+<dt> </dt>
+<dd>Emil's parents grabbed his arms and attempted to drag him to the cave.</dd>
+<dt>Emil</dt>
+<dd>"Stop! Let me go! I want to save Rena! I have to get stronger!!"</dd>
+<dt>Avi</dt>
+<dd>"Hey! Wait!!"</dd>
+<dt> </dt>
+<dd>Avi tried to run up to Emil, but the villagers restrained him...-.</dd>
+<dt>Emil</dt>
+<dd>"Prince Avi, sis.... Save me....!"</dd>
+<dt>MC</dt>
+<dd>"Emil!"</dd>
+<dt> </dt>
+<dd>The heavy door made of stone closed with a loud noise.</dd>
+<dt>Emil</dt>
+<dd>"My little sister is such a crybaby, so until she stopped, I always used to do this"</dd>
+<dd>"Sis, cry as much as you want"</dd>
+<dd>"I said this last time, right? Next time I'll be the one protecting you"</dd>
+<dt> </dt>
+<dd>I balled up my hands into fists...-.</dd>
+<dd>After chasing us outside, the villagers had used a key to lock the door from the inside.</dd>
+<dt>Avi</dt>
+<dd>"Hey! .... Damn!"</dd>
+<dt> </dt>
+<dd>Avi rammed the heavy door in an attempt to open it.</dd>
+<dt>Luke</dt>
+<dd>"The Dream Eaters come because we have dreams....?"</dd>
+<dt>Avi</dt>
+<dd>"Hey, what are you saying?"</dd>
+<dt>Luke</dt>
+<dd>"Oh, no.... It's just that time in that first village where we fought the Dream Eaters"</dd>
+<dd>"The more and more terrified the villagers got, the less in number the Dream Eaters seemed to get"</dd>
+<dt>Avi</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>Avi stopped ramming the door and looked down at the ground.</dd>
+<dt>Luke</dt>
+<dd>"I'm sorry. What I'm saying is, that doesn't mean they're right"</dd>
+<dd>"... I think"</dd>
+<dt>Medi</dt>
+<dd>"Get it together"</dd>
+<dt>Navi</dt>
+<dd>"I know it's a bad time... But it seems they've come"</dd>
+<dt>Avi</dt>
+<dd>"The Dream Eaters?!!"</dd>
+<dt>Medi</dt>
+<dd>"Can't they cut us some slack.."</dd>
+<dt>Luke</dt>
+<dd>"Can't we even discuss things in peace....."</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME! You're bleeding.....!"</dd>
+<dt> </dt>
+<dd>Navi flew to my left shoulder.</dd>
+<dd>After defeating the Dream Eaters, I had sustained an injury on my left shoulder</dd>
+<dt>Avi</dt>
+<dd>"Are you ok? I'm so sorry, that shouldn't have happened while I was here!"</dd>
+<dt>MC</dt>
+<dd>"No, it was due to my carelessness. Navi, I'm completely... fine..."</dd>
+<dt> </dt>
+<dd>That's what I tried to say, but I felt my consciousness fading.</dd>
+<dt>Navi</dt>
+<dd>"Princess, I'm sorry! Someone! Call a doctor!!"</dd>
+<dt> </dt>
+<dd>Navi tried to slop the blood flowing from my shoulder with all his might.</dd>
+<dd>(I'm fine.. really)</dd>
+<dt>Navi</dt>
+<dd>"Princess!!!"</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>......</dd>
+<dt>??</dt>
+<dd>"..... USER_NAME"</dd>
+<dt> </dt>
+<dd>(Brother....?)</dd>
+<dd>Those gentle eyes quivered sorrowfully.</dd>
+<dt>??</dt>
+<dd>"So you got hurt"</dd>
+<dt> </dt>
+<dd>(I'm fine... Don't make such a sorrowful face)</dd>
+<dt>??</dt>
+<dd>"... How was it? The world you were born in"</dd>
+<dd>"USER_NAME was loved and favored by this world the moment you were born into it"</dd>
+<dt> </dt>
+<dd>(by the world?)</dd>
+<dt>??</dt>
+<dd>"That's right. Everyone loves USER_NAME.... I also love you"</dd>
+<dt> </dt>
+<dd>(Everyone.....)</dd>
+<dd>The people who I've met in this world came to my mind one by one.</dd>
+<dt>??</dt>
+<dd>"However, this world is being made dangerous. It is steadily changing...."</dd>
+<dd>"The world that loves you, is hurting you..."</dd>
+<dt> </dt>
+<dd>My left shoulder throbbed.</dd>
+<dt>??</dt>
+<dd>"I'm truly sorry... I'm a terrible older brother"</dd>
+<dt> </dt>
+<dd>(That's not..!)</dd>
+<dt>??</dt>
+<dd>"No, Really though."</dd>
+<dt> </dt>
+<dd>(??)</dd>
+<dt>??</dt>
+<dd>"There is only one method I can use to return you to your former world"</dd>
+<dt> </dt>
+<dd>(Huh...!!"</dd>
+<dt>??</dt>
+<dd>"I'm sorry... I've been hiding it from you"</dd>
+<dd>"At the night of the next full moon, go to the fountain of stardust. Then, you have to hold up your ring to the moonlight. If you do that, you'll be able to return to your former world."</dd>
+<dt> </dt>
+<dd>(Really?)</dd>
+<dt>??</dt>
+<dd>"That night is when a special moon comes out, that only comes out once a year. You can crack the space-time continuum and transport to a parallel universe.</dd>
+<dt> </dt>
+<dd>(I can return.... to my former world...)</dd>
+<dt>??</dt>
+<dd>"This is your only chance"</dd>
+<dd>"I'm so glad I could meet the grown-up you"</dd>
+<dt> </dt>
+<dd>My older brother's form started to grow hazy.</dd>
+<dd>(Wait! Wait a second...!)</dd>
+<dt>??</dt>
+<dd>"I'm sorry.... Goodbye"</dd>
+<dt> </dt>
+<dd>When I opened my eyes, a single teardrop fell from them.</dd>
+<dt>Navi</dt>
+<dd>"Princess!!"</dd>
+<dt>Avi</dt>
+<dd>"Are you ok!?"</dd>
+<dt> </dt>
+<dd>"I'm so relieved!"</dd>
+<dt>MC</dt>
+<dd>"Everyone...."</dd>
+<dt> </dt>
+<dd>When I tried to get up, the wound on my shoulder throbbed violently.</dd>
+<dt>Avi</dt>
+<dd>"Don't move. We've treated it, but it'll be 2 or 3 days until it's safe."</dd>
+<dt>Navi</dt>
+<dd>"If it was just a little off, your heart would have... You were in a dangerous position, there"</dd>
+<dt>MC</dt>
+<dd>"Where are we?"</dd>
+<dt>Avi</dt>
+<dd>"The castle. You were asleep for half a day."</dd>
+<dt>MC</dt>
+<dd>"..... And Emil.....?"</dd>
+<dt>Avi</dt>
+<dd>"I'm having my troops search about various things regarding the cult of Magna. Don't worry"</dd>
+<dt>Medi</dt>
+<dd>"Anyway, those darn Dream Eaters! Marring the body of a beautiful princess is a disgrace to men!!!"</dd>
+<dt>Luke</dt>
+<dd>"Do Dream Eaters have a gender"</dd>
+<dt>Medi</dt>
+<dd>"Well, if they did...-"</dd>
+<dt>MC</dt>
+<dd>"I'm sorry... Could you all leave me alone for a bit?"</dd>
+<dt>Avi</dt>
+<dd>"... Sure. Everyone, let's go"</dd>
+<dt> </dt>
+<dd>When the 3 of them left, I tightly shut my eyes.</dd>
+<dd>(I can return to my former world)</dd>
+<dd>(I can even see my mom and dad)</dd>
+<dd>(But...)</dd>
+<dt>Emil</dt>
+<dd>"My daughter.... The Dream Eaters devoured my daughter....!!"</dd>
+<dd>"Prince Avi... It's not true that we should stop having dreams, right?"</dd>
+<dd>"I won't believe that!"</dd>
+<dt> </dt>
+<dd>The things that happened yesterday came to mind.</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME......"</dd>
+<dt> </dt>
+<dd>Navi stared at me worriedly.</dd>
+<dt>MC</dt>
+<dd>"... Hey, Navi. Do you know when the next full moon is?"</dd>
+<dt>Navi</dt>
+<dd>"....It's in 3 nights."</dd>
+<dt> </dt>
+<dd>Navi smiled silently.</dd>
+<dt>MC</dt>
+<dd>"Is that so"</dd>
+<dt> </dt>
+<dd>When I looked out the window, I could see Avi and the rest waving around swords.</dd>
+<dd>The ring on my chest twinkled as it caught the sunlight</dd>
+<dd>After advancing two days....-.</dd>
+<dd>Gazing at the full moon filling the night sky, I sighed deeply.</dd>
+<dd>(Tomorrow is the full moon.... My shoulder is also almost fully healed)</dd>
+<dd>(I can go back to my former world, huh)</dd>
+<dd>(But....)</dd>
+<dd>I still haven't told Avi and the rest.</dd>
+<dd>At that time, there was a knock at the door.</dd>
+<dt>MC</dt>
+<dd>"Avi...."</dd>
+<dt>Avi</dt>
+<dd>"Feeling alright?"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"Well, Luke and Medi were worrying about you"</dd>
+<dt> </dt>
+<dd>Avi ruffled his red hair in embarrassment.</dd>
+<dt>MC</dt>
+<dd>"...I'm sorry for worrying you all"</dd>
+<dt>Avi</dt>
+<dd>"Nah"</dd>
+<dt> </dt>
+<dd>My heart skipped a beat.</dd>
+<dt>MC</dt>
+<dd>"Umm...."</dd>
+<dt>Avi</dt>
+<dd>"Hm?"</dd>
+<dt>MC</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>The words wouldn't come out of my mouth.</dd>
+<dt>Avi</dt>
+<dd>"What's wrong"</dd>
+<dt>MC</dt>
+<dd>"Avi, actually..."</dd>
+<dt> </dt>
+<dd>ō</dd>
+<dd>Ņ</dd>
+<dt>Avi</dt>
+<dd>"So you're going back"</dd>
+<dt>MC</dt>
+<dd>"....I'm sorry"</dd>
+<dt>Avi</dt>
+<dd>"Nah, it's nothing to apologize for... I should be the one apologizing, actually"</dd>
+<dd>"Don't make that face, you can go home"</dd>
+<dt> </dt>
+<dd>Avi gave a warm smile.</dd>
+<dd>Putting away my wandering thoughts, I decided to return to my former world the next day...-.</dd>
+<dd>And then, on the day of...-</dd>
+<dd>Avi and the others seemed busy with Kasa and the town.</dd>
+<dd>(It was somehow hard, and I left without telling everyone)</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME......."</dd>
+<dt>MC</dt>
+<dd>"I'm sorry, Navi"</dd>
+<dt>Navi</dt>
+<dd>"It's okay.... As long as it's what princess chose"</dd>
+<dt> </dt>
+<dd>Navi's kind eyes looked straight at me</dd>
+<dt>MC</dt>
+<dd>"... I'm sorry"</dd>
+<dt> </dt>
+<dd>Having no words in return, after being guided to the stardust fountain,</dd>
+<dd>I saw a small boy running for his life.</dd>
+<dd>(Emil!?)</dd>
+<dt>??</dt>
+<dd>"Hey, wait!"</dd>
+<dd>"Don't think you can escape!"</dd>
+<dt>MC</dt>
+<dd>?Ņ!?</dd>
+<dt> </dt>
+<dd>The adults were chasing after Emil.</dd>
+<dd>(Ah!)</dd>
+<dt>Emil</dt>
+<dd>"....! Stop!"</dd>
+<dt>??</dt>
+<dd>"You're such a handful. Let's go back to Kasa, alright? I will not allow you to go against his teaching!"</dd>
+<dt>Emil</dt>
+<dd>"Let go of me!!"</dd>
+<dt>??</dt>
+<dd>"Because you keep holding onto your dreams, the Dream Eaters are even hunting the rest of us!"</dd>
+<dt>Emil</dt>
+<dd>"No! I don't want to go back! I have to save Rena!! I will protect mom and dad!!"</dd>
+<dt> </dt>
+<dd>Emil was taken away by the adults.</dd>
+<dd>(What do I do... If it continues like this!!)</dd>
+<dt>Navi</dt>
+<dd>"Princess USER_NAME, if you don't leave now....."</dd>
+<dt> </dt>
+<dd>The full moon filled the sky.</dd>
+<dt>MC</dt>
+<dd>"... Yes"</dd>
+<dt> </dt>
+<dd>(There's only one chance to return... But)</dd>
+<dt>MC</dt>
+<dd>?Ņ?</dd>
+<dt>Emil</dt>
+<dd>"Sis, it's okay to cry your heart out"</dd>
+<dd>"Didn't I say it? That I would protect you next time"</dd>
+<dd>"Prince Avi, sis... Save me...!"</dd>
+<dt> </dt>
+<dd>I clenched the ring on my chest and took a deep breath.</dd>
+<dt>MC</dt>
+<dd>"Navi, let's chase after them!"</dd>
+<dt>Navi</dt>
+<dd>"I- is that okay!?"</dd>
+<dt>MC</dt>
+<dd>"... Yes!"</dd>
+<dt> </dt>
+<dd>I turned my back on the full moon.</dd>
+<dd>(Wait for me, Emil)</dd>
+<dd>End of Section 4</dd>
+</dl>
+
+|-| 2-5 =
+==  Resolution ==
+<dl>
+<dt> </dt>
+<dd>Following after Emil, we chased the night...-.</dd>
+<dt>Navi</dt>
+<dd>"USER_NAME, over there!"</dd>
+<dt> </dt>
+<dd>(There he is!)</dd>
+<dd>We found him in a huge swarm of people.</dd>
+<dd>(Those people were the people in the church....?)</dd>
+<dt>Navi</dt>
+<dd>"Isn't that Kasa?"</dd>
+<dt>Emil</dt>
+<dd>"Let go of me!!"</dd>
+<dt>Kasa</dt>
+<dd>"Foolish child"</dd>
+<dt> </dt>
+<dd>As Emil struggled, Kasa raised his hand to strike him.</dd>
+<dt>MC</dt>
+<dd>"Stop!"</dd>
+<dt> </dt>
+<dd>I practically flew to stand in front of Kasa.</dd>
+<dt>Kasa</dt>
+<dd>"..... I'm surprised. You're that girl from..."</dd>
+<dd>"I don't know you. If you have dreams like that, you will get devoured"</dd>
+<dt>Emil</dt>
+<dd>"You're wrong! Prince Avi told me! He said f you have dreams and work hard, you will get stronger!"</dd>
+<dd>"He said I can even protect my little sister.....!"</dd>
+<dt>Kasa</dt>
+<dd>"Haha"</dd>
+<dt> </dt>
+<dd>Kasa let out a thin laugh and a cruel expression filled his face.</dd>
+<dt>Kasa</dt>
+<dd>"Prince Avi is also quite cruel. What exactly do you think happened to your sister?"</dd>
+<dt>Emil</dt>
+<dd>"......."</dd>
+<dt>Kasa</dt>
+<dd>"Because you hold onto stuff like dreams, she got attacked by the Dream Eaters and fell into a coma"</dd>
+<dt>Emil</dt>
+<dd>"My fault....."</dd>
+<dt>Kasa</dt>
+<dd>"Yes, that's right"</dd>
+<dt>Emil</dt>
+<dd>"Even though I wanted to protect her from the Dream Eaters....."</dd>
+<dt> </dt>
+<dd>The light faded from Emil's eyes.</dd>
+<dt>MC</dt>
+<dd>"....!"</dd>
+<dt>Emil</dt>
+<dd>"Hey, sis.... Is it my fault?"</dd>
+<dt>MC</dt>
+<dd>"Th-that is....."</dd>
+<dt> </dt>
+<dd>(What... What should I do!?)</dd>
+<dd>At that time...-.</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME, Navi!? What are you doing here!?"</dd>
+<dt>Medi</dt>
+<dd>"Could this be fate! To think we would meet again!"</dd>
+<dt>Luke</dt>
+<dd>"I thought you went back already"</dd>
+<dt>MC</dt>
+<dd>"W-well....."</dd>
+<dt> </dt>
+<dd>Avi immediately took notice of Emil's abnormal condition.</dd>
+<dt>Emil</dt>
+<dd>"It's my fault that...."</dd>
+<dt>Avi</dt>
+<dd>"What did you do to Emil!?"</dd>
+<dt>Kasa</dt>
+<dd>"I didn't do anything. I just stated the truth"</dd>
+<dt>Avi</dt>
+<dd>"This is my country, and I won't let you do whatever you want"</dd>
+<dt>Kasa</dt>
+<dd>"Don't lose your temper, now"</dd>
+<dt>Luke</dt>
+<dd>"Avi, the Dream Eaters!"</dd>
+<dt>Avi</dt>
+<dd>".....!"</dd>
+<dt> </dt>
+<dd>From behind, a huge swarm of Dream Eaters approached us.</dd>
+<dt>Medi</dt>
+<dd>"Wow! What's with this huge amount of Dream Eaters!"</dd>
+<dt>Kasa</dt>
+<dd>"Please look carefully. We were correct"</dd>
+<dt>Avi</dt>
+<dd>"....... Damn!"</dd>
+<dt> </dt>
+<dd>Seeing the huge swarm of Dream Eaters, Emil fell powerlessly to his knees...-.</dd>
+<dt>Emil</dt>
+<dd>"If I have dreams... The Dream Eaters will come?"</dd>
+<dt>Avi</dt>
+<dd>"Get it together!"</dd>
+<dt>Kasa</dt>
+<dd>"Haha.... That's right, go ahead and throw away all your dreams"</dd>
+<dt>Medi</dt>
+<dd>"The way you smile is really not beautiful"</dd>
+<dt>Luke</dt>
+<dd>"A-a huge swarm is coming again!"</dd>
+<dt> </dt>
+<dd>During our bitter fight with the huge amount of Dream Eaters...-.</dd>
+<dt>Kasa</dt>
+<dd>"So, that's it for me... The teaching ceremony for the church of Magna is going to be starting soon"</dd>
+<dt>Avi</dt>
+<dd>"Wait!"</dd>
+<dt>Medi</dt>
+<dd>"Avi, first we have to do something about these guys...!"</dd>
+<dt>Avi</dt>
+<dd>"Damn, we let him get away"</dd>
+<dt> </dt>
+<dd>After we had defeated the Dream Eaters, Kasa had already run away.</dd>
+<dt>Luke</dt>
+<dd>"Magna..... I wonder which country their base could be set up in"</dd>
+<dt>Medi</dt>
+<dd>"If the teaching that we should have despair spreads, it would be very bad"</dd>
+<dt> </dt>
+<dd>At that moment...-.</dd>
+<dt>Emil</dt>
+<dd>".......h!"</dd>
+<dt> </dt>
+<dd>Suddenly, Emil let out a pained gasp and fell over.</dd>
+<dd>"Emil!"</dd>
+<dd>In Emil's shadow, the Dream Eaters' eyes glittered.</dd>
+<dt>Avi</dt>
+<dd>"Emil!!.... Those guys!"</dd>
+<dt> </dt>
+<dd>Before Avi's sword could reach, the Dream Eaters disappeared into the shadow.</dd>
+<dt>MC</dt>
+<dd>"Emil!"</dd>
+<dt> </dt>
+<dd>I grabbed Emil to wake him, but his consciousness had already left him.</dd>
+<dt>MC</dt>
+<dd>"Did the Dream Eaters... his dreams......!?"</dd>
+<dt>Medi</dt>
+<dd>"How about using your ring?"</dd>
+<dt>MC</dt>
+<dd>"Th-that's right....!"</dd>
+<dt> </dt>
+<dd>I clasped my hands in front of Emil and prayed.</dd>
+<dd>However, my ring did not react at all.</dd>
+<dt>MC</dt>
+<dd>"The ring's power.... isn't working?"</dd>
+<dt>Avi</dt>
+<dd>"Hey, wake up! Open your eyes!"</dd>
+<dt> </dt>
+<dd>As Avi yelled, Emil shivered and seemed about to wake up.</dd>
+<dd>However, his eyelids were tightly shut and he didn't wake up.</dd>
+<dd>(He's cold.....!)</dd>
+<dd>Emil's body was slowly getting colder, anuntil it was almost like ice.</dd>
+<dd>(How are we supposed to save him!?)</dd>
+<dt>Navi</dt>
+<dd>"To think that the ring's power wouldn't work...."</dd>
+<dt>Avi</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>Avi embraced Emil.</dd>
+<dt>Avi</dt>
+<dd>"In any case, let's take him back to the castle"</dd>
+<dt>MC</dt>
+<dd>"I'm going, too"</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME.... Are you ok with not going back?"</dd>
+<dt> </dt>
+<dd>I looked up at the sky, with the full moon shining brightly.</dd>
+<dt>Luke</dt>
+<dd>"USER_NAME, you might still be able to make it if you go right now"</dd>
+<dt>Medi</dt>
+<dd>"Avi told me this, but isn't today your only chance?"</dd>
+<dt>MC</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>I gazed at Emil wrapped in Avi's arms.</dd>
+<dd>My heart ached deeply for the small face full of suffering.</dd>
+<dt>Emil</dt>
+<dd>"If I get stronger, I'll definitely make everyone smile again"</dd>
+<dd>"Let's look for a way for sis to meet your mom and dad! Family is the most important thing"</dd>
+<dt>MC</dt>
+<dd>"Let's go to the castle"</dd>
+<dt>Avi</dt>
+<dd>"USER_NAME...."</dd>
+<dt> </dt>
+<dd>Then I returned to the castle with Avi and the others ...-.</dd>
+<dd>...</dd>
+<dd>......</dd>
+<dd>......You didn't go back.......</dd>
+<dd>In a blinding light, my older brother appeared.</dd>
+<dt>??</dt>
+<dd>"Your uncertainty is gone, now"</dd>
+<dt> </dt>
+<dd>My brother gazed straight at me.</dd>
+<dd>(That is.... Well, it's because I want to save Emil)</dd>
+<dd>(Even though you purposefully told me a way to go back... I'm sorry)</dd>
+<dt>??</dt>
+<dd>"Don't apologize"</dd>
+<dt>Emil</dt>
+<dd>"Hey, sis.... Is it my fault?"</dd>
+<dt> </dt>
+<dd>(At that time, I couldn't say anything to him)</dd>
+<dd>(Brother, what should I do to be able to save Emil?)</dd>
+<dd>(I don't want to have allowed that child... to have fallen asleep in that state of clutching onto despair)</dd>
+<dt>??</dt>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>(Tell me, I beg of you....!)</dd>
+<dd>I continued to plead desperately, and my brother slowly closed his yees.</dd>
+<dt>??</dt>
+<dd>".... Go to Träumere"</dd>
+<dt> </dt>
+<dd>(Träumere? If I remember correctly, Träumere was...-)</dd>
+<dt>??</dt>
+<dd>"It's the place where the Dream King lives. You also lived there as a young child"</dd>
+<dd>"..... The Dream Eaters were born in Träumere"</dd>
+<dt> </dt>
+<dd>(Huh!?)</dd>
+<dt>??</dt>
+<dd>"I don't know why they were born. One day they suddenly appeared"</dd>
+<dd>"If only I could determine the cause, maybe...."</dd>
+<dt> </dt>
+<dd>(If I go to Träumere, the Dream Eaters will go away? Can I save Emil!?)</dd>
+<dd>My brother looked straight at me.</dd>
+<dt>??</dt>
+<dd>"You will find all the keys in Träumere"</dd>
+<dd>"....I will be waiting for you"</dd>
+<dt> </dt>
+<dd>(Huh....!?)</dd>
+<dd>My gently smiling brother disappeared...-.</dd>
+<dt>MC</dt>
+<dd>"Please, wait! Don't leave me alone....!"</dd>
+<dt> </dt>
+<dd>From the direction of the blinding light, my brother's voice echoed.</dd>
+<dt>??</dt>
+<dd>"Open your eyes. What can you see?"</dd>
+<dt> </dt>
+<dd>That voice got swallowed up in the light...-.</dd>
+<dd>I opened my eyes slowly to the morning light.</dd>
+<dt>Navi</dt>
+<dd>"Good morning, princess"</dd>
+<dt>MC</dt>
+<dd>"Good morning, Navi"</dd>
+<dt>Avi</dt>
+<dd>"What good morning? It's practically noon"</dd>
+<dt>MC</dt>
+<dd>"Avi!"</dd>
+<dt> </dt>
+<dd>Flustered, I pulled my covers up.</dd>
+<dt>Avi</dt>
+<dd>"I thought I would invite you to a long ride, but you were sleeping so peacefully"</dd>
+<dt>Medi</dt>
+<dd>"Your sleeping face was so beautiful, I wanted to make a portrait"</dd>
+<dt>Luke</dt>
+<dd>"I tried to tell them not to go in a princess' bedroom as they liked, but...."</dd>
+<dt>MC</dt>
+<dd>"S-sorry. I'll get ready really quick"</dd>
+<dt> </dt>
+<dd>(I'm so embarrassed.....)</dd>
+<dt>Avi</dt>
+<dd>"Did you have a good dream?"</dd>
+<dt> </dt>
+<dd>(Dream.....? That's not it...!)</dd>
+<dd>I grabbed the hem of Avi's jacket, and looked into his eyes.</dd>
+<dt>MC</dt>
+<dd>"Actually....-"</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>.....</dd>
+<dt>Avi</dt>
+<dd>"If we go to Träumere, the mystery of the Dream Eaters will be solved....?"</dd>
+<dt> </dt>
+<dd>I had hurriedly changed and was sitting for breakfast in the courtyard.</dd>
+<dt>Luke</dt>
+<dd>"If we could solve this mystery, maybe we could figure out a way to defeat the Dream Eaters from their roots"</dd>
+<dt>MC</dt>
+<dd>".... I want to save Emil"</dd>
+<dd>"I have decided to go to Träumere with Navi"</dd>
+<dt>Avi</dt>
+<dd>"To Träumere?"</dd>
+<dt>Luke</dt>
+<dd>"But from here to Träumere is as far as the edge of the Milky Way.... Also, you may never reach it?"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt>Avi</dt>
+<dd>"Träumere is mysteriously hidden. I don't know anything about how to get there besides that it's at the very end of Moon Road"</dd>
+<dt>MC</dt>
+<dd>"At the very end of Moon Road....?"</dd>
+<dt>Avi</dt>
+<dd>"Yup, if you follow the correct directions to the end of Moon Road, I heard you can arrive there"</dd>
+<dt>Medi</dt>
+<dd>"That's right, Navi! Since you're a butler, wouldn't you know the way?"</dd>
+<dt>Navi</dt>
+<dd>"Yes. Please leave it to me!"</dd>
+<dt>Luke</dt>
+<dd>"Will this turn into a long journey?"</dd>
+<dt>Navi</dt>
+<dd>".... Yes"</dd>
+<dt>Medi</dt>
+<dd>"Beautiful princess! Your frail legs cannot be made to withstand such a long journey!"</dd>
+<dt>Avi</dt>
+<dd>"......We may also be assaulted by Dream Eaters"</dd>
+<dt>MC</dt>
+<dd>"But..... If I can awaken princes of other countries on the way"</dd>
+<dd>"Maybe they'll fight the Dream Eaters alongside us"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt>Medi</dt>
+<dd>"In that case, I want to come along! I want to hurry and return to Fresian, also"</dd>
+<dt>Luke</dt>
+<dd>"I'm a wandering prince.... If you find me useful, I'll travel with you"</dd>
+<dt>Avi</dt>
+<dd>"......As for me"</dd>
+<dt>Medi</dt>
+<dd>"Avi too, of course! You'll come with us right?"</dd>
+<dt>Avi</dt>
+<dd>"I can't possibly leave this country"</dd>
+<dd>"I can't leave my country in this condition. I must protect it"</dd>
+<dt>MC</dt>
+<dd>"...... Yes"</dd>
+<dt>Avi</dt>
+<dd>"......"</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>.....</dd>
+<dt>Navi</dt>
+<dd>"It would have been so reassuring if Prince Avi could come with us"</dd>
+<dt>MC</dt>
+<dd>"It can't be helped"</dd>
+<dt> </dt>
+<dd>(Avi has to protect this country)</dd>
+<dd>Even as I heard myself say that, I felt discouraged...-.</dd>
+<dd>A few days later...-.</dd>
+<dt>Navi</dt>
+<dd>"Then, this is it for us"</dd>
+<dt>Avi</dt>
+<dd>"Yea...."</dd>
+<dt>Medi</dt>
+<dd>"Maybe we'll meet again someday!"</dd>
+<dt>MC</dt>
+<dd>"Avi.... Um"</dd>
+<dd>"Thank you for everything"</dd>
+<dt>Avi</dt>
+<dd>"I'm the one who should be thanking you"</dd>
+<dd>"....."</dd>
+<dt> </dt>
+<dd>As Avi balled up his fists...-.</dd>
+<dt>??</dt>
+<dd>"Alstoria order of knights, stand!!"</dd>
+<dt> </dt>
+<dd>A courageous voice rang out from the courtyard.</dd>
+<dd>When we ran out to see the source...-.</dd>
+<dd>The knights of the castle were lined up orderly with their swords in the air.</dd>
+<dt>Knight Commander</dt>
+<dd>"Prince Avi, please leave this country to us!"</dd>
+<dd>"These past days we have been negligent, but..... on the name of the Alstoria knighthood, we will not allow such a thing to hapepn again!"</dd>
+<dt>Avi</dt>
+<dd>"You guys!"</dd>
+<dt>King</dt>
+<dd>Avi</dd>
+<dt> </dt>
+<dd>The king was also standing with the commander of knights.</dd>
+<dt>King</dt>
+<dd>"As a prince and as a knight, you have sacrificed yourself to protect your country"</dd>
+<dd>"I am so proud of you"</dd>
+<dt>Avi</dt>
+<dd>"Father....!"</dd>
+<dt>King</dt>
+<dd>"However, Avi. Until the Dream Eaters disappear, there is no path to protect this country.... That is how serious this situation is"</dd>
+<dd>"Please go"</dd>
+<dd>"Leave the things of this country to me. You are to... Save this world!"</dd>
+<dt>Avi</dt>
+<dd>".....!"</dd>
+<dt> </dt>
+<dd>Avi quietly kneeled on the floor and put his right hand to his chest.</dd>
+<dd>"As Alstoria's crown prince Avi, I shall return.... Your Majesty the King"</dd>
+<dd>Avi stood up, and directed his gaze at the knights.</dd>
+<dt>Avi</dt>
+<dd>"I'm leaving this country...... in your hands!"</dd>
+<dt>Knights</dt>
+<dd>"Yes!!"</dd>
+<dt> </dt>
+<dd>...</dd>
+<dd>......</dd>
+<dt>MC</dt>
+<dd>"Was that really alright?"</dd>
+<dt>Avi</dt>
+<dd>"Yeah, it'll definitely be ok. Furthermore......"</dd>
+<dd>"I'm worried"</dd>
+<dt>MC</dt>
+<dd>"Huh?"</dd>
+<dt> </dt>
+<dd>I saw my reflection in Avi's astonished eyes.</dd>
+<dt>Avi</dt>
+<dd>"For you. You said you were going to go back, but you didn't even go back"</dd>
+<dd>"I don't even know... You're a real weird one"</dd>
+<dt>MC</dt>
+<dd>"Th-that's"</dd>
+<dt>Avi</dt>
+<dd>"Being all troubled, and your erratic beahvior in the moment......."</dd>
+<dd>"It's dangerous for the princess of Träumere to be so unsteady"</dd>
+<dd>"So, I'll protect you"</dd>
+<dt> </dt>
+<dd>(Huhh....!)</dd>
+<dd>At his unwavering gaze, my heart beat a little harder.</dd>
+<dt>MC</dt>
+<dd>"Avi-san....."</dd>
+<dt>Avi</dt>
+<dd>"Also, stop with that formal stuff. Just call me Avi. Also cut the formal language"</dd>
+<dt>MC</dt>
+<dd>"Ok.....!"</dd>
+<dt>Medi</dt>
+<dd>"I want to get buddy buddy with princess too"</dd>
+<dt>Luke</dt>
+<dd>"That's the only thing I can agree with you on"</dd>
+<dt>Medi</dt>
+<dd>"That's great and all, but I feel like they've forgotten our existence"</dd>
+<dt>Luke</dt>
+<dd>"Well, it doesn't really matter to me since I didn't have much of a presence in the first place"</dd>
+<dt>Medi</dt>
+<dd>"That won't do! You must be more assertive! For example....-"</dd>
+<dt>Avi</dt>
+<dd>"Hey, what are you guys doing! Let's hurry up and go!"</dd>
+<dt>Navi</dt>
+<dd>"And we're off!"</dd>
+<dt> </dt>
+<dd>Like this, our journey began.</dd>
+<dd>At this point, we believed there was a light at the end of our journey....</dd>
+<dd>Chapter 2 End</dd>
+</dl>
+
+</tabber>

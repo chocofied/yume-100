@@ -1,0 +1,101 @@
+== Status ==
+{{Infobox
+|no = 277
+|name = Hinoto
+|name_jp = ヒノト
+|attribute = Gentle
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 512
+|hp_max = 998
+|hp_break = 1137
+|atk_base = 433
+|atk_max = 668
+|atk_break = 761
+|rp_base = 445
+|rp_max = 686
+|rp_break = 783
+|lskill_name = 怪しい鈴の音
+|lskill_desc = Increase party ATK by 65% when max HP
+|skill_name = 導きの緑焔
+|skill_desc = Insert Green beads and increase Green beads appearance rate
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 898
+|hp_max_s = 1167
+|hp_break_s = 1307
+|atk_base_s = 635
+|atk_max_s = 781
+|atk_break_s = 875
+|rp_base_s = 652
+|rp_max_s = 803
+|rp_break_s = 899
+|lskill_name_s = 妖狐の誘惑
+|lskill_desc_s =  Increase party ATK by 75% when max HP
+|skill_name_s = 魅惑の緑焔
+|skill_desc_s = Insert Green beads and increase Green beads appearance rate
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 898
+|hp_max_m = 1217
+|hp_break_m = 1363
+|atk_base_m = 635
+|atk_max_m = 815
+|atk_break_m = 913
+|rp_base_m = 652
+|rp_max_m = 735
+|rp_break_m = 823
+|lskill_name_m = 傾国の美丈夫
+|lskill_desc_m =  Increase party ATK by 75% when max HP
+|skill_name_m = 陶酔の緑焔
+|skill_desc_m = Insert Green beads and increase Green beads appearance rate
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Tales of the Mononoke Night Parade
+|original = [[Hinoto]]
+|desc = こよみの国・九曜の王子。未の一族。和太鼓の演奏を得意とする。頭がよく、計算高い性格。今回、国の習わしである『物の怪神楽』に出演することになり、人をたぶらかす妖怪である『妖狐』の仮装をしている。衣装がハマりすぎていると他の王子達や秘書官にからかわれていて、本人は少し不服に思っているらしい。
+|bg = 『物の怪神楽』と呼ばれる神事を見に九曜を訪れたあなたは『妖狐』の仮装をしたヒノトと再会する。すると、街を歩くあなたの耳に小さな鈴の音が響いて…―
+}}
+== Story ==
+{{Choice
+|title2 = 忍びよる影
+|choice21m = 大変ですね……
+|points21m = 8
+|choice21s = 私でお役に立てれば
+|points21s = 8
+|title3 = 魅惑の妖
+|choice31s = 気になります……
+|points31s = 4
+|choice31m = 気のせいですね
+|points31m = 4
+|choice32m = 怖いですね…
+|points32m = 8
+|choice32s = ヒノトさんにぴったり
+|points32s = 8
+|title4 = 嗤う鈴
+|choice41s = また鈴の音が……
+|points41s = 12
+|choice41m = なんでもありません
+|points41m = 12
+|title5 = 破られた結界
+|choice51m = 行かないでください
+|points51m = 16
+|choice51s = 私も一緒に行きます
+|points51s = 16
+}}
+{{Still|text=Sun Still|img=Still_277s.jpg}}
+{{Still|text=Moon Still|img=Still_277m.jpg}}
+== Quotes ==

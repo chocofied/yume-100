@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 247
+|name = Sakuma Rei
+|name_jp = 朔間零
+|attribute = Gentle
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 611
+|hp_max = 1205
+|hp_break = 1374
+|atk_base = 399
+|atk_max = 649
+|atk_break = 739
+|rp_base = 345
+|rp_max = 473
+|rp_break = 539
+|lskill_name = 吸血鬼の目覚め
+|lskill_desc = Reduce Party HP and increase ATK by 60%
+|skill_name = 夜の世界へ
+|skill_desc = Increase Party ATK for 1 turn & Green Beads appearance rate
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 21
+|lvmax_s = 70
+|hp_base_s = 1085
+|hp_max_s = 1471
+|hp_break_s = 1648
+|atk_base_s = 616
+|atk_max_s = 791
+|atk_break_s = 886
+|rp_base_s = 450
+|rp_max_s = 506
+|rp_break_s = 567
+|lskill_name_s = 眼鏡の奥の瞳
+|lskill_desc_s = Reduce Party HP and increase ATK by 70%
+|skill_name_s = 闇の世界へ
+|skill_desc_s = Increase Party ATK for 1 turn & Green Beads appearance rate
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 21
+|lvmax_m = 70
+|hp_base_m = 1085
+|hp_max_m = 1555
+|hp_break_m = 1742
+|atk_base_m = 616
+|atk_max_m = 720
+|atk_break_m = 806
+|rp_base_m = 450
+|rp_max_m = 525
+|rp_break_m = 588
+|lskill_name_m = 絵本を読んで
+|lskill_desc_m = Reduce Party HP and increase ATK by 70%
+|skill_name_m = 月夜の世界へ
+|skill_desc_m = Increase Party ATK for 1 turn & Green Beads appearance rate
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|va = Toshiki Masuda
+|origin = Ensemble Stars!
+|age = 18
+|birth = November 02
+|likes = 
+|dislikes = 
+|policy = 
+|desc = 夢ノ咲学院という学校に通う生徒らしいが、目が覚めたらメモワール学園にいたという。人当たりの良さそうな雰囲気を持つが、真意は誰にも話さない。自称『吸血鬼』で、日の光に弱いらしい。
+|bg = 久しぶりに、以前通っていたメモワール学園を訪れたあなた。後輩達への講義の後、懐かしさから教室を覗いてみると、見知らぬ男性が眠っていて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 聞き覚えのない学科名
+|choice21s = どこに棺桶があるんですか？
+|points21s = 6
+|choice21m = 棺桶と言われても……
+|points21m = 6
+|title3 = 似ているけど違う学校
+|choice31s = 零さんもアイドルなんですか？
+|points31s = 3
+|choice31m = すごい学院ですね
+|points31m = 3
+|choice32s = 私もお手伝いします
+|points32s = 6
+|choice32m = 困りましたね……
+|points32m = 6
+|title4 = 日の当たらない場所に
+|choice41m = 気にしないでください
+|points41m = 12
+|choice41s = 困った時はお互い様です
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_247s.jpg}}
+{{Still|text=Moon Still|img=Still_247m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = うぅん…我輩、朝は苦手なのじゃ…
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 嬢ちゃん、我輩に本を読んでくれんかのう。一生のお願いじゃ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = ふあぁ…ふ。まだ昼じゃ…あの本なんて、枕にしたらぐっすり眠れそう……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ふむ。本当に別世界のようじゃ。んん？この字、全く読めんし…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ここは日が当たらなくて落ち着くのう。優しい嬢ちゃんじゃ、よしよし…♪
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 心配するでない。我輩なら大丈夫じゃ、なにせ吸血鬼じゃからのう…♪
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 細かい字は見えづらい…おや？ちょうどいいところに眼鏡があるのう。拝借…☆
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜闇こそ我輩の領域じゃ…なんじゃ、嬢ちゃんは眠いのかえ？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = …すまぬが、どこか日の当たらない場所へ運んでくれんかのう？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = いつもは棺桶を寝床にしているもんじゃから、日差しにやられて…うぐぐ…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = くっくっく、不思議なこともあるものじゃ。長生きするのも悪くないのう…♪
+|MAIN_TOP_TOUCH_2_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = んん…？もう、日の入りの時間かえ？
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 嬢ちゃんの友達かえ？あぁ、ゆっくりしていくと良い
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = こんなに日差しを浴びたら、我輩倒れちゃう…
+|GUILD_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 永く生きているが、何度迎えてもめでたい日じゃ。おめでとう、嬢ちゃん
+|BIRTHDAY_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 嬢ちゃんの血は美味しそうじゃのう。どれ、一口…♪くっくっく、冗談じゃ
+|CARD_DETAIL_m_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ふぅ、頭がスッキリしてきたぞい
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 覚悟せい
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 嬢ちゃんを見ていると、血が恋しくなるのう…♪
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 感謝しよう、嬢ちゃん
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 目眩がしてきたぞ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 夜闇の魔物をなめるなよ
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 我輩の本気を見せようぞ！
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 良い子じゃ。褒美をあげようぞ
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ふむ…躾が必要かのう…
+|CHAIN_NICE_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = くっくっく、血が恋しくなってきたわい
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 優しい嬢ちゃんに、甘えてばかりではいかんのう
+|SKILL_INVOKE_s_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 我輩、寝ている間にわーぷでもしてしまったんじゃろうか…？
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ゴクゴク、ふぅ…トマトジュースが沁みわたるのう
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = この高貴なる吸血鬼に、いつでも頼るがいい
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = ともあれ、焦っても仕方ない。しばらくはこの世界で生きてみようかの
+|CARD_EVOLUTION_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 年寄りはいたわるものじゃよ？
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 闇の力じゃ
+|BATTLE_FEVER_TIME_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = そこにいるのは嬢ちゃんかえ？また会えて嬉しいぞい♪
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = やれやれ…口ほどにもなかったのう
+|BATTLE_CLEAR_clip = 
+}}

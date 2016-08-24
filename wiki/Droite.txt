@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 128
+|name = Droite
+|name_jp = ドロワット
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 329
+|hp_max = 646
+|hp_break = 858
+|atk_base = 223
+|atk_max = 419
+|atk_break = 557
+|rp_base = 268
+|rp_max = 419
+|rp_break = 557
+|lskill_name = きっかけの靴
+|lskill_desc = Reduce Yellow damage by 15%
+|skill_name = ベーゼンヒンメル
+|skill_desc = Erases columns (2)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 12
+|lvmax_s = 60
+|hp_base_s = 581
+|hp_max_s = 730
+|hp_break_s = 953
+|atk_base_s = 398
+|atk_max_s = 537
+|atk_break_s = 701
+|rp_base_s = 398
+|rp_max_s = 537
+|rp_break_s = 701
+|lskill_name_s = ルビーの靴の贈り物
+|lskill_desc_s = Reduce Yellow damage by 20%
+|skill_name_s = リヒトロート
+|skill_desc_s = Erases columns (3)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 12
+|lvmax_m = 60
+|hp_base_m = 581
+|hp_max_m = 756
+|hp_break_m = 986
+|atk_base_m = 398
+|atk_max_m = 566
+|atk_break_m = 739
+|rp_base_m = 398
+|rp_max_m = 491
+|rp_break_m = 641
+|lskill_name_m = 離れない魔法の靴
+|lskill_desc_m = Reduce Yellow damage by 20%
+|skill_name_m = フィンスターニス
+|skill_desc_m = Erases columns (3)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Nojima Kenji
+|origin = Country of Rainbow - Oz
+|age = 19
+|birth = August 16
+|likes = Meat
+|dislikes = Vegetables
+|policy = Wear good shoes
+|desc = 虹の国・オズの王子。一流の魔法使い。少々強引な性格のため周囲から誤解を受けやすいが、実は優しい面もある。大切に想えるような女性をずっと探している。西側にいる弟を溺愛している。
+|bg = ドロワットの城へ向かう途中、素敵なルビー色の靴が飾ってある店を見つけ、試着をするあなた。しかし、その靴が脱げなくなってしまい…―！？
+}}
+
+== Story ==
+{{Choice
+|title2 = デート審査
+|choice21s = 大変……！
+|points21s = 6
+|choice21m = かわいそう……
+|points21m = 6
+|title3 = 料理審査
+|choice31m = それだと心が込められない
+|points31m = 3
+|choice31s = 手間をかける方がいい
+|points31s = 3
+|choice32m = ごめんなさい
+|points32m = 6
+|choice32s = どうしよう
+|points32s = 6
+|title4 = 深夜の審査
+|choice41s = そう見えました……
+|points41s = 12
+|choice41m = ……
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_128s.jpg}}
+{{Still|text=Moon Still|img=Still_128m.jpg}}
+
+== Quotes ==
+{{Quotes
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 回復魔法か？
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ぐっ！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = これは、お前のために唱える魔法だ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 東の魔法使いの実力、しっかり見とけよっ！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 連続魔法、いくぜっ！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 俺の魔法に敵うはずがないだろう
+|SKILL_INVOKE_m_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 俺にかかれば、こんなもんわけねぇよ
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = しつこいやつらだなっ！
+|BATTLE_TURN_END_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 魔法の力がみなぎってくるな…悪くねぇ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ほら、さっさと箒に乗れ！ってあれ、忘れてきた…！
+|CARD_TOP_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 手、出せよ。なにって…繋ぐんだよ！ほら！
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 今度はお前を想って、ルビーの靴を作るよ。受け取ってくれるか…？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 腹減った。何か料理作れないのか？　何でもいいから！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 出かけるぞ。は？こんな朝早くに、どこも開いてない？う、うるせーな！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 買い物にでも行くか。あ……財布忘れた……何だよ、その目は！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜か…なぁ、何もしないからさ……一緒に寝よう？
+|MAIN_TOP_EVENING_GREET_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 意外と大胆なんだな、お前…こっちとしては大歓迎だけど
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 西に俺の弟がいるんだけど、すっげー天才なんだ！悪戯も桁違いに面白い！
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = お前、それどういうつもりで…！ったく、どうなっても知らないからな！
+|CARD_DETAIL_s_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = くらえっ！
+|BATTLE_ATTACK_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = お前が履いてるその靴は、どこへ行こうと俺のところへ帰ってくる…嫌でもな
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 俺の傍を離れることは絶対に許さない
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 東の魔法使いを知らねぇわけじゃねぇだろうな？
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = お前に触れられたら、止まらなくなるだろ…
+|CARD_DETAIL_m_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = まだ審査が必要だな
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 開けるの、わくわくするな！…って別にはしゃいでねぇよ！
+|BATTLE_RESULT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = お前、俺の女になれ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = なかなかいい女じゃねぇか
+|CHAIN_GREAT_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 俺が主役のパーティ？いいよ、そんな恥ずかしいだろ
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あいつの友達か、あいつって普段友達の前だとどんな感じなんだ？
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = こんな場所があったのか…お前と来れてよかった
+|GUILD_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = この力で、俺の傍から離れられなくしてやる
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 大事な女を大切にする強さも必要だよな
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 何って…誕生日だろ？この靴をプレゼントする…作ったんだ、喜んでくれるか？
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = 東の魔法使いを連れて行くなら、心配すんな
+|DECK_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 弟の次に俺がこの世界で一番優れてるんだ！だから…何をするんだ？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = わかってくれていたのか！俺が偉大な魔法使いだってことを！
+|AWARD_EVENT_FAVORITES_clip = 
+}}

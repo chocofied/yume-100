@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 161
+|name = Sirius
+|name_jp = シリウス
+|attribute = Passion
+|rarity = 4
+|cost = 11
+|lvmax = 50
+|hp_base = 421
+|hp_max = 824
+|hp_break = 955
+|atk_base = 299
+|atk_max = 562
+|atk_break = 652
+|rp_base = 295
+|rp_max = 461
+|rp_break = 535
+|lskill_name = 悪魔の仮装
+|lskill_desc = Increase Red ATK & HP by 20%
+|skill_name = デビル・テール
+|skill_desc = Erase upper beads (A)
+|gold = 2500
+|ring = 40
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 15
+|lvmax_s = 60
+|hp_base_s = 741
+|hp_max_s = 964
+|hp_break_s = 1099
+|atk_base_s = 534
+|atk_max_s = 759
+|atk_break_s = 865
+|rp_base_s = 438
+|rp_max_s = 540
+|rp_break_s = 616
+|lskill_name_s = 握る手の熱
+|lskill_desc_s = Increase Red ATK & HP by 25%
+|skill_name_s = デビル・ウィング
+|skill_desc_s = Erase upper beads (S)
+|gold_s = 5000
+|ring_s = 40
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 15
+|lvmax_m = 60
+|hp_base_m = 741
+|hp_max_m = 1054
+|hp_break_m = 1202
+|atk_base_m = 534
+|atk_max_m = 720
+|atk_break_m = 821
+|rp_base_m = 438
+|rp_max_m = 521
+|rp_break_m = 594
+|lskill_name_m = 乱暴なキス
+|lskill_desc_m = Increase Red ATK & HP by 25%
+|skill_name_m = デビル・ファング
+|skill_desc_m = Erase upper beads (S)
+|gold_m = 5000
+|ring_m = 40
+}}
+
+== Profile ==
+{{Profile
+|event = Briar’s Magic Tool ~Prince of Gluttony, Grad~
+|original = [[Sirius]]
+|desc = 星の国・ケイネスの王子。粗野でぶっきらぼうな性格。従弟のプロキオンのことを気にかけて追い回している。収穫祭に参加するプロキオンを追いかけて、ロトリアを訪れるつもりがウィルの悪戯によってヴォタリアに来てしまった。
+|bg = ヴォタリアでシリウスと偶然再会したあなた。彼と一緒に街を回っていると、監獄の前にプロキオンと同じくらいの歳の男の子がいるのを見つけて…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 大人びた笑顔
+|choice21s = 一緒に街を歩かない？
+|points21s = 6
+|choice21m = 行きたいところはない？
+|points21m = 6
+|title3 = 罪過の国の少年
+|choice31s = 怖い…
+|points31s = 3
+|choice31m = 悲しい場所なんだね
+|points31m = 3
+|choice32m = 可哀想…
+|points32m = 6
+|choice32s = 何があったのかな？
+|points32s = 6
+|title4 = 罪人の息子
+|choice41m = 少年に話しかける
+|points41m = 12
+|choice41s = シリウスに話しかける
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_161s.jpg}}
+{{Still|text=Moon Still|img=Still_161m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = いつもプロキオンのことばっか話してるって？　んなこと…あるか？
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = え、この格好、似合ってるって？…そっか、ありがとよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜になるとさすがに、ちょっと不気味な雰囲気だな。オレの側から離れるなよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = べつにふてくされてるわけじゃねえよ！…そんな目で見るなよ
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今度、二人で出かけようぜ！　場所はもっと明るいところでさ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = そんな、近くに来るなよ……は、恥ずかしいだろ……
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = そんなに褒めたって…アンタだって、その…ほら、カワイイ…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = せっかく早起きしたってのに…くそっ！全然違うトコに来ちまった！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = いつまでも文句言ってても仕方ないよな。なんかうまいもん食べようぜ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|DECK_en = 
+|DECK_jp = おっアンタか！奇遇だな、一緒に行こうぜ！
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = プレゼント選んだんだよ！アンタだけのために！だから…一緒にいてくれよ
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = プロキオンに会いたくなったな。よし、帰ろうぜ！…なんだよその顔…
+|CARD_EVOLUTION_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = アンタがプロキオンのことばっか言うの…なんか…嫌だ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 踏んだり蹴ったりだ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = なんだか今日はついてねえな……くそ！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = プロキオンのお土産にできっかな？
+|BATTLE_RESULT_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = オレのこと見ろよ。自分勝手だとは思うけど…オレ、アンタのこと…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = アンタの笑顔をオレだけが独り占めしたいって言ったら、どう思う？
+|CARD_DETAIL_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = おお！…やるじゃねえか。オレだってやるぞ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = うりゃ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 危なっかしいな、下がってろよ。オレがやる
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = おい、危ないって言ってるのに……仕方ねえな
+|CHAIN_GREAT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 代わりに飴やるよ！
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ボクは怖いおばけだぞー！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = おばけいっぱい！？
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = 早くかかってこいよ
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = そんなに褒めたって……なんもねーよ！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = どうだ！ボク、かっこいいでしょ！
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = オレ、まだまだ強くなるけど、ついてこいよ？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = カッコイイ…？な、なんだよ、泣いてるヤツを助けるのは当たり前だろ！
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = いい気分転換になった！
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = どうしてこんなところにアンタがいるんだ？　…オレはプロキオン探しにきた
+|CARD_TOP_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = こんなところで再会するなんて思ってなかったな……偶然ってやつだな
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは綺麗なとこだな。アンタとプロキオンと3人で過ごしたいな
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 仮装姿のプロキオン見たかったな…あ！今の忘れてくれ！
+|FRIEND_DETAIL_clip = 
+}}

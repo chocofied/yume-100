@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 211
+|name = Creto
+|name_jp = クレト
+|attribute = Passion
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 316
+|hp_max = 696
+|hp_break = 925
+|atk_base = 247
+|atk_max = 438
+|atk_break = 582
+|rp_base = 268
+|rp_max = 391
+|rp_break = 519
+|lskill_name = 悩めるチョコレート
+|lskill_desc = Increase Red ATK & RP by 25%
+|skill_name = タブリーレン
+|skill_desc = Turn Blue beads into Red
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 627
+|hp_max_s = 787
+|hp_break_s = 1027
+|atk_base_s = 416
+|atk_max_s = 561
+|atk_break_s = 732
+|rp_base_s = 371
+|rp_max_s = 500
+|rp_break_s = 653
+|lskill_name_s = チョコレート教室
+|lskill_desc_s = Increase Red ATK & RP by 30%
+|skill_name_s = タブリーレン
+|skill_desc_s = Turn Blue beads into Red
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 627
+|hp_max_m = 891
+|hp_break_m = 1164
+|atk_base_m = 416
+|atk_max_m = 561
+|atk_break_m = 732
+|rp_base_m = 371
+|rp_max_m = 442
+|rp_break_m = 577
+|lskill_name_m = キスは大人の味？
+|lskill_desc_m = Increase Red ATK & RP by 30%
+|skill_name_m = タブリーレン
+|skill_desc_m = Turn Blue beads into Red
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Whom does your chocolate belong to
+|original = [[Creto]]
+|desc = ショコルーナのラッテ一族の王子。カッコイイ人になりたいと、日夜雑誌やカッコイイ人を見て研究をしている。チョコや甘いものが好きなことは恥ずかしいので隠しているが、今回愛の日に向けて賑わうショコルーナで、王子として自分も何かしたいと思い立つ。
+|bg = クレトから、相談したいことがあると言われショコルーナを訪れたあなた。チョコレートの店を熱心に眺める彼が、あなたに相談したいこととは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 彼の相談
+|choice21s = 素敵だね
+|points21s = 6
+|choice21m = バレンタインみたい
+|points21m = 6
+|title3 = 街のチョコレート
+|choice31m = 手を強く握る
+|points31m = 3
+|choice31s = 嫌じゃない
+|points31s = 3
+|choice32s = 食べてみたいと言う
+|points32s = 6
+|choice32m = 照れる
+|points32m = 6
+|title4 = 男の子の悩み
+|choice41m = 謝る
+|points41m = 12
+|choice41s = 励ます
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_211s.jpg}}
+{{Still|text=Moon Still|img=Still_211m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = やっぱ、大人っぽくかっこよく……この気持ち伝えたい！
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = チョコレートを贈った人も、受け取った人も幸せな気持ちになれたらいいよね
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 新しいレシピができた！きっと皆、おいしいって言ってくれるはずだよ！
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あ、こっちこっち！会いに来てくれてありがとう！相談したいことがあるんだ
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日…君の一日を俺にください。俺、君のこと、全力でもてなしたい！
+|BIRTHDAY_clip = 
+|DECK_en = 
+|DECK_jp = ねえ、チョコレートを食べに行こうよ
+|DECK_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = やっぱ、手作りのチョコレートっていいなあ
+|BATTLE_CLEAR_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = こんなにたくさん、皆がチョコ作りたいって集まってくれた…ああ、よかった…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 俺、このレシピ自信あって…どう思う？食べてみたいって思ってくれる？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 俺みたいに…好きな人の為に。勇気を出したい！って思ってる人、応援したい
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ちょっと背伸びしすぎって思ったんだけど…でも早く、君に追いつきたい
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = よーし！できた！これで完璧…あ、あと味見しないと！大事なことだから
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = せっかくだから、ちょっとかっこいいチョコにしたいんだよね…どうしよっかな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = えっ…まさか、君からチョコレートもらえるなんて、どうしよう…嬉しい
+|CARD_DETAIL_s_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 大丈夫だよ、俺が準備するから
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = きっと、おいしいチョコの材料になるよ！
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = せっかくの愛の日、邪魔させない！
+|BATTLE_START_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = おっとっと……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 火傷しちゃうよ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 一緒にやると楽しいね！よかった
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = え、手伝ってくれるの？じゃあ……
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = これが大人のチョコレート、だよ！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 皆に教えてあげるんだ！チョコのおいしさをね！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 俺、王子だからね！
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = チョコ一粒あれば十分！
+|BATTLE_RECOVER_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ここで生クリームを入れて…
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = テンパリングは温度調節が大事！
+|BATTLE_FEVER_TIME_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = どうしよう！もう朝だ…ああっ！ひどい、寝癖が…！時間がないのにっ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ねえねえ、どんなチョコレートが好き？あの…君のこと、もっと知りたい！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 俺、チョコレートの国の王子だから！…チョコが大好きっ…え？かっこいい？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 明日の朝までに準備しないと…ああ、もうこんな真っ暗だ。あ、焦らないぞ！
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = よっし準備できた！ねえねえ、一緒にご飯を食べよ…あっ！…食べませんか？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あ、ようこそいらっしゃいました……あのっありがとう……です
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = 綺麗なところだなあ。こういう場所でデートしたら……って俺は何を……！
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = パーティ？いいね！じゃあ、俺はチョコレートを用意しようかな……
+|WELCOME_PARTY_clip = 
+}}

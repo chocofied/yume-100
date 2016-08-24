@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 83
+|name = Kalt
+|name_jp = カルト
+|attribute = Sexy
+|rarity = 4
+|cost = 8
+|lvmax = 50
+|hp_base = 301
+|hp_max = 668
+|hp_break = 887
+|atk_base = 249
+|atk_max = 363
+|atk_break = 482
+|rp_base = 264
+|rp_max = 468
+|rp_break = 622
+|lskill_name = 冷笑
+|lskill_desc = Increase Purple ATK & RP by 25%
+|skill_name = アイスラビット
+|skill_desc = Recovery of HP in accordance to RP (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 13
+|lvmax_s = 60
+|hp_base_s = 601
+|hp_max_s = 782
+|hp_break_s = 1020
+|atk_base_s = 345
+|atk_max_s = 424
+|atk_break_s = 554
+|rp_base_s = 445
+|rp_max_s = 632
+|rp_break_s = 824
+|lskill_name_s = 氷解
+|lskill_desc_s = Increase Purple ATK & RP by 30%
+|skill_name_s = フリージングハート
+|skill_desc_s = Recovery of HP in accordance to RP (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 13
+|lvmax_m = 60
+|hp_base_m = 601
+|hp_max_m = 855
+|hp_break_m = 1116
+|atk_base_m = 345
+|atk_max_m = 410
+|atk_break_m = 535
+|rp_base_m = 445
+|rp_max_m = 599
+|rp_break_m = 782
+|lskill_name_m = 氷結
+|lskill_desc_m = Increase Purple ATK & RP by 30%
+|skill_name_m = ブリザードスマイル
+|skill_desc_m = Recovery of HP in accordance to RP (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yamashita Seiichirō
+|origin = Country of Spirit - Secundati
+|age = 22
+|birth = February 26
+|likes = Cold and quiet rooms, sherbet
+|dislikes = Sweltering people and places, spicy food
+|policy = Living constantly preserving energy
+|desc = 精霊の国・セクンダティの氷の一族の王子。寡黙であるが、その心根は優しい。強大な魔力を持っている。体温が極度に低い。
+|bg = カルトの住むニエベを訪れたあなた。無表情の彼に戸惑うけれど、次第にその優しさを知っていく。その時、ある事件がカルトの力を暴走させて…―！？
+}}
+
+== Story ==
+{{Choice
+|title2 = 舞い落ちる雪に
+|choice21s = カルトに聞く
+|points21s = 6
+|choice21m = カルトに聞かない
+|points21m = 6
+|title3 = 雪ウサギ
+|choice31m = 慌ててスカートを隠す
+|points31m = 3
+|choice31s = 怯えながら謝る
+|points31s = 3
+|choice32s = 楽しみです
+|points32s = 6
+|choice32m = どこですか？
+|points32m = 6
+|title4 = 雪原に舞う
+|choice41m = じっと見つめる
+|points41m = 12
+|choice41s = 微笑みかける
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_83s.jpg}}
+{{Still|text=Moon Still|img=Still_83m.jpg}}
+
+== Quotes ==
+{{Quotes
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = ここ、あつい…溶けてしまいそう…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = あなたの温かさは、嬉しい。あなたのためにできることを、したい…
+|AWARD_EVENT_FAVORITES_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = …あなたの手は暖かい……ぼくとは大違いだ…
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = ……え？…ああ、ごめんなさい、ぼんやり……してたみたい
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 君は本当に…とても暖かい。触れられていると…溶けてしまいそうだね
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ぼくに触れていて冷たくない…？ぼくは……いや…なんでもない
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = こんなぼくに触れてくれる君を、守らせてほしい…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 君の笑顔……その暖かさが、好きなんだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 他の人には、こうやって触れないでほしい……ぼくだけに……して？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 君の笑顔は……凍らせたくないな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 夜は空の星が綺麗だね…星を見ながら眠るのはとても幻想的だよ
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 外の景色はどうだろう…？一緒に見に行く…？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = おはよう…あ……ぼくが近くにいると…寒くない…？
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 頑張ってるね……ぼくも…負けないように……努力する
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ……頑張って…ぼくも頑張るから……
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = は…ッ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 皆……君の努力を知ってる……素敵だよ
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ありがとう……
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = ……ッ
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = …指一本も…触れさせないよ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = すべて凍らせる……
+|SKILL_INVOKE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 君の気に入るものは…あった？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = ……君はぼくが守るから
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ぼくからも……触れていい？ずっとぼくの胸の中に閉じ込めていい？
+|CARD_DETAIL_m_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 会いに……きてくれたの…？
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ……おわった……？
+|BATTLE_CLEAR_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 心の中に…あなたの暖かさが広がっていく……
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 身体の中から……強い…力が湧いてくる…
+|CARD_ENHANCE_clip = 
+|DECK_en = 
+|DECK_jp = …この人達は…？……誰？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = あなたを……誰にも…渡さない……
+|CARD_EVOLUTION_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 君が生まれた日なんだね……今日は…とても暖かな日だって感じるよ
+|BIRTHDAY_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 永久凍土に……閉じ込める！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ……まだ…残ってるの…？
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = この時を待ってた……
+|BATTLE_FEVER_TIME_clip = 
+|GUILD_en = 
+|GUILD_jp = 雪を降らせて……銀世界にするのは……どうかな……？
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ……ぼくの……歓迎パーティ……？……ありがとう。うれしい…
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = ……あ、友達？……これからも……仲良くしてね……
+|FRIEND_DETAIL_clip = 
+}}

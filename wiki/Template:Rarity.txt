@@ -1,0 +1,14 @@
+<onlyinclude>
+{{#switch:{{{1|}}}
+|1=[[File:Rarity.png|15px]]
+|2=[[File:Rarity.png|15px]][[File:Rarity.png|15px]]
+|3=[[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]]
+|4=[[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]]
+|5=[[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]]
+|6=[[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]][[File:Rarity.png|15px]]
+}}
+</onlyinclude>
+<noinclude>
+<pre>{{Rarity|6}}</pre>
+{{Rarity|6}}
+</noinclude>

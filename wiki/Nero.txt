@@ -1,0 +1,78 @@
+== Status ==
+{{Infobox
+|no = 272
+|name = Nero
+|name_jp = ネロ
+|attribute = Cute
+|rarity = 5
+|cost = 15
+|lvmax = 60
+|hp_base = 599
+|hp_max = 1134
+|hp_break = 1293
+|atk_base = 404
+|atk_max = 622
+|atk_break = 710
+|rp_base = 369
+|rp_max = 569
+|rp_break = 649
+|lskill_name = 子どもの抱く情景
+|lskill_desc = Increase Yellow ATK by 50%
+|skill_name = 道化師の遊戯
+|skill_desc = Turn Purple beads to Yellow, increase Yellow beads appearance rate
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 22
+|lvmax_s = 70
+|hp_base_s = 1021
+|hp_max_s = 1327
+|hp_break_s = 1486
+|atk_base_s = 591
+|atk_max_s = 728
+|atk_break_s = 815
+|rp_base_s = 541
+|rp_max_s = 666
+|rp_break_s = 746
+|lskill_name_s = 大人になって作る未来
+|lskill_desc_s = Increase Yellow ATK by 65%
+|skill_name_s = 道化師の嬉戯
+|skill_desc_s = Turn Purple beads to Yellow, increase Yellow beads appearance rate
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 22
+|lvmax_m = 70
+|hp_base_m = 1021
+|hp_max_m = 1384
+|hp_break_m = 1550
+|atk_base_m = 591
+|atk_max_m = 759
+|atk_break_m = 850
+|rp_base_m = 541
+|rp_max_m = 609
+|rp_break_m = 682
+|lskill_name_m = 子どもだけが見れる夢
+|lskill_desc_m = Increase Yellow ATK by 50%, increase Party ATK by 30% when party has more than 3 colours
+|skill_name_m = 道化師の狂戯
+|skill_desc_m = Turn Green beads to Yellow, increase Yellow beads appearance rate
+|gold_m = 10000
+|ring_m = 100
+}}
+== Profile ==
+{{Profile
+|va = Okamoto Nobuhiko
+|origin =Country of Aspiration - Circo 
+|age = 18
+|birth = 
+|policy =Hate all adults 
+|likes =Cherry 
+|dislikes =Adults 
+|desc = 憧憬の国・チルコの第二王子。サーカス団の団長を務め、道化師として観客を楽しませている。子ども達と共に隣国を巡業しており、子どもに対しては優しく彼らからの信頼も厚い。とある事情から大人をひどく憎んでいて、子どもだけの世界をつくりたいと思っている。
+|bg = 目覚めさせたネロが落とした物を届けに、彼の所属するサーカスのテントを訪れたあなた。ひどく大人を嫌う彼は、あなたを訝しげに見つめていたけれど…―
+}}
+== Story ==
+{{Choice|title2 = 彼のサーカス団|choice21s = あの子達は？|points21s = 10|choice21m = お医者様、忙しそうですね|points21m = 10|title3 = チルコ・サーカス|choice31s = なんて呼べばいいですか？|points31s = 6|choice31m = ネロさん？|points31m = 6|choice32s = 人気者だね|points32s = 9|choice32m = 大変そう|points32m = 9|title4 = 穢れのない国|choice41s = 思いきって手を掴む|points41s = 7|choice41m = 待ってと声をかける|points41m = 7|choice42s = 手に触れる|points42s = 8|choice42m = 手に触れない|points42m = 8|title5 = 子ども達の笑顔|choice51s = お兄さんって？|points51s = 15|choice51m = どういうこと？|points51m = 15|title6 = 彼の寝言|choice61s = 呼び掛ける|points61s = 20|choice61m = 肩を揺する|points61m = 20}}{{Still|text=Sun Still|img=Still_272s.jpg}}
+{{Still|text=Moon Still|img=Still_272m.jpg}}

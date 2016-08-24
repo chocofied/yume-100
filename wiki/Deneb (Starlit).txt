@@ -1,0 +1,73 @@
+== Status ==
+{{Infobox
+|no = 271
+|name = Deneb
+|name_jp = デネブ
+|attribute = Cool
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 327
+|hp_max = 757
+|hp_break = 1006
+|atk_base = 273
+|atk_max = 427
+|atk_break = 567
+|rp_base = 258
+|rp_max = 402
+|rp_break = 535
+|lskill_name = 幸運を運ぶ星
+|lskill_desc = Increase Blue HP by 30%
+|skill_name = 星屑ランタン
+|skill_desc = Turn Yellow beads into Blue
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 682
+|hp_max_s = 932
+|hp_break_s = 1216
+|atk_base_s = 406
+|atk_max_s = 525
+|atk_break_s = 685
+|rp_base_s = 382
+|rp_max_s = 495
+|rp_break_s = 646
+|lskill_name_s = 皆で作る未来
+|lskill_desc_s = Increase Blue HP by 35%
+|skill_name_s = 星屑ランタン
+|skill_desc_s = Turn Yellow beads into Blue
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 682
+|hp_max_m = 1023
+|hp_break_m = 1335
+|atk_base_m = 406
+|atk_max_m = 499
+|atk_break_m = 652
+|rp_base_m = 382
+|rp_max_m = 471
+|rp_break_m = 614
+|lskill_name_m = 東西を結ぶ架け橋
+|lskill_desc_m = Increase Blue HP by 35%
+|skill_name_m = 星屑ランタン
+|skill_desc_m = Turn Yellow beads into Blue
+|gold_m = 5000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|desc = 星の国・ノーザンクロスの王子。繊細で陶器のような見た目だが、非常に頭が良い。飄々としていて本心が読めない。ベガとアルタイルとは親交がある。とある目的のため、星祭りでファッションショーを開催しようと考えているらしい。
+|bg = デネブから年に一度の星祭りに招待され、ガラッシアを訪れたあなた。ファッションショーを開くらしい彼は、皆に内緒ですごいことを考えているようで…―
+|event = In the Starlit Night
+|original = [[Deneb]]
+}}
+== Story ==
+{{Choice|title2 = 僕の運を君に|choice21s = 聞く|points21s = 6|choice21m = 聞けない|points21m = 6|title3 = 特訓開始|choice31s = どこか変ですか？|points31s = 3|choice31m = そんなに見られると……|points31m = 3|choice32s = 頑張ります|points32s = 6|choice32m = ごめんなさい|points32m = 6|title4 = 友情と制約|choice41s = モデルを断る|points41s = 12|choice41m = 考え込む|points41m = 12}}{{Still|text=Sun Still|img=Still_271s.jpg}}
+{{Still|text=Moon Still|img=Still_271m.jpg}}

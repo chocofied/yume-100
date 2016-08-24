@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 143
+|name = Prytwen
+|name_jp = プリトヴェン
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 374
+|hp_max = 845
+|hp_break = 1122
+|atk_base = 205
+|atk_max = 321
+|atk_break = 426
+|rp_base = 242
+|rp_max = 378
+|rp_break = 502
+|lskill_name = 正義の盾
+|lskill_desc = Increase Yellow HP by 30%
+|skill_name = アイアン・シールド
+|skill_desc = Recover HP every turn (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 13
+|lvmax_s = 60
+|hp_base_s = 760
+|hp_max_s = 1081
+|hp_break_s = 1411
+|atk_base_s = 305
+|atk_max_s = 362
+|atk_break_s = 473
+|rp_base_s = 359
+|rp_max_s = 484
+|rp_break_s = 632
+|lskill_name_s = 守護の盾
+|lskill_desc_s = Increase Yellow HP by 35%
+|skill_name_s = スチール・シールド
+|skill_desc_s = Recover HP every turn (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 13
+|lvmax_m = 60
+|hp_base_m = 760
+|hp_max_m = 988
+|hp_break_m = 1290
+|atk_base_m = 305
+|atk_max_m = 375
+|atk_break_m = 489
+|rp_base_m = 359
+|rp_max_m = 510
+|rp_break_m = 666
+|lskill_name_m = 誓約の盾
+|lskill_desc_m = Increase Yellow HP by 35%
+|skill_name_m = レッド・シールド
+|skill_desc_m = Recover HP every turn (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Takumi Yasuaki
+|origin = Country of Weapon - Avalon
+|age = 25
+|birth = June 27
+|likes = Small and cute things
+|dislikes = Tomato juice
+|policy = Don't let a single person get hurt
+|desc = 武器の国・アヴァロンの王子。弟のカリバーンと一緒に兵をまとめ、モンスター討伐を行っている。真面目で正義感が強く、周囲からの信頼も厚い。公務が完璧な一方で、色恋沙汰には非常に疎いという一面も持つ。
+|bg = 改めてアヴァロンを訪れたあなた。あなたの前ではどこかぎこちないプリトヴェンと、お茶をしたり町に出かけたりする。そんな時、町中で騒ぎが起こって…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 防御専門
+|choice21m = 素敵な考え方ですね
+|points21m = 6
+|choice21s = 仲間思いなんですね
+|points21s = 6
+|title3 = アヴァロンの城下町
+|choice31m = 部屋に入りますか？
+|points31m = 3
+|choice31s = どうしたのですか？
+|points31s = 3
+|choice32s = 歓声がすごいですね
+|points32s = 6
+|choice32m = もてるんですね
+|points32m = 6
+|title4 = モンスターの襲撃
+|choice41m = 無茶はしないでください
+|points41m = 12
+|choice41s = 心配です
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_143s.jpg}}
+{{Still|text=Moon Still|img=Still_143m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en =As a prince, with this shield...the people, the town, I will protect everything. Of course...y-you too! 
+|MAIN_TOP_TOUCH_1_jp = 王子として、この盾で…民も街も全て守るよ。もちろん…き、君のこともっ！
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_s_1_en =I am so glad to be able to protect you. From now on, I will... 
+|MAIN_TOP_TOUCH_s_1_jp = 君を守ることができて本当によかった。これからも俺が…
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en =Uwah! You scared me..! No, you're wrong! That's...I'm happy... 
+|CARD_DETAIL_jp = うわっ！？びっくりした…！いや！違うんだ！嬉しいんだけど…その…
+|CARD_DETAIL_clip = 
+|CARD_DETAIL_s_en =...Ugh! If you keep doing that, even I would lose my rationality... 
+|CARD_DETAIL_s_jp = …っ！そんなことをされたらさすがの俺も理性が持たないっていうか…
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_2_en =I want to be by your side and look at your smile forever...or something? How does cofessing work...? 
+|MAIN_TOP_TOUCH_s_2_jp = 君の笑顔を隣でずっと見ていたい…とか？って、告白ってどうやってすれば…
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en =What am I doing... I made you go through danger... 
+|MAIN_TOP_TOUCH_m_1_jp = 俺は何をしているんだ…君を危険な目に遭わせてしまった…
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =I will definitely protect you...so would you let me stay by your side? 
+|MAIN_TOP_TOUCH_m_2_jp = 必ず俺が君を守るから…だから傍にいさせてくれないか？
+|MAIN_TOP_TOUCH_m_2_clip = 
+|BATTLE_START_en =If you think you have a chance, come and get it! 
+|BATTLE_START_jp = 敵うと思うならぶつかってこいよ！
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en =From the very moment I laid my eyes upon you, I've already... 
+|CARD_DETAIL_m_jp = 初めて見た時から、俺は君のことを…
+|CARD_DETAIL_m_clip = 
+|BATTLE_RESULT_en =Oh, loot. Let's open it up! 
+|BATTLE_RESULT_jp = 戦利品か。開けてみよう
+|BATTLE_RESULT_clip = 
+|CHAIN_GREAT_en =With this, our defenses are solid! 
+|CHAIN_GREAT_jp = これなら防御は成功だ！
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =Could you hold out a bit more? 
+|CHAIN_NICE_jp = もう少し、粘れるか？
+|CHAIN_NICE_clip = 
+|BATTLE_ATTACK_en =Ha! 
+|BATTLE_ATTACK_jp = はっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en =Alright! I'll ram right into the enemy! 
+|CHAIN_EXCELLENT_jp = よしっ！敵を突き飛ばしてやるからな！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RECOVER_en =With this, I can still go on! 
+|BATTLE_RECOVER_jp = これでまだまだ頑張れる！
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en =Kuh! 
+|BATTLE_DAMAGE_jp = くっ！
+|BATTLE_DAMAGE_clip = 
+|SKILL_INVOKE_s_en =I'll protect everything with this shield! 
+|SKILL_INVOKE_s_jp = 全部…俺の盾で守ってみせる！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en =Don't underestimate me just because I'm short! 
+|SKILL_INVOKE_jp = 背が低いからって舐めるなよ！
+|SKILL_INVOKE_clip = 
+|BATTLE_FEVER_TIME_en =Such perfect timing; I definitely will not let this pass! 
+|BATTLE_FEVER_TIME_jp = 絶好のタイミング、逃しはしない！
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en =I will not forgive those who hurt my important person! 
+|SKILL_INVOKE_m_jp = 俺の大事な人を傷つけるやつは許さない！
+|SKILL_INVOKE_m_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =It's about time for lunch. There's this store that's really nice, want to go together...? 
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろ昼食の時間だな。おすすめの店があるんだけど、一緒にどうかな…？
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en =G-good morning! ...You're so cute even in the morning...Oh, no! It's nothing! Don't worry about it! 
+|MAIN_TOP_MORNING_GREET_jp = お、おはよう！…朝から可愛いな…いや！何でもない、気にしないでくれ！
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en =I have a younger brother who uses a sword. Since I'm using a shield, I'm his best partner! 
+|MAIN_TOP_TOUCH_2_jp = 剣を武器とする弟がいるんだ。盾を武器とする俺の最高の相棒なんだ！
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en =It's already nighttime, huh. Tonight with you...oh, what am I saying!! 
+|MAIN_TOP_EVENING_GREET_jp = もう夜か。今夜は君と一緒に…って、何を言ってるんだ俺は！！
+|MAIN_TOP_EVENING_GREET_clip = 
+|WELCOME_PARTY_en =A party for me? Don't get embarrassed. Thank you. 
+|WELCOME_PARTY_jp = 俺のためのパーティ？照れるな、ありがとう
+|WELCOME_PARTY_clip = 
+|GUILD_en =What a beautiful place... It doesn't look like any monsters would appear too, so we can take it easy. 
+|GUILD_jp = 綺麗な場所だな…。モンスターも現れなさそうだし、ゆっくり出来そうだ
+|GUILD_clip = 
+|CARD_ENHANCE_en =I'll become much, much stronger to protect everyone. That is my duty. 
+|CARD_ENHANCE_jp = もっともっと強くなって、皆を守る。それが俺の役目だ
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en =Everything is all set! I'm ready to go whenever. 
+|CARD_TOP_jp = 準備は万端だ。いつでも出られる
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en =Thinking about you getting into dangerous situations worries me sick..so please stay by side. 
+|CARD_EVOLUTION_m_jp = 君が危険な目に遭わないか心配でたまらない…だから俺が傍にいたい
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =I swear by this shield, I will protect you. 
+|CARD_EVOLUTION_s_jp = この盾に誓って、君を守り抜くよ
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en =Happy birthday..! Is it okay if I spend this important day with you...? 
+|BIRTHDAY_jp = 誕生日おめでとう…！君の大事な日、俺と一緒に過ごしてくれないか…？
+|BIRTHDAY_clip = 
+|DECK_en =Leave the defenses to me. 
+|DECK_jp = 防御なら、俺に任せておいて
+|DECK_clip = 
+|BATTLE_CLEAR_en =Let's report our victory to the others! 
+|BATTLE_CLEAR_jp = 勝利を皆に報告しよう
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en =What a stubborn monster...! 
+|BATTLE_TURN_END_jp = しぶといモンスターだな…っ！
+|BATTLE_TURN_END_clip = 
+|FRIEND_DETAIL_en =If you would, could you offer me some advice...? Because I...uh, like...her... 
+|FRIEND_DETAIL_jp = よかったらアドバイスをくれないか…？俺、あの子のこと…その、す…好きで…
+|FRIEND_DETAIL_clip = 
+|AWARD_EVENT_NOMINATED_en =If you were to choose you...I-I have something to tell you...! 
+|AWARD_EVENT_NOMINATED_jp = もし君が俺のことを選んでくれたら…つ、伝えたいことがあるんだっ！
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =Thank you..! Um, about the thing I have to say...I've always li-... 
+|AWARD_EVENT_FAVORITES_jp = ありがとう…！その、伝えたいことっていうのは…俺、君のことが、す…っ
+|AWARD_EVENT_FAVORITES_clip = 
+}}

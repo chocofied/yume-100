@@ -1,0 +1,206 @@
+== Status ==
+{{Infobox
+|no = 101
+|name = Apis
+|name_jp = アピス
+|attribute = Sexy
+|rarity = 3
+|cost = 7
+|lvmax = 40
+|hp_base = 410
+|hp_max = 892
+|hp_break = 1053
+|atk_base = 228
+|atk_max = 414
+|atk_break = 488
+|rp_base = 163
+|rp_max = 296
+|rp_break = 349
+|lskill_name = 君とドライブ
+|lskill_desc = Increase Purple ATK & RP by 15%
+|skill_name = ブレイブ・ドライブ
+|skill_desc = Erase random beads (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 12
+|lvmax_s = 50
+|hp_base_s = 803
+|hp_max_s = 1151
+|hp_break_s = 1335
+|atk_base_s = 393
+|atk_max_s = 534
+|atk_break_s = 619
+|rp_base_s = 281
+|rp_max_s = 381
+|rp_break_s = 442
+|lskill_name_s = 完璧なデートプラン
+|lskill_desc_s = Increase Purple ATK & RP by 25%
+|skill_name_s = レイニー・キス
+|skill_desc_s = Erase random beads (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 12
+|lvmax_m = 50
+|hp_base_m = 803
+|hp_max_m = 1205
+|hp_break_m = 1398
+|atk_base_m = 393
+|atk_max_m = 559
+|atk_break_m = 648
+|rp_base_m = 281
+|rp_max_m = 346
+|rp_break_m = 401
+|lskill_name_m = 熱に浮かされた唇
+|lskill_desc_m = Increase Purple ATK & RP by 25%
+|skill_name_m = ヒート・ハート
+|skill_desc_m = Erase random beads (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Rainy Day Song
+|original = [[Apis]]
+|desc = 毒薬の国・アベーテルの王子。普段は礼儀正しく、優雅に振る舞うが、少し毒舌。車の運転も得意。車は14の誕生日の時に買ってもらった。
+|bg = 待ち合わせの場所に車でやってきたアピス。あなたを助手席に乗せて、向かう先は海。到着して、しばらくすると大雨が降ってきてしまう。その時アピスは…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 曇り空のドライブ
+|choice21s = 可愛い車ですね
+|points21s = 6
+|choice21m = 泳ぐのは得意ですか？
+|points21m = 6
+|title3 = 君を乗せているから
+|choice31m = 腕を放す
+|points31m = 3
+|choice31s = 緊張してますか？
+|points31s = 3
+|choice32s = ありがとうございます
+|points32s = 6
+|choice32m = まぶしかったんじゃなくて
+|points32m = 6
+|title4 = 海辺のひととき
+|choice41m = 泳ぐのは得意です
+|points41m = 12
+|choice41s = そんなことないです
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_101s.jpg}}
+{{Still|text=Moon Still|img=Still_101m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = こんな感じでどう？　はやく感想きかせてよ
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = こういう時でもなきゃ、相合傘ってわけにはいかないよね
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = あいかわらず当然の結果だよね
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = ちょっと待ってて……実はまだ準備ができてないんだ
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日なの？……おめでとう……聞こえない？　もう二度と言わない……！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 君の手……冷たくて気持ちいい……
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕とデートしない？　冗談じゃないよ
+|DECK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = はっきりしない天気みたいだな
+|BATTLE_TURN_END_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = まあ、悪くないけど……二人きりのが良かったかな……
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここ、一体何ができるの？　変な虫とか毒草とかあるのは嫌だな
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あの子の友だち？　結構あの子ってさ……いや、内緒だな
+|FRIEND_DETAIL_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = 忘れ物はない？　僕？　大丈夫だよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 僕が雨男かって？　そんなことないよ！　君のほうじゃない？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……何、言いたいことははっきり言おうよ？　ね
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = ……僕、病弱キャラとかじゃないよ？　これだけは言っておくけど
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 君に優しくしてもらえるなら、風邪を引くのも悪くないって思うけど
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = ……君の傘、かわいいんじゃない
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = そんな、期待した目で僕を見ないでよ……もう！　
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日は星は見えなさそうだね……君の目の中に星があるかな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 僕だって段取りぐらい考えるよ……失敗したくないし
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = よく眠れた？　随分ゆっくりだったけれども
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 天気が悪くなる前に出かけない？　ほら、はやく決めてよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 無理はしてるに決まってる
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 僕に任せた皆が悪いんだから
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = そこそこやるけど……そこそこだよ
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ちょっと間が悪いんじゃない？
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = まあ、悪くないよね！
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = …痛いなあ！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 過保護だね……
+|BATTLE_RECOVER_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = なに　そんなにイイモノあったの？
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = ……君にうつすのは、本意じゃないから。側に来ないで
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 邪魔しないでくれるかなあ
+|BATTLE_START_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = ほんとに、イライラするなあ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 通り雨みたいなもんだよ
+|BATTLE_FEVER_TIME_clip = 
+}}

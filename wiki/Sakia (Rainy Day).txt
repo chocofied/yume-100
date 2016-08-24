@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 99
+|name = Sakia
+|name_jp = サキア
+|attribute = Cute
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 494
+|hp_max = 868
+|hp_break = 990
+|atk_base = 381
+|atk_max = 620
+|atk_break = 706
+|rp_base = 413
+|rp_max = 671
+|rp_break = 765
+|lskill_name = 雨の日の植物園
+|lskill_desc = Increase Blue, Yellow and Purple ATK by 30%
+|skill_name = ポイゾナス・プラント
+|skill_desc = Appearance rate of Yellow beads is 100% in next chain
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 781
+|hp_max_s = 1059
+|hp_break_s = 1186
+|atk_base_s = 589
+|atk_max_s = 663
+|atk_break_s = 743
+|rp_base_s = 638
+|rp_max_s = 819
+|rp_break_s = 917
+|lskill_name_s = 僕のレインコート
+|lskill_desc_s = Increase Blue, Yellow and Purple ATK by 40%
+|skill_name_s = ポイゾナス・プラント
+|skill_desc_s = Appearance rate of Yellow beads is 100% in next chain
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 781
+|hp_max_m = 929
+|hp_break_m = 1040
+|atk_base_m = 589
+|atk_max_m = 756
+|atk_break_m = 847
+|rp_base_m = 638
+|rp_max_m = 819
+|rp_break_m = 917
+|lskill_name_m = 雨に近づく距離
+|lskill_desc_m = Increase Blue, Yellow and Purple ATK by 30% and HP by 10%
+|skill_name_m = ポイゾナス・プラント
+|skill_desc_m = Appearance rate of Yellow beads is 100% in next chain
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Rainy Day Song
+|original = [[Sakia]]
+|desc = 毒薬の国・モルファーンの王子。いつも前髪で表情が見えない。好きなことに熱中すると周りが見えなくなる。雨の日の採取でも、レインコートがあれば大丈夫。
+|bg = 雨が降り出しそうなある日、あなたはサキアと植物園デートに出かける。彼の楽しそうな様子に嬉しくなるあなただったが、人ごみの中彼とはぐれてしまい…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 熱帯植物園
+|choice21s = 私も同じ気持ちだよ
+|points21s = 8
+|choice21m = 楽しそうだから嬉しい
+|points21m = 8
+|title3 = 静かな植物園
+|choice31s = 首を横に振る
+|points31s = 4
+|choice31m = 気の利いたことを言う
+|points31m = 4
+|choice32s = 花や緑が綺麗だから？
+|points32s = 8
+|choice32m = 静かにしなきゃと思うから？
+|points32m = 8
+|title4 = 饒舌な彼
+|choice41s = 相槌を打ち続ける
+|points41s = 12
+|choice41m = 黙ってしまう
+|points41m = 12
+|title5 = はぐれないように
+|choice51m = ちょっとだけ、寂しかった
+|points51m = 16
+|choice51s = 全然大丈夫！
+|points51s = 16
+}}
+
+{{Still|text=Sun Still|img=Still_99s.jpg}}
+{{Still|text=Moon Still|img=Still_99m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ぐっする眠りたいときは……お気に入りのハーブティーを飲むんだ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = ……僕のみてる世界を……君に見せたいって思うんだ……もっと
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 毒がある花って綺麗なものが多い気がする。あなたにも…？な、何でもないよ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 雨……好きだよ。だって、あなたに近づけるから……
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = レインコートって便利だよね…ほら、毒の材料摘むときとか…手が塞がらないし
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = あなたが笑うと、嬉しいんだ……なんでだろうねー……
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = もう　暗くなってきたね……夜は……星空がみたい……かな
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = ……どうしたの？　あ……僕、歩くの早かった？
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 晴れの日もいいけど……僕は雨も好きだよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 雨が降ってると、聞こえる音とか見える色が……柔らかく感じるね
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = 雨……傘、持ってない……？　こっちにおいで……一緒に入ろう
+|MAIN_TOP_TOUCH_2_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = きれいな花みたい……！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = えいっ……
+|BATTLE_ATTACK_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = うん……頑張ってるね……
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ほんのちょっとの毒も……
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = だんだん痺れてきた？
+|SKILL_INVOKE_s_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = あぶな……
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 服、乾いたかな……
+|BATTLE_RECOVER_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = それ……いい素材になりそう……
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 転ばないように……気をつけて！
+|CHAIN_NICE_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = あの……その……目のやり場に……困るっていうか……ごめん
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = なんだか……今日はついてないね
+|BATTLE_START_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ……手、つないでも……いい？
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = あなたの笑った顔を……もっと、見たいんだー…
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = よかった……拾った薬草も無事だ……
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = あの……僕、行きたいところがあって……あなたもぜひ…
+|CARD_TOP_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでと…これ毒がある花なんだけど……綺麗だから、君に見せたくて
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 濡れ……ちゃった……けど、大丈夫？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕と……植物園に……行こう？
+|DECK_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あ……ちょっと他のこと考えちゃってた
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 甘く見ないほうがいいよ
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 雨があがるよ
+|BATTLE_FEVER_TIME_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = 雨の中のパーティー……うん、僕は好きだよ。ありがとう
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここに　新しい毒草があるって　聞いたんだけど……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = こんな雨のなか？　……風邪ひいちゃうよ？
+|FRIEND_DETAIL_clip = 
+}}

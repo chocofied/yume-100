@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 201
+|name = Ira
+|name_jp = イラ
+|attribute = Gentle
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 370
+|hp_max = 716
+|hp_break = 831
+|atk_base = 240
+|atk_max = 450
+|atk_break = 522
+|rp_base = 235
+|rp_max = 367
+|rp_break = 426
+|lskill_name = 憤怒の予感
+|lskill_desc = Increase Party ATK by 15%
+|skill_name = ハーシュ・アンガー
+|skill_desc = Recover 1500 HP
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 644
+|hp_max_s = 838
+|hp_break_s = 955
+|atk_base_s = 428
+|atk_max_s = 608
+|atk_break_s = 693
+|rp_base_s = 349
+|rp_max_s = 430
+|rp_break_s = 490
+|lskill_name_s = 憤怒の微笑み
+|lskill_desc_s = Increase Party ATK by 20%
+|skill_name_s = ヒール・アンガー
+|skill_desc_s = Recover 2500 HP
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 644
+|hp_max_m = 917
+|hp_break_m = 1045
+|atk_base_m = 428
+|atk_max_m = 576
+|atk_break_m = 657
+|rp_base_m = 349
+|rp_max_m = 415
+|rp_break_m = 473
+|lskill_name_m = 憤怒の悲しみ
+|lskill_desc_m = Increase Party ATK by 20%
+|skill_name_m = ヴェイン・アンガー
+|skill_desc_m = Recover 2500 HP
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Terashima Junta
+|origin = Country of Sinner - Votalia
+|age = 23
+|birth = June 28
+|likes = Cocoa with lots of whipped cream
+|dislikes = Things that irritate me
+|policy = I will endure it 3 times
+|desc = 罪過の国・ヴォタリアの王子。「憤怒」の為に罪を犯した人を収容する監獄の官吏を務めている。普段は穏やかだが、3回怒らせると激怒する。また、怒ると丁寧な口調になる。
+|bg = イラに招待されヴォタリアを訪れたあなたは、受刑者の講義をするという彼についていく。そんなあなたを受刑者達はからかい始め…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 3度目のイラ様
+|choice21s = 楽しそう
+|points21s = 6
+|choice21m = いいんですか？
+|points21m = 6
+|title3 = 憤怒の情
+|choice31m = 元に戻って
+|points31m = 3
+|choice31s = 罰なんてやめて
+|points31s = 3
+|choice32s = 戻ってきてよかったと言う
+|points32s = 6
+|choice32m = 心配したと言う
+|points32m = 6
+|title4 = 素顔の彼
+|choice41m = 笑いかける
+|points41m = 12
+|choice41s = 一緒に帰りましょうと言う
+|points41s = 12
+}}
+
+{{Still|text=Sun Still|img=Still_201s.jpg}}
+{{Still|text=Moon Still|img=Still_201m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en =Are you planning to neglect me? I will not allow that. Please sit down. 
+|MAIN_TOP_TOUCH_1_jp = 僕のことを放置するんですか？そんなことさせませんよ。さあ座って下さい
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en =I wish I could spend every day as peacefully as today... 
+|MAIN_TOP_TOUCH_2_jp = 毎日が今日みたいに穏やかに過ごせるといいんだけどね…
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en =It's been a tough day... It looks like I managed not to get too angry today. Thank goodness 
+|MAIN_TOP_EVENING_GREET_jp = 一日、疲れたな…今日はあまり怒らずに済んだようだ。良かった
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en =Alright, how about we take a break right about now. If you work hard, it's important to also play hard. 
+|MAIN_TOP_AFTERNOON_GREET_jp = さ、そろそろ休憩にしましょうか。きっちり働いてきっちり休むことが大事です
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_s_1_en =From now on, let's keep covering our eyes like this for both of our sakes... It's a good idea 
+|MAIN_TOP_TOUCH_s_1_jp = これからも僕達はお互いの為にこうして目隠しをしよう…いいアイディアだ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|CARD_DETAIL_en =To think the day would come that I could hold hands with you like this... It's like a dream 
+|CARD_DETAIL_jp = こうやって君と手を繋げる日が来るなんて…まるで夢のようだな
+|CARD_DETAIL_clip = 
+|MAIN_TOP_MORNING_GREET_en =Good morning. I hope nothing too big happens today... 
+|MAIN_TOP_MORNING_GREET_jp = おはよう。今日一日、何事もないといいんだけど…
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_GREAT_en =Stay alert to every small detail... 
+|CHAIN_GREAT_jp = 細かいところまで、気を抜かず…
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en =You're doing great! Okay, shall we move a bit faster then? 
+|CHAIN_NICE_jp = いいよ！じゃあ、少し速く動かしてみようか
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = まずは先刻の戦いの反省をしないと…
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en =How unreasonable... This is your lecture 
+|BATTLE_START_jp = 聞き分けのない…お説教です
+|BATTLE_START_clip = 
+|CHAIN_EXCELLENT_en =Wonderful! I am not angry! I'm praising you 
+|CHAIN_EXCELLENT_jp = 素晴らしいです！怒っていません！褒めてます
+|CHAIN_EXCELLENT_clip = 
+|MAIN_TOP_TOUCH_s_2_en =Did you think I wouldn't catch you? Fufu.... You're quite a naughty girl 
+|MAIN_TOP_TOUCH_s_2_jp = バレないとでも思いましたか？ふふっ…君はいけない子ですね
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_m_en =Please don't.... Abandon me... I beg of you 
+|CARD_DETAIL_m_jp = 僕のことをどうか…見捨てないで…お願いだ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en =I am not angry at all. Here, please take my hand... Although I won't let it go, just so you know 
+|MAIN_TOP_TOUCH_m_1_jp = 別に怒っていませんよ。ほら、僕の手を取って下さい…もう二度と離しませんが
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en =It's really hard for me to show you that side of me... But if I have you.... 
+|MAIN_TOP_TOUCH_m_2_jp = 君にあんな姿を見せるのは、辛いなって思う…でも、君がいれば…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en =This feeling of "rage" also seems to be resolved more easily when I'm with you 
+|CARD_DETAIL_s_jp = この「憤怒」という感情も、君と一緒ならうまく折り合いをつけていけそうだ
+|CARD_DETAIL_s_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 待っていたよ。だ、大丈夫。怖くなんてないよ
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en =I guess I somehow managed... not to get angry 
+|BATTLE_CLEAR_jp = どうにか怒らず…済んだようですね
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en =Let's compose our feelings 
+|BATTLE_TURN_END_jp = ちょっと気持ちを落ち着けましょう
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en =I still have not become angry 
+|BATTLE_FEVER_TIME_jp = まだ、怒っていませんよ
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_DAMAGE_en =Uck, I can take it... 
+|BATTLE_DAMAGE_jp = うっく、我慢我慢…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en =Ey! 
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_m_en =But the third time... I will have no mercy! 
+|SKILL_INVOKE_m_jp = 三度目は…容赦しません！
+|SKILL_INVOKE_m_clip = 
+|SKILL_INVOKE_s_en =For the third time, after I close my eyes 
+|SKILL_INVOKE_s_jp = 三度目は、目をつむってから
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en =I'll let the first time slide, and the second time I'll endure it 
+|SKILL_INVOKE_jp = 一度目は受け流し、二度目は耐え忍ぶ
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en =Thanks 
+|BATTLE_RECOVER_jp = ありがとう
+|BATTLE_RECOVER_clip = 
+|WELCOME_PARTY_en =You're holding a party for me? Thanks for going out of your way and everything 
+|WELCOME_PARTY_jp = 僕のためにパーティを？わざわざ、ありがとう
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en =Welcome. You're a friend of that girl, right? I'll listen to what you have to say 
+|FRIEND_DETAIL_jp = ようこそ。あの子のお友達だよね。話には聞いてるよ
+|FRIEND_DETAIL_clip = 
+|GUILD_en =This is a nice, calm place. Looks like I can manage my temper well here...... 
+|GUILD_jp = ここは穏やかでいいところだね。僕も怒り出さずに済みそうだ……
+|GUILD_clip = 
+|DECK_en = 
+|DECK_jp = 他の方が、君を傷つけることはないですか？
+|DECK_clip = 
+|CARD_EVOLUTION_m_en =Don't cry! If you make that face to me... Ah, please stop it already... 
+|CARD_EVOLUTION_m_jp = 泣くな！そんな顔をされると…ああもう、やめてくれ…
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en =There won't be a third time... No matter what you say 
+|CARD_EVOLUTION_s_jp = 三度目はありません…君が何を言っても、です
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en =Yes, the feeling is welling out... I almost can't take it 
+|CARD_ENHANCE_jp = ああ、感情が湧き上がる…抑えられなくなりそうだ
+|CARD_ENHANCE_clip = 
+|BIRTHDAY_en =Happy birthday. I'd like to spend such a precious anniversary without getting seized by anger... 
+|BIRTHDAY_jp = 誕生日おめでとう。大切な記念日は怒りの感情に囚われずに過ごしたい…
+|BIRTHDAY_clip = 
+|AWARD_EVENT_NOMINATED_en =Las, if you keep telling me to do things properly I'll get it... H-huh? What am I... 
+|AWARD_EVENT_NOMINATED_jp = ラス、ちゃんとしなさいと何度言えばわかる…あ、あれ？僕は何を…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en =You picked someone like me? Thanks, I guess I'll have to try and control my temper 
+|AWARD_EVENT_FAVORITES_jp = こんな僕を選んでくれるの？ありがとう、あまり怒らないようにしないとね
+|AWARD_EVENT_FAVORITES_clip = 
+}}

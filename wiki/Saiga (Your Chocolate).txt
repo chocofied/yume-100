@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 208
+|name = Saiga
+|name_jp = 砕牙
+|attribute = Gentle
+|rarity = 5
+|cost = 16
+|lvmax = 60
+|hp_base = 705
+|hp_max = 1247
+|hp_break = 1421
+|atk_base = 348
+|atk_max = 508
+|atk_break = 579
+|rp_base = 382
+|rp_max = 653
+|rp_break = 744
+|lskill_name = カカオの薬
+|lskill_desc = Increase HP & RP by 20% when Party consists of all 5 colours
+|skill_name = 狐のお菓子
+|skill_desc = Recover HP in accordance to RP (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 23
+|lvmax_s = 70
+|hp_base_s = 1122
+|hp_max_s = 1384
+|hp_break_s = 1550
+|atk_base_s = 482
+|atk_max_s = 563
+|atk_break_s = 631
+|rp_base_s = 620
+|rp_max_s = 842
+|rp_break_s = 943
+|lskill_name_s = 柚子のオランジェット
+|lskill_desc_s = Increase HP & RP by 20% and ATK by 15% when Party consists of all 5 colours
+|skill_name_s = 狐の贈り物
+|skill_desc_s = Recover HP in accordance to RP (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 23
+|lvmax_m = 70
+|hp_base_m = 1122
+|hp_max_m = 1521
+|hp_break_m = 1704
+|atk_base_m = 482
+|atk_max_m = 543
+|atk_break_m = 608
+|rp_base_m = 620
+|rp_max_m = 796
+|rp_break_m = 892
+|lskill_name_m = そっくりなぬいぐるみ
+|lskill_desc_m = Increase HP & RP by 25% when Party consists of all 5 colours
+|skill_name_m = 狐のおすそわけ
+|skill_desc_m = Recover HP and insert hearts
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Whom does your chocolate belong to
+|original = [[Saiga]]
+|desc = 天狐の国・伊呂具の王子。雨を操ることができる。千年の時を生きており、妖しげで美しい不思議な雰囲気をまとう。今回、薬用のカカオを調達しにショコルーナにやってきた。
+|bg = チョコレート試食会のためショコルーナを訪れたあなたは、街中で薬用のカカオを調達しにきた砕牙と出会う。その後、彼と一緒に城へ向かうことになったが…
+}}
+
+== Story ==
+{{Choice
+|title2 = 人込みの中で
+|choice21s = うれしい
+|points21s = 8
+|choice21m = 何も言えない
+|points21m = 8
+|title3 = カカオとチョコレート
+|choice31m = 近いです
+|points31m = 4
+|choice31s = すみません
+|points31s = 4
+|choice32s = 私も食べたい
+|points32s = 8
+|choice32m = まずはお城に……
+|points32m = 8
+|title4 = 恋の特効薬
+|choice41m = そうですね
+|points41m = 12
+|choice41s = そうかもしれませんね
+|points41s = 12
+|title5 = 素直な心
+|choice51s = はい
+|points51s = 16
+|choice51m = もう少し
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_208s.jpg}}
+{{Still|text=Moon Still|img=Still_208m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = そして多様な種類があるものだ。うぬの好きなチョコレートはどれだ？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = チョコレートなる甘味。まこと甘い…これは、確かに子ども達が喜びそうだ
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = It is a good thing that the weather is good. I have been called a Rainman by many.
+|CARD_DETAIL_jp = 晴れてよかった。雨男と言われることが多いからのう…
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_1_en = For everyone to casually touch my tail.... it cannot be helped? Why say such words?
+|MAIN_TOP_TOUCH_1_jp = カカオは我が国で作られる薬にはなくてはならぬのでな
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = なかなか言うようになったのう…ならば存分に愛でてやろうぞ
+|CARD_DETAIL_m_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = そうか…あれだけ人の尻尾を弄んでくれたのだからな…どうしてやるかのう
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 贈り物を用意することが、このように楽しいとは…
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = うぬが我の為に…そう思うと、食べてしまうのがもったいなく思えてきたぞ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_2_en = Cocoa is necessary for me to make medicine in my country.
+|MAIN_TOP_TOUCH_2_jp = 皆して人の尻尾に気軽に触りおって…仕方ない？何故そう言う？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_EVENING_GREET_en = Now then, my shoulders are all stiff from this unusual garment... let us change into our sleepwear.
+|MAIN_TOP_EVENING_GREET_jp = さて、慣れぬ装いで肩が凝ったわ…寝間着に着替えるとしよう
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Oh my, this early in the morning and already such a crowd... how utterly troublesome.
+|MAIN_TOP_MORNING_GREET_jp = なんと、まだ朝だというのにこの人出か…ほとほと参った
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = In this town sweet smell wafts from everywhere... what an intrigue.
+|MAIN_TOP_AFTERNOON_GREET_jp = この街はあちらこちらから甘い香りがする…えらくそそられるものだ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 我の代わりと思って愛でるが良い
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日、よき日だ。うぬがいる世界に我も生きている。まこと幸福なことぞ
+|BIRTHDAY_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = なんという偶然か。うぬはチョコレートを買い求めにやってきたのだな
+|CARD_TOP_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 疲れたわい…出汁の染みた油揚げがほしいぞ
+|BATTLE_CLEAR_clip = 
+|BATTLE_TURN_END_en = Wilt thou give me chocolate?
+|BATTLE_TURN_END_jp = チョコレートをくれるのか
+|BATTLE_TURN_END_clip = 
+|BATTLE_FEVER_TIME_en = I shall get serious
+|BATTLE_FEVER_TIME_jp = では本気で行くとしよう
+|BATTLE_FEVER_TIME_clip = 
+|DECK_en = 
+|DECK_jp = そのように尻尾にばかり興味を示すでない
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = カカオをわけて貰ったあと、うぬには何かお礼をせねばならぬな
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = カカオからつくられる甘味菓子。さぞ、体にも良いのだろうな
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = なるほど、チョコレートにもいろいろな種類があるのだな…ふむ
+|CARD_ENHANCE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 愛の篭ったチョコレート、格別よ
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 尻尾で振り払ってやろうか
+|SKILL_INVOKE_clip = 
+|CHAIN_GREAT_en = Is it so, that thou would like to assist me?
+|CHAIN_GREAT_jp = そうか、我を手伝いたいと言うか
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = お転婆が過ぎるのは危ないぞ
+|CHAIN_NICE_clip = 
+|BATTLE_RESULT_en = Wouldst there be a new kind of cacao in there?
+|BATTLE_RESULT_jp = その中に新しいカカオは入っておらんか？
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = They come out no matter where we are...
+|BATTLE_START_jp = どこにでも出てくるのだな…
+|BATTLE_START_clip = 
+|BATTLE_RECOVER_en = Sweet flavors are good
+|BATTLE_RECOVER_jp = 甘味はよいの
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 効かぬぞ
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = Ey!
+|BATTLE_ATTACK_jp = えいっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = そのような姿を見せられたら…ではついて参れ
+|CHAIN_EXCELLENT_clip = 
+|WELCOME_PARTY_en = Such an abundance of humans.... What a bother. I shall rest for a bit.
+|WELCOME_PARTY_jp = なんという人の多さよ……やれやれ。少し休むとしよう
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = そんな物珍しそうに尻尾を見るでない……うぬもか……
+|FRIEND_DETAIL_clip = 
+|GUILD_en = 
+|GUILD_jp = なんとも風光明媚。特別な薬草もありそうだの
+|GUILD_clip = 
+}}

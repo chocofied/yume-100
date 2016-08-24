@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 20
+|name = Alfred
+|name_jp = アルフレッド
+|attribute = Sexy
+|rarity = 3
+|cost = 5
+|lvmax = 40
+|hp_base = 258
+|hp_max = 527
+|hp_break = 622
+|atk_base = 218
+|atk_max = 421
+|atk_break = 497
+|rp_base = 207
+|rp_max = 400
+|rp_break = 472
+|lskill_name = 大人の余裕 (Adult's Composure)
+|lskill_desc = Recover HP every turn (A)
+|skill_name = ブラッディフレーバー (Bloody Flavor)
+|skill_desc = Erase beads on left side (A)
+|gold = 1000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 4
+|cost_s = 9
+|lvmax_s = 50
+|hp_base_s = 474
+|hp_max_s = 680
+|hp_break_s = 789
+|atk_base_s = 400
+|atk_max_s = 543
+|atk_break_s = 630
+|rp_base_s = 380
+|rp_max_s = 516
+|rp_break_s = 599
+|lskill_name_s = 大人の余裕 (Adult's Composure)
+|lskill_desc_s = Recover HP every turn (S)
+|skill_name_s = ディープブラッド (Deep Blood)
+|skill_desc_s = Erase beads on left side (S)
+|gold_s = 2500
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 4
+|cost_m = 9
+|lvmax_m = 50
+|hp_base_m = 474
+|hp_max_m = 616
+|hp_break_m = 715
+|atk_base_m = 400
+|atk_max_m = 569
+|atk_break_m = 660
+|rp_base_m = 380
+|rp_max_m = 540
+|rp_break_m = 626
+|lskill_name_m = 大人の余裕 (Adult's Composure)
+|lskill_desc_m = Recover HP every turn (S)
+|skill_name_m = ヒートブラッド (Hit Blood)
+|skill_desc_m = Erase beads on left side (S)
+|gold_m = 2500
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Yokota Kouichi
+|origin = Country of Wine - Dominia
+|age = 38
+|birth = June 20
+|likes = Liquor and games
+|dislikes = Boring things
+|policy = Accompany others extensively and shallowly
+|desc = A prince from the Country of Wine - Dominia. He is a composed adult who is experienced with general pleasure. He has a vampire father and a human mother. He is friends with Jay, and rues his father wounding him.
+|bg =  Alfred who welcomes you with wine. While you spend time with him, you become aware of the suffering and past that he carries. What does it mean when he looks at you...? And your feelings are...? 
+}}
+
+== Story ==
+{{Choice
+|title2 = 雪夜の告白
+|choice21s = 怖い
+|points21s = 6
+|choice21m = 何も言えない
+|points21m = 6
+|title3 = 静かな夜に……
+|choice31s = 大丈夫です
+|points31s = 3
+|choice31m = 震えてなんて……！
+|points31m = 3
+|choice32m = 引き止める
+|points32m = 6
+|choice32s = そのまま見つめている
+|points32s = 6
+|title4 = 雪解けの木の下で……
+|choice41m = アルフレッドの手を掴む
+|points41m = 12
+|choice41s = 顔をうつむかせる
+|points41s = ＋12
+}}
+
+{{Still|text=Sun Still|img=Still_20s.jpg}}
+{{Still|text=Moon Still|img=Still_20m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = Touching me like that...You really are a vulnerable person.
+|MAIN_TOP_TOUCH_1_jp = そんなに触れて…貴女は本当に無防備な人だ
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_EVENING_GREET_en = You must not go out carelessly. There may be a scary vampire.
+|MAIN_TOP_EVENING_GREET_jp = 不用心に出歩いてはいけない。怖い吸血鬼がいるかもしれないからね
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = I'm drinking wine. Drinking from daytime is fine as well.
+|MAIN_TOP_AFTERNOON_GREET_jp = …ワインを飲んでるんだ。昼間から飲むのも、いいものだよ
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = Morning, huh? I've decided to spend it quietly.
+|MAIN_TOP_MORNING_GREET_jp = 朝か…俺はひっそりと過ごすことにするよ
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = Are you lonely? I am fine with staying with you, but I will not take responsibility, understood?
+|MAIN_TOP_TOUCH_m_1_jp = 寂しいのかい？一緒にいるのはいいけれど、責任は取れないよ…？
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = You're such a cute person. But, it does not mean you can touch a man without a good reason.
+|MAIN_TOP_TOUCH_m_2_jp = …可愛らしい人だ。だが、男にみだりに触れるものではないよ
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_s_en = Whatever I'll do to you...is fine, right?
+|CARD_DETAIL_s_jp = 貴女は…何をされても、いいということだね？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_s_1_en = I am a vampire, you know? You must not forget that.
+|MAIN_TOP_TOUCH_s_1_jp = 俺は、吸血鬼なんだよ？それを、忘れてはいないかい？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = Wine as red as blood...Want to drink together?
+|MAIN_TOP_TOUCH_s_2_jp = 血のように赤いワインだ…一緒に飲むかい？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_en = Sorry, but there is a place I must be...It is no place for a person such as yourself.
+|CARD_DETAIL_jp = 悪いが、行くところがあってね…貴女のような人が来るところではないよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_2_en = When I look at you, I remember my wife. She was such a cute person.
+|MAIN_TOP_TOUCH_2_jp = 貴女を見てると、妻を思い出すよ。可愛らしい人だったんだ
+|MAIN_TOP_TOUCH_2_clip = 
+|BATTLE_RESULT_en = Have we obtained something? Is that so? That's good.
+|BATTLE_RESULT_jp = 得るものはあったかい？そう、それは良かった
+|BATTLE_RESULT_clip = 
+|BATTLE_START_en = Now then, shall we start?
+|BATTLE_START_jp = さあ、始めようか
+|BATTLE_START_clip = 
+|CARD_DETAIL_m_en = Nighttime is bad. One way or another, I'll do something wrong to you.
+|CARD_DETAIL_m_jp = 夜は、いけないね。貴女をどうかしてしまいたくなる…
+|CARD_DETAIL_m_clip = 
+|BATTLE_TURN_END_en = When it's not night, my power will not come out that much.
+|BATTLE_TURN_END_jp = 夜じゃないと、あまり力が出ないな
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = Now then, who wants to be bitten?
+|SKILL_INVOKE_s_jp = さあ、噛みつかれたいのは誰だ？
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_en = When it's night, I get excited.
+|SKILL_INVOKE_jp = 夜になると、血が騒ぐんだ
+|SKILL_INVOKE_clip = 
+|BATTLE_RECOVER_en = You must not work too hard.
+|BATTLE_RECOVER_jp = 無理をしてはいけないよ
+|BATTLE_RECOVER_clip = 
+|BATTLE_DAMAGE_en = Kuh...
+|BATTLE_DAMAGE_jp = くっ…
+|BATTLE_DAMAGE_clip = 
+|BATTLE_ATTACK_en = Hehe
+|BATTLE_ATTACK_jp = ふふっ
+|BATTLE_ATTACK_clip = 
+|CHAIN_EXCELLENT_en = Such a pitiful person. Don't try too hard like that.
+|CHAIN_EXCELLENT_jp = いじらしい人だ。そんなに、頑張らないでくれ
+|CHAIN_EXCELLENT_clip = 
+|CHAIN_GREAT_en = Don't work too hard...Still, thank you.
+|CHAIN_GREAT_jp = 無理はしないでくれ…でも、ありがとう
+|CHAIN_GREAT_clip = 
+|CHAIN_NICE_en = How adequate. Not bad.
+|CHAIN_NICE_jp = まずまずだね。悪くないよ
+|CHAIN_NICE_clip = 
+|BATTLE_FEVER_TIME_en = The night has come.
+|BATTLE_FEVER_TIME_jp = 夜が来たようだ
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_m_en = I'll make you feel the terror of a vampire.
+|SKILL_INVOKE_m_jp = 吸血鬼の恐ろしさ、思い知らせてあげよう
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = Congratulations. The wine for your year of birth has been prepared. Let's stay together tonight.
+|BIRTHDAY_jp = おめでとう。貴女の生まれた年のワインを用意してある。今夜は一緒にいよう
+|BIRTHDAY_clip =
+|DECK_en = You're choosing me? Thank you.
+|DECK_jp = 俺を選んでくれるのかい？ありがとう
+|DECK_clip = 
+|CARD_EVOLUTION_m_en = Wanting to be with me...I don't know if there's anything going on...
+|CARD_EVOLUTION_m_jp = 俺と一緒にいたいなんて…何があっても、知らないよ？
+|CARD_EVOLUTION_m_clip = 
+|CARD_EVOLUTION_s_en = You must not show that kind of vulnerable form to me.
+|CARD_EVOLUTION_s_jp = そんな無防備な姿を俺に見せてはいけないよ
+|CARD_EVOLUTION_s_clip = 
+|CARD_ENHANCE_en = There is still this kind of power sleeping inside me.
+|CARD_ENHANCE_jp = 俺にもまだ、こんな力が眠っていたんだね
+|CARD_ENHANCE_clip = 
+|CARD_TOP_en = Goodness! You coming to pick me up means...it's already nighttime?
+|CARD_TOP_jp = やあ…貴女が迎えに来てくれるということは、もう夜かい？
+|CARD_TOP_clip =
+|BATTLE_CLEAR_en = You must be tired, correct? Rest slowly.
+|BATTLE_CLEAR_jp = 疲れただろう？ゆっくり休むといい
+|BATTLE_CLEAR_clip = 
+|FRIEND_DETAIL_en = Good day. Next time, you may come drink wine at my and her place.
+|FRIEND_DETAIL_jp = こんにちは。今度、彼女と俺のところにワインを飲みに来るといい
+|FRIEND_DETAIL_clip = 
+|GUILD_en = I like being alone, but...being with everyone once in a while is good.
+|GUILD_jp = 独りでいることが好きなんだが…たまには皆でというのもいいものだね
+|GUILD_clip = 
+|WELCOME_PARTY_en = A party for me? Thank you. I wonder if I'll be receiving wine.
+|WELCOME_PARTY_jp = 俺のためにパーティーを？ありがとう、じゃあワインを頂こうかな
+|WELCOME_PARTY_clip = 
+|AWARD_EVENT_NOMINATED_en = How troubling. I am not good with this kind of social events.
+|AWARD_EVENT_NOMINATED_jp = 弱ったな。このような趣向の催しは苦手なんだが…
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = Hehe...thank you. Shall I open the best wine for you?
+|AWARD_EVENT_FAVORITES_jp = ふふ…ありがとう。貴女のために極上のワインを開けようか
+|AWARD_EVENT_FAVORITES_clip = 
+}}

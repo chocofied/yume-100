@@ -1,0 +1,186 @@
+== Status ==
+{{Infobox
+|no = 229
+|name = Oswald
+|name_jp = オズワルド
+|attribute = Gentle
+|rarity = 5
+|cost = 14
+|lvmax = 60
+|hp_base = 580
+|hp_max = 1148
+|hp_break = 1308
+|atk_base = 389
+|atk_max = 633
+|atk_break = 721
+|rp_base = 349
+|rp_max = 479
+|rp_break = 546
+|lskill_name = 胸躍る時間
+|lskill_desc = Increase Red, Blue & Green ATK by 30%
+|skill_name = カラフルエッグ
+|skill_desc = Erase Red, Blue and Green beads (SS)
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 20
+|lvmax_s = 70
+|hp_base_s = 1033
+|hp_max_s = 1274
+|hp_break_s = 1427
+|atk_base_s = 601
+|atk_max_s = 816
+|atk_break_s = 914
+|rp_base_s = 455
+|rp_max_s = 531
+|rp_break_s = 595
+|lskill_name_s = パレードの特等席
+|lskill_desc_s = Increase Red, Blue & Green ATK by 40%
+|skill_name_s = ギミックパレード
+|skill_desc_s = Erase Red, Blue and Green beads (SSS)
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 20
+|lvmax_m = 70
+|hp_base_m = 1033
+|hp_max_m = 1400
+|hp_break_m = 1568
+|atk_base_m = 601
+|atk_max_m = 772
+|atk_break_m = 865
+|rp_base_m = 455
+|rp_max_m = 512
+|rp_break_m = 573
+|lskill_name_m = 光線銃の彩り
+|lskill_desc_m = Increase Green, Yellow & Purple ATK by 40%
+|skill_name_m = エッグハントタイム
+|skill_desc_m = Erase Green, Yellow, and Purple beads (SSS)
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = The Eggs that Construct A Rainbow
+|original = [[Oswald]]
+|desc = 虹の国・オズの王子。素晴らしい技術力で、虹の国を科学的に発展させた。周りはそんなオズを優秀な魔法使いだと思っているが、実際はただの技術者。感謝祭では山車を使ったパレードを計画している。
+|bg = オズワルドから手紙をもらい、虹の国を訪れたあなた。彼から、感謝祭で行うパレードの山車にあなたも乗せてあげると言われて…―
+}}
+
+== Story ==
+{{Choice|title2 = 大胆不敵な……|choice21s = あ、あの……っ！|points21s = 8|choice21m = ち、違います……っ|points21m = 8|title3 = 魔法の瞳|choice31s = お疲れ様です|points31s = 4|choice31m = 無言で見守る|points31m = 4|choice32s = すごいです|points32s = 8|choice32m = ちょっと怖いです|points32m = 8|title4 = 山車巡りの先に|choice41s = そのまま|points41s = 12|choice41m = 距離を取る|points41m = 12|title5 = 君の意見を！|choice51s = 喜んで|points51s = 16|choice51m = 私でいいんですか？|points51m = 16}}
+
+{{Still|text=Sun Still|img=Still_229s.jpg}}
+{{Still|text=Moon Still|img=Still_229m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = ふふふ、この山車にはまだまだ隠された秘密があるよ。知りたい？
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = どうどう？驚いたかな？実際に想像してたより、すごかったんじゃない？
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = じゃあ、僕達も水鉄砲で参加しよう～♪　あ、おっさんに銃口向けないで！
+|MAIN_TOP_TOUCH_s_2_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = んんー…何も思い浮かばない。よし、こういう時は肉を食べよう！
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = ああ…昼食べた肉が胃にきて…今日は早めに寝ようか？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 雪解け水が小川になって、畑に種を蒔く…こんな時期こそ、お祭りだね♪
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = パレードに遊園地、屋台に…ねえ、君も楽しいと思うだろう？
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 目覚めたかい？　おっさんはこれから仮眠をとるから、後で起こして？
+|MAIN_TOP_MORNING_GREET_clip = 
+|DECK_en = 
+|DECK_jp = 僕と楽しいパレードづくりは、いかが？
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日おめでとさん！君がまた素敵なレディに成長してオジサン感慨深いよ！
+|BIRTHDAY_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = この山車にはね、まだまだ秘密が…ヒントは、暖かくなってきたってことかな
+|CARD_EVOLUTION_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 子ども達が驚く仕掛けがね…いや、意外に大人も盛り上がっちゃうかな？
+|CARD_EVOLUTION_m_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ほらほら笑顔笑顔、にこやかに手を振って
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = そーれっ！
+|BATTLE_ATTACK_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = では出発進行！
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = は～いお疲れさん、小休止～
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = あれ？お気に召さない感じ？
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = え、嬉しいの？そうならそうって言ってよ
+|CHAIN_GREAT_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = いやあ、やっぱり君を呼んでよかった。皆がこんなに喜んでる！もちろん、僕も
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 夜空を光る七色の光。最高じゃない？まだまだ僕のセンスも悪くないって感じ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 光線銃を構えるお姫様……悪くないね！じゃあ、僕達も参加しよう！
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 一応王子様だけど、やっぱり君の前では一人の男だし、えこひいきしちゃった
+|CARD_DETAIL_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = ふっふっふ！　おっさん、まだまだ頑張りますよ～
+|CARD_ENHANCE_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = シャボン玉も出しちゃおう！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = ちょっと待って！いったん休憩！
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = いやあ、いいパレードができそうだ
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 君にぜひ見せたいものっていうか、参加してほしい催しがあってね！
+|CARD_TOP_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = あーきもちいいー
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ではここらで山車を出発〜
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ただの水鉄砲と侮るなかれー
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = おもちゃの銃？っふっふっふ　どうかな
+|SKILL_INVOKE_m_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 腰はやめて…
+|BATTLE_DAMAGE_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = おやおや、皆集まって何の作戦会議だい？おっさんもまぜてよ～
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここはまた変わった場所だねえ。ほうほう……あの図書館に行こうかな
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = あれ、遊びにきてくれたのかい。それとも僕の実験を手伝いたいとか？
+|FRIEND_DETAIL_clip = 
+}}

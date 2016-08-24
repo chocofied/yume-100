@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 112
+|name = Castor
+|name_jp = カストル
+|attribute = Sexy
+|rarity = 5
+|cost = 13
+|lvmax = 60
+|hp_base = 519
+|hp_max = 886
+|hp_break = 1127
+|atk_base = 353
+|atk_max = 573
+|atk_break = 728
+|rp_base = 297
+|rp_max = 483
+|rp_break = 613
+|lskill_name = 星降る一夜
+|lskill_desc = Increase Purple ATK by 50%
+|skill_name = ツインウィッシュ
+|skill_desc = Erase middle beads (SS)
+|gold = 5000
+|ring = 10
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 19
+|lvmax_s = 70
+|hp_base_s = 798
+|hp_max_s = 948
+|hp_break_s = 1184
+|atk_base_s = 544
+|atk_max_s = 699
+|atk_break_s = 874
+|rp_base_s = 458
+|rp_max_s = 589
+|rp_break_s = 735
+|lskill_name_s = 一夜を越えた願い
+|lskill_desc_s = Increase Purple ATK by 50% and RP by 15%
+|skill_name_s = シークレットハート
+|skill_desc_s = Erase middle beads, increase Purple ATK for 1 turn
+|gold_s = 10000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 19
+|lvmax_m = 70
+|hp_base_m = 798
+|hp_max_m = 984
+|hp_break_m = 1229
+|atk_base_m = 544
+|atk_max_m = 739
+|atk_break_m = 923
+|rp_base_m = 458
+|rp_max_m = 536
+|rp_break_m = 669
+|lskill_name_m = 一夜限りの願い
+|lskill_desc_m = Increase Purple ATK by 50% and reduce Purple damage by 10%
+|skill_name_m = スターライトティアーズ
+|skill_desc_m = Erase middle beads, increase Purple ATK for 1 turn
+|gold_m = 10000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|event = Wish Upon A Star
+|original = [[Castor]]
+|desc = 星の国・ジェミオの王子。自身の中に「ポルックス」というもう一人の人格を抱えているが、お互いを思い遣っている。ジェミオと親交が深いガラッシアの星祭には毎年来ている。
+|bg = ガラッシアで一年に一度行われる星祭りで、カストルに再会したあなた。一緒に祭りを巡る中……二つの心に触れ、あなたの心が揺れ動く…―。
+}}
+
+== Story ==
+{{Choice
+|title2 = あなたは、誰？
+|choice21s = 護衛の方々にご迷惑が……
+|points21s = 8
+|choice21m = 後ろを振り返る
+|points21m = 8
+|title3 = はじめての出店
+|choice31m = 珍しいですか？
+|points31m = 4
+|choice31s = 毎年来てるって……
+|points31s = 4
+|choice32s = 一緒にやりませんか？
+|points32s = 8
+|choice32m = すくえるかな……
+|points32m = 8
+|title4 = 戸惑いと憧れ
+|choice41m = 辺りを見回す
+|points41m = 12
+|choice41s = その場を離れる
+|points41s = 12
+|title5 = 移ろう瞳
+|choice51s = カストルさん？
+|points51s = 16
+|choice51m = ポルックス……さん？
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_112s.jpg}}
+{{Still|text=Moon Still|img=Still_112m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = どうしたの……？ああ、そうかどっちだろうって思った？……ふふっ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 僕の願いごとを叶えて欲しい……そう、君にだよ
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = まさかこんなところで君と会えるなんて……嬉しいな
+|MAIN_TOP_TOUCH_1_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = そんなこわごわとした顔で見るなよ……俺で悪かったな……
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = 結構、こういう遊びも楽しいもんだな……って、何でもねえよ……忘れろ
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = あんまり……よくないのはわかってるんだ。でも、お前の側にいたい
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = こんな風に二人で歩くって……デートだって、思ってもいいのかな？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = ……ちょっとはしゃぎ過ぎたかな？　疲れてない？大丈夫？
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = 少しは休憩したらどうだ？　お前達、揃って無理をするから……ハァ……
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 今日はいろいろあって疲れたな……ゆっくり休もう
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = 朝から……なんだかたくさんの人がいて落ち着かないな……
+|MAIN_TOP_MORNING_GREET_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = ……僕も、がんばらなきゃ！
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = やぁっ！
+|BATTLE_ATTACK_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = お前は後ろ隠れとけよ
+|CHAIN_NICE_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = まあ、俺の後ろで頑張るならいいか
+|CHAIN_GREAT_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 邪魔をするのは……
+|SKILL_INVOKE_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 痛ってーな！
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = ……ありがと
+|BATTLE_RECOVER_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = こういうのは俺にまかせとけ
+|BATTLE_START_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = キラキラしたそれ、綺麗だね
+|BATTLE_RESULT_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = 俺のことを認めてくれるのは……お前だけだから。俺はお前を大事にしたい
+|CARD_DETAIL_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 僕達、もっと強くなるから
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 僕は君のことになると、ポルックスにさえ嫉妬してしまう……カッコ悪いかな
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ……皆。大丈夫だった？
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = 良かった……また会えた！やっぱり君と一緒に過ごしたい
+|CARD_TOP_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = カストルさえ良ければ良かったけど……お前のことだけは、ちょっと違う
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 僕と……いや僕達と行こうよ
+|DECK_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = 俺に全部よこせよ！
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = まだ、物足りないな
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = ……待ってポルックス！僕だって大丈夫！
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 祭の夜をぶち壊すなんて無粋だなあ！
+|SKILL_INVOKE_m_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 誕生日だね……僕達の願いと君の願い……全てがうまく叶うといいね
+|BIRTHDAY_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = ありがとう。みんなとまた会えて嬉しいよ
+|WELCOME_PARTY_clip = 
+|GUILD_en = 
+|GUILD_jp = ここは……美しい場所だけど……ねえ、ポルックスはどう思う？
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 遊びに来たのか……今はあいつもカストルもいないぞ
+|FRIEND_DETAIL_clip = 
+}}

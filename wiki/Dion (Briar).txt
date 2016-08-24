@@ -1,0 +1,211 @@
+== Status ==
+{{Infobox
+|no = 160
+|name = Dion
+|name_jp = ディオン
+|attribute = Sexy
+|rarity = 5
+|cost = 17
+|lvmax = 60
+|hp_base = 665
+|hp_max = 1363
+|hp_break = 1554
+|atk_base = 385
+|atk_max = 560
+|atk_break = 639
+|rp_base = 360
+|rp_max = 524
+|rp_break = 597
+|lskill_name = 手紙に込められた想い
+|lskill_desc = Recover Skill Gauge every turn (S)
+|skill_name = 薄闇のフレイム
+|skill_desc = Increase Purple beads appearance rate once and erase random beads
+|gold = 5000
+|ring = 100
+<!-- Sun -->
+|rarity_s = 6
+|cost_s = 24
+|lvmax_s = 70
+|hp_base_s = 1227
+|hp_max_s = 1663
+|hp_break_s = 1863
+|atk_base_s = 532
+|atk_max_s = 683
+|atk_break_s = 765
+|rp_base_s = 498
+|rp_max_s = 561
+|rp_break_s = 628
+|lskill_name_s = 夕焼け色の決意
+|lskill_desc_s = Recover Skill Gauge every turn (SS)
+|skill_name_s = 夕闇のフラム
+|skill_desc_s = Increase Purple beads appearance rate once and erase random beads
+|gold_s = 10000
+|ring_s = 100
+<!-- Moon -->
+|rarity_m = 6
+|cost_m = 24
+|lvmax_m = 70
+|hp_base_m = 1227
+|hp_max_m = 1459
+|hp_break_m = 1634
+|atk_base_m = 532
+|atk_max_m = 683
+|atk_break_m = 765
+|rp_base_m = 498
+|rp_max_m = 639
+|rp_break_m = 716
+|lskill_name_m = 熱を帯びた唇
+|lskill_desc_m = Recover Skill Gauge every turn and increase Purple ATK by 15%
+|skill_name_m = 宵闇のフィアンマ
+|skill_desc_m = Increase Purple beads appearance rate once and erase random beads
+|gold_m = 10000
+|ring_m = 100
+}}
+
+== Profile ==
+{{Profile
+|event = Briar’s Magic Tool ~Prince of Gluttony, Grad~
+|original = [[Dion]]
+|desc = 地の国・イヴィアの第六王子様。王位継承や政務に興味を示さず、街にふらふら遊びに出たりといい加減に振る舞っていたが、それには理由があった。地の国は罪過の国で刑期を終えた者を受け入れているため、二国は親交がある。今回、彼はある一通の手紙を持って罪過の国・ヴォタリアを訪れた。
+|bg = ヴォタリアでディオンと偶然再会したあなた。ある一通の手紙を持った彼に、用事があるから付き合ってほしいと言われ…―
+}}
+
+== Story ==
+{{Choice
+|title2 = ディオンの憂鬱
+|choice21s = ディオンさんこそ大丈夫？
+|points21s = 8
+|choice21m = 何か気がかりでも？
+|points21m = 8
+|title3 = 一通の手紙
+|choice31s = 戻る方法を探したい
+|points31s = 4
+|choice31m = 仕方のないこと
+|points31m = 4
+|choice32s = いいですよ
+|points32s = 8
+|choice32m = どこへですか？
+|points32m = 8
+|title4 = 罪人と冷たい瞳
+|choice41s = 何か特別な事情が？
+|points41s = 12
+|choice41m = はい
+|points41m = 12
+|title5 = 手紙の真相
+|choice51s = ちゃんと教えてください
+|points51s = 16
+|choice51m = 言えないようなことですか？
+|points51m = 16
+}}
+
+{{Still|text=Sun Still|img=Still_160s.jpg}}
+{{Still|text=Moon Still|img=Still_160m.jpg}}
+
+== Quotes ==
+{{Quotes
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = そうだな…俺だけが知っているお前をもっと味わいたい。いいだろう？
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = 少しは働きますか
+|BATTLE_START_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = 素直さも武器になるか…いいじゃないか
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = その可愛さは、罪だな…
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 働きに見合っているかな？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = ほら…もっと、可愛らしく誘ってみろ
+|CHAIN_NICE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = 流石にこの外套は汚したくないんだ
+|BATTLE_RECOVER_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = 怖がらなくていい、俺の傍においで
+|SKILL_INVOKE_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = 容易い
+|BATTLE_ATTACK_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = 厄介だな
+|BATTLE_DAMAGE_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = ふう…朝から気が進まないな。もうちょっと寝ててもいいだろ？お前もどうだ？
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そうだな、気分転換に出歩いてみるか…陰鬱な街ではあるが…
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = さあ…もっと、存分に俺を求めてくれないか？　甘えさせてやる
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = お前がいれば…この重苦しい用事も少しは軽くなるかと思ったんだが……
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = そうやって誰に対しても、無防備な姿を晒すのか？…閉じ込めておきたくなる
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 日が落ちると冷える…こっちへ来い。温めてやるぞ？
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = こんなところで再会するとはな。相変わらず、真っ直ぐな眼差しだ
+|MAIN_TOP_TOUCH_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = その無垢さに救われる気がするが、時折、いじめたくもなる。ふっ…冗談だよ
+|CARD_DETAIL_s_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = お前のおかげか、万事上手くいくような気がする…俺らしくないな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = たまには真面目にやることだってあるんだよ。お前のためだったらな
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 挫けそうになる俺の…脆い心に寄り添ってくれるか？
+|MAIN_TOP_TOUCH_s_2_clip = 
+|GUILD_en = 
+|GUILD_jp = お前と一緒にここでゆっくりと過ごしたいな。居心地がいい……
+|GUILD_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = よく来てくれたな……今、ちょっとな……伝言なら伝えておくよ
+|FRIEND_DETAIL_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = この再会は偶然……いや、運命的だって言ってほしいな
+|WELCOME_PARTY_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = 身を焦がしても、成就したい恋か…わかるよ。なあ、そうだろ？
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = やれやれ…お前が来てくれるなら、行こうか
+|DECK_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = 今日という日は身も心も存分に甘やかしてやる…お前も期待しているんだろう？
+|BIRTHDAY_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = では、そろそろ本気でいこうか
+|BATTLE_FEVER_TIME_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = やれやれ…疲れたな
+|BATTLE_TURN_END_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = この手で救えるものは救ってみせよう
+|SKILL_INVOKE_s_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = 俺の腕の中でないてくれないか？
+|SKILL_INVOKE_m_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 結構、単純な自分に驚いているよ…お前にいいところを見せたいからね
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = そんな表情を見せられると辛いな……俺にこれ以上、何かできるのか？
+|CARD_EVOLUTION_s_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = ま、こんなものだろう…
+|BATTLE_CLEAR_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = こんなところで何をしている？…女一人じゃ危ない場所だってあるんだぞ
+|CARD_TOP_clip = 
+}}

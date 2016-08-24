@@ -1,0 +1,217 @@
+== Status ==
+{{Infobox
+|no = 163
+|name = Grad
+|name_jp = グラッド
+|attribute = Cute
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 414
+|hp_max = 883
+|hp_break = 1173
+|atk_base = 236
+|atk_max = 419
+|atk_break = 557
+|rp_base = 214
+|rp_max = 311
+|rp_break = 413
+|lskill_name = 無心の暴食
+|lskill_desc = Increase Gold by 20%
+|skill_name = グラットン
+|skill_desc = Erase middle column beads (S)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 13
+|lvmax_s = 60
+|hp_base_s = 795
+|hp_max_s = 1086
+|hp_break_s = 1418
+|atk_base_s = 398
+|atk_max_s = 515
+|atk_break_s = 673
+|rp_base_s = 296
+|rp_max_s = 383
+|rp_break_s = 499
+|lskill_name_s = 幸せの暴食
+|lskill_desc_s = Increase Gold by 25%
+|skill_name_s = グルートン
+|skill_desc_s = Erase middle column beads (SS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 13
+|lvmax_m = 60
+|hp_base_m = 795
+|hp_max_m = 1131
+|hp_break_m = 1475
+|atk_base_m = 398
+|atk_max_m = 536
+|atk_break_m = 700
+|rp_base_m = 296
+|rp_max_m = 352
+|rp_break_m = 459
+|lskill_name_m = 恋の暴食
+|lskill_desc_m = Increase Gold by 25%
+|skill_name_m = フレッサー
+|skill_desc_m = Erase middle column beads (SS)
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|va = Fukamachi Toshinari
+|origin = Country of Sinner - Votalia
+|age = 23
+|birth = February 15
+|likes = Food
+|dislikes = Spacing out
+|policy = Do not leave a single grain of rice
+|desc = 罪過の国・ヴォタリアの王子。「暴食」の為に罪を犯した人を収容する監獄の官吏を務めている。食べ物以外には興味がないため、もちろん恋にも興味がない。無口な性格で気だるげな雰囲気を持つが、自分の思うままに動くため強引な面も持ち合わせている。
+|bg = グラッドの両親に招待されて、ヴォタリアへ訪れたあなた。彼の両親から、恋に興味がない彼と仲良くしてほしいとお願いされるけれど…―
+}}
+
+== Story ==
+{{Choice
+|title2 = 二人きりの晩餐会
+|choice21s = たくさん食べられるんですね
+|points21s = 6
+|choice21m = 食べるのが好きなんですね
+|points21m = 6
+|title3 = 近づいた距離
+|choice31m = 自分で考える
+|points31m = 3
+|choice31s = グラッド王子に聞いてみよう
+|points31s = 3
+|choice32m = 目隠しをする
+|points32m = 6
+|choice32s = 料理を隠す
+|points32s = 6
+|title4 = 初めての……
+|choice41s = 呼び止める
+|points41s = 12
+|choice41m = 腕を掴む
+|points41m = 12
+}}
+
+{{Still|text=Sun Still|img=Still_163s.jpg}}
+{{Still|text=Moon Still|img=Still_163m.jpg}}
+
+== Quotes ==
+{{Quotes
+|MAIN_TOP_TOUCH_1_en = 
+|MAIN_TOP_TOUCH_1_jp = 友達って何してくれんの？いや、別に興味ないから答えなくていいや
+|MAIN_TOP_TOUCH_1_clip = 
+|CARD_DETAIL_en = 
+|CARD_DETAIL_jp = あ、いいところにいた。お菓子なくなっちゃったからさ、厨房からもらってきてよ
+|CARD_DETAIL_clip = 
+|MAIN_TOP_EVENING_GREET_en = 
+|MAIN_TOP_EVENING_GREET_jp = 寝る時間…けど、腹が減った…チョコバー食べるか…
+|MAIN_TOP_EVENING_GREET_clip = 
+|MAIN_TOP_TOUCH_2_en = 
+|MAIN_TOP_TOUCH_2_jp = なんだよ、じろじろこっち見て…これ、食べたいのか？やんねーぞ
+|MAIN_TOP_TOUCH_2_clip = 
+|MAIN_TOP_TOUCH_s_1_en = 
+|MAIN_TOP_TOUCH_s_1_jp = 今まで美味しいとか不味いとかって興味ないっていうか、どうでも良かった
+|MAIN_TOP_TOUCH_s_1_clip = 
+|MAIN_TOP_MORNING_GREET_en = 
+|MAIN_TOP_MORNING_GREET_jp = なんか食うもんねえの？…じゃあ、朝飯できるまでは寝る
+|MAIN_TOP_MORNING_GREET_clip = 
+|MAIN_TOP_AFTERNOON_GREET_en = 
+|MAIN_TOP_AFTERNOON_GREET_jp = そろそろ昼か…今食べてるこれがなくなったら、昼飯食べるか…
+|MAIN_TOP_AFTERNOON_GREET_clip = 
+|CHAIN_GREAT_en = 
+|CHAIN_GREAT_jp = お、なんかいいもん食べたのか！？
+|CHAIN_GREAT_clip = 
+|CHAIN_EXCELLENT_en = 
+|CHAIN_EXCELLENT_jp = 頑張ったから腹減っただろ。キャンディやる
+|CHAIN_EXCELLENT_clip = 
+|BATTLE_RESULT_en = 
+|BATTLE_RESULT_jp = 箱の中身、食べもん入ってる？
+|BATTLE_RESULT_clip = 
+|CHAIN_NICE_en = 
+|CHAIN_NICE_jp = 腹減って力出ないのか？
+|CHAIN_NICE_clip = 
+|MAIN_TOP_TOUCH_s_2_en = 
+|MAIN_TOP_TOUCH_s_2_jp = 腹が膨れること、それが一番大事だったんだ…いまは、違う。あんたのせい
+|MAIN_TOP_TOUCH_s_2_clip = 
+|CARD_DETAIL_s_en = 
+|CARD_DETAIL_s_jp = 今度は何食べさせてくれるんだよ？　もう待ちきれないぞ
+|CARD_DETAIL_s_clip = 
+|CARD_DETAIL_m_en = 
+|CARD_DETAIL_m_jp = なんだ？唇尖らせて…我慢できない。食べよっかな…その唇、ぷるぷるしてる
+|CARD_DETAIL_m_clip = 
+|BATTLE_START_en = 
+|BATTLE_START_jp = なにあれ、食えんの？
+|BATTLE_START_clip = 
+|MAIN_TOP_TOUCH_m_1_en = 
+|MAIN_TOP_TOUCH_m_1_jp = あんたのこと食べたくなった…こういうことか
+|MAIN_TOP_TOUCH_m_1_clip = 
+|MAIN_TOP_TOUCH_m_2_en = 
+|MAIN_TOP_TOUCH_m_2_jp = 大人しくしろよ、本当に食べられたくなかったらな
+|MAIN_TOP_TOUCH_m_2_clip = 
+|CARD_TOP_en = 
+|CARD_TOP_jp = なんか食えるもんでも持ってきてくれたの？
+|CARD_TOP_clip = 
+|BATTLE_TURN_END_en = 
+|BATTLE_TURN_END_jp = あんた食べてもいい？
+|BATTLE_TURN_END_clip = 
+|BATTLE_CLEAR_en = 
+|BATTLE_CLEAR_jp = 余計に腹減っただけか
+|BATTLE_CLEAR_clip = 
+|BATTLE_DAMAGE_en = 
+|BATTLE_DAMAGE_jp = うえっ！にがいー
+|BATTLE_DAMAGE_clip = 
+|BATTLE_RECOVER_en = 
+|BATTLE_RECOVER_jp = なんでも食うから、早くよこせ
+|BATTLE_RECOVER_clip = 
+|BATTLE_ATTACK_en = 
+|BATTLE_ATTACK_jp = けっこう旨いな
+|BATTLE_ATTACK_clip = 
+|SKILL_INVOKE_m_en = 
+|SKILL_INVOKE_m_jp = どうだ！ボク、かっこいいでしょ！
+|SKILL_INVOKE_m_clip = 
+|BATTLE_FEVER_TIME_en = 
+|BATTLE_FEVER_TIME_jp = おばけいっぱい！？
+|BATTLE_FEVER_TIME_clip = 
+|SKILL_INVOKE_en = 
+|SKILL_INVOKE_jp = ボクは怖いおばけだぞー！
+|SKILL_INVOKE_clip = 
+|SKILL_INVOKE_s_en = 
+|SKILL_INVOKE_s_jp = 味わって食べてやるよ
+|SKILL_INVOKE_s_clip = 
+|CARD_EVOLUTION_m_en = 
+|CARD_EVOLUTION_m_jp = なんだこれ…食べられるもんならどれだって同じだって思ってたのに
+|CARD_EVOLUTION_m_clip = 
+|DECK_en = 
+|DECK_jp = 腹減った…なんか持ってない？
+|DECK_clip = 
+|CARD_ENHANCE_en = 
+|CARD_ENHANCE_jp = 強くなったらその分だけ腹が減りそう
+|CARD_ENHANCE_clip = 
+|CARD_EVOLUTION_s_en = 
+|CARD_EVOLUTION_s_jp = 腹がいっぱいになればいいんだよ…いっぱいになることなんてないけど
+|CARD_EVOLUTION_s_clip = 
+|BIRTHDAY_en = 
+|BIRTHDAY_jp = ケーキ食べたい…あんた誕生日なんだろ？だからケーキ食べんだろ？食べようぜ
+|BIRTHDAY_clip = 
+|AWARD_EVENT_NOMINATED_en = 
+|AWARD_EVENT_NOMINATED_jp = 腹減った…飯、まだか…？
+|AWARD_EVENT_NOMINATED_clip = 
+|AWARD_EVENT_FAVORITES_en = 
+|AWARD_EVENT_FAVORITES_jp = え、パンくれるって？ありがとう。は？パンだけじゃないって…え？
+|AWARD_EVENT_FAVORITES_clip = 
+|GUILD_en = 
+|GUILD_jp = なんか、食べるもんあるの？ここ？　なんも無さそうだな……
+|GUILD_clip = 
+|WELCOME_PARTY_en = 
+|WELCOME_PARTY_jp = パーティーか……とりあえず、なんか食えるんだな。腹が減ったから早く……
+|WELCOME_PARTY_clip = 
+|FRIEND_DETAIL_en = 
+|FRIEND_DETAIL_jp = 腹減ったんだ……あんた、なんか持ってる？
+|FRIEND_DETAIL_clip = 
+}}

@@ -1,0 +1,117 @@
+Increase Color Beads Rate
+{|class="wikitable sortable"
+!Color
+!Prince
+|-
+|Red
+|[[Eins]] [[Leeya]] [[Vedy]] [[Apollo (Water Mirror)]] [[Hearts (Starlit)]] [[Sky (Water Mirror)]]
+|-
+|Blue
+|[[Capita]] [[Deneb]] [[Leeya]] [[Spica]] [[Thinpla]]
+|-
+|Green
+|[[Koga]] [[Lateria]] [[Leeya]] [[Rege]] [[Sakuma Rei]] [[Hinoto (Mononoke)]] [[Luke (Desert)]] [[Sieg (Award)]]
+|-
+|Yellow
+|[[Leeya]] [[Nero]] [[Ritz]] [[Sakia]] [[Vega]] [[Banri (Park)]] [[Cheshire Cat (Xmas)]] [[Makoto (Your Chocolate)]] [[Sakia (Rainy Day)]] 
+|-
+|Purple
+|[[Byakuyo]] [[Frites]] [[Leeya]] [[Lullus]] [[Orion]] [[Will]] [[Dion (Briar)]] [[Douglas (Hospitality)]] [[Hearts (Starlit)]] [[Will (Park)]]
+|}
+
+Recover Time
+{|class="wikitable sortable"
+!Color
+!Prince
+|-
+|Red
+|1s: [[Stimma]] 2s: [[Azalee]] [[Rosso]] 3s: [[Rosso]]
+|-
+|Blue
+|1s: [[Thor]] 2s: [[Forma]] [[Zero]] ?: [[Sai (School)]]
+|-
+|Green
+|1s: [[Chrono (Xmas)]] 2s: [[Totori]] ?: [[Chrono]]  [[Martin (Marine)]]
+|-
+|Yellow
+|1s: [[Toni]] 2s: [[Miya]] [[Procyon]] 3s: [[Miya]]
+|-
+|Purple
+|1s: [[Lied (Event)]] 2s: [[Sorbge]]  ?: [[Dion]] 
+|}
+
+Color Swap
+<div style="display: flex;">
+{{#tag:tabber|
+{{!}}-{{!}} Red =
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#0088FF;">Blue > Red
+<div class="mw-collapsible-content">[[Creto (Your Chocolate)]]<br>[[Graysia (Enstars)]]<br>[[Haldine (Resort)]]<br>[[Sky]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#009E2F;">Green > Red
+<div class="mw-collapsible-content">[[Edmond]]<br>[[Fruys]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FFD000;">Yellow > Red
+<div class="mw-collapsible-content">[[Akito]]<br>[[Graysia (Enstars)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#9823DB;">Purple > Red
+<div class="mw-collapsible-content">[[Akito]]<br>[[Edmond]]<br>[[Haldine (Resort)]]<br>[[Saiga (Outings)]]
+</div></div>
+{{!}}-{{!}} Blue =
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FF2929;">Red > Blue
+<div class="mw-collapsible-content">[[Kanoe]]<br>[[Perla]]<br>[[Sai (Award)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#009E2F;">Green > Blue
+<div class="mw-collapsible-content">[[Almari]]<br>[[Frost (Enstars)]]<br>[[Rica (Chocolate Date)]]<br>[[Vim]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FFD000;">Yellow > Blue
+<div class="mw-collapsible-content">[[Deneb (Starlit)]]<br>[[Graham]]<br>[[Theodor]]<br>[[Frost (Enstars)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#9823DB;">Purple > Blue
+<div class="mw-collapsible-content">[[Graham]]<br>[[Kanoe]]<br>[[Perla]]<br>[[Rica (Chocolate Date)]]<br>[[Sai (Award)]]
+</div></div>
+{{!}}-{{!}} Green =
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FF2929;">Red > Green
+<div class="mw-collapsible-content">[[Altair (Starlit)]]<br>[[Chrono (Xmas)]]<br>[[Iria]]<br>[[Oswald]]<br>[[Zwei]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#0088FF;">Blue > Green
+<div class="mw-collapsible-content">[[Oka (Seasons)]]<br>[[Saiga (Outings)]]<br>[[Tell]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FFD000;">Yellow > Green
+<div class="mw-collapsible-content">[[Gerald]]<br>[[Jay (Hospitality)]]<br>[[Oswald]]<br>[[Saiga (Outings)]]<br>[[Sieg (Weapon)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#9823DB;">Purple > Green
+<div class="mw-collapsible-content">[[Altair (Starlit)]]<br>[[Chrono (Xmas)]]<br>[[Gerald]]<br>[[Martin]]<br>[[Oka (Seasons)]]<br>[[Sai (Award)]]
+</div></div>
+{{!}}-{{!}} Yellow =
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FF2929;">Red > Yellow
+<div class="mw-collapsible-content">[[Droite (Easter)]]<br>[[Hercules (Rain)]]<br>[[Sai (Award)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#0088FF;">Blue > Yellow
+<div class="mw-collapsible-content">[[Micaela]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#009E2F;">Green > Yellow
+<div class="mw-collapsible-content">[[Hercules (Rain)]]<br>[[Micaela]]<br>[[Nero]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#9823DB;">Purple > Yellow
+<div class="mw-collapsible-content">[[Kanoto]]<br>[[Nero]]<br>[[Rolf]]
+</div></div>
+{{!}}-{{!}} Purple =
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FF2929;">Red > Purple
+<div class="mw-collapsible-content">[[Byakuyo (Sweets Panic)]]<br>[[Kaede (Seasons)]]<br>[[Saiga (Outings)]]<br>[[Will (Park)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#0088FF;">Blue > Purple
+<div class="mw-collapsible-content">[[Guido (Butterfly)]]<br>[[Will (Park)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#009E2F;">Green > Purple
+<div class="mw-collapsible-content">[[Kaede (Seasons)]]<br>[[Sorbge (Resort)]]
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="+" data-collapsetext="-" style="color:#FFD000;">Yellow > Purple
+<div class="mw-collapsible-content">[[Apis]]<br>[[Colorer]]
+</div></div>
+}}
+</div>

@@ -1,0 +1,75 @@
+== Status ==
+{{Infobox
+|no = 285
+|name = Sorbge
+|name_jp = ソルベージュ
+|attribute = Sexy
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 410
+|hp_max = 740
+|hp_break = 983
+|atk_base = 249
+|atk_max = 441
+|atk_break = 586
+|rp_base = 228
+|rp_max = 404
+|rp_break = 537
+|lskill_name = めくるめく夢の世界へ
+|lskill_desc = Increase Purple ATK & RP by 25%
+|skill_name = ハッピー・バカンス
+|skill_desc = Turn Green beads into Purple
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 666
+|hp_max_s = 866
+|hp_break_s = 1131
+|atk_base_s = 419
+|atk_max_s = 595
+|atk_break_s = 776
+|rp_base_s = 384
+|rp_max_s = 473
+|rp_break_s = 617
+|lskill_name_s = スターリースカイ
+|lskill_desc_s = Increase Purple ATK & RP by 30%
+|skill_name_s = ハッピー・バカンス
+|skill_desc_s = Turn Green beads into Purple
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 666
+|hp_max_m = 836
+|hp_break_m = 1092
+|atk_base_m = 419
+|atk_max_m = 564
+|atk_break_m = 736
+|rp_base_m = 384
+|rp_max_m = 517
+|rp_break_m = 675
+|lskill_name_m = 雨粒も滴るいい男
+|lskill_desc_m = Increase Purple ATK & RP by 30%
+|skill_name_m = ハッピー・バカンス
+|skill_desc_m = Turn Green beads into Purple
+|gold_m = 5000
+|ring_m = 10
+}}
+
+== Profile ==
+{{Profile
+|original = [[Sorbge]]
+|event = Summer-Coloured Resort
+|desc = 氷菓の国・ソリテュードの王子。ナルシシズムな面を持つ。しかしその言動から は想像が出来ない程、意外と繊細な心の持ち主。よくお酒を嗜む。二人で素敵なバカンス を過ごそうと、豪華客船のクルーズ旅行にあなたを招待した。
+|bg = ソルベージュに誘われ、アンキュラで豪華客船に乗るあなた。紳士的なソルベージ ュの心遣いに胸を高鳴らせていたものの、突然、彼の様子がおかしくなって…
+}}
+== Story ==
+{{Choice|title2 = 嫉妬された男|choice21s = 我慢しないでください|points21s = 6|choice21m = 大丈夫ですか？|points21m = 6|title3 = めくるめく夢の世界|choice31s = やめておきます|points31s = 3|choice31m = 他のコースにしませんか？|points31m = 3|choice32s = 気持ちよさそうだと思って|points32s = 6|choice32m = なんでもないです！|points32m = 6|title4 = 与えられた試練|choice41s = 神の与えた試練ですね|points41s = 12|choice41m = でも楽しかったです|points41m = 12}}{{Still|text=Sun Still|img=Still_285s.jpg}}
+{{Still|text=Moon Still|img=Still_285m.jpg}}
+== Quotes ==

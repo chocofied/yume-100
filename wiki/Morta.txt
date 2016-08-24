@@ -1,0 +1,78 @@
+== Status ==
+{{Infobox
+|no = 275
+|name = Morta
+|name_jp = モルタ
+|attribute = Gentle
+|rarity = 4
+|cost = 9
+|lvmax = 50
+|hp_base = 322
+|hp_max = 641
+|hp_break = 851
+|atk_base = 275
+|atk_max = 430
+|atk_break = 572
+|rp_base = 255
+|rp_max = 480
+|rp_break = 637
+|lskill_name = デマイズジャグル
+|lskill_desc = Recover HP every turn (S)
+|skill_name = 夢の紡ぎ手
+|skill_desc = Expend own HP and erase upper beads (SS)
+|gold = 2500
+|ring = 10
+<!-- Sun -->
+|rarity_s = 5
+|cost_s = 14
+|lvmax_s = 60
+|hp_base_s = 577
+|hp_max_s = 724
+|hp_break_s = 945
+|atk_base_s = 409
+|atk_max_s = 551
+|atk_break_s = 719
+|rp_base_s = 456
+|rp_max_s = 614
+|rp_break_s = 801
+|lskill_name_s = リアライズジャグル
+|lskill_desc_s = Recover HP every turn (SS)
+|skill_name_s = 命の輝き
+|skill_desc_s = Expend own HP and erase upper beads (SSS)
+|gold_s = 5000
+|ring_s = 10
+<!-- Moon -->
+|rarity_m = 5
+|cost_m = 14
+|lvmax_m = 60
+|hp_base_m = 577
+|hp_max_m = 750
+|hp_break_m = 978
+|atk_base_m = 409
+|atk_max_m = 504
+|atk_break_m = 658
+|rp_base_m = 456
+|rp_max_m = 647
+|rp_break_m = 845
+|lskill_name_m = デッドリージャグル
+|lskill_desc_m = Recover HP every turn (SS)
+|skill_name_m = 真理の訪れ
+|skill_desc_m = Expend own HP and erase upper beads (SSS)
+|gold_m = 5000
+|ring_m = 10
+}}
+== Profile ==
+{{Profile
+|va = Takeuchi Shunsuke
+|origin =Country of Aspiration - Circo 
+|age = 25
+|birth = 
+|policy =Death will visit gently to everyone 
+|likes =Peaceful sleep 
+|dislikes =Sweet things 
+|desc = 憧憬の国・チルコの第一王子。弟であるネロが率いるサーカス団に所属しており、空中ブランコと曲芸を担当するショーの花形。『死』は人がこれまで頑張って来たことに対するご褒美だという独特の死生観を持つ。器用で人当りのいい顔と、残酷で無慈悲な顔を併せ持っている。
+|bg = 目覚めさせたモルタと共に、チルコを訪れたあなた。優しく街を案内してくれる彼だったものの、その表情はなぜだか氷のように冷たく感じられて……
+}}
+== Story ==
+{{Choice|title2 = 名誉子どものバッジ|choice21s = 話しかける|points21s = 6|choice21m = 見守る|points21m = 6|title3 = 隠された真意|choice31s = 男の子が気になる|points31s = 3|choice31m = どうして商売が駄目なのか|points31m = 3|choice32s = 大人が絶望？|points32s = 6|choice32m = モルタさんは子どもじゃない|points32m = 6|title4 = 子どものままで|choice41s = 話しかける|points41s = 12|choice41m = 怖がる|points41m = 12}}{{Still|text=Sun Still|img=Still_275s.jpg}}
+{{Still|text=Moon Still|img=Still_275m.jpg}}
