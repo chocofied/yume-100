@@ -105,10 +105,10 @@
 
 == Quotes ==
 {{Quotes
-|AWARD_EVENT_NOMINATED_en =A beauty contest? Then I definitely won't lose! Oh, I'm wrong? 
+|AWARD_EVENT_NOMINATED_en =A beauty contest? Then I definitely won't lose! Oh, it’s not? 
 |AWARD_EVENT_NOMINATED_jp = 美を競う催し？なら、負けるわけにいかないわ！！あら、違うの？
 |AWARD_EVENT_NOMINATED_clip = 
-|MAIN_TOP_MORNING_GREET_en =Good morning... Don't make such a tired face so early in the morning! Keep your back straight! 
+|MAIN_TOP_MORNING_GREET_en =Good morning... Hey, don't make such a tired face so early in the morning! Straighten up your back! 
 |MAIN_TOP_MORNING_GREET_jp = おはよう…って、朝から疲れた顔してんじゃないわよ！しゃきっとおし！
 |MAIN_TOP_MORNING_GREET_clip = 
 |MAIN_TOP_AFTERNOON_GREET_en =Keep your back straight! That's right. If you change your posture, you'll be more calm. 
@@ -123,7 +123,7 @@
 |MAIN_TOP_TOUCH_2_en =You do strange things at times... 
 |MAIN_TOP_TOUCH_2_jp = あんたって時々おかしなことするわね
 |MAIN_TOP_TOUCH_2_clip = 
-|CARD_DETAIL_en =Wh-what is it?! Even I can get surprised! 
+|CARD_DETAIL_en =Wh-what is it?! Even I can get surprised!
 |CARD_DETAIL_jp = な、何よ！あたしだってびっくりすることあるわよ！？
 |CARD_DETAIL_clip = 
 |MAIN_TOP_TOUCH_s_1_en =You really...have far too many openings! 
@@ -132,7 +132,7 @@
 |MAIN_TOP_TOUCH_s_2_en =O-oh? What's the matter? 
 |MAIN_TOP_TOUCH_s_2_jp = あ、あら？どうしたの？
 |MAIN_TOP_TOUCH_s_2_clip = 
-|CARD_DETAIL_s_en =Hey now, did you forget that I'm a guy? 
+|CARD_DETAIL_s_en =Hey now, aren’t you forgetting that I'm a guy? 
 |CARD_DETAIL_s_jp = あのね、あたしが男ってこと忘れてない？
 |CARD_DETAIL_s_clip = 
 |MAIN_TOP_TOUCH_m_1_en =You shouldn't do such things with other guys. It'll cause a misunderstanding, after all! 
@@ -183,10 +183,10 @@
 |CHAIN_GREAT_en =Somehow, the mood has gone up! 
 |CHAIN_GREAT_jp = 何やら気分が高まってきたわ！
 |CHAIN_GREAT_clip = 
-|BATTLE_TURN_END_en =They're still there? It can't be helped. 
+|BATTLE_TURN_END_en =There are still more? It can't be helped. 
 |BATTLE_TURN_END_jp = まだいるの？しょうがないわねぇ
 |BATTLE_TURN_END_clip = 
-|BATTLE_CLEAR_en =As expected of myself! You did quite well yourself! 
+|BATTLE_CLEAR_en =As expected of me! And you did quite well yourself! 
 |BATTLE_CLEAR_jp = さすがあたし！あんたもよくがんばったわねー！
 |BATTLE_CLEAR_clip = 
 |CARD_TOP_en =Dear me, don't make such a gloomy face. No matter female or male, the most important thing is; a smile! 

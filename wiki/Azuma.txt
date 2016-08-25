@@ -108,28 +108,28 @@
 
 == Quotes ==
 {{Quotes
-|AWARD_EVENT_NOMINATED_en = What? This place is...I don't feel at ease. A place where they decide the strongest man!? Then, I will go.
+|AWARD_EVENT_NOMINATED_en = What is this place...I cannot calm down. A place where they decide the strongest man!? Then, I will go.
 |AWARD_EVENT_NOMINATED_jp = なんだここは…落ち着かん。強者を決める場だと？ならば、参る
 |AWARD_EVENT_NOMINATED_clip = 
-|AWARD_EVENT_FAVORITES_en = I will answer your feelings. From hereon as well, I will definitely protect you till the end.
+|AWARD_EVENT_FAVORITES_en = I will answer your feelings. From here on out as well, I will definitely be the one to protect you.
 |AWARD_EVENT_FAVORITES_jp = お前の気持ちに、応えよう。これからもお前は必ず俺が守り抜く
 |AWARD_EVENT_FAVORITES_clip = 
-|MAIN_TOP_TOUCH_1_en = What is it? If it's training, should I be your companion as always?
+|MAIN_TOP_TOUCH_1_en = What is it? If it's training, I’ll spar with you anytime?
 |MAIN_TOP_TOUCH_1_jp = 何だ？　鍛錬なら、いつでも相手をしてやるぞ？
 |MAIN_TOP_TOUCH_1_clip = 
-|MAIN_TOP_EVENING_GREET_en = Don't go out at night alone!...I'm not mad. I’m saying you should rely on me. 
+|MAIN_TOP_EVENING_GREET_en = Don't go out at night alone……I’m not angry or anything. I’m saying you should rely on me. 
 |MAIN_TOP_EVENING_GREET_jp = 夜に一人で出歩くな……怒ってなどいない。頼れと言ってるんだ。
 |MAIN_TOP_EVENING_GREET_clip = 
-|MAIN_TOP_AFTERNOON_GREET_en = Even though it's daytime, be careful. You don't know where the enemy could be lurking.
+|MAIN_TOP_AFTERNOON_GREET_en = Even though it's broad daylight, be careful. You don't know where the enemy could be lurking.
 |MAIN_TOP_AFTERNOON_GREET_jp = 昼間とはいえ、注意しろ。どこに敵が潜んでいるか、わからないからな
 |MAIN_TOP_AFTERNOON_GREET_clip = 
 |MAIN_TOP_MORNING_GREET_en = Stand straight. I do not like slouchers.
 |MAIN_TOP_MORNING_GREET_jp = 背筋を伸ばせ。　だらしがないのは、好かん。
 |MAIN_TOP_MORNING_GREET_clip = 
-|CHAIN_NICE_en = Are you satisfied with this? There's still more, you know?
+|CHAIN_NICE_en = Are you satisfied with this? Not yet, right?
 |CHAIN_NICE_jp = これでお前は満足か？…まだだろう？
 |CHAIN_NICE_clip = 
-|BATTLE_RESULT_en = All right, I will promote you.
+|BATTLE_RESULT_en = All right, let’s go back.
 |BATTLE_RESULT_jp = さあ、引き上げるぞ
 |BATTLE_RESULT_clip = 
 |BATTLE_START_en = Don't stand in front of me.
@@ -159,19 +159,19 @@
 |MAIN_TOP_TOUCH_2_en = Don't touch me so carelessly...Hey, do you understand?
 |MAIN_TOP_TOUCH_2_jp = みだりに触れるんじゃない……おい、わかっているのか？
 |MAIN_TOP_TOUCH_2_clip = 
-|BATTLE_CLEAR_en = Such dull things.
+|BATTLE_CLEAR_en = They didn’t even put up a fight.
 |BATTLE_CLEAR_jp = 手ごたえのない奴らだ
 |BATTLE_CLEAR_clip = 
-|BATTLE_TURN_END_en = Bring it on wherever!
+|BATTLE_TURN_END_en = Come at me from wherever!
 |BATTLE_TURN_END_jp = どこからでもかかってこい
 |BATTLE_TURN_END_clip = 
-|BATTLE_FEVER_TIME_en = I will make you fall on my sword.
+|BATTLE_FEVER_TIME_en = I will make you fall by my sword.
 |BATTLE_FEVER_TIME_jp = 刀の錆にしてやろう
 |BATTLE_FEVER_TIME_clip = 
 |SKILL_INVOKE_m_en = It would be best not to anger me too much.
 |SKILL_INVOKE_m_jp = 俺をあまり怒らせない方がいいぞ
 |SKILL_INVOKE_m_clip = 
-|SKILL_INVOKE_s_en = I will cut down...those who will hurt you.
+|SKILL_INVOKE_s_en = Those who hurt you…I will cut them down... 
 |SKILL_INVOKE_s_jp = お前を傷つける奴は…斬り捨てる
 |SKILL_INVOKE_s_clip = 
 |SKILL_INVOKE_en = It would be best to kindly step aside, for your own sake.
@@ -186,7 +186,7 @@
 |BATTLE_ATTACK_en = Haa!
 |BATTLE_ATTACK_jp = はあっ！
 |BATTLE_ATTACK_clip = 
-|CHAIN_EXCELLENT_en = I didn't think you could do something like this...
+|CHAIN_EXCELLENT_en = I didn't think you could go this far…
 |CHAIN_EXCELLENT_jp = まさかこれ程やれるとは思っていなかった…
 |CHAIN_EXCELLENT_clip = 
 |CHAIN_GREAT_en = Hmm...not bad. It looks like you've improved.
@@ -201,7 +201,7 @@
 |DECK_en = Don't be slow. Place them there.
 |DECK_jp = もたもたするな。置いていくぞ。
 |DECK_clip = 
-|CARD_EVOLUTION_m_en = Whenever I think of you...my heart stirs up.
+|CARD_EVOLUTION_m_en = Whenever I think of you...my heart is stirred up.
 |CARD_EVOLUTION_m_jp = お前のことを考えると……心が掻き乱される
 |CARD_EVOLUTION_m_clip = 
 |CARD_ENHANCE_en = This is still not enough, right?
@@ -216,7 +216,7 @@
 |WELCOME_PARTY_en = You're celebrating for me? What should I say?...I'm a bit embarrassed.
 |WELCOME_PARTY_jp = 祝ってくれるのか。何と言っていいか……気恥ずかしいものだな。
 |WELCOME_PARTY_clip = 
-|FRIEND_DETAIL_en = Thank you for coming. I can't quite entertain you, but come again.
+|FRIEND_DETAIL_en = Thank you for coming. I don’t have much to entertain you with, but come again.
 |FRIEND_DETAIL_jp = よく来てくれた。大したもてなしもできないが、また来てくれ。
 |FRIEND_DETAIL_clip = 
 }}

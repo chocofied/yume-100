@@ -108,10 +108,10 @@
 
 == Quotes ==
 {{Quotes
-|RANKING_EVENT_POINT_REWARD_1_en =It seems like you're doing something interesting. Let me in too. It's fine, right? 
+|RANKING_EVENT_POINT_REWARD_1_en = This looks kind of interesting. Let me in too. It's fine, right? 
 |RANKING_EVENT_POINT_REWARD_1_jp = なんか面白そうなことやってるね。僕も混ぜてよ　いいでしょ？
 |RANKING_EVENT_POINT_REWARD_1_clip = 
-|RANKING_EVENT_POINT_REWARD_2_en =Hmm...so-so, I guess? Well, I'll at least reward you. 
+|RANKING_EVENT_POINT_REWARD_2_en =Hmm... You did alright, I guess? Well, I guess I can reward you or something
 |RANKING_EVENT_POINT_REWARD_2_jp = ふ～ん、まあまあかな？ま、ご褒美くらいあげてもいいよ
 |RANKING_EVENT_POINT_REWARD_2_clip = 
 |RANKING_EVENT_POINT_REWARD_3_en =It ended, huh. Well, it was fun, right? 
@@ -120,7 +120,7 @@
 |RANKING_EVENT_POINT_REWARD_4_en =Because you're my servant, you'll surely be fine. If you keep working hard I'll praise you. 
 |RANKING_EVENT_POINT_REWARD_4_jp = 僕の下僕なんだから、もちろん大丈夫だよね？頑張り次第では褒めてあげるよ
 |RANKING_EVENT_POINT_REWARD_4_clip = 
-|AWARD_EVENT_NOMINATED_en =Of course, you're choosing me, right? You're my servant after all! 
+|AWARD_EVENT_NOMINATED_en =Obviously, you're voting for me, right? You're my servant after all! 
 |AWARD_EVENT_NOMINATED_jp = 当然、僕に入れるよね？だってお前は、僕の下僕なんだから！
 |AWARD_EVENT_NOMINATED_clip = 
 |AWARD_EVENT_FAVORITES_en =Alright, you did well. As expected of my servant! I'll praise you. 
@@ -147,7 +147,7 @@
 |CARD_DETAIL_s_en =If you remain a good girl, I'll reward you. 
 |CARD_DETAIL_s_jp = ちゃんと、いい子にしてたらご褒美をあげるよ？
 |CARD_DETAIL_s_clip = 
-|MAIN_TOP_TOUCH_s_2_en =Are you even aware that you're my servant? Don't forget that. 
+|MAIN_TOP_TOUCH_s_2_en =Are you aware that you're my servant? Don't forget that. 
 |MAIN_TOP_TOUCH_s_2_jp = お前、僕の下僕だって自覚あるの？よそ見するなよ
 |MAIN_TOP_TOUCH_s_2_clip = 
 |MAIN_TOP_MORNING_GREET_en =Hey, sleepyhead. You sure took your time coming to me. 
@@ -180,7 +180,7 @@
 |CARD_DETAIL_m_en =I don't especially mind if you want to be friends. 
 |CARD_DETAIL_m_jp = 特別に、友達になってやってもいいよ
 |CARD_DETAIL_m_clip = 
-|MAIN_TOP_TOUCH_m_1_en =I forbid you from calling me cute. I'm cool, right? 
+|MAIN_TOP_TOUCH_m_1_en =I forbid you from calling me cute. I'm cool, ok? 
 |MAIN_TOP_TOUCH_m_1_jp = 可愛いって言うの、禁止。かっこいい、だろ？
 |MAIN_TOP_TOUCH_m_1_clip = 
 |MAIN_TOP_TOUCH_m_2_en =You're annoying. Didn't I sat that I'll be protecting you? 
@@ -219,10 +219,10 @@
 |CARD_TOP_en =Don't follow other people. 
 |CARD_TOP_jp = 他のやつについていくなよ？
 |CARD_TOP_clip = 
-|BIRTHDAY_en =I would at least celebrate your birthday. Aren't you glad? 
+|BIRTHDAY_en =I can at least celebrate your birthday. Aren't you glad? 
 |BIRTHDAY_jp = 誕生日くらいは祝ってあげてもいいよ。嬉しいでしょ？
 |BIRTHDAY_clip = 
-|GUILD_en =I don't want to do anything troublesome. 
+|GUILD_en =I don't want to do anything troublesome, though. 
 |GUILD_jp = 僕、面倒くさいことはしたくないんだけどなあ。
 |GUILD_clip = 
 |WELCOME_PARTY_en =It's no problem...is what you wanted to say, right? 
